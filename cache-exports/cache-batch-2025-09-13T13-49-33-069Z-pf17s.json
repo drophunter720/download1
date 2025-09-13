@@ -1,0 +1,71 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:movie:10540",
+      "storedAt": 1757771368653,
+      "meta": {
+        "storedAt": 1757771368,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "10540",
+        "imdbId": "tt0082869",
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:711",
+      "storedAt": 1757771370503,
+      "meta": {
+        "storedAt": 1757771370,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "711",
+        "imdbId": "tt0181536",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Finding Forrester 2000 1080p 10bit BluRay HEVC x265 [Hindi YT DDP 5.1 384Kbps + English AAC 5.1] ESub-Tigole-4kHdHub.mkv\n3.06 GB",
+            "url": "https://pixeldrain.dev/api/file/ew5TdeuL?download",
+            "quality": "1080p",
+            "size": "3.06 GB",
+            "fileName": "Finding Forrester 2000 1080p 10bit BluRay HEVC x265 [Hindi YT DDP 5.1 384Kbps + English AAC 5.1] ESub-Tigole-4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Finding Forrester 2000 1080p 10bit BluRay HEVC x265 [Hindi YT DDP 5.1 384Kbps + English AAC 5.1] ESub-Tigole-4kHdHub.mkv\n3.06 GB",
+            "url": "https://pub-41e55cb193e547ec927b60574bdabd18.r2.dev/Finding%20Forrester%202000%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20YT%20DDP%205.1%20384Kbps%20+%20English%20AAC%205.1]%20ESub-Tigole-4kHdHub.mkv",
+            "quality": "1080p",
+            "size": "3.06 GB",
+            "fileName": "Finding Forrester 2000 1080p 10bit BluRay HEVC x265 [Hindi YT DDP 5.1 384Kbps + English AAC 5.1] ESub-Tigole-4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-09-13T13:49:33.069Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
