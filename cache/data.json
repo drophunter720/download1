@@ -19322,11 +19322,496 @@
         "streams": [],
         "count": 0
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:12102",
+      "storedAt": 1757769252366,
+      "meta": {
+        "storedAt": 1757769252,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "12102",
+        "imdbId": "tt0079417",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Alien vs. Predator 2004 UNRATED 2160p 10bit Ai Upscale BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English DTS-HD MA 5.1] ESub-KC-4kHdHub.mkv\n29.25 GB",
+            "url": "https://fsl.fastcloud.casa/Alien%20vs.%20Predator%202004%20UNRATED%202160p%2010bit%20Ai%20Upscale%20BluRay%20HEVC%20x265%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20DTS-HD%20MA%205.1]%20ESub-KC-4kHdHub.mkv?token=1757763698",
+            "quality": "2160p",
+            "size": "29.25 GB",
+            "fileName": "Alien vs. Predator 2004 UNRATED 2160p 10bit Ai Upscale BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English DTS-HD MA 5.1] ESub-KC-4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Alien vs. Predator 2004 UNRATED 1080p BluRay REMUX AVC x264 [Hindi BD DD 5.1 448kbps + English DTS-HD MA 5.1] ESub-FraMeSToR-4kHdHub.mkv\n27.79 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Alien%20vs.%20Predator%202004%20UNRATED%201080p%20BluRay%20REMUX%20AVC%20x264%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20DTS-HD%20MA%205.1]%20ESub-FraMeSToR-4kHdHub.mkv?token=1757763701",
+            "quality": "1080p",
+            "size": "27.79 GB",
+            "fileName": "Alien vs. Predator 2004 UNRATED 1080p BluRay REMUX AVC x264 [Hindi BD DD 5.1 448kbps + English DTS-HD MA 5.1] ESub-FraMeSToR-4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Alien vs. Predator 2004 UNRATED 1080p BluRay x264 [Hindi BD DD 5.1 448kbps + English DTS 5.1] ESub-CtrlHD-4kHdHub.mkv\n13.81 GB",
+            "url": "https://pixeldrain.dev/api/file/CSE2mFnT?download",
+            "quality": "1080p",
+            "size": "13.81 GB",
+            "fileName": "Alien vs. Predator 2004 UNRATED 1080p BluRay x264 [Hindi BD DD 5.1 448kbps + English DTS 5.1] ESub-CtrlHD-4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Alien vs. Predator 2004 UNRATED 1080p BluRay x264 [Hindi BD DD 5.1 448kbps + English DTS 5.1] ESub-CtrlHD-4kHdHub.mkv\n13.81 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Alien%20vs.%20Predator%202004%20UNRATED%201080p%20BluRay%20x264%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20DTS%205.1]%20ESub-CtrlHD-4kHdHub.mkv?token=1757763703",
+            "quality": "1080p",
+            "size": "13.81 GB",
+            "fileName": "Alien vs. Predator 2004 UNRATED 1080p BluRay x264 [Hindi BD DD 5.1 448kbps + English DTS 5.1] ESub-CtrlHD-4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Alien vs. Predator 2004 UNRATED 1080p 10bit BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English DD 5.1] ESub-imSamirOFFICIAL-4kHdHub.mkv\n3.88 GB",
+            "url": "https://pixeldrain.dev/api/file/YGiQLpxr?download",
+            "quality": "1080p",
+            "size": "3.88 GB",
+            "fileName": "Alien vs. Predator 2004 UNRATED 1080p 10bit BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English DD 5.1] ESub-imSamirOFFICIAL-4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Alien vs. Predator 2004 UNRATED 1080p 10bit BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English DD 5.1] ESub-imSamirOFFICIAL-4kHdHub.mkv\n3.88 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Alien%20vs.%20Predator%202004%20UNRATED%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20DD%205.1]%20ESub-imSamirOFFICIAL-4kHdHub.mkv?token=1757763705",
+            "quality": "1080p",
+            "size": "3.88 GB",
+            "fileName": "Alien vs. Predator 2004 UNRATED 1080p 10bit BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English DD 5.1] ESub-imSamirOFFICIAL-4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:moviesmod:movie:12102",
+      "storedAt": 1757769256815,
+      "meta": {
+        "storedAt": 1757769256,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "movie",
+        "tmdbId": "12102",
+        "imdbId": "tt0079417",
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "Kramer vs Kramer 1979 720P Bluray Hindi English Msubs MoviesMod org\n1.33GB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lQyhTzOgoc0O5DHhRF7qdb9JrNUlM3YecuBq0cHteHdSjAnVeWl6mmX4GzrCj7YgJSAsqUsrMdt3swA6weuukdwSO8E52rlVbhvNkmlo_T2pFvX4_BWnpKGQhoENDIVIy6jI5-Tq3YAraE-ZNq8l2E8EyNw4_jpIWlp_mlrlxfN6kQfTv2RhycGJ3SA-un4UyRdhJIC5ZiCuyDtjqE1LtxOFZBOh_aq8M43YTf8Wy-lyJwLOe0da6yxsB_QKsWNDlPoLN1uHgmiq5mKF_1tQGNfK_U0uF4hjxxJaHEd_SyhzBTfn3Z01O6lQge4LOXv8BBtCyW0J5VlAJ5RnG0ygfySnAyP-Zzv0tFe1bOBQuVjjEKjmnLnvn0zH_-MmTI9ePORqjEk8k0iiIiMbhX1hD4htCUI6OAqyDk2rcOkSLj0oYSmP1Qbsg-IMLMvjC-gx9kAHEmGiYUN9Sm1NlRWIcT6ffzTHW6Terw2gSVEdZgNCb9Hiu09lZqiK9665X8-9HmHEb-dANSplbODQG61PGS-2cSu7aGfQcB-lmfIyA7bS_okrvVsX1DXpako-MTfiSx-8n3USQSOPigOnrIoWbq7jyTKaWIX-lwqhKHly1ZrM6uMFpCKDkii10rPEREg-MsVjqkpG2C3P3Ae1fUFGgJ2oiZPhVlsEDgGCmegtiqWp_dbyUmIWYxwissTY84OKyF60i_aSBqk_eeh5oPpSN7VYxH-yuAP0pLbUcHHxqW0L7l5F74l401GBgfVosF-TGsvr11KRX5HTvyrFpGf4pMHQ94try5tlnFzVv6Gf_pte33oJJUDkN4cxX-idhouUvUT9grKW3TTOCvR1Gs6qaI5Th_FC9g9vNqbQX270hdxl2e95QhoDWlrZhIfhYoG6ACePQs5gi4omP8y1A4bDzgTj1Bj60ZVVtTqvfxwNbmudzCpsGFGK4ZXyPJHsPXiquZ3iXxy77oxeFNodsiVzCGmSEjrnztXE4NS1PdTG483hY6PArPMpPMphGRo4a2V1y0UIsrvP7Q1wjR1sEcyYb_wF4NUICYGv6VHuvITJdUOtIXl4M",
+            "quality": "720p",
+            "size": "1.33GB",
+            "fileName": "Kramer.vs.Kramer.1979.720P.Bluray.Hindi.English.Msubs.MoviesMod.org.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:586791",
+      "storedAt": 1757769246116,
+      "meta": {
+        "storedAt": 1757769246,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "586791",
+        "imdbId": "tt9735470",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Little Buddha (1993) 1080p BluRay REMUX x264 [Hindi AMZN DDP 2.0 + English DTS-HD MA 5.1] Esub (RAGA-EPSiLON) 4kHdHub.mkv\n37.92 GB",
+            "url": "https://purple-fire-deb1.maxifi91007948.workers.dev/d3d4713023ea3455fe2df7e5c0f578b87f183d358f1176af9886002f4e243418972617c5aac1747019655133c700be4a::a32d4dc5811453c8f16ec6ff911f8942/1397312997/Little%20Buddha%20(1993)%201080p%20BluRay%20REMUX%20x264%20[Hindi%20AMZN%20DDP%202.0%20+%20English%20DTS-HD%20MA%205.1]%20Esub%20(RAGA-EPSiLON)%204kHdHub.mkv",
+            "quality": "1080p",
+            "size": "37.92 GB",
+            "fileName": "Little Buddha (1993) 1080p BluRay REMUX x264 [Hindi AMZN DDP 2.0 + English DTS-HD MA 5.1] Esub (RAGA-EPSiLON) 4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:610290",
+      "storedAt": 1757769244996,
+      "meta": {
+        "storedAt": 1757769244,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "610290",
+        "imdbId": "tt8179470",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Look.Back.2024.1080p.AMZN.WEB-DL.Multi.DDP5.1.H.264-4kHdHub.Com.mkv\n2.05 GB",
+            "url": "https://pixeldrain.dev/api/file/hzwq3vsS?download",
+            "quality": "1080p",
+            "size": "2.05 GB",
+            "fileName": "Look.Back.2024.1080p.AMZN.WEB-DL.Multi.DDP5.1.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 720p",
+            "title": "Look.Back.2024.720p.AMZN.WEB-DL.Multi.DDP5.1.H.264-4kHdHub.Com.mkv\n1.45 GB",
+            "url": "https://pixeldrain.dev/api/file/7z5eQYDb?download",
+            "quality": "720p",
+            "size": "1.45 GB",
+            "fileName": "Look.Back.2024.720p.AMZN.WEB-DL.Multi.DDP5.1.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Look.Back.2024.1080p.AMZN.WEB-DL.Multi.DDP5.1.H.265-4kHdHub.Com.mkv\n1.4 GB",
+            "url": "https://pixeldrain.dev/api/file/xZE8Kitq?download",
+            "quality": "1080p",
+            "size": "1.4 GB",
+            "fileName": "Look.Back.2024.1080p.AMZN.WEB-DL.Multi.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Look.Back.2024.1080p.AMZN.WEB-DL.Multi.DDP5.1.H.265-4kHdHub.Com.mkv\n1.4 GB",
+            "url": "https://fsl.fastcloud.casa/Look.Back.2024.1080p.AMZN.WEB-DL.Multi.DDP5.1.H.265-4kHdHub.Com.mkv?token=1757769244",
+            "quality": "1080p",
+            "size": "1.4 GB",
+            "fileName": "Look.Back.2024.1080p.AMZN.WEB-DL.Multi.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 720p",
+            "title": "Look.Back.2024.720p.AMZN.WEB-DL.Multi.DDP5.1.H.265-4kHdHub.Com.mkv\n1020.43 MB",
+            "url": "https://pixeldrain.dev/api/file/uYLsesRA?download",
+            "quality": "720p",
+            "size": "1020.43 MB",
+            "fileName": "Look.Back.2024.720p.AMZN.WEB-DL.Multi.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:moviesmod:movie:610290",
+      "storedAt": 1757769250566,
+      "meta": {
+        "storedAt": 1757769250,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "movie",
+        "tmdbId": "610290",
+        "imdbId": "tt8179470",
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "Looks That Kill (2020) 720p Moviesmod cc\n845.54MB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kALqEGhsWrsqvVydnFl7d4UcoVU1Rpbh5669uaFO8t5TXM-E9HfY-PqTQctT-xo9RLRQsoCp2O7RRJA6Uh23UYeP670aKReKGAGhY_g78SZcVe74QuZP9sF4l9M5ywbA5A0oKNy1S42kFCsKk0NzJCimdd4fYtk2cFCB__AvOtdBNMpqyZblCimGX84x7cXb48gDr97mZNMu_t9PSvpYiSDggCRxxUirS3pzxwsoEQC-cFyr_A1jhPtAtuO2u5ZB014UMJW1lNbCg7VRV9lLxn6sIVrTgbA5f-YhcGVr3EDrl7BH_HinseXvSfE_WvAIOv9PeJh6cHvwfTxamEm9q3EpG-r9gXXzp5PVR8sq9BnraYCvoadLBGCyeQCfaUUiDqPCL4georu7u63xQlD7LnrpjvJh02yIX1Zrr7b8tgEZN44H3vsecz2gnlmOEDzG5e1eAOB5KRL4G9NOP9AD6o2-LevMnr1sJ1Kfs-p91F6xhGAfWk_gR0NGQXrxAQG1QQ2SS4vdARwK4gZSLD4x3uszvP5sZK6Kg8kVdV4XtpSFKb935UGGo8b_mZd49H3SiJ9Skf9nCXiTlYusYtJk65bY0X83kN-ZTsdzifKhCU2dYB6JQXFB3fM-gk01wwM7L98V3Z_5wbUBwZsSBqMCHnS5GCCYIeR4gkbs4wXQfPQlAhgt8FQtFcomK1mQ6YO_OYjp6KGm_M18L5eAFmW_LuvB-jfNu9GuACd81QyAjk6vCefga8eqbyqfYqmblX3QP9xqlMvnrgcEukZfodTYm4FZMOnsIJxRgKuNVgl2pGKAVD8B4aFIa-zMkcKU5Hah6wseyfQuVJ-FHdL9PkMp9_Ei9eGiJ4qBJv9XhVG83bV9zXgHKyAym9ig1cmCM7BGhM2etAZXCPtYq6zXs5kOfPseLwAeSNsaA3SwukC0ma-fSp4K3TO4IkYq5o8cXHSbuyhpo0DmlPOhFv3ffs2U_OuPPrhlgQwoH5lotvHiH2IX2INRIne0xJyqkBGBNXlhgVF050T1ZJqUxAH6P58RdX4QVQp_rOBgbRyk669-9F0zfZUbM",
+            "quality": "720p",
+            "size": "845.54MB",
+            "fileName": "Looks That Kill (2020) 720p Moviesmod.cc.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:828899",
+      "storedAt": 1757769249518,
+      "meta": {
+        "storedAt": 1757769249,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "828899",
+        "imdbId": "tt14636170",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Army.of.the.Dead.2021.2160p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv\n13.69 GB",
+            "url": "https://pixeldrain.dev/api/file/qrhMhxuD?download",
+            "quality": "2160p",
+            "size": "13.69 GB",
+            "fileName": "Army.of.the.Dead.2021.2160p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Army.of.the.Dead.2021.2160p.NF.WEB-DL.DUAL.DDP5.1.Atmos.DV.HDR.H.265-4kHdHub.Com.mkv\n8.03 GB",
+            "url": "https://pixeldrain.dev/api/file/k2FDydkV?download",
+            "quality": "2160p",
+            "size": "8.03 GB",
+            "fileName": "Army.of.the.Dead.2021.2160p.NF.WEB-DL.DUAL.DDP5.1.Atmos.DV.HDR.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Army.of.the.Dead.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv\n6.58 GB",
+            "url": "https://pixeldrain.dev/api/file/euUZqr1D?download",
+            "quality": "1080p",
+            "size": "6.58 GB",
+            "fileName": "Army.of.the.Dead.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Army.of.the.Dead.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv\n6.58 GB",
+            "url": "https://fsl.fastcloud.casa/Army.of.the.Dead.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv?token=1757769248",
+            "quality": "1080p",
+            "size": "6.58 GB",
+            "fileName": "Army.of.the.Dead.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Army.of.the.Dead.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv\n4.23 GB",
+            "url": "https://pixeldrain.dev/api/file/pTmPawBm?download",
+            "quality": "1080p",
+            "size": "4.23 GB",
+            "fileName": "Army.of.the.Dead.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Army.of.the.Dead.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.DV.HDR.H.265-4kHdHub.Com.mkv\n2.88 GB",
+            "url": "https://pixeldrain.dev/api/file/PokefJBQ?download",
+            "quality": "1080p",
+            "size": "2.88 GB",
+            "fileName": "Army.of.the.Dead.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.DV.HDR.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:828899",
+      "storedAt": 1757769256843,
+      "meta": {
+        "storedAt": 1757769256,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "828899",
+        "imdbId": "tt14636170",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay DDP 5 1 H 265 -iVy",
+            "url": "https://a.111477.xyz/movies/Metalocalypse%20Army%20of%20the%20Doomstar%20(2023)/Metalocalypse.Army.of.the.Doomstar.2023.1080p.BluRay.DDP.5.1.H.265.-iVy.mkv",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "Metalocalypse.Army.of.the.Doomstar.2023.1080p.BluRay.DDP.5.1.H.265.-iVy.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x264-OFT",
+            "url": "https://a.111477.xyz/movies/Metalocalypse%20Army%20of%20the%20Doomstar%20(2023)/Metalocalypse.Army.of.the.Doomstar.2023.1080p.BluRay.x264-OFT.mkv",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "Metalocalypse.Army.of.the.Doomstar.2023.1080p.BluRay.x264-OFT.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:moviesmod:movie:828899",
+      "storedAt": 1757769253946,
+      "meta": {
+        "storedAt": 1757769253,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "movie",
+        "tmdbId": "828899",
+        "imdbId": "tt14636170",
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "Metalocalypse Army Of The Doomstar 2023 1080p BluRay English ESubs - MoviesMod Vip\n1.72GB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mpRfJ8lDeol-__2JxMdnjuqmq5uodAsAKpEMcRlnsqxjtTLXX2rFChpgoZR5-8Wx7z5RcG4k6cZQ6lsY8NxpYi90SsrGs7shtXy2QpfOdM1TfJzMUz2G9Z6v6L7xAuuquHH5poWT9sOSbN2MYh00im8tIEo0VELJ83JhP7P2uytw3Vx8ercB7PswON2KYbZx_EzyL2LhFdZph5EqXOBTgI2jKFane62GzZpPfXsUWgF-VchBRPoVjP6qOXe550CsEEeUQRNDTRoo-Ln6TfL8dmEI6slT1tQpOd3ot6WLbf1sTPboS5hMskwb8phgD7YLhT8DdhJ2Uv7HaRNmynjekexQNCcTppctSPpbxzN1b1hbJDYu_ZAHqzQY7vfyZ6ZwoG3IUmI_7l4VmmNGYq2oeha5mpFykJ6KONqOc6S5aEJd-rfBbW9R1Env8cnkqtTkXMI7Zku6HCN88I8dRQuetvXlpeLVz0BmykJfaMv0hhPJ6sGO90Sz3BA6i2ZcrLIFtjJdSCLJ_nVXUhND0mRD2s9wX7nkm_lHH25WWRjad026QJBiIo1o7Ryf7hekFAAPaitCim-66sCUK54nOg2CkgJFpBRg8jujEAXxIh7QLowtjYm3oZS_JZYZosZQGuSC6ylQ1ae77Y_B2cnYAFzXJPqdqIOC3TPu7mse7lAAsLITPLEGm_SGGVz7oISJAOIc9wMVAcHwK-8FtWgusEnks8fvehg-0KIl6amxUPeMzZ6nf_leICPsFuzE5PqYZWvJFpuQg4sgNLLwKzLfK4iaK7MhUJjgQ4HA_2qQ_0qUH1h-t2NRGfHeMwKXxpOOT1fkOIuLf_ggTEEVogF9I2fMQ8CSW01PuCwmM_YGEW8i6HMu3h7VJhAQKH99gseAMdKZcM8_85bUTaBEVGTf422Dn3c4_4AVdSO-7FpTzyXH0IDvJZA3VHpeBux2kO9kg9UOOsHE3VHQIU3cjKuV8SB9Sgs-qWMHNNS0UNZroZvLSEyV_r979TVW97MSEuMZgepWLb2pvob7LRK0r59wm7L-IYcKqoVmQQZwtTksKpY_HFQUMr7_4",
+            "quality": "1080p",
+            "size": "1.72GB",
+            "fileName": "Metalocalypse Army Of The Doomstar 2023 1080p BluRay English ESubs - MoviesMod.Vip.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "Metalocalypse Army Of The Doomstar 2023 720p BluRay English ESubs - MoviesMod Vip\n787.37MB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mZohQ6IIyhglUy7eoRakl6f-V0WvHNF7a_XIEt_K5Mc8Q2yeoO6k_u5IrIBAM5kChOuUsbF6Ltck6rxNzNyc-frU5jGGrdmN24N8Qa16l7Yxd0OoXTgZZStrW41jjrOBMpDtBplkZbDBiIrLCW9L8JrFTpnmMx6Nh1CNhv36ye1883Rywxj12iuMm9u6nYoYoC73oDKx3xOsyZYhMeJsp6hh-ymga6RqyWGhguFLesnLfO1-at1B41hnZZgOBwhfRuinOzg3mVxbvLGqLO2Lb-FnzhbgeQSs7_VW49sESmMp3-erj01C60jehwlMbv6TJQOZyZGMmdasPfb61axWKoO8uaYKRE7zjFF5zlSD3S4JvzpYGiO9D11qHeEIzOanJSiVRdSpAmLPz1z3ib8IzQwxcA41XGRPQsMao3O2jIHuCOUeY1f4PkmqRS3c0il5oU0M0BfFP3VQ7ZXzhiRoJc6O0PxpuBdEn5jS6pw0mNXIyv0otged9wq8wSWtt32omIX958NlkY27qvSi7SeKFVjMc1rf8EcrxRU4z68Qj3gj3IscL9hqSBv9HcpIL9G6kuhI-__kzEjSOxcohQl1LBd3c8WmbfBtHFJZ6z31C8efKS66gtkGBO2rR2DqxvKuBzgm3NuXTTtGqLo_IwDkmFDdyO9VULccBYL8OetnaVGue57lfoLbdfHf8Vm6DpJHuRy3aSb1F4xwSfy7fEc2b-Gl6jcTT9UUBTAbOlUuWI-IvN8zfi8bAJFUghr12SaMvfy6aHOqf4RceNnOHq70zAco_W3AF--9oWmiOv5rcoagMz5AG7xrsqFW48JUApFR1ynw3VxyiJy4mElmO8dhWvz039kaJWAqbgZ-iiSgIpZ9CrMojv7OZvV-1bc7AI_eHts1-m2qvtzZzV_rt9bgGhpiMTbgBMuG9xI_pHKzyr1JRJfzGcNQ9HdSADknqgcdq79pBUym9_rSJ1udx9OL6dIXjs3E-0SULWXCuvelJaZGS0NTtRW8DKzuRCittYbqTBioMHjWofeohqRxog2lPzvBZjTfaEhWLRLAKXc2dGu7vAMDQ",
+            "quality": "720p",
+            "size": "787.37MB",
+            "fileName": "Metalocalypse Army Of The Doomstar 2023 720p BluRay English ESubs - MoviesMod.Vip.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:245285:s1e12",
+      "storedAt": 1757769242776,
+      "meta": {
+        "storedAt": 1757769242,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "245285",
+        "imdbId": "tt32469108",
+        "season": 1,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "The.Strongest.Tanks.Labyrinth.Raids.-A.Tank.with.a.Rare.9999.Resistance.Skill.Got.Kicked.from.the.Heros.Party-.S01E12.Magic.Power.1080p.AMZN.WEB-DL.Hindi.DDP2.0-Japanese.DDP2.0.H.264-4kHdHub.Com.mkv\n698.76 MB",
+            "url": "https://pixeldrain.dev/api/file/9B6AN6DF?download",
+            "quality": "1080p",
+            "size": "698.76 MB",
+            "fileName": "The.Strongest.Tanks.Labyrinth.Raids.-A.Tank.with.a.Rare.9999.Resistance.Skill.Got.Kicked.from.the.Heros.Party-.S01E12.Magic.Power.1080p.AMZN.WEB-DL.Hindi.DDP2.0-Japanese.DDP2.0.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:245285:s1e12",
+      "storedAt": 1757769245198,
+      "meta": {
+        "storedAt": 1757769245,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "245285",
+        "imdbId": "tt32469108",
+        "season": 1,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 2 0][h264]-ToonsHub",
+            "url": "https://a.111477.xyz/tvs/Failure%20Frame%20-%20I%20Became%20the%20Strongest%20and%20Annihilated%20Everything%20with%20Low-Level%20Spells/Season%201/Failure%20Frame%20-%20I%20Became%20the%20Strongest%20and%20Annihilated%20Everything%20with%20Low-Level%20Spells%20(2024)%20-%20S01E12%20-%20Ruler%20and%20Sword%20[WEBDL-1080p][AAC%202.0][h264]-ToonsHub.mkv",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "Failure Frame - I Became the Strongest and Annihilated Everything with Low-Level Spells (2024) - S01E12 - Ruler and Sword [WEBDL-1080p][AAC 2.0][h264]-ToonsHub.mkv"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-09-13T13:13:56.670Z",
-    "totalOriginalEntries": 484,
+    "exportedAt": "2025-09-13T13:14:17.721Z",
+    "totalOriginalEntries": 494,
     "newItemsInThisBatch": 10,
     "format": "compact_v1"
   }
