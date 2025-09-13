@@ -14151,12 +14151,413 @@
         "streams": [],
         "count": 0
       }
+    },
+    {
+      "key": "prov:dvdplay:movie:877703",
+      "storedAt": 1757768727943,
+      "meta": {
+        "storedAt": 1757768727,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dvdplay",
+        "type": "movie",
+        "tmdbId": "877703",
+        "imdbId": "tt15486810",
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:9728",
+      "storedAt": 1757768739790,
+      "meta": {
+        "storedAt": 1757768739,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "9728",
+        "imdbId": "tt0083972",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Friday the 13th - Part III 1982 1080p BluRay REMUX AVC [Hindi DD 2.0 + English DTS-HD MA 5.1] x264 FraMeSToR-LUMiX 4kHDHub.Com.mkv\n19.86 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Friday%20the%2013th%20-%20Part%20III%201982%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DD%202.0%20+%20English%20DTS-HD%20MA%205.1]%20x264%20FraMeSToR-LUMiX%204kHDHub.Com.mkv?token=1757768738",
+            "quality": "1080p",
+            "size": "19.86 GB",
+            "fileName": "Friday the 13th - Part III 1982 1080p BluRay REMUX AVC [Hindi DD 2.0 + English DTS-HD MA 5.1] x264 FraMeSToR-LUMiX 4kHDHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Friday the 13th - Part III 1982 1080p BluRay [Hindi DD 2.0 + English DDP 5.1] x264 iFT-LUMiX 4kHDHub.Com.mkv\n13.45 GB",
+            "url": "https://pixeldrain.dev/api/file/P9Gc6tJ6?download",
+            "quality": "1080p",
+            "size": "13.45 GB",
+            "fileName": "Friday the 13th - Part III 1982 1080p BluRay [Hindi DD 2.0 + English DDP 5.1] x264 iFT-LUMiX 4kHDHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Friday the 13th - Part III 1982 1080p BluRay [Hindi DD 2.0 + English DDP 5.1] x264 iFT-LUMiX 4kHDHub.Com.mkv\n13.45 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Friday%20the%2013th%20-%20Part%20III%201982%201080p%20BluRay%20[Hindi%20DD%202.0%20+%20English%20DDP%205.1]%20x264%20iFT-LUMiX%204kHDHub.Com.mkv?token=1757768738",
+            "quality": "1080p",
+            "size": "13.45 GB",
+            "fileName": "Friday the 13th - Part III 1982 1080p BluRay [Hindi DD 2.0 + English DDP 5.1] x264 iFT-LUMiX 4kHDHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Friday the 13th - Part III 1982 1080p BluRay 10bit HEVC [Hindi DD 2.0 + English DDP 5.1] x265 TiGOLE-LUMiX 4kHDHub.Com.mkv\n5.25 GB",
+            "url": "https://pixeldrain.dev/api/file/pNUY7VNP?download",
+            "quality": "1080p",
+            "size": "5.25 GB",
+            "fileName": "Friday the 13th - Part III 1982 1080p BluRay 10bit HEVC [Hindi DD 2.0 + English DDP 5.1] x265 TiGOLE-LUMiX 4kHDHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Friday the 13th - Part III 1982 1080p BluRay 10bit HEVC [Hindi DD 2.0 + English DDP 5.1] x265 TiGOLE-LUMiX 4kHDHub.Com.mkv\n5.25 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Friday%20the%2013th%20-%20Part%20III%201982%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20DD%202.0%20+%20English%20DDP%205.1]%20x265%20TiGOLE-LUMiX%204kHDHub.Com.mkv?token=1757768738",
+            "quality": "1080p",
+            "size": "5.25 GB",
+            "fileName": "Friday the 13th - Part III 1982 1080p BluRay 10bit HEVC [Hindi DD 2.0 + English DDP 5.1] x265 TiGOLE-LUMiX 4kHDHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:127235:s1e10",
+      "storedAt": 1757768729611,
+      "meta": {
+        "storedAt": 1757768729,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "127235",
+        "imdbId": "tt9737326",
+        "season": 1,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Invasion.S01E10.2160p.ATVP.WEB-DL.DDP5.1.Atmos.H.265-4kHdHub.com.mkv\n8.55 GB",
+            "url": "https://pixeldrain.dev/api/file/F1f5AA1M?download",
+            "quality": "2160p",
+            "size": "8.55 GB",
+            "fileName": "Invasion.S01E10.2160p.ATVP.WEB-DL.DDP5.1.Atmos.H.265-4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Invasion.S01E10.2160p.ATVP.WEB-DL.DDP5.1.Atmos.H.265-4kHdHub.com.mkv\n8.55 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Invasion.S01E10.2160p.ATVP.WEB-DL.DDP5.1.Atmos.H.265-4kHdHub.com.mkv?token=1757768728",
+            "quality": "2160p",
+            "size": "8.55 GB",
+            "fileName": "Invasion.S01E10.2160p.ATVP.WEB-DL.DDP5.1.Atmos.H.265-4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Invasion.S01E10.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-4kHdHub.com.mkv\n10.41 GB",
+            "url": "https://pixeldrain.dev/api/file/XhtNhGM9?download",
+            "quality": "2160p",
+            "size": "10.41 GB",
+            "fileName": "Invasion.S01E10.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Invasion.S01E10.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-4kHdHub.com.mkv\n10.41 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Invasion.S01E10.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-4kHdHub.com.mkv?token=1757768728",
+            "quality": "2160p",
+            "size": "10.41 GB",
+            "fileName": "Invasion.S01E10.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Invasion.S01E10.1080p.ATVP.WEB-DL.English.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv\n4.34 GB",
+            "url": "https://pixeldrain.net/api/file/pLHXzKAG",
+            "quality": "1080p",
+            "size": "4.34 GB",
+            "fileName": "Invasion.S01E10.1080p.ATVP.WEB-DL.English.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Invasion.S01E10.1080p.ATVP.WEB-DL.English.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv\n4.34 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Invasion.S01E10.1080p.ATVP.WEB-DL.English.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv?token=1757768728",
+            "quality": "1080p",
+            "size": "4.34 GB",
+            "fileName": "Invasion.S01E10.1080p.ATVP.WEB-DL.English.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Invasion.S01E10.1080p.ATVP.WEB-DL.English.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv\n2.29 GB",
+            "url": "https://pixeldrain.dev/api/file/2qjyeW3m?download",
+            "quality": "1080p",
+            "size": "2.29 GB",
+            "fileName": "Invasion.S01E10.1080p.ATVP.WEB-DL.English.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Invasion.S01E10.1080p.ATVP.WEB-DL.English.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv\n2.29 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Invasion.S01E10.1080p.ATVP.WEB-DL.English.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv?token=1757768728",
+            "quality": "1080p",
+            "size": "2.29 GB",
+            "fileName": "Invasion.S01E10.1080p.ATVP.WEB-DL.English.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:moviesmod:tv:127235:s1e10",
+      "storedAt": 1757768733633,
+      "meta": {
+        "storedAt": 1757768733,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "tv",
+        "tmdbId": "127235",
+        "imdbId": "tt9737326",
+        "season": 1,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "Invasion S01E10 1080p English Esubs Moviesmod Co\n474.23MB • 10-bit",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nCrvS29B7hKzoFTQ4KNQ-htz80hVH6lTOQq3EYzAR64KbWAG-ju-VRysUKV6QTIyRZ1SEiCCAEToyWpT22r_Z59SHUyaSB5xGmHownVDi0DRXCWv1Pqc7pP3Acx5FcIdvEQpbsAc0BvBvbhRcmL9HSYwofxGrCcttgTQOCrZsuBqzK2ri2E8hiweEESxnNk41CaqFij913sHQczqdF2Ikcq6A31_Ep_J5srKxQ_ac4Ns3VCHftx1lttR7_osr1Z2W7hrg5doL65Yc1gzfd-26XoBaFsXOzgmJ0DzDG9l53_1ZR0bT4E3HLsm9H4e9xlRx89Dw28_5h6jR8wwWBbhAJruark7dJtoI-47q-o8Pd-geQ_goSA1Vw9oj7PCrbTCQjW13c4zwOs0cJGGyUGF2CV-KHxhQxPAHoI9ISipqAYbxDP3ngp7Ar4TmaB7xWtGvbwdyS0PieHH44hgkjElNfOy5TbRcXlIVNixR94iF1hcHDWDoIRv-5coKoI2lhb6rFPSJVRf9I2C2TqOMTD5J9MFj07nv6RPiF95KwXvREPEuV_5jkau9qbfOmg88vuyUhU9RMI1qnnCnTuxy3jNhnWxlWYGELXKc_LuhGDLazFt7Gl577dP-r5RdZfrQaXzz1e5h_17yESVEYudh4nvd5ZBvktg7Od_YW95yjWpEqmn0Wv5APpocz5pUJ-I3mj7g0XVGb7Xfnukjov1NZYZ3NsNbyZub0795KNMK-YOO6Sn-44OR7zVaD8bHJyo9R-70sMDg1CSG_dLNX0qFWYHsqCuuksXzg9Fh6yR1GOWsiTGTFsYgO-rVC7cJnXCNWG0bh76HrrWKdnTJ9Q_H5w3bxTCladU5hwKXJ28w9jnyItn3LeuLRFehp4XkHqHvuSoaZj0lt_6lFLEmAlK064khFaa9Tsh_n7R0DYkpVjGOjWxY0BxO-t42odXcusfX5Q8u9DM2ldZd8olmW3114oza0cmQ9OGRdYGb8w4HWaMBRfBz5ZAfApqFlLpu6kP0wjhDkdDfnBASMG5_53GbyhXvOpI48kvfrAKJZE-mTQq8HFJEM7Ww",
+            "quality": "1080p",
+            "size": "474.23MB",
+            "fileName": "Invasion.S01E10.1080p.English.Esubs.Moviesmod.Co.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "Invasion S01E10 First Day 1080p x264 English Esubs MoviesMod org\n1.12GB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lea7PIepuWcBAk06AUWaJkj6IywgDoJq3RzBS_mo_mI5EfKrysh3Z7RQea8446PPTLLZkwDSCwAWI0PZDiHZmhmFEbqF59vKedhx_xF12wd9OXas5nA2zPpojbJ15NWRs7EriPsOEvr4i5k-vvBrZSqlAM3FjJXfygHPulxjMnl0ZfUvBINtZdRShMfW1NUPZN-4yyEoMfot7l1NOe7M-dAp5g4szr6Ut3NgMIcWsQB-0qluNCiIvwLYkIKBTHsvbHqOnPeIW7PuhSgCIHrVxm1aIkEwYtLQITq7gvZaW_3HqK4gEdt2r_6-4uEkgV7BASVWUGcTEroO7xYgq6ZrnSRHQvO0QTxHsDLBMi95NUXLJpidCCNGNzngzNg90ExY4jFh9DMbDEqlvvmCgfjXwJNy9hrGni2S_ic8MWI77IoOTVpA8kndM2xK8WPAkFFEBJJeXj98ERtdIUzmXi1BXa3KrOagucIK5HHVfg3nLvR5-qYyGW7l2_a7xHTPOnBBRVNBsKmTR-349FGdvSKyIvnN1NaUPNtEPMnyeZcYM_YCIsH8MV-4gGhuo3rajbSIkusPw8Zn2dU2naAFI2XR3fIAITktfYOTJ_-Fib7nL8QuKi1zPQ5KNluBWxv-9e0m9_TMPjhYQPXLRmOOz1w4dUiR1Upnnt2PwMT2O5utTH3crYRSZXDzSIciNGeVoHzaAM4bXvBiDD7iA_RyfBhhYYWUOBWC2Y8SNrJpeMX72UdzIzXfVvYNijoLDH_8CZtdp8T8Z_hgAInw7PeKb7XAqotSWxG5hAbbhnTNPAw1StZEj_RWc-K2Qx7xgeTqyrBiEFyThMtbhmP9sSAvRGkE1uJ4IsKYyYzK_uDlGNmuYBNiZ7Fbim70eYW8wMsHl6nBvoOTLwyQACHIzRJYIsRV3OXDtS6vdZA1OM4HKRPRihrbr25JGnf8Hv37k0TWmi8H3xw0glS26BaPNYEOVW1Nm7YIbakb2yX8YYFV-A7eiVF3eR6X3YZAQKgdl-US5mnC-tk4GsPo_R6UpRqfP1oUIckYa9pBqnm5UlYwP_oyXrs-aTySk",
+            "quality": "1080p",
+            "size": "1.12GB",
+            "fileName": "Invasion.S01E10.First.Day.1080p.x264.English.Esubs.MoviesMod.org.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "Invasion S01E10 720p English Esubs Moviesmod Co\n197.37MB • 10-bit",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2l2-HzlxwZm2Icwu-r6qQvLXinV9oYo3UHd65Z2izehzj20qS9hsiQyvGXgQiR8TTL79FoyK3eF-e4OSfuBlHsNtdoz_fYcF-d4MbQ2D6chLvqujhljLMGjGf-wyBs-itGBHxvR1-EU3KnHDNQzrboi9pvHUM-nxt_uGltnYIJOvJHzM03i9ygAq7vtnYLFniRtiTs_8nGLJ_msic9NoJE_qacQlDzlk0fhCOd1F4SoQQ5eyEjFJekWq2JL6hNQFOEjlvXzl3zgqrSslrU49N4G0tMndkxNV2gxI1Vcb7-4wJvuDVWqIL_RmcB74DtyDhYpaSbDwyMsiNs8VZslzVYCcJWx8cyjb9Ut0R_DR1tjphivZnA1j-ICPAkWyQFtGy7zAGszR4moI6i0cM-QvBg5BKBYJKhO_gZoenOPjKTW94TcqI4ewbD0RrHtemWti8A2595hy5vKgpWakUgkcDrmgQJdh949l2AF1W7orvofI_8qR7JoJ1YwMXMaOoy1hBov24V8g_7KEbzVXemwwC_i1BYA3UoG8eEJN-pd5-M_KJkhKRbwaGQcbcvYajoGZ8LbpK72si5Q7qGh9IhFHMYQ9khfryTQrcbo031mqNMgAtRY5zKEu5fshrCZlXoAwlFbtUR33swJwqLnR8g4HBoiBo9gmZpMC401g7RJ-7MDtA5CeN4dq0i2SQ3yrLBhxZkp7-QpfycXruvnaheSgzwN1cD6l6_YK027ZJdeb10u3hWyAc5b5rFRWDKhGJSTR_AGVIfMyJiBY3ug_78yVwkca5qgj9LFjo4VAJ9ez48VLbfylLsbqafyO3b7OTfdN0aLnCTNrsety-Sa_GXsVTq12BTNczGI29CWPrrIKewhwcUUzKHsPgFLEok7mvM0lrPKu8pScGx3jMBsItcSa32Fm-ajOHYPYPMnrugBxkY8wg_xd1XwLgEeKLb3ebrbsQMiMXN3FqBLPwjwj3wMjsbAK2fPiAYF6j9LlOcI4_lMbukb9BYeTYVCQ3Zocvsxz_8NfqZQXFxQH7E088hVXN24x8_daNu-1eGK19NuCa_6G9EPHCA",
+            "quality": "720p",
+            "size": "197.37MB",
+            "fileName": "Invasion.S01E10.720p.English.Esubs.Moviesmod.Co.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "Invasion S01E10 First Day 720p x264 English Esubs MoviesMod org\n468.86MB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lFWh8OqLitunmDNCSbIjpKV6giDfA-cmQzIj4yMtmYudwqkiiEb4C2JpHsk9_UQtY0FZhpjrWUwrsL4zUdINhX0ude4WAAInAamWTPgR0DFWVZMhJxtOCXRvkGupepOA6anqMzAdBwOZVfFTKjihxXoBQFyfnQBy_gApn5CsfanyvwBsjk4svPst_DM93uE4SV2t5BNRRYKBqr-fdtvIkglAZ3RnGee5BEQDEtn0W2iFV5AcZfARbqpbaX9kxhmgzzZ2cYtwtcCqFgjcSk7xIWI8JBn8PvffLAa26KdiuzTtcZ3-oGUBYzqLPmJI2XUUDaOBeP1H1zgOc19b0St26mWTOpVNV_5jWX_-bUMIsfcreDqIqYBY7ZY3qero2ahL1QtlzI7GUXLgd6PCAu5fRHnT9BghuqBq6pQSzUuodKpzqxMvJhM1uX7LlMWJgixqfNPBo27DoyYnsAN0Xwsp_AFJLpiZV5KshbXoGjmkyj6jVNJpPc_-ir-5tyT1uI_3EFJmKPLLPNOI341areWCiWlBjHKd-55onXnkZWYUmUGwVr7oUNFCG3LW1QFYo7khBnfAq-DJWuTyZ1w2Sk-Zv7f3we46LeogsBPjYJk3ZN2BxpfjZOW_1XJlqna1anygWC8ZMyegHhUbIZ5zQck4PehXabD2Bux0juR6HFlmQ_PaCXZgz7cINWxzKmKXOGeZ1L-XBAxPuZtZqS_Nj088Ybju5wQCW7ksEiWUw-7VICdImb9ArUCEvmhyFQJcLD-HPGutW10TqW7ngEXj0qziA70raun22U6AP6dz0twN8EXm-nKl7BiRtiQBm66fAIukZsKagdT8e7i9ZeZnBpuGy9GEpkTFXZmTWx_6hqEtZz20hyHtq2eUMMZRQKgJZJMQ15u9HvyWJk5iOrfBpprhdxXFZw9leQuO4-C9mr_36YFQbB-8c3hJ1wSiSbumBlhQGKiqe17kXgRWT5PYxvbvjVF5qxlsCXE-25xdyp_DIOM09UIH6yR3lQhhNuAWu7RBgoTq83-aQIpaWqNdZPD5Rnp8OnJSJe6J5bnydF-5RdmzpEePM",
+            "quality": "720p",
+            "size": "468.86MB",
+            "fileName": "Invasion.S01E10.First.Day.720p.x264.English.Esubs.MoviesMod.org.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:2734:s1e2",
+      "storedAt": 1757768727884,
+      "meta": {
+        "storedAt": 1757768727,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "2734",
+        "imdbId": "tt0203259",
+        "season": 1,
+        "episode": 2,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:2734:s1e2",
+      "storedAt": 1757768740964,
+      "meta": {
+        "storedAt": 1757768740,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "2734",
+        "imdbId": "tt0203259",
+        "season": 1,
+        "episode": 2,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:dvdplay:tv:2734:s1e2",
+      "storedAt": 1757768737614,
+      "meta": {
+        "storedAt": 1757768737,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dvdplay",
+        "type": "tv",
+        "tmdbId": "2734",
+        "imdbId": "tt0203259",
+        "season": 1,
+        "episode": 2,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:moviesmod:tv:2734:s1e2",
+      "storedAt": 1757768728733,
+      "meta": {
+        "storedAt": 1757768728,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "moviesmod",
+        "type": "tv",
+        "tmdbId": "2734",
+        "imdbId": "tt0203259",
+        "season": 1,
+        "episode": 2,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:2734:s1e2",
+      "storedAt": 1757768730679,
+      "meta": {
+        "storedAt": 1757768730,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "2734",
+        "imdbId": "tt0203259",
+        "season": 1,
+        "episode": 2,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:61617:s1e2",
+      "storedAt": 1757768742842,
+      "meta": {
+        "storedAt": 1757768742,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "61617",
+        "imdbId": "tt3718778",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][FLAC 2 0][AVC]-FraMeSToR",
+            "url": "https://a.111477.xyz/tvs/Over%20the%20Garden%20Wall/Season%201/Over%20the%20Garden%20Wall%20(2014)%20-%20S01E02%20-%20Hard%20Times%20at%20the%20Huskin%20Bee%20[Bluray-1080p%20Remux][FLAC%202.0][AVC]-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": null,
+            "type": "direct",
+            "filename": "Over the Garden Wall (2014) - S01E02 - Hard Times at the Huskin Bee [Bluray-1080p Remux][FLAC 2.0][AVC]-FraMeSToR.mkv"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-09-13T13:05:15.965Z",
-    "totalOriginalEntries": 357,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-09-13T13:05:44.249Z",
+    "totalOriginalEntries": 367,
+    "newItemsInThisBatch": 10,
     "format": "compact_v1"
   }
 }
