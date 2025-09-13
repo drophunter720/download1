@@ -1,0 +1,627 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:1036956",
+      "storedAt": 1757779763391,
+      "meta": {
+        "storedAt": 1757779763,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1036956",
+        "imdbId": "tt22872778",
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:119312",
+      "storedAt": 1757779746123,
+      "meta": {
+        "storedAt": 1757779746,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "119312",
+        "imdbId": "tt0050457",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Blonde.2022.2160p.NF.WEB-DL.DUAL.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv\n24.34 GB",
+            "url": "https://fsl.fastcloud.casa/Blonde.2022.2160p.NF.WEB-DL.DUAL.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv?token=1757779744",
+            "quality": "2160p",
+            "size": "24.34 GB",
+            "fileName": "Blonde.2022.2160p.NF.WEB-DL.DUAL.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Blonde.2022.2160p.NF.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv\n22.12 GB",
+            "url": "https://fsl.fastcloud.casa/Blonde.2022.2160p.NF.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv?token=1757779744",
+            "quality": "2160p",
+            "size": "22.12 GB",
+            "fileName": "Blonde.2022.2160p.NF.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Blonde.2022.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-4kHdHub.Com.mkv\n9.16 GB",
+            "url": "https://pixeldrain.dev/api/file/nFwk6rHK?download",
+            "quality": "1080p",
+            "size": "9.16 GB",
+            "fileName": "Blonde.2022.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Blonde.2022.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-4kHdHub.Com.mkv\n9.16 GB",
+            "url": "https://fsl.fastcloud.casa/Blonde.2022.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-4kHdHub.Com.mkv?token=1757779744",
+            "quality": "1080p",
+            "size": "9.16 GB",
+            "fileName": "Blonde.2022.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Blonde.2022.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv\n5.1 GB",
+            "url": "https://pixeldrain.dev/api/file/1Mun7Qx4?download",
+            "quality": "1080p",
+            "size": "5.1 GB",
+            "fileName": "Blonde.2022.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Blonde.2022.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv\n5.1 GB",
+            "url": "https://fsl.fastcloud.casa/Blonde.2022.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv?token=1757779744",
+            "quality": "1080p",
+            "size": "5.1 GB",
+            "fileName": "Blonde.2022.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Blonde.2022.1080p.NF.WEB-DL.DUAL.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv\n3.81 GB",
+            "url": "https://pixeldrain.dev/api/file/U7Mj67nP?download",
+            "quality": "1080p",
+            "size": "3.81 GB",
+            "fileName": "Blonde.2022.1080p.NF.WEB-DL.DUAL.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Blonde.2022.1080p.NF.WEB-DL.DUAL.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv\n3.81 GB",
+            "url": "https://fsl.fastcloud.casa/Blonde.2022.1080p.NF.WEB-DL.DUAL.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv?token=1757779744",
+            "quality": "1080p",
+            "size": "3.81 GB",
+            "fileName": "Blonde.2022.1080p.NF.WEB-DL.DUAL.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:278154",
+      "storedAt": 1757779736836,
+      "meta": {
+        "storedAt": 1757779736,
+        "urlCount": 12,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "278154",
+        "imdbId": "tt3416828",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Ice Age - Collision Course 2016 2160p 10bit HDR BluRay REMUX HEVC x265 [Hindi BD DD 5.1 448kbps + English TrueHD Atmos 7.1] ESub-FraMeSToR-4kHdHub.mkv\n32.28 GB",
+            "url": "https://fsl.fastcloud.casa/Ice%20Age%20-%20Collision%20Course%202016%202160p%2010bit%20HDR%20BluRay%20REMUX%20HEVC%20x265%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20TrueHD%20Atmos%207.1]%20ESub-FraMeSToR-4kHdHub.mkv?token=1757778747",
+            "quality": "2160p",
+            "size": "32.28 GB",
+            "fileName": "Ice Age - Collision Course 2016 2160p 10bit HDR BluRay REMUX HEVC x265 [Hindi BD DD 5.1 448kbps + English TrueHD Atmos 7.1] ESub-FraMeSToR-4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Ice Age - Collision Course 2016 1080p BluRay REMUX AVC x264 [Hindi BD DD 5.1 448kbps + English DTS-HD MA 7.1] ESub-FraMeSToR-4kHdHub.mkv\n19.49 GB",
+            "url": "https://fsl.fastcloud.casa/Ice%20Age%20-%20Collision%20Course%202016%201080p%20BluRay%20REMUX%20AVC%20x264%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20DTS-HD%20MA%207.1]%20ESub-FraMeSToR-4kHdHub.mkv?token=1757779735",
+            "quality": "1080p",
+            "size": "19.49 GB",
+            "fileName": "Ice Age - Collision Course 2016 1080p BluRay REMUX AVC x264 [Hindi BD DD 5.1 448kbps + English DTS-HD MA 7.1] ESub-FraMeSToR-4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Ice Age - Collision Course 2016 2160p 10bit HDR BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English DDP 7.1] ESub-IAMABLE-4kHdHub.mkv\n8.94 GB",
+            "url": "https://pixeldrain.dev/api/file/ohQ4chzf?download",
+            "quality": "2160p",
+            "size": "8.94 GB",
+            "fileName": "Ice Age - Collision Course 2016 2160p 10bit HDR BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English DDP 7.1] ESub-IAMABLE-4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Ice Age - Collision Course 2016 2160p 10bit HDR BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English DDP 7.1] ESub-IAMABLE-4kHdHub.mkv\n8.94 GB",
+            "url": "https://fsl.fastcloud.casa/Ice%20Age%20-%20Collision%20Course%202016%202160p%2010bit%20HDR%20BluRay%20HEVC%20x265%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20DDP%207.1]%20ESub-IAMABLE-4kHdHub.mkv?token=1757779735",
+            "quality": "2160p",
+            "size": "8.94 GB",
+            "fileName": "Ice Age - Collision Course 2016 2160p 10bit HDR BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English DDP 7.1] ESub-IAMABLE-4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Ice Age - Collision Course 2016 1080p BluRay x264 [Hindi BD DD 5.1 448kbps + English DTS-ES 5.1] ESub-VietHD-4kHdHub.mkv\n8.27 GB",
+            "url": "https://pixeldrain.dev/api/file/WbCcW29d?download",
+            "quality": "1080p",
+            "size": "8.27 GB",
+            "fileName": "Ice Age - Collision Course 2016 1080p BluRay x264 [Hindi BD DD 5.1 448kbps + English DTS-ES 5.1] ESub-VietHD-4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Ice Age - Collision Course 2016 1080p BluRay x264 [Hindi BD DD 5.1 448kbps + English DTS-ES 5.1] ESub-VietHD-4kHdHub.mkv\n8.27 GB",
+            "url": "https://fsl.fastcloud.casa/Ice%20Age%20-%20Collision%20Course%202016%201080p%20BluRay%20x264%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20DTS-ES%205.1]%20ESub-VietHD-4kHdHub.mkv?token=1757779735",
+            "quality": "1080p",
+            "size": "8.27 GB",
+            "fileName": "Ice Age - Collision Course 2016 1080p BluRay x264 [Hindi BD DD 5.1 448kbps + English DTS-ES 5.1] ESub-VietHD-4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Ice Age - Collision Course 2016 UHD 1080p 10bit HDR BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English DDP 7.1] ESub-c0kE-4kHdHub.mkv\n7.64 GB",
+            "url": "https://pixeldrain.dev/api/file/CwhQ1QHq?download",
+            "quality": "1080p",
+            "size": "7.64 GB",
+            "fileName": "Ice Age - Collision Course 2016 UHD 1080p 10bit HDR BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English DDP 7.1] ESub-c0kE-4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Ice Age - Collision Course 2016 UHD 1080p 10bit HDR BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English DDP 7.1] ESub-c0kE-4kHdHub.mkv\n7.64 GB",
+            "url": "https://fsl.fastcloud.casa/Ice%20Age%20-%20Collision%20Course%202016%20UHD%201080p%2010bit%20HDR%20BluRay%20HEVC%20x265%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20DDP%207.1]%20ESub-c0kE-4kHdHub.mkv?token=1757779735",
+            "quality": "1080p",
+            "size": "7.64 GB",
+            "fileName": "Ice Age - Collision Course 2016 UHD 1080p 10bit HDR BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English DDP 7.1] ESub-c0kE-4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Ice Age - Collision Course 2016 1080p 10bit BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English AAC 7.1] ESub-Tigole-4kHdHub.mkv\n4.93 GB",
+            "url": "https://pixeldrain.dev/api/file/dXkBH4C5?download",
+            "quality": "1080p",
+            "size": "4.93 GB",
+            "fileName": "Ice Age - Collision Course 2016 1080p 10bit BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English AAC 7.1] ESub-Tigole-4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Ice Age - Collision Course 2016 1080p 10bit BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English AAC 7.1] ESub-Tigole-4kHdHub.mkv\n4.93 GB",
+            "url": "https://fsl.fastcloud.casa/Ice%20Age%20-%20Collision%20Course%202016%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20AAC%207.1]%20ESub-Tigole-4kHdHub.mkv?token=1757779735",
+            "quality": "1080p",
+            "size": "4.93 GB",
+            "fileName": "Ice Age - Collision Course 2016 1080p 10bit BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English AAC 7.1] ESub-Tigole-4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Ice Age - Collision Course 2016 1080p 10bit BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English AAC 7.1] ESub-PSA-4kHdHub.mkv\n2.23 GB",
+            "url": "https://pixeldrain.dev/api/file/cY4w4uGi?download",
+            "quality": "1080p",
+            "size": "2.23 GB",
+            "fileName": "Ice Age - Collision Course 2016 1080p 10bit BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English AAC 7.1] ESub-PSA-4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Ice Age - Collision Course 2016 1080p 10bit BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English AAC 7.1] ESub-PSA-4kHdHub.mkv\n2.23 GB",
+            "url": "https://fsl.fastcloud.casa/Ice%20Age%20-%20Collision%20Course%202016%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20AAC%207.1]%20ESub-PSA-4kHdHub.mkv?token=1757779735",
+            "quality": "1080p",
+            "size": "2.23 GB",
+            "fileName": "Ice Age - Collision Course 2016 1080p 10bit BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English AAC 7.1] ESub-PSA-4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 12
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:535167",
+      "storedAt": 1757779751555,
+      "meta": {
+        "storedAt": 1757779751,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "535167",
+        "imdbId": "tt7605074",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS HD MA TrueHD 7 1 Atmos FGT ORARBG",
+            "url": "https://a.111477.xyz/movies/The%20Wandering%20Earth%20(2019)/The%20Wandering%20Earth%202019%20CHINESE%201080p%20BluRay%20REMUX%20AVC%20DTS%20HD%20MA%20TrueHD%207%201%20Atmos%20FGT%20ORARBG.mkv",
+            "quality": "1080p | REMUX",
+            "size": null,
+            "type": "direct",
+            "filename": "The Wandering Earth 2019 CHINESE 1080p BluRay REMUX AVC DTS HD MA TrueHD 7 1 Atmos FGT ORARBG.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay AV1 DDP 5 1-dAV1nci",
+            "url": "https://a.111477.xyz/movies/The%20Wandering%20Earth%20(2019)/The.Wandering.Earth.2019.1080p.BluRay.AV1.DDP.5.1-dAV1nci.mkv",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "The.Wandering.Earth.2019.1080p.BluRay.AV1.DDP.5.1-dAV1nci.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:207332:s1e12",
+      "storedAt": 1757779746943,
+      "meta": {
+        "storedAt": 1757779746,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "207332",
+        "imdbId": "tt17069148",
+        "season": 1,
+        "episode": 12,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:48175:s1e1",
+      "storedAt": 1757779746690,
+      "meta": {
+        "storedAt": 1757779746,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "48175",
+        "imdbId": "tt1973695",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "A.Model.Family.S01E01.Episode.1.1080p.NF.WEB-DL.MULTi.DDP5.1.H.264-4kHdHub.Com.mkv\n2.09 GB",
+            "url": "https://pixeldrain.dev/api/file/PYFb3zWi?download",
+            "quality": "1080p",
+            "size": "2.09 GB",
+            "fileName": "A.Model.Family.S01E01.Episode.1.1080p.NF.WEB-DL.MULTi.DDP5.1.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "A.Model.Family.S01E01.Episode.1.1080p.NF.WEB-DL.MULTi.DDP5.1.H.264-4kHdHub.Com.mkv\n2.09 GB",
+            "url": "https://fsl.fastcloud.casa/A.Model.Family.S01E01.Episode.1.1080p.NF.WEB-DL.MULTi.DDP5.1.H.264-4kHdHub.Com.mkv?token=1757773604",
+            "quality": "1080p",
+            "size": "2.09 GB",
+            "fileName": "A.Model.Family.S01E01.Episode.1.1080p.NF.WEB-DL.MULTi.DDP5.1.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "A.Model.Family.S01E01.Episode.1.1080p.NF.WEB-DL.MULTi.AAC5.1.H.265-4kHdHub.Com.mkv\n704.71 MB",
+            "url": "https://pixeldrain.dev/api/file/eQKFFiGx?download",
+            "quality": "1080p",
+            "size": "704.71 MB",
+            "fileName": "A.Model.Family.S01E01.Episode.1.1080p.NF.WEB-DL.MULTi.AAC5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "A.Model.Family.S01E01.Episode.1.1080p.NF.WEB-DL.MULTi.AAC5.1.H.265-4kHdHub.Com.mkv\n704.71 MB",
+            "url": "https://fsl.fastcloud.casa/A.Model.Family.S01E01.Episode.1.1080p.NF.WEB-DL.MULTi.AAC5.1.H.265-4kHdHub.Com.mkv?token=1757779745",
+            "quality": "1080p",
+            "size": "704.71 MB",
+            "fileName": "A.Model.Family.S01E01.Episode.1.1080p.NF.WEB-DL.MULTi.AAC5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "A.Model.Family.S01E01.Episode.1.1080p.NF.WEB-DL.MULTi.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv\n1.23 GB",
+            "url": "https://pixeldrain.dev/api/file/PLaevDTB?download",
+            "quality": "1080p",
+            "size": "1.23 GB",
+            "fileName": "A.Model.Family.S01E01.Episode.1.1080p.NF.WEB-DL.MULTi.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "A.Model.Family.S01E01.Episode.1.1080p.NF.WEB-DL.MULTi.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv\n1.23 GB",
+            "url": "https://fsl.fastcloud.casa/A.Model.Family.S01E01.Episode.1.1080p.NF.WEB-DL.MULTi.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv?token=1757779745",
+            "quality": "1080p",
+            "size": "1.23 GB",
+            "fileName": "A.Model.Family.S01E01.Episode.1.1080p.NF.WEB-DL.MULTi.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "A.Model.Family.S01E01.Episode.1.2160p.NF.WEB-DL.MULTi.DDP5.1.H.265-4kHdHub.Com.mkv\n6.19 GB",
+            "url": "https://pixeldrain.dev/api/file/7eqbJagW?download",
+            "quality": "2160p",
+            "size": "6.19 GB",
+            "fileName": "A.Model.Family.S01E01.Episode.1.2160p.NF.WEB-DL.MULTi.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "A.Model.Family.S01E01.Episode.1.2160p.NF.WEB-DL.MULTi.DDP5.1.H.265-4kHdHub.Com.mkv\n6.19 GB",
+            "url": "https://fsl.fastcloud.casa/A.Model.Family.S01E01.Episode.1.2160p.NF.WEB-DL.MULTi.DDP5.1.H.265-4kHdHub.Com.mkv?token=1757779745",
+            "quality": "2160p",
+            "size": "6.19 GB",
+            "fileName": "A.Model.Family.S01E01.Episode.1.2160p.NF.WEB-DL.MULTi.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:48891:s1e4",
+      "storedAt": 1757779736517,
+      "meta": {
+        "storedAt": 1757779736,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "48891",
+        "imdbId": "tt2467372",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux Proper][DTS-HD MA 5 1][AVC]-SL",
+            "url": "https://a.111477.xyz/tvs/Brooklyn%20Nine-Nine/Season%201/Brooklyn%20Nine-Nine%20(2013)%20-%20S01E04%20-%20M.E.%20Time%20[Bluray-1080p%20Remux%20Proper][DTS-HD%20MA%205.1][AVC]-SL.mkv",
+            "quality": "1080p | REMUX",
+            "size": null,
+            "type": "direct",
+            "filename": "Brooklyn Nine-Nine (2013) - S01E04 - M.E. Time [Bluray-1080p Remux Proper][DTS-HD MA 5.1][AVC]-SL.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:56568:s1e36",
+      "storedAt": 1757779753971,
+      "meta": {
+        "storedAt": 1757779753,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "56568",
+        "imdbId": "tt0810705",
+        "season": 1,
+        "episode": 36,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies NANA (2006) - S01E36 - Blasts New Song!! [DVD Proper][AC3 2.0][x264].mkv",
+            "url": "https://a.111477.xyz/tvs/NANA/Season%201/NANA%20(2006)%20-%20S01E36%20-%20Blasts%20New%20Song!!%20[DVD%20Proper][AC3%202.0][x264].mkv",
+            "quality": "Unknown | DV",
+            "size": null,
+            "type": "direct",
+            "filename": "NANA (2006) - S01E36 - Blasts New Song!! [DVD Proper][AC3 2.0][x264].mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:63401:s1e19",
+      "storedAt": 1757779735343,
+      "meta": {
+        "storedAt": 1757779735,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "63401",
+        "imdbId": "tt4839610",
+        "season": 1,
+        "episode": 19,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 2 0][x265]-PoF",
+            "url": "https://a.111477.xyz/tvs/We%20Bare%20Bears/Season%201/We%20Bare%20Bears%20(2015)%20-%20S01E19%20-%20Tote%20Life%20[WEBRip-1080p][AAC%202.0][x265]-PoF.mkv",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "We Bare Bears (2015) - S01E19 - Tote Life [WEBRip-1080p][AAC 2.0][x265]-PoF.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:97546:s2e6",
+      "storedAt": 1757779751293,
+      "meta": {
+        "storedAt": 1757779751,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "97546",
+        "imdbId": "tt10986410",
+        "season": 2,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Red.Oaks.S02E06.Old.Flames.2160p.AMZN.WEB-DL.DDP5.1.HDR10+.H.265-4kHdHub.Com.mkv\n3.8 GB",
+            "url": "https://pixeldrain.dev/api/file/wrMGmAmP?download",
+            "quality": "2160p",
+            "size": "3.8 GB",
+            "fileName": "Red.Oaks.S02E06.Old.Flames.2160p.AMZN.WEB-DL.DDP5.1.HDR10+.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Red.Oaks.S02E06.Old.Flames.2160p.AMZN.WEB-DL.DDP5.1.H.265-4kHdHub.Com.mkv\n3.03 GB",
+            "url": "https://pixeldrain.dev/api/file/U8v9TaeT?download",
+            "quality": "2160p",
+            "size": "3.03 GB",
+            "fileName": "Red.Oaks.S02E06.Old.Flames.2160p.AMZN.WEB-DL.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Red.Oaks.S02E06.Old.Flames.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.Com.mkv\n1.81 GB",
+            "url": "https://pixeldrain.dev/api/file/UNiBpFuQ?download",
+            "quality": "1080p",
+            "size": "1.81 GB",
+            "fileName": "Red.Oaks.S02E06.Old.Flames.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-09-13T16:09:23.392Z",
+    "totalOriginalEntries": 10,
+    "newItemsInThisBatch": 10,
+    "format": "compact_v1"
+  }
+}
