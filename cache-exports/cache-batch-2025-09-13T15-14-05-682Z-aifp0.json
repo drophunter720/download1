@@ -1,0 +1,416 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:moviesmod:movie:1492109",
+      "storedAt": 1757776445568,
+      "meta": {
+        "storedAt": 1757776445,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "moviesmod",
+        "type": "movie",
+        "tmdbId": "1492109",
+        "imdbId": null,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:dvdplay:movie:436969",
+      "storedAt": 1757776440168,
+      "meta": {
+        "storedAt": 1757776440,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dvdplay",
+        "type": "movie",
+        "tmdbId": "436969",
+        "imdbId": "tt6334354",
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:73567",
+      "storedAt": 1757776439800,
+      "meta": {
+        "storedAt": 1757776439,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "73567",
+        "imdbId": "tt1726669",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Killers 2010 1080p BluRay REMUX AVC [Hindi DD2.0 + English DTS-HD MA 7.1] FraMeSToR-Ionicboy.mkv\n28.43 GB",
+            "url": "https://fsl.fastcloud.casa/Killers%202010%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DD2.0%20+%20English%20DTS-HD%20MA%207.1]%20FraMeSToR-Ionicboy.mkv?token=1757776438",
+            "quality": "1080p",
+            "size": "28.43 GB",
+            "fileName": "Killers 2010 1080p BluRay REMUX AVC [Hindi DD2.0 + English DTS-HD MA 7.1] FraMeSToR-Ionicboy.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Killers 2010 1080p BluRay [Hindi DD2.0 + English DD5.1] x264 TayTO-Ionicboy.mkv\n9.24 GB",
+            "url": "https://pixeldrain.dev/api/file/syLfhekf?download",
+            "quality": "1080p",
+            "size": "9.24 GB",
+            "fileName": "Killers 2010 1080p BluRay [Hindi DD2.0 + English DD5.1] x264 TayTO-Ionicboy.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Killers 2010 1080p BluRay [Hindi DD2.0 + English DD5.1] x264 TayTO-Ionicboy.mkv\n9.24 GB",
+            "url": "https://fsl.fastcloud.casa/Killers%202010%201080p%20BluRay%20[Hindi%20DD2.0%20+%20English%20DD5.1]%20x264%20TayTO-Ionicboy.mkv?token=1757776438",
+            "quality": "1080p",
+            "size": "9.24 GB",
+            "fileName": "Killers 2010 1080p BluRay [Hindi DD2.0 + English DD5.1] x264 TayTO-Ionicboy.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Killers 2010 1080p BluRay [Hindi DD2.0 + English DD5.1] x264 BHDStudio-Ionicboy.mkv\n6.18 GB",
+            "url": "https://pixeldrain.dev/api/file/cjm9ZwSB?download",
+            "quality": "1080p",
+            "size": "6.18 GB",
+            "fileName": "Killers 2010 1080p BluRay [Hindi DD2.0 + English DD5.1] x264 BHDStudio-Ionicboy.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Killers 2010 1080p BluRay [Hindi DD2.0 + English DD5.1] x264 BHDStudio-Ionicboy.mkv\n6.18 GB",
+            "url": "https://fsl.fastcloud.casa/Killers%202010%201080p%20BluRay%20[Hindi%20DD2.0%20+%20English%20DD5.1]%20x264%20BHDStudio-Ionicboy.mkv?token=1757776438",
+            "quality": "1080p",
+            "size": "6.18 GB",
+            "fileName": "Killers 2010 1080p BluRay [Hindi DD2.0 + English DD5.1] x264 BHDStudio-Ionicboy.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:119495:s1e4",
+      "storedAt": 1757776440052,
+      "meta": {
+        "storedAt": 1757776440,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "119495",
+        "imdbId": "tt14115938",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "The.Eminence.in.Shadow.S01E04.Sadisms.Rewards.1080p.AMZN.WEB-DL.English.DDP2.0-Japanese.DDP2.0.H.264-4kHdHub.Com.mkv\n897.62 MB",
+            "url": "https://pixeldrain.dev/api/file/o7Wc33MA?download",
+            "quality": "1080p",
+            "size": "897.62 MB",
+            "fileName": "The.Eminence.in.Shadow.S01E04.Sadisms.Rewards.1080p.AMZN.WEB-DL.English.DDP2.0-Japanese.DDP2.0.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The.Eminence.in.Shadow.S01E04.Sadisms.Rewards.1080p.AMZN.WEB-DL.English.DDP2.0-Japanese.DDP2.0.H.264-4kHdHub.Com.mkv\n897.62 MB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/The.Eminence.in.Shadow.S01E04.Sadisms.Rewards.1080p.AMZN.WEB-DL.English.DDP2.0-Japanese.DDP2.0.H.264-4kHdHub.Com.mkv?token=1757776439",
+            "quality": "1080p",
+            "size": "897.62 MB",
+            "fileName": "The.Eminence.in.Shadow.S01E04.Sadisms.Rewards.1080p.AMZN.WEB-DL.English.DDP2.0-Japanese.DDP2.0.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "The Eminence in Shadow S01E04 1080p BluRay REMUX AVC [Japanese FLAC 2.0 + English AAC 2.0] TTGA-4kHdHub.com TTGA TTGA.mkv\n6.56 GB",
+            "url": "https://pixeldrain.net/api/file/Qvxiz6LV",
+            "quality": "1080p",
+            "size": "6.56 GB",
+            "fileName": "The Eminence in Shadow S01E04 1080p BluRay REMUX AVC [Japanese FLAC 2.0 + English AAC 2.0] TTGA-4kHdHub.com TTGA TTGA.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Eminence in Shadow S01E04 1080p BluRay REMUX AVC [Japanese FLAC 2.0 + English AAC 2.0] TTGA-4kHdHub.com TTGA TTGA.mkv\n6.56 GB",
+            "url": "https://fsl.fastcloud.casa/The%20Eminence%20in%20Shadow%20S01E04%201080p%20BluRay%20REMUX%20AVC%20[Japanese%20FLAC%202.0%20+%20English%20AAC%202.0]%20TTGA-4kHdHub.com%20TTGA%20TTGA.mkv?token=1757776439",
+            "quality": "1080p",
+            "size": "6.56 GB",
+            "fileName": "The Eminence in Shadow S01E04 1080p BluRay REMUX AVC [Japanese FLAC 2.0 + English AAC 2.0] TTGA-4kHdHub.com TTGA TTGA.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "The Eminence In Shadow S01E04 1080p 10bit HEVC [English AAC 2.0 + Japanese OPUS 2.0] H.265 Tenrai-4kHdHub.com.mkv\n381.01 MB",
+            "url": "https://pixeldrain.dev/api/file/BXyLcHwb?download",
+            "quality": "1080p",
+            "size": "381.01 MB",
+            "fileName": "The Eminence In Shadow S01E04 1080p 10bit HEVC [English AAC 2.0 + Japanese OPUS 2.0] H.265 Tenrai-4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Eminence In Shadow S01E04 1080p 10bit HEVC [English AAC 2.0 + Japanese OPUS 2.0] H.265 Tenrai-4kHdHub.com.mkv\n381.01 MB",
+            "url": "https://fsl.fastcloud.casa/The%20Eminence%20In%20Shadow%20S01E04%201080p%2010bit%20HEVC%20[English%20AAC%202.0%20+%20Japanese%20OPUS%202.0]%20H.265%20Tenrai-4kHdHub.com.mkv?token=1757776439",
+            "quality": "1080p",
+            "size": "381.01 MB",
+            "fileName": "The Eminence In Shadow S01E04 1080p 10bit HEVC [English AAC 2.0 + Japanese OPUS 2.0] H.265 Tenrai-4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:119495:s1e4",
+      "storedAt": 1757776441901,
+      "meta": {
+        "storedAt": 1757776441,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "119495",
+        "imdbId": "tt14115938",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DTS-HD MA 2 0][x265]-iAHD",
+            "url": "https://a.111477.xyz/tvs/The%20Eminence%20in%20Shadow/Season%201/The%20Eminence%20in%20Shadow%20(2022)%20-%20S01E04%20-%20Sadisms%20Rewards%20[Bluray-1080p][DTS-HD%20MA%202.0][x265]-iAHD.mkv",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "The Eminence in Shadow (2022) - S01E04 - Sadisms Rewards [Bluray-1080p][DTS-HD MA 2.0][x265]-iAHD.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1434:s6e12",
+      "storedAt": 1757776442971,
+      "meta": {
+        "storedAt": 1757776442,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1434",
+        "imdbId": "tt0182576",
+        "season": 6,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies x264 iTA ENG AAC Subs-Maleno85 Sylar T7ST",
+            "url": "https://a.111477.xyz/tvs/Family%20Guy/Season%206/I.Griffin.S06E12.Peter.all",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "I.Griffin.S06E12.Peter.all&#x27;arrembaggio.WEBMux.1080p.x264.iTA.ENG.AAC.Subs-Maleno85.Sylar.T7ST.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:moviesmod:tv:1434:s6e12",
+      "storedAt": 1757776441564,
+      "meta": {
+        "storedAt": 1757776441,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "tv",
+        "tmdbId": "1434",
+        "imdbId": "tt0182576",
+        "season": 6,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "Family Guy S06E12 1080p English Esubs Moviesmod\n188.13MB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2k3qAelmEAxhGvjfmm-CnI0F-2i7ibjygVQ4uzsQHqTmKWi6MXaSjb1vxBHDENeHb6m47r-F7oLoxGRF0xIs7z4Fj2w-okEYl71kMZuaDJuhF2GOjout1ma7zaMz07WY5ZHBy6yJED1Opf6mlgeFSfYNpCxPPx3SeFWWt6buXUZuJ-cghgioNQ7U1b57OrcyaE5T3LAAHK8uMeGoYaBMLoYx4fpTNp6l9i_FsogSUoQtfSaEvcNgbwi6Sq2b-BFNo6R3T2tozSWXR4AhNTVM5aZ83j9qdIrGANb_2tn-lkvMVAwnru8BatX3sFOwwhpbQdNK-ylh3cp3S3d2Ca_jklm0XDpHCnxdHE57OazxIw8dIj1F0Vp83AxIvnlkM0rc4bF6yZu1GE5eRhBW0Y_KvzqfgV2xVlBXADbf0fNroswQzIzmKaW5E04nqYqG40pW-7GvC6PIyZAe_mqHxbaS7r304rt4oa4gHHzwywjLTO2JXIDbhnA3fya7_seWxfMtHLOeOp0MrPW_VQHkmmI6my3cPmd9KjoxbDWZs2TWFGPDvC4V5whmdw5BSME_pqSmZoyE-zzeHvN1yFR_QgcAPbmMQ-HhqxhXbUanSe-cRbjSkmxoDZy-7cMreyHBaU1Hjt8oM6N_1QBpDEGsMZJYxxPF208xZYkaZMH7s58tDH5HnZWi0BIAUHjFqv67NUPwfbW3yFlknoAw08-Zi40cxWBfvLBSS9PHZOMGfJfyWSJ0a5x16svnAMFb2RyD4Y2N7byLON6KlCgHqdt4_cfljEwg9t6vNUj3a9Te3R4zpKMkQtuTM5cApSgTT1Gt-DPJ2bk0MAd7MsdQQ_iiwna8Ih0s3xQcFQy8aNJ8WJgp7hhPTKwR1nSMvsoHeoiPEwEEBF5BeZ2Z73MeUC7uRmUI3C9hafv9AIPzDdWKcj1_GxH98C4Ay5T6_m8wFK7LWUh5nAHRHlDuYOk4lP1wnGUAbJAB5gbN3FlmkB-LvYvAKxTSAgpit_JJVMPl2dDaVkmQF818jJqr2HnqNrDZ233muPLPqIlgTISahLs7ChRrddkEKjMx6M",
+            "quality": "1080p",
+            "size": "188.13MB",
+            "fileName": "Family.Guy.S06E12.1080p.English.Esubs.Moviesmod.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "Family Guy S06E12 720p English Esubs Moviesmod\n175.32MB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kfdqQCSSdSq10ZjVJmw19a5zYOM1Gz-VH2MhN6dloiUv1Vbi0EVOHaVZUblVb0ko3BCSRcGy-8alN8NiYwp4X1M20UdmwvU7ewxZzpk2Vr892g3gywHUPr99XCVgdudPKMAQLNrAVZy6yhiZW5TgN1THYp_v0RyCcrc4v4QUsWi507yRCN-3xzVO4GW9xLm4lxPqgmfhc9soWn_KE3__sBvjXG4wM9zIlXhQ8XXw3iGDHRu1QrXIfxWZBpvP4zB9lNBha_Sijru6qRv2s70GXq9lNGQ6Sv3wxzW0H5JoTIOlN2dvr63XvFFsUrZI0hnnbaB3j0ZBRU8qE8J7EDB-ZZNCkwQS3HiPAKU16ahC80zpdJMXj6HpDQsiiCWwVuI3gKGeOHZxWgk-LVf6En-JYpafCzVhS6wiPN5Y3-euQik6uDjmL8yKLd_11B5B5kVAUQr05yV-E3acKBkFAC0pBbH85jJWAueqLmHWjoPt8xzfVoma8f_OzhGZcBjR9Gm-dq2Oy5uEOOIsyk4Pih6l-g_V0TQ1P_VPDK1z2dn8cRNt7bJL2msqxW74MdOvS58E0SEhCquaEXQ7rwGGzUOhMrgJhdbb_30iwKJUeChP3IjXbPvlddGUkLeBDH-rHJyTRnfdVNiEKjW_44WLI9AnepsbV4AOtm8AqzRZ87LAhK3xRaYihBGtodNw5OJxIUo6NUemwFDE5WWBcs38aGrZ7YBjci3X1fkvo9pc6BDmv7vUXi1_KEXef_gMlp6iW4Q2eFcpPcWLv0-KySAdtWLSZwMW56wx9dAiGfPO-gcykMr5oNjWiCTizWVcHXT9xix0SdqZA3dO9idrW7HenbbtBoRR22HWoy2_43rA_I7oQlChTgC41mVwfJrfOLHqJailzbIUFkNAyrb75qc0irOd7vzsuE0s8sWVOXUgwo7_6Vzp11MjvHLA58CSO-EEVk9wboSlvo3Qmae-FBeOntW3zGm6F7MRkR2-nbQO6ZzjJWPxEtk_TJCkxsF5zKC6Jpiyy60kvszZifFe4XnXhZ2polemWTZjGaYFm2fVdmjgK0KOVB96Y",
+            "quality": "720p",
+            "size": "175.32MB",
+            "fileName": "Family.Guy.S06E12.720p.English.Esubs.Moviesmod.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:21510:s1e13",
+      "storedAt": 1757776445681,
+      "meta": {
+        "storedAt": 1757776445,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "21510",
+        "imdbId": "tt1358522",
+        "season": 1,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-EPSiLON",
+            "url": "https://a.111477.xyz/tvs/White%20Collar/Season%201/White%20Collar%20(2009)%20-%20S01E13%20-%20Front%20Man%20[Bluray-1080p%20Remux][DTS-HD%20MA%205.1][AVC]-EPSiLON.mkv",
+            "quality": "1080p | REMUX",
+            "size": null,
+            "type": "direct",
+            "filename": "White Collar (2009) - S01E13 - Front Man [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-EPSiLON.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:moviesmod:tv:21510:s1e13",
+      "storedAt": 1757776440523,
+      "meta": {
+        "storedAt": 1757776440,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "tv",
+        "tmdbId": "21510",
+        "imdbId": "tt1358522",
+        "season": 1,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "White Collar S01E13 Front Man 1080p x264 English Esubs MoviesMod org\n845.99MB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kHUtFOxrFBSDFzgl-7hpUPwbHsnNqB9HncxWinjCpwXMTTf3-KCMQgSeSdNGKB1nzP0YqFknAveruszEEwrMk9GIGsJAEpjd_6NT51lHG3lgV0IQuHDhGRgKKcCJUbpUnmJX6Jj_FZ6mSceUTcAy5kLmWoOI8wzChxYIE7U8F_yP2XYT_ggoeJ3I0ube9RgcjaPAPq9YRPZXM58FfYbnD-_wmTh23KfLfad8iap_l0y6DjfsCdoIk2Sb_r-6xXgficK6JLA6g1HWXol-3sgJTqXi3m2NVgzSqDdp4RKgG0UXb8G2XryzByEg7lgjEQz5zEPKGLK6owKwil033-y2z4TZdryob_Uk8oyBqQBKcSzHHYmyYTBhi1bJgmS4Ki5v0pLyBuqdqgqHnqrOLaBRgzG69bHGWLhCTtFiD9R_el3wlhj0yRkg-V9nmKKFQYv1yZyxrZG7UL6IZ0fIkXB50lF1CxrK88h9qQEawyvCCxhWuMJ9x7_CngD_Bl9tKp2eI6M4mo_w0DmquWnoPrKp5azdVaGHtKAwzTQwFeNDoZ7yQrMan_7CFtahC7ddaYWrfWzIIye0qBjfJw98akx9U08AbKZ8z7eH_D9NY_vWpLFU9cDAE9bkQrQWY3hqkXBAzUGBncmuUMJnxy4sDDUAxJaKAkc51PdWbRpVk9PmUJO_ssFeyVIs-eOFWqLFGGT8TC5ztZ5ai9aR53Gb5TEiC2ccpReGtjmeJITbLh_lHES8P_NaX--T7dcsH5rRMF1lEwxb9K6h04prVjIz3Kt5xwNEt1V02GwiC_NuWM0wxv6R2CSW9jf1ofxESPwbmX5hqBYwR0AyuFsVTCmIWhoTbXWU7m08yWm6f4CYfnB83Q1kbn2Ip-yNNVdraQrkQ2MUPfEJOi0BbmSvKXh8GyL_zJzTf-PK0vXrMJDAXnv3_MrsY-RGm8y4rwrYZrwIrSL4LDa81j8zBA7oaaxnAhw98vKpVuAWp3pJdvvenP9Ns4b6iSCVvQIRAfyxPIjFuQZiUUTNLoB8FOwqfUNG2AO0SoFFkXtiLZD7401JJdpiZ6jc0kDPw",
+            "quality": "1080p",
+            "size": "845.99MB",
+            "fileName": "White.Collar.S01E13.Front.Man.1080p.x264.English.Esubs.MoviesMod.org.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "White Collar S01E13 Front Man 720p x264 English Esubs MoviesMod org\n347.48MB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2n_aHDblDbYaucd6RAEF4WUvyn3krGVdEdOFUOpI8BqVgVnGX1pbOtcplIMuuxhAhiXIFolDffSovtSbfYeX9IjN2BAITjLdiD7UaMcRpk5bn6JOH1zVFR5i2kYsrMQeSdrYX3dqOug5bLs1zRX_gPJ4MljjKqWj2AJpcMwHhkizAWoX62WOOsEBwtiqYWjsbEJiINexoWyaOWVU2echmzcnJ3dQYz8i0Adxw2W_avdnYvfeAiPSHk1MKoej6lK5FdaYG4tahtZZH7iwsvTYOVXo6-hgkxCFFqi34su7MCm9ojJIGswswNwbDrnyNyMcj2G5yg7tHWMXW4MIvIRZEaqig2kjltCN1k7Yn4Ws9YZqVDpIydpiHJH0Xvsi8-O5oiFMPDEKymFz5_6EfU0bZ6mE9Qyh0nxneS9frTS8TJjvZxtdIG2JROPWwB0LWEgnUNVKISUbUBE0JMtnoD7toES7yTcFG9pPnJLnVNerj-Vnu9kki0i_zCVeEh7wB-0X_TpezERCBmGpNyV3WMr_-Nrpf3tK14HFhwPOalJzibAZ16FyLRaWnx5G7i_j7CtpZZH6vbtrezqOM9PeufsJKZ6j49sIVVWLRdH67l4gvAbbftRwJlzRQ427E97IOkkG97GrP1CqBDG-MfAVI2Sj2jTwKOC6Rc7OzzFez7FIce-FAovI8s1Vu_O_FNkJy_nbNppUrLQYfW0tHus-SfzOttN7QcEtf6eLkRL-GqahmfzJfaHOxmzFEFwx-ptm5ZWHCvrhzGof8uLaAjWq1HigvW5yAZEeLtWb0KJojML0TG_wZe9UKUX1YugqlmHAUcjEFTHwwZy1Iq_cVodECpYYeJvo6CWaEeMwL5sOOe6cMBXDoa-5BXq0Z8Aiddzm2Ahx49de4og-Sx-wMQ7U1dEIN6Ym987eWbniONkW4NR5FmyP62D7CFLRAYIpAHSBhLVHCUJurobZWLDl3EB8iwodU--F9TCGSBBwlmh2VOLgKDeyxU1t4Wq4Ib8AJjJqmhLG9LLBEahcPeBXyFFGYoesWZx5zJ-Va2qI7zXl8n6_4uyCbLEB44",
+            "quality": "720p",
+            "size": "347.48MB",
+            "fileName": "White.Collar.S01E13.Front.Man.720p.x264.English.Esubs.MoviesMod.org.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:21510:s1e13",
+      "storedAt": 1757776445203,
+      "meta": {
+        "storedAt": 1757776445,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "21510",
+        "imdbId": "tt1358522",
+        "season": 1,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "White Collar S01E13 Front Man 1080p AMZN WEB-DL DDP5 1 H265-SiGMA\n1.87GB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nXxLmo-3fS195KhYgA_RC-cKQ_UzRh-E5W4FLZeW8L4WvKs0QCtq3JjhWBxEgHiUHyUgRwE8YvFts8Ue5HbkSOW-YR5G8gFgyfrLsx3impDQ4XdajDn_5OAGvpyilg3PA-O5jrwFD-qrV9hDA_Kqz13rGZWxdNPWo0AOt4ommmp1B1cRpL2N2_yFtZBUxOnSp7kw9NDZg_jf80pgs_MDo4wCAXxWkpVxrvVySHbpd9PXOfN79kNUfSiSRLXeO3OtoECK3EE6qjsUg5gP_N2YFALpU6Gpzw2dnk4EuGqDUK2i7EzzP6-O6VcAV8OeFobO-yujRsKds8ZmOP7Bd8xHneDHaKZqkkt1HGPfD6xexF_lLsSdzvPvga6XFMP5-jHY0q_KibSwvVDttrkNtT6A88se_HTldEw3WIygRLMXplNdVOEisRy5zOxacubzZW6umF4WzifCh6umqQ4hB-lYvJ3W0NtvftUogOun8B8Nhyl7SCBmGDchO0AJYhnYMMXeWv-2k5L0uelJpJiKPBL6BRczYeWyS8YytAGpSJ0S8wuyL675iR27ssDP-QJzXYv3NDyegMsUF1560A8CFrcwjbDZEKtrVOrD7PO0rJyY_3JiyQshGisVwaw9IAhHiQhL39bw4WTpCP2n6-r2FI--bZ75Vf9TmqMq5lC97mtGQgxQwsFmsPErgO15GK3_DikEPdLtEnR8BcxMGODcOTKtwnzv3rDh-1UjnmW1Q0YfxvWuRXDTbklbNi-earZZG8dE2Jy50aB947fTKYCxnkRn19MSkE6VgGpM0xTs8YNfCWBodII0wxWAWDlR-nqosiwPImES6Pqliub6BDfxjeoNYd4l5P4X4h2r4mUON9Q8DgMWCxttTQ9aV12kITVBlz1nSfxg83Av1AqF6Ttnvc0c3kzx7qSqxxDZrUPWappNoC78hNNpZDh4diConNjmtZMKaR18BNGcHCF5EAs6XHcLaQiiUI9hl0UrkLy83wgpCaZobFEe0gyh-ChgnE8qb8BSih1Gc3_9QdXH0mIngTScza8gx55D2XEx_vkAkWgWH9XCcA4YA",
+            "quality": "1080p",
+            "size": "1.87GB",
+            "fileName": "White.Collar.S01E13.Front.Man.1080p.AMZN.WEB-DL.DDP5.1.H265-SiGMA.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-09-13T15:14:05.683Z",
+    "totalOriginalEntries": 10,
+    "newItemsInThisBatch": 10,
+    "format": "compact_v1"
+  }
+}
