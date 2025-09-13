@@ -1,0 +1,555 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:moviesmod:movie:1153399",
+      "storedAt": 1757774514576,
+      "meta": {
+        "storedAt": 1757774514,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "moviesmod",
+        "type": "movie",
+        "tmdbId": "1153399",
+        "imdbId": "tt27441481",
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:1153399",
+      "storedAt": 1757774516925,
+      "meta": {
+        "storedAt": 1757774516,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "1153399",
+        "imdbId": "tt27441481",
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:391061",
+      "storedAt": 1757774514618,
+      "meta": {
+        "storedAt": 1757774514,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "391061",
+        "imdbId": null,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Now You See Me 2013 Theatrical 2160p 10bit HDR10 BluRay x265 HEVC [Org AMZN Hindi DDP 5.1 ~ 640Kbps + English TrueHD Atmos 7.1] ESubs ~ KiNGSMAN CtrlHD.mkv\n33.59 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Now%20You%20See%20Me%202013%20Theatrical%202160p%2010bit%20HDR10%20BluRay%20x265%20HEVC%20[Org%20AMZN%20Hindi%20DDP%205.1%20~%20640Kbps%20+%20English%20TrueHD%20Atmos%207.1]%20ESubs%20~%20KiNGSMAN%20CtrlHD.mkv?token=1757774500",
+            "quality": "2160p",
+            "size": "33.59 GB",
+            "fileName": "Now You See Me 2013 Theatrical 2160p 10bit HDR10 BluRay x265 HEVC [Org AMZN Hindi DDP 5.1 ~ 640Kbps + English TrueHD Atmos 7.1] ESubs ~ KiNGSMAN CtrlHD.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Now You See Me 2013 Extended 1080p BluRay REMUX AVC [Org AMZN Hindi DDP 5.1 ~ 640Kbps + English DTS-HD MA 7.1] ESubs ~ KiNGSMAN FraMeSToR.mkv\n23.65 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Now%20You%20See%20Me%202013%20Extended%201080p%20BluRay%20REMUX%20AVC%20[Org%20AMZN%20Hindi%20DDP%205.1%20~%20640Kbps%20+%20English%20DTS-HD%20MA%207.1]%20ESubs%20~%20KiNGSMAN%20FraMeSToR.mkv?token=1757774500",
+            "quality": "1080p",
+            "size": "23.65 GB",
+            "fileName": "Now You See Me 2013 Extended 1080p BluRay REMUX AVC [Org AMZN Hindi DDP 5.1 ~ 640Kbps + English DTS-HD MA 7.1] ESubs ~ KiNGSMAN FraMeSToR.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Now You See Me 2013 Extended 1080p BluRay x264 [Org AMZN Hindi DDP 5.1 ~ 640Kbps + English DTS] ESubs ~ KiNGSMAN NiP.mkv\n15.8 GB",
+            "url": "https://pixeldrain.dev/api/file/7nMBdnoT?download",
+            "quality": "1080p",
+            "size": "15.8 GB",
+            "fileName": "Now You See Me 2013 Extended 1080p BluRay x264 [Org AMZN Hindi DDP 5.1 ~ 640Kbps + English DTS] ESubs ~ KiNGSMAN NiP.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Now You See Me 2013 Extended 1080p BluRay x264 [Org AMZN Hindi DDP 5.1 ~ 640Kbps + English DTS] ESubs ~ KiNGSMAN NiP.mkv\n15.8 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Now%20You%20See%20Me%202013%20Extended%201080p%20BluRay%20x264%20[Org%20AMZN%20Hindi%20DDP%205.1%20~%20640Kbps%20+%20English%20DTS]%20ESubs%20~%20KiNGSMAN%20NiP.mkv?token=1757774500",
+            "quality": "1080p",
+            "size": "15.8 GB",
+            "fileName": "Now You See Me 2013 Extended 1080p BluRay x264 [Org AMZN Hindi DDP 5.1 ~ 640Kbps + English DTS] ESubs ~ KiNGSMAN NiP.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Now You See Me 2013 Extended 1080p 10bit BluRay x265 HEVC [Org AMZN Hindi DDP 5.1 ~ 640Kbps + English DD 5.1] ESubs ~ KiNGSMAN Ralphy.mkv\n4.85 GB",
+            "url": "https://pixeldrain.dev/api/file/h3fFomxy?download",
+            "quality": "1080p",
+            "size": "4.85 GB",
+            "fileName": "Now You See Me 2013 Extended 1080p 10bit BluRay x265 HEVC [Org AMZN Hindi DDP 5.1 ~ 640Kbps + English DD 5.1] ESubs ~ KiNGSMAN Ralphy.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Now You See Me 2013 Extended 1080p 10bit BluRay x265 HEVC [Org AMZN Hindi DDP 5.1 ~ 640Kbps + English DD 5.1] ESubs ~ KiNGSMAN Ralphy.mkv\n4.85 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Now%20You%20See%20Me%202013%20Extended%201080p%2010bit%20BluRay%20x265%20HEVC%20[Org%20AMZN%20Hindi%20DDP%205.1%20~%20640Kbps%20+%20English%20DD%205.1]%20ESubs%20~%20KiNGSMAN%20Ralphy.mkv?token=1757774500",
+            "quality": "1080p",
+            "size": "4.85 GB",
+            "fileName": "Now You See Me 2013 Extended 1080p 10bit BluRay x265 HEVC [Org AMZN Hindi DDP 5.1 ~ 640Kbps + English DD 5.1] ESubs ~ KiNGSMAN Ralphy.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:48630",
+      "storedAt": 1757774515816,
+      "meta": {
+        "storedAt": 1757774515,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "48630",
+        "imdbId": "tt0182905",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Mad Max - Fury Road 2015 2160p HDR10 BluRay REMUX 10bit HEVC [Hindi BD DTS 5.1  + English DTS-HDMA TrueHD Atmos 7.1] x265 FGT-4kHdHub.com.mkv\n54.07 GB",
+            "url": "https://fsl.fastcloud.casa/Mad%20Max%20-%20Fury%20Road%202015%202160p%20HDR10%20BluRay%20REMUX%2010bit%20HEVC%20[Hindi%20BD%20DTS%205.1%20%20+%20English%20DTS-HDMA%20TrueHD%20Atmos%207.1]%20x265%20FGT-4kHdHub.com.mkv?token=1757772979",
+            "quality": "2160p",
+            "size": "54.07 GB",
+            "fileName": "Mad Max - Fury Road 2015 2160p HDR10 BluRay REMUX 10bit HEVC [Hindi BD DTS 5.1  + English DTS-HDMA TrueHD Atmos 7.1] x265 FGT-4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Mad Max - Fury Road 2015 2160p BluRay 10bit HEVC [Hindi BD DTS 5.1  + English DTS-HDMA TrueHD Atmos 7.1] x265 SWTYBLZ-4kHdHub.com.mkv\n39.5 GB",
+            "url": "https://fsl.fastcloud.casa/Mad%20Max%20-%20Fury%20Road%202015%202160p%20BluRay%2010bit%20HEVC%20[Hindi%20BD%20DTS%205.1%20%20+%20English%20DTS-HDMA%20TrueHD%20Atmos%207.1]%20x265%20SWTYBLZ-4kHdHub.com.mkv?token=1757772979",
+            "quality": "2160p",
+            "size": "39.5 GB",
+            "fileName": "Mad Max - Fury Road 2015 2160p BluRay 10bit HEVC [Hindi BD DTS 5.1  + English DTS-HDMA TrueHD Atmos 7.1] x265 SWTYBLZ-4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Mad Max - Fury Road 2015 1080p BluRay REMUX AVC [Hindi BD DTS 5.1  + English TrueHD Atmos 7.1] x264 KRaLiMaRKo-4kHdHub.com.mkv\n26.98 GB",
+            "url": "https://fsl.fastcloud.casa/Mad%20Max%20-%20Fury%20Road%202015%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20BD%20DTS%205.1%20%20+%20English%20TrueHD%20Atmos%207.1]%20x264%20KRaLiMaRKo-4kHdHub.com.mkv?token=1757772979",
+            "quality": "1080p",
+            "size": "26.98 GB",
+            "fileName": "Mad Max - Fury Road 2015 1080p BluRay REMUX AVC [Hindi BD DTS 5.1  + English TrueHD Atmos 7.1] x264 KRaLiMaRKo-4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Mad Max - Fury Road 2015 2160p HDR10 BluRay 10bit HEVC [Hindi BD DTS 5.1  + English DTS-HDMA TrueHD Atmos 7.1] x265 SWTYBLZ-4kHdHub.com.mkv\n26.54 GB",
+            "url": "https://fsl.fastcloud.casa/Mad%20Max%20-%20Fury%20Road%202015%202160p%20HDR10%20BluRay%2010bit%20HEVC%20[Hindi%20BD%20DTS%205.1%20%20+%20English%20DTS-HDMA%20TrueHD%20Atmos%207.1]%20x265%20SWTYBLZ-4kHdHub.com.mkv?token=1757772979",
+            "quality": "2160p",
+            "size": "26.54 GB",
+            "fileName": "Mad Max - Fury Road 2015 2160p HDR10 BluRay 10bit HEVC [Hindi BD DTS 5.1  + English DTS-HDMA TrueHD Atmos 7.1] x265 SWTYBLZ-4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Mad Max - Fury Road 2015 1080p BluRay [Hindi BD DTS 5.1  + English TrueHD Atmos 7.1] x264 SWTYBLZ-4kHdHub.com.mkv\n16.65 GB",
+            "url": "https://pixeldrain.dev/api/file/8BrLrNoy?download",
+            "quality": "1080p",
+            "size": "16.65 GB",
+            "fileName": "Mad Max - Fury Road 2015 1080p BluRay [Hindi BD DTS 5.1  + English TrueHD Atmos 7.1] x264 SWTYBLZ-4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Mad Max - Fury Road 2015 1080p BluRay [Hindi BD DTS 5.1  + English TrueHD Atmos 7.1] x264 SWTYBLZ-4kHdHub.com.mkv\n16.65 GB",
+            "url": "https://fsl.fastcloud.casa/Mad%20Max%20-%20Fury%20Road%202015%201080p%20BluRay%20[Hindi%20BD%20DTS%205.1%20%20+%20English%20TrueHD%20Atmos%207.1]%20x264%20SWTYBLZ-4kHdHub.com.mkv?token=1757772979",
+            "quality": "1080p",
+            "size": "16.65 GB",
+            "fileName": "Mad Max - Fury Road 2015 1080p BluRay [Hindi BD DTS 5.1  + English TrueHD Atmos 7.1] x264 SWTYBLZ-4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Mad Max - Fury Road 2015 1080p 10bit BluRay HEVC [Hindi BD DTS 5.1  + English AAC 7.1] x265 Tigole-4kHdHub.com.mkv\n5.42 GB",
+            "url": "https://pixeldrain.dev/api/file/DE4xTDCv?download",
+            "quality": "1080p",
+            "size": "5.42 GB",
+            "fileName": "Mad Max - Fury Road 2015 1080p 10bit BluRay HEVC [Hindi BD DTS 5.1  + English AAC 7.1] x265 Tigole-4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Mad Max - Fury Road 2015 1080p 10bit BluRay HEVC [Hindi BD DTS 5.1  + English AAC 7.1] x265 Tigole-4kHdHub.com.mkv\n5.42 GB",
+            "url": "https://fsl.fastcloud.casa/Mad%20Max%20-%20Fury%20Road%202015%201080p%2010bit%20BluRay%20HEVC%20[Hindi%20BD%20DTS%205.1%20%20+%20English%20AAC%207.1]%20x265%20Tigole-4kHdHub.com.mkv?token=1757772979",
+            "quality": "1080p",
+            "size": "5.42 GB",
+            "fileName": "Mad Max - Fury Road 2015 1080p 10bit BluRay HEVC [Hindi BD DTS 5.1  + English AAC 7.1] x265 Tigole-4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:126308:s1e6",
+      "storedAt": 1757774516695,
+      "meta": {
+        "storedAt": 1757774516,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "126308",
+        "imdbId": "tt2788316",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Shogun.S01E06.2160p.DSNP.WEB-DL.HDR.H.265.DDP5.1-Tyrell.mkv\n5.94 GB",
+            "url": "https://pixeldrain.dev/api/file/e7uzmHh8?download",
+            "quality": "2160p",
+            "size": "5.94 GB",
+            "fileName": "Shogun.S01E06.2160p.DSNP.WEB-DL.HDR.H.265.DDP5.1-Tyrell.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Shogun.S01E06.2160p.DSNP.WEB-DL.HDR.H.265.DDP5.1-Tyrell.mkv\n5.94 GB",
+            "url": "https://pixeldrain.dev/api/file/MqvTnum6?download",
+            "quality": "2160p",
+            "size": "5.94 GB",
+            "fileName": "Shogun.S01E06.2160p.DSNP.WEB-DL.HDR.H.265.DDP5.1-Tyrell.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Shogun.S01E06.2160p.DSNP.WEB-DL.HDR.H.265.DDP5.1-Tyrell.mkv\n5.94 GB",
+            "url": "https://pub-f6f7130da4b84c8f9ec4d3b8b9d7d609.r2.dev/Shogun.S01E06.2160p.DSNP.WEB-DL.HDR.H.265.DDP5.1-Tyrell.mkv",
+            "quality": "2160p",
+            "size": "5.94 GB",
+            "fileName": "Shogun.S01E06.2160p.DSNP.WEB-DL.HDR.H.265.DDP5.1-Tyrell.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:240411:s1e12",
+      "storedAt": 1757774515978,
+      "meta": {
+        "storedAt": 1757774515,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "240411",
+        "imdbId": "tt30217403",
+        "season": 1,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "DAN DA DAN S01E12 Lets Go to the Cursed House 1080p CR WEB-DL MULTi AAC2 0 H 264-WADU\n1.37GB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lhAlgWLwxPvjBh1Nr2oOgW93oXfRTJeidPKE4NSAkLYo_SHm91NCmLeqG9MnQu9h5WdKmlPONA7XOwuZiQlp1L2ubSG7Z3eT9mnSky1G7zrW_wS4nolESifnsb-578Ym_b_gz7fhIXsdCx1MIZkHpaNQHIEIi80887gi-PCE-z8gMGXq-A-BeDQip-AmYww24qyNBtQZOoBIAlMbFmn0lbPSikiVj7f9uORIXFsXH44UsTSuFl8q9mkV0rQ0LM946V3o44DElhiRCEYj6tau2WI5LqhPzXNWPRN5MsvYYVlpHFDGy8sIYd9SzJ4kqo6Ua-EqAYnirSvqpCx8xDOKR6guQ2sPfoQmO-rW6RsCG_-6KmgQfBQ0GYETBH0zNuw-wDUGnMAGz2oLKqJemwiDnKOTiDHwmLQBeDSX7zjXC2708EzevI_yS0K6ATNoAEm01A3m_37KwBuPdx-eQZm7i-Q36ouGBeWWjyPWAqHz9CovUGyuf-oenU8Essb_J4bfh6se7TNUOJr4WShZT2oGDm-2x442s7sH3i7-z9VycrSB2-n0eFiLHQmvZwJrrLi6fQx8RFSp1slLP5LMXzkEbm0eHjWpIYnnCATgWXdPTtQnCx489wYDI6igWGwQWow3YT-FpmPJQf4qObs63kak8udrbZS3sxKZwyRXQ8nDguTqs6pZ54-1KxQd9VkMkqCf3bXJRg170LaWhQETycX4aczfmhQZJIL8ZZUEMxPbSQ6QIxYplldVb59v3oqrSHwI3NTpR9rBdYu_X4McriC8XV2BNTv2rqhg-5ZCB6ZC5sj2nsWNSWr-ti-qRZHOKgXC1i_BvE1c8ff2zDmyFOSdkff1VFffhbetyUjjucu_7UwLEvfy2p9lReueHQKG4JlDLtb0hOEMnJnYNJvu_SJk6ez1Vpfe5-8o_fAqy91RcheYB8HKnN5JK8YFQHZF098CvzoTue0CHzgJI8yegjR6SEmqLLGBSVUdkiydqrCaBw8-axzl-SEfVicpWGAkM5wj58ziSWYvc_xaFAhERiPK5DNx8_JSDvZXLzfseFjyMw_rllcWc",
+            "quality": "1080p",
+            "size": "1.37GB",
+            "fileName": "DAN.DA.DAN.S01E12.Lets.Go.to.the.Cursed.House.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-WADU.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:456:s8e14",
+      "storedAt": 1757774514998,
+      "meta": {
+        "storedAt": 1757774514,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "456",
+        "imdbId": "tt0096697",
+        "season": 8,
+        "episode": 14,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-AsmoFuscated",
+            "url": "https://a.111477.xyz/tvs/The%20Simpsons/Season%208/The%20Simpsons%20(1989)%20-%20S08E14%20-%20The%20Itchy%20and%20Scratchy%20and%20Poochie%20Show%20[WEBDL-1080p][EAC3%205.1][h264]-AsmoFuscated.mkv",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "The Simpsons (1989) - S08E14 - The Itchy and Scratchy and Poochie Show [WEBDL-1080p][EAC3 5.1][h264]-AsmoFuscated.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/The%20Simpsons/Season%208/The%20Simpsons%20(1989)%20-%20S08E14%20-%20The%20Itchy%20and%20Scratchy%20and%20Poochie%20Show%20[WEBRip-1080p][EAC3%205.1][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "The Simpsons (1989) - S08E14 - The Itchy and Scratchy and Poochie Show [WEBRip-1080p][EAC3 5.1][x265]-iVy.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:60574:s5e1",
+      "storedAt": 1757774515713,
+      "meta": {
+        "storedAt": 1757774515,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "60574",
+        "imdbId": "tt2442560",
+        "season": 5,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Peaky Blinders 2013 S05E01 2160p UHD BluRay 10bit DoVi HDR [Hindi DD 2.0 + English DTS-HD.MA 2.0] H.265 RH-4kHDHUB.com.mkv\n16.96 GB",
+            "url": "https://pixeldrain.dev/api/file/8ModGwGf?download",
+            "quality": "2160p",
+            "size": "16.96 GB",
+            "fileName": "Peaky Blinders 2013 S05E01 2160p UHD BluRay 10bit DoVi HDR [Hindi DD 2.0 + English DTS-HD.MA 2.0] H.265 RH-4kHDHUB.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Peaky Blinders 2013 S05E01 1080p BluRay REMUX AVC [Hindi DD 2.0 + English DTS-HD.MA 2.0] FraMeSToR-4kHDHUB.com.mkv\n12.58 GB",
+            "url": "https://pixeldrain.dev/api/file/5dWbuLPj?download",
+            "quality": "1080p",
+            "size": "12.58 GB",
+            "fileName": "Peaky Blinders 2013 S05E01 1080p BluRay REMUX AVC [Hindi DD 2.0 + English DTS-HD.MA 2.0] FraMeSToR-4kHDHUB.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Peaky Blinders 2013 S05E01 1080p BluRay REMUX AVC [Hindi DD 2.0 + English DTS-HD.MA 2.0] FraMeSToR-4kHDHUB.com.mkv\n12.58 GB",
+            "url": "https://fsl.fastcloud.casa/Peaky%20Blinders%202013%20S05E01%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DD%202.0%20+%20English%20DTS-HD.MA%202.0]%20FraMeSToR-4kHDHUB.com.mkv?token=1757774509",
+            "quality": "1080p",
+            "size": "12.58 GB",
+            "fileName": "Peaky Blinders 2013 S05E01 1080p BluRay REMUX AVC [Hindi DD 2.0 + English DTS-HD.MA 2.0] FraMeSToR-4kHDHUB.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Peaky Blinders 2013 S05E01 1080p BluRay [Hindi DD 2.0 + English FLAC 2.0] x264 DON-4kHDHUB.com.mkv\n5.48 GB",
+            "url": "https://pixeldrain.dev/api/file/jDowBptP?download",
+            "quality": "1080p",
+            "size": "5.48 GB",
+            "fileName": "Peaky Blinders 2013 S05E01 1080p BluRay [Hindi DD 2.0 + English FLAC 2.0] x264 DON-4kHDHUB.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Peaky Blinders 2013 S05E01 1080p BluRay 10bit HEVC [Hindi DD 2.0 + English DDP 2.0] x265 HONE-4kHDHUB.com.mkv\n1.17 GB",
+            "url": "https://pixeldrain.dev/api/file/XHNLMTf1?download",
+            "quality": "1080p",
+            "size": "1.17 GB",
+            "fileName": "Peaky Blinders 2013 S05E01 1080p BluRay 10bit HEVC [Hindi DD 2.0 + English DDP 2.0] x265 HONE-4kHDHUB.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:69740:s3e1",
+      "storedAt": 1757774516714,
+      "meta": {
+        "storedAt": 1757774516,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "69740",
+        "imdbId": "tt5071412",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Ozark.S03E01.Wartime.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-4kHdHub.Com.mkv\n3.57 GB",
+            "url": "https://pixeldrain.dev/api/file/R3U4dcoU?download",
+            "quality": "1080p",
+            "size": "3.57 GB",
+            "fileName": "Ozark.S03E01.Wartime.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Ozark.S03E01.Wartime.2160p.NF.WEB-DL.DUAL.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv\n8.52 GB",
+            "url": "https://pixeldrain.dev/api/file/UGjGQrVv?download",
+            "quality": "2160p",
+            "size": "8.52 GB",
+            "fileName": "Ozark.S03E01.Wartime.2160p.NF.WEB-DL.DUAL.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Ozark.S03E01.Wartime.2160p.NF.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv\n5.5 GB",
+            "url": "https://pixeldrain.dev/api/file/ogpZEuLv?download",
+            "quality": "2160p",
+            "size": "5.5 GB",
+            "fileName": "Ozark.S03E01.Wartime.2160p.NF.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:moviesmod:tv:97645:s5e1",
+      "storedAt": 1757774517109,
+      "meta": {
+        "storedAt": 1757774517,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "tv",
+        "tmdbId": "97645",
+        "imdbId": "tt8910922",
+        "season": 5,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "Solar Opposites S05E01 The Clervixian Dinner Helmets 1080p x264 English Msubs MoviesMod org\n843.45MB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kVgoq-BO5SDapFCc7REUVm7rdCXFaycBypbM8-5IJX8iO93_x-9kq8FIKaAJERQkZcmX1qJx3SSCeL9ypyEQH_x9pACBYM1rv1dSsVHhUpyAO77UzfleObqnj2nyBbSjtcCF4wDxIK2dItoHTYecfJCe9N0sarvOVmQI7b0xsU_9VzEx37pckogUzmddjAt_qwHiee1zXyIJjmIWPsx5vkxC_-xS1YiT3X3HBjvQxCddxaNsQhvaZ-8qzCTDStVCWG8sg8Xo1OH9BPn2kUK4Ur7zk42v9zSD_-nBx2AzK4MVZ6JGB5EOsyIdBXsJt0R47X6gQ76mVP2XEchyRp2ihilogynlHBxp1Ply85Ul8DIHvGYyD_uEZR17WQoK9sDNBWYdJiPqCcN2DWAPmS7F9TAqROmF3EAoeWZwV3OUpGufHePwIBWh46TY_5Xfsgj67yoP6WgaK9_4KeINbNqJqJSO3PkBdv9Jz8NkGREJHKmHoW6xNFRpQU7Kjlf4q9rJE72qIa8msszPXTzijOH12pZoBvfACo34E998TFXGEf1_rlUKiBaeGeMPl4LBoPDt19vQy0HvwbgTxyIlxAE3GLK_MRoU9lD6v_KAr5YJvTpFdVY3Rz_aAlnw6ZteKFs9E_dYyUOPM_O15YTAjPDOgmzSWTNBRnwTOVHxWOqRw5YhcadwXfA40Rd3fQ8doEkga1juvQaDgpN1-wXVO3x8QSUL8wCuj-kDw_jC9UQggPGbWpzTaH6shTG16bk1_TYVKlrdJJCnNtO3cBiGxwrpAXw90KnJF96m582X6o5DcR0nIsbYAfBoONVD9CbkS1mdojVv6yq90cnuPjFMEzg_ZI3ew3SgpP1bLkrWii8379aqS1kfeZ9ykqjxpLU34MS9o69cA33UM6iiZRFYkJnAY0YO59GpPt4gyOf0s_Aicwpg8dWJVAwphxgf_PZpOv8wtDGuTiPmbYRJhVnwAZZDtDc62BzlHFp1_5IgBywUr21SGe8rHcWGu2BWb9JrkM63mF3yzqdZwHf5L0EYmnocIMBHuzn529RWHT7FCdyKNg72bxlnk",
+            "quality": "1080p",
+            "size": "843.45MB",
+            "fileName": "Solar.Opposites.S05E01.The.Clervixian.Dinner.Helmets.1080p.x264.English.Msubs.MoviesMod.org.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "Solar Opposites S05E01 The Clervixian Dinner Helmets 720p x264 English Msubs MoviesMod org\n178.68MB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mGx0MjgKb11otJu6a1dWsYqvV79NFtZkmLcAnSdmhcJMpV8BZhHBw-rZOp98o6TVAix-jEQAD74jkJYU1_RxYpqWMRd3B7KCLmdBVguDyobL2c4YJx6WlJBNB1Dwya7vg6xV9dsmgsTUgQpEfN-bTBI0_LFSU0lBPwc_qKZXBKszt02hSfiZ0hBTR8v4NY5GWCq7cnvENMh41tqHwFvohnorfzBDqWrtQZPuR-eH0C77vYkGRznlo79U-eyL6aUq8Y4MvQ5Sy5c0qGEtRWOUzS2GTBJ8v5SHn2OqthIlR9zZIXwDTLvaLjM1mdQizPBFFNROhQd01A0EsKTqDnOHPTm2xLSEOHvvcc35sT-MmKCB-yH1oQLJbFF0xS-R28JuivLZv8O67UdgusJJCpE9a2VCT5Q2TOt6t8FxRDi1PAmv7q79rfCNTlM6wzArp8tXlnC4gbbEymzQajrbutaQ-xU6BeoK3n0wtzR0qFwgXXfomuWUzqg0QaAlmOP5bu8dLYuQ5SdRwRaV-Q7aptqjZVVHSXn0slkGcxlk-f7nCiE0itk-iKsHrFsDRe1rC2Kh82yqmIf5VTBvM7x7ZlUXji-GGUndCZNRcE6igfrFEZiNTWLi5EPcCEAOKigtFGoQKKHVWnmIrylXC1PDwidxDGzztgRHyiRr6ySfWp6dDUTDmSeAyDvJq82fuXunZkyRxpwU8Xf5MT6873vvyG5b3C1FqYjrRh6vaUpAT6KOhTI-acyE3mLPVbOt-86jy4fTFOzeAd23iGP-NYYuY6qYD1PiN1Zq6S6LuSGreOFXqhBJLhQoDq7PjsDxRVJj1MOjC1rLunek1QJbxK_hg0sbp9-JnELVBqkKdT-EiMBFI66URU7ciW8sbIQjlkFpEb-OqCj6KkU-3CHnJcXmSr7JtakgY5bulfqVqh8PA7t3m9eTPlAcF_gQkCrL6XQXoGIOhGjre7X5_BFFEwzKbNTIp2wMMIxYAlCmQzhbq8R_-SdnVwpa5xqRjN9S-fV2k3RAF5jY7TlFug2UBImMt8tDC4elU3fUqYE2xlUvRB0E2pKfcpOME",
+            "quality": "720p",
+            "size": "178.68MB",
+            "fileName": "Solar.Opposites.S05E01.The.Clervixian.Dinner.Helmets.720p.x264.English.Msubs.MoviesMod.org.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-09-13T14:41:57.110Z",
+    "totalOriginalEntries": 10,
+    "newItemsInThisBatch": 10,
+    "format": "compact_v1"
+  }
+}
