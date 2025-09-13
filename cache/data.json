@@ -3946,12 +3946,507 @@
         ],
         "count": 8
       }
+    },
+    {
+      "key": "prov:dahmermovies:movie:17379",
+      "storedAt": 1757767268028,
+      "meta": {
+        "storedAt": 1757767268,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "17379",
+        "imdbId": "tt0408985",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ] [YTS AM]",
+            "url": "https://a.111477.xyz/movies/Last%20Holiday%20(2006)/Last%20Holiday%20(2006)%20[BluRay]%20[1080p]%20[YTS.AM].mp4",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "Last Holiday (2006) [BluRay] [1080p] [YTS.AM].mp4"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:343611",
+      "storedAt": 1757767230860,
+      "meta": {
+        "storedAt": 1757767230,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "343611",
+        "imdbId": "tt3393786",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Back To The Future Part II 1989 1080p BluRay REMUX AVC [Hindi DTS 5.1 + English DTS-HD.MA 5.1] KRaLiMaRKo-wAgen 4kHdHub.com.mkv\n25.23 GB",
+            "url": "https://fsl.fastcloud.casa/Back%20To%20The%20Future%20Part%20II%201989%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DTS%205.1%20+%20English%20DTS-HD.MA%205.1]%20KRaLiMaRKo-wAgen%204kHdHub.com.mkv?token=1757767230",
+            "quality": "1080p",
+            "size": "25.23 GB",
+            "fileName": "Back To The Future Part II 1989 1080p BluRay REMUX AVC [Hindi DTS 5.1 + English DTS-HD.MA 5.1] KRaLiMaRKo-wAgen 4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Back to the Future Part II 1989 1080p 10bit BluRay HEVC [Hindi DTS 5.1 + English DTS-HD.MA 5.1] H.265 HDH-wAgen 4kHdHub.com.mkv\n14.86 GB",
+            "url": "https://pixeldrain.dev/api/file/XyX43fb7?download",
+            "quality": "1080p",
+            "size": "14.86 GB",
+            "fileName": "Back to the Future Part II 1989 1080p 10bit BluRay HEVC [Hindi DTS 5.1 + English DTS-HD.MA 5.1] H.265 HDH-wAgen 4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Back to the Future Part II 1989 1080p 10bit BluRay HEVC [Hindi DTS 5.1 + English DTS-HD.MA 5.1] H.265 HDH-wAgen 4kHdHub.com.mkv\n14.86 GB",
+            "url": "https://fsl.fastcloud.casa/Back%20to%20the%20Future%20Part%20II%201989%201080p%2010bit%20BluRay%20HEVC%20[Hindi%20DTS%205.1%20+%20English%20DTS-HD.MA%205.1]%20H.265%20HDH-wAgen%204kHdHub.com.mkv?token=1757767230",
+            "quality": "1080p",
+            "size": "14.86 GB",
+            "fileName": "Back to the Future Part II 1989 1080p 10bit BluRay HEVC [Hindi DTS 5.1 + English DTS-HD.MA 5.1] H.265 HDH-wAgen 4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Back to the Future Part II 1989 1080p BluRay [English DTS 5.1 + Hindi DTS 5.1] x264 CtrlHD-wAgen 4kHdHub.com.mkv\n10.78 GB",
+            "url": "https://pixeldrain.dev/api/file/4k44vm3U?download",
+            "quality": "1080p",
+            "size": "10.78 GB",
+            "fileName": "Back to the Future Part II 1989 1080p BluRay [English DTS 5.1 + Hindi DTS 5.1] x264 CtrlHD-wAgen 4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Back to the Future Part II 1989 1080p BluRay [English DTS 5.1 + Hindi DTS 5.1] x264 CtrlHD-wAgen 4kHdHub.com.mkv\n10.78 GB",
+            "url": "https://fsl.fastcloud.casa/Back%20to%20the%20Future%20Part%20II%201989%201080p%20BluRay%20[English%20DTS%205.1%20+%20Hindi%20DTS%205.1]%20x264%20CtrlHD-wAgen%204kHdHub.com.mkv?token=1757767230",
+            "quality": "1080p",
+            "size": "10.78 GB",
+            "fileName": "Back to the Future Part II 1989 1080p BluRay [English DTS 5.1 + Hindi DTS 5.1] x264 CtrlHD-wAgen 4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:moviesmod:movie:343611",
+      "storedAt": 1757767233621,
+      "meta": {
+        "storedAt": 1757767233,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "movie",
+        "tmdbId": "343611",
+        "imdbId": "tt3393786",
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "Jack Reacher Never Go Back 2016 Bluray 1080P Hindi Eng Msubs MoviesMod org\n2.51GB",
+            "url": "https://worker-late-pond-8f28.mawewi1103.workers.dev/e9b2a2b99d6fc9b2a9ebdcf4fe3aa71bc311bb1b462d85bcc5835a8038fd71006c6f59dd346da559a50015576254e50c607e3d0eb05ce0b2f8ffdbd2fcbb0eba9c20eb6b324d396b4964c654187043865b73caedc6fac46b7d45ad9f0188aca63edaedd753e702ab41d54176dadeb1f7620e129181e9f662aa3a876413d8da649e0eb68408afb9a840a5158f73b15add94054027ba93d9eaf3f3dfe92705bc8c9fda5eb621cbfe8ffc25b4137bedb0f2::7fb6c02f16ebbba1b94210d7e814a4a4/Jack.Reacher.Never.Go.Back.2016.Bluray.1080P.Hindi.Eng.Msubs.MoviesMod.org.mkv",
+            "quality": "1080p",
+            "size": "2.51GB",
+            "fileName": "Jack.Reacher.Never.Go.Back.2016.Bluray.1080P.Hindi.Eng.Msubs.MoviesMod.org.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "Jack Reacher Never Go Back 2016 1080p 10Bit BluRay Hindi English ESubs Moviesmod Net\n2.77GB",
+            "url": "https://worker-red-violet-c750.kajeyo5306.workers.dev/8f23342edc3e723f7be5ca1e3c89919fff7794e753558df974d1040679e642de424c71f84f3316eb9cfd9bc1c57a5dbd003911da77a3f12f2588e22fe2522d2d38a26bce94759c870aecc52cd724a24780daa7af09f79753ab9a57e6ddf4d6f16fb8f8081cd806f25e67841a9faf3312a89c6e1abc40afcf1fb1bb616d2dc088b370be66840a02ff11f0a116ddde6f23f0fa5e0ee81f230147f16c9a47ae56492083163057a3d9eeecad8b36cfae2b2a::02b62bd6b403ca8436bdb69ef8295ce7/Jack.Reacher.Never.Go.Back.2016.1080p.10Bit.BluRay.Hindi.English.ESubs.Moviesmod.Net.mkv",
+            "quality": "1080p",
+            "size": "2.77GB",
+            "fileName": "Jack.Reacher.Never.Go.Back.2016.1080p.10Bit.BluRay.Hindi.English.ESubs.Moviesmod.Net.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "Jack Reacher Never Go Back 2016 Bluray 720P Hindi Eng Msubs MoviesMod org\n1.06GB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2ksuLfd1lBrw8sOrlGaj9ZS6L4hxAF6iPHHTxbPcUHR4aJ984UvI2icKJ7kbrARnSDXIrlqUrd2hTA9fKFExYPIQFUBSa6SL6QnR6tyWBgrRMgmAvAjg13RNTd2UDOfxl5fbBooB3w4Qr5eCq7zDLSiGyAFFmKDYrk_0jBv41eEai5W6cQSsn16sger5ZIpLWFvfRS4ifc7e5H8cSa9zZtXHzWTXqlRu8Za2_p6X1fSImRoRIq66u_AyUvKsv3M7zXWPBCBVFdQi6FtJ7feYIOCF9nMFdYJ2nXptV-CRazwbN_8dcEK_86rUCPZ0394QHjo89oo4U7BVeK2NtO5pqYWk3gOfoMTyCp6FVQc1KD6zfJ1gc_Zvpeqn7-0vADQai66x-vfxPsd-ObG6nb1fIHQ5MNbxMF0vYFsypDPUMShGtXv87YRWZeFWbknn5TVxihgOMJV3zzsCB_z-ycVWZx5oag225qI-G3ouWHmj7sAT_bg-G9xSnGpiylf3s4GhMzDbSJ1e0FsWszIiW03VCK9ntcFP-XnqS9PoOzhFU0-LHfqWK7k52AI_adSx2GHu67DoogSwpwG8U5vF5MWban2FJ1t3FVRM30XZyQA6ybp69RIQPgMF9wVMzZreLKowMVNvVRHkySMZwPqO9bDc8LkIveFPHO6d1tjBXGE2jmP2m9M5jLoLcmHAV9rbN0UYd4q269WEa3L_KR_EtG4qKRaAIW3zjugYE-cgdo8X3tmx5njcgO7yMDcAvMWhtkc4YEmo0BdxC8RcWe2sBJJ9Busy-hPztbz2p3vHYN8gV7waUJBK7ZGbU6NgurzQ2bPibVn3WPa-6R6R-sYuVHuryv1Hr7eb2qKdVXJF_TPnIglMkzEVn46S1Q3iCZmBzT78qEuQhDm2yauoMgS7Nrb07g80IqM7GuDyAVXMF9JdmydgfygbWXYIGsZzEtidTdgGOR0VcbZJdT-Mbtjaxr_XqO7v74esnta6bp4AvU_00VQpXjTf9IEyEIMK2wnHjYTe6fmQI9DEDZaF2JGTiKiv9V26oB7q8ljOD-icDVznbQ24gwZi_o",
+            "quality": "720p",
+            "size": "1.06GB",
+            "fileName": "Jack.Reacher.Never.Go.Back.2016.Bluray.720P.Hindi.Eng.Msubs.MoviesMod.org.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "Jack Reacher Never Go Back 2016 720p 10Bit BluRay Hindi English ESubs Moviesmod Net\n1.13GB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kdLJZs78oh-W1gwPbgHsVK7iWpHYA5WbqecvxVDyhG26bsux5BthhZuAMFpOa8baYSoxS-BRpU3DgovlZGKKTEdCgaKPXfWVAtNe3X6EJmtAOLzNQRwdWSddN6IUKyCU8ehesANjJER9aisf9t5H2GOPrshG3ULyRdNQKKc9xlTG1zM_SvU1nMTRi2kDCN7uDM5ZDx8C34KVXxhXg5s12fAML8gzjzbIWwWA58pdqhnY3Thl8sTTlAmYQhDAuzaSUXe3q1dKlbT2AHwGBWvyJDPKeaX1839wIpo0Igw-MSm87YufYZPaD_MGf4eDNbDyCwrJ_QDjYc54itRO5yI1GjSSON6OMVoKYuuPhEAo4L2dvk7nO-sXB57wymDY5GYVkyUkbSELkPG6hBz7Ngb9Ln-OivOuYRMOV7EYG2Le6A_ATZpZ9W9O4Dy5VU8O9c0PPDEDhxRoFiATFsgw7StIEIRmRn21bPvMP-l73Z7z09129ynaQqVFpSKD3HnUPwGW8z77Uny5hu6EzfGAZv1_COS9VoWBpZ_sRUVOeKKsKJmHWjtKDxdoDgQYeFXx1wTFP_YGORKz_80hWf_8r8MziF3kreqgbm-HwmVRKv08nPQxDpUsGyNd4PS0L1_Q0PmPgUxJ2tn2sESaG5YYxtj7SrohjD3Zy3UpRYpAFPuJprw55JDVtOdktPgZ9LYRFplzLNsQXlpQhgIFAdRa7re4HGkpdQSPaUIJI2Vh3x4Zorx3EZS3uw0ivT1yO-FHzTV7MGOuQs-DbzohhGa_e8POjK1PFK0xuwrARtRlYYzLb1uIl0EnebP-iEzdqY3IafPXR6jXlTSUXd_VGb6InOoN4IvetBVssm2Is0rj2nqXjH-m3sNAKOQx5nlT0og8JvkATFgqhvIhbsPk3xlh4ytf6sVnoCxs0jygWypKlKTl3HF8W6rgonvN9KybMVSNJZHmLgwfeNPohgmSjzhEyxO0HB03t_kOpR50jh51l6HRkvyv07zv7Syfxmf_COpUg-yNrNARANgY0MYFIvZ4MXj8eSCS0CwMwBthYoJj1hTzlwseyUfOs",
+            "quality": "720p",
+            "size": "1.13GB",
+            "fileName": "Jack.Reacher.Never.Go.Back.2016.720p.10Bit.BluRay.Hindi.English.ESubs.Moviesmod.Net.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:112712:s1e2",
+      "storedAt": 1757767249915,
+      "meta": {
+        "storedAt": 1757767249,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "112712",
+        "imdbId": "tt11382382",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Sex Education S01E02 Episode 2 1080p NF WEB-DL DD+5 1 x264-Telly\n2.02GB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2n-bJw04hnwOVJxBFkMuQgdnD9FmVPK3g4CNMRKQYanIGarpvCieRTXxhN_ZtQsA0MXMoRAQnSuvCUBoIBreHuUxhl1eHJqSbCIMokcnJmRCAIzJ_If33wJHGjFYc2_2tUQCU0DQFRWHopSPGAlW8Nk6KE7YUB0eUWNPzenJWAEuUyivSb51KAfmI8Qa2erBGhX5VUzgs4xWVrULPfN1qubbQkgnQwhr-gzLu162xKXUmvr0tU865oIvCYAg_QSBFnFtaNHug0bddmN6uhdpXqc0DP0lYvpClX2qKhv7_LoeMNcpJkc7BdiAGffxGiMPmJgGXR4xfPh-mJORrW9JYg1rld9qQR9mM3v9vkPRXtb453jPOa1ibCp0whBV--zgYxWL1TbGb2MfvUfqgbzoLmyXUKMfhvfM4DWhvDO_pB7k5pUPhCvNSXLPOozIJNxDEsZKjQGwknbZdZyyNlXKXYJUptufjC1rVCoad_z6RuvwHremv1a7y-A27sFwxEiw8VptUm6ETjZlW_fYUQEhQfRsCZCvaR0eS97kcgIHnprAK1ZFWD7vp4FYUO5DorIDcak4MsyhBblZqrdJoe5uBekU-VLNVhuTyp5RVR0-ubD_TWtbJMKr_YhCo1LhKu6YfY9ZpA1tK5t_gPNztpYpfkvmru_tbBdAXEIlRtwmAlmARNoLD799vYVkzbDtwMuvKK1xwq76eX-hKkJ-4sWqFbFot-g7HPgNhyM7d2iktpY1eJds1ue8XLyECf8FEpXpANyAjLALH8WJ-DSMirb0yhF4fLlhBNHDbvHpc8QHivCVubWA470hb3owqfUukNpPtkIDWFP5eAiQC-0OABbnu4pPoA3aQ81NhMY9uCa4BVaVUzBAvlNfuVQZSxVGEcf4ICawljxsz2yD45Us8o_OCCu9ZzskV32Za3cs7_YBVSDMVjQ9LBDKAoDl_lvtcbhIkJeKZK78cJyTqQHkZH4cFloCmx_Y6ZOT2JvG_SqiccV4eOxRCa0yRINH9cSl0_MF8SlZjFHihL_d9S2j--ZQD-mp1p_YLXbVIitpjJLb_tw9QUPNn4",
+            "quality": "1080p",
+            "size": "2.02GB",
+            "fileName": "Sex.Education.S01E02.Episode.2.1080p.NF.WEB-DL.DD+5.1.x264-Telly.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Sex Education S01 E02 2160p 10bit WEBRip x265 HEVC [Hindi DDP 5 1 640Kbps + English AAC 5 1] ESub\n1.7GB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kQD50PXP2pTEK_ReI3-oHsEmvH0GWG7Q37W7WUw5yi0kESnhOctASMtrNV_JGO1If0vh8s_i2VOcPFWsHP6rBtfQJMzfTv0ZHAN1vzoCd0t4KLL6452yeSdp-jqZv8BF5Q4wRE6iDl7UU6-cDbmPEeAyOuOmSLlsmj_QNcl2Ji9Y6Z4M9hIBqBp_NLi3WY9cvxRB4g3Z6Ec3rHNxRka69bbUNDoOIcjL51vMXdL_qSQQTtreNJ3XluV2KkqM-gEHrpkoWB49W9sjL47s2rOB6PJHD-yHNQnIEZb8vxKetNCQrGohGLwupcZN2LstRrAzv0SQPhqPJQkL_cNm7CGI6m9FEMUPhDUjUSNhCnwuNoJCRd7dJIg9KVYp4YuhxqybFH9b_Lz7kyvM46Y8W3bA5ToGM5tkJrF29orekssByDL_jAdZE-HsOgBk_JsWKvA_qSGzc3opsBSHyZYpdJyfLLxsR3KYYzKGK7uZvlorMYxbotHi9Up0sbM-9ppklCqgIvOgqKaydaVtbFK3Jk027WYyYmbkoVkjmOeCg0GBxkNdWIMixGQyYBq31V_B88ACM_1LobusK-t-QDF0yvApQyO0cOqgFQTAV2E_W4n5hqFNYHi8LdLd_E_HsuJ7b4tTmcd5mlX42MLJ81qe0GnTS0VrbCL6cJzv9F5SO6NOr9GtN2D_HDEhF1EJTI-DWhNmGusnf81LBue22SRukKrJU9YUrbukvNp5bS2VSV7iRlscJ4DY0wGjzzXyMBZlqQp08EeoWcVxVnJcgWcBS-ZvZ324_oHusMZIt40VCOs_yLnqCjqtdYTKcohztvQcQ9UFXa4m3ioX1cNniIdfp4uc5HSJsS9RwV3I_S4VyTXJ8qucyibx-p_kJZgE4bxmIude7LSzsdIK3rxbDlxKSt6fQ-o13qw5GB5lFuuO7bza3T7P-2CoA_jlvhKlwAPSQFZBpV_0ov3mxElskF-5fA1U401RPSUoH5UtlrDi7mdEcBZ7wiXMQMYXFaUVqpninV-fG_wmWGRM1Cn3QzPP6U0Mp3nwpI4iDYxH_GE2989aLuUodLy88",
+            "quality": "4K",
+            "size": "1.7GB",
+            "fileName": "Sex Education S01 E02 2160p 10bit WEBRip x265 HEVC [Hindi DDP 5.1 640Kbps + English AAC 5.1] ESub.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Sex Education S01 E02 1080p 10bit WEBRip x265 HEVC [Hindi DDP 5 1 640Kbps + English AAC 5 1] ESub\n708.93MB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mun8zAONhZCxMpTNT_Wj-TrV2ppLsvucf9iOTqzr6u4vihc5xjo22-8gFpJqEpjSuZquTfJz3waPIUDpr7TqdKGTTGwAZbX64clDn4e29MCzH_S6t63QhjtMuxi7KzD_JMLDgKymok7cDEx9pVl5-n_uNY5630hPyUa7z3eGI_b8j6ty7sEETDCcweQ_sktXcYeGWG1nVh_zsGYhlexGe7RMTAwaDIY_g6r_gk-5bv1w3jWeh43jZqSJ48f9Zr0pOZtOiuOJKnnIKYo_DzkM1SrkU3_5qL1q8-9hA15tIbQBzXb_5wwZMoisMbBJg-KEIvWpgXCmnBSkEQzpNpuuJS0rfd5l1CGBpP7K5twJCh1KeKaL46CsZbjApCvFGJEn4RgOnRadw2iOGAY7NQP0ylvUA57vcL7kGsdLYWG_HgDBhXDKOBP52pTfJKFixLK0gmIxvngc1NIYU0XMom1Skw2HE9JfrLgz_-iyLSsYUidm4cbiS5FwejJgstgSilM2btxOHIV-D1949jiAwhiwW5p2gEudF11DkJ2aayc2MXBKWZg9-NYLuOmJKqb_2sCFI4TmG5MVLnS6TBVh0WvlkqMX-Cc9MigYxHSfO-VvtENwmaMNrfFmNRvjhg9-MJT6mdwjD4qXyvhsDMrjH-2v2SLo4eOYf3b3a4Qi0ugVdfcm2wnANUondflYPVL0Srk9N0uCn70oBvb0sVowvnYoz_rp8LGHUUI2mqsG25S7oiqcSYnO2BgirNQJ3NPK3QKWtgidM6uchAUe-dBLjGq8Y2UlJaviwfao-DBVK5ats_uP7akcrlr64xQNTswdeYVbmRI1raCtXvoE6j0bkmNI2dPzteyGF6TiOnPOMpyQwUywEJ92_6Pr3anJG0cgYfqy7SHlirQjt2ID3QVJV2v7GAK4mt87vaDcHCbsu67RjNLFVfIPj1HBQ0bGbE_bC_0qJ0_bX5KxylDfY3SbwufXG9bbU5lLwbKPZ_AcBe60Uycrf1IYirpg4U_oQNRTWTDCfZiA-mhM0oPgjeFvELXIaJpcd9YfRM7svxaNNPlFuSr9BW1XI",
+            "quality": "1080p",
+            "size": "708.93MB",
+            "fileName": "Sex Education S01 E02 1080p 10bit WEBRip x265 HEVC [Hindi DDP 5.1 640Kbps + English AAC 5.1] ESub.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:112712:s1e3",
+      "storedAt": 1757767237804,
+      "meta": {
+        "storedAt": 1757767237,
+        "urlCount": 7,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "112712",
+        "imdbId": "tt11382382",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "See.S01E03.Fresh.Blood.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv\n3.78 GB",
+            "url": "https://pixeldrain.dev/api/file/6bxG9bGd?download",
+            "quality": "1080p",
+            "size": "3.78 GB",
+            "fileName": "See.S01E03.Fresh.Blood.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "See.S01E03.Fresh.Blood.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv\n3.78 GB",
+            "url": "https://fsl.fastcloud.casa/See.S01E03.Fresh.Blood.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv?token=1757767237",
+            "quality": "1080p",
+            "size": "3.78 GB",
+            "fileName": "See.S01E03.Fresh.Blood.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "See.S01E03.Fresh.Blood.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv\n2.73 GB",
+            "url": "https://pixeldrain.dev/api/file/dxmGkAWU?download",
+            "quality": "1080p",
+            "size": "2.73 GB",
+            "fileName": "See.S01E03.Fresh.Blood.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "See.S01E03.Fresh.Blood.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.265-4kHdHub.Com\n2.73 GB",
+            "url": "https://fsl.fastcloud.casa/See.S01E03.Fresh.Blood.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv?token=1757767237",
+            "quality": "1080p",
+            "size": "2.73 GB",
+            "fileName": "See.S01E03.Fresh.Blood.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "See.S01E03.Fresh.Blood.2160p.ATVP.WEB-DL.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv\n7.54 GB",
+            "url": "https://fsl.fastcloud.casa/See.S01E03.Fresh.Blood.2160p.ATVP.WEB-DL.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv?token=1757767237",
+            "quality": "2160p",
+            "size": "7.54 GB",
+            "fileName": "See.S01E03.Fresh.Blood.2160p.ATVP.WEB-DL.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "See.S01E03.Fresh.Blood.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR10+.H.265-4kHdHub.Com.mkv\n8.61 GB",
+            "url": "https://pixeldrain.net/api/file/sLabDFj4",
+            "quality": "2160p",
+            "size": "8.61 GB",
+            "fileName": "See.S01E03.Fresh.Blood.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR10+.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "See.S01E03.Fresh.Blood.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR10+.H.265-4kHdHub.Com.mkv\n8.61 GB",
+            "url": "https://fsl.fastcloud.casa/See.S01E03.Fresh.Blood.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR10+.H.265-4kHdHub.Com.mkv?token=1757767237",
+            "quality": "2160p",
+            "size": "8.61 GB",
+            "fileName": "See.S01E03.Fresh.Blood.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR10+.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 7
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:112712:s1e3",
+      "storedAt": 1757767244328,
+      "meta": {
+        "storedAt": 1757767244,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "112712",
+        "imdbId": "tt11382382",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Sex Education S01E03 2160p NF WEB-DL HIN-ENG DDP 5 1 DoVi HEVC-Telly\n4.48GB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kMRWsIiVYri0Z_mBBsVdZBI6y9yl-j-2Dw9Vw1Lews7-lkgdUtE2BwvUtMZSXD7XrK4cmjE9FIf1ajvX3VTj5bjEDHE4oIOZL-QdXeAeHuX8BPwzKiliL_d30DVIQnTRCFAln-ZtQwOM_exCMGoCDMWQz8KQvnfLvVgSPBagYTxO1sIxMlciSCJbPkpHHXtfR67YMY5-NdT8NiZb4_qyxPx1Y0zAn5Zd4wAQGJbY5G_zTn8M3mo9Cj4UoxQQJAJsjazW3HzSmbXkD2M2WBtKklnvM-E89thjgUc8MF23l6mBeVX9Z3zg-Z-vZgaCtGRQhZve88lhL9l4_Yzfs7YdqhAy7XN_fcErR0GaPDVay1MEhykJEjhTAX1xL6AGekEWAKoqhMsBxs7ToWx2Gp36EZzmDxkjNEqGJLTAUNsnZDd5B0wD_LSQWZlFzPfi8YJV7UMYIF7rqXQFNsE2iSzn0PUXdSs-1zrhoWKKKV3n4-H36MnT03dOo9-dw4fk0eHKrKu0HRLas5VG4NYcTTHNXcBaI1GyVHo7pnw3fsTxIOJvDkBPtNh9hVRxLOKGzzb4WbZ15S7X07XU9VriCkZrLpf_u2oJQVERmCwuJtafd3jmOBbYnf17DfmpohTidLrxTk_zKQQsGTsotV7lDgaFgz9K9muhTn2aUCtYYH8LG6rsV-cctmjg0oGiLkwyYupc3ujF4pqeLRXcnePrwDnpaUiFiEGcTUE1KO-wkmN48ylt4QxwHh51SP-P-xjt0aGoFjtAsyaSEpz7C7U4Nrjqz1x_j2CQa_wnO0jHhlcMni4jAl_2kdVLelWWETLvUWHiveW8RKlYGh-ZmFlksHbc9dkwJPgWj9z389nCstABImZ__sUQu7q3mstWVDXIAQsXMzpsq4FSO2giZjTGAHbMrZtb77FsChsk9XLM0dHH1fH4F6KkhRTCuproKeKUtzukLS6tvtik1NNO0j01AqhJCmStkaYExf_n36CdVFtvZbOBW1zCmO_9NRkQYGLhe5JeeFTUMG3Fqb2jeh0o1qKXnX3FoRFLLCn1tCNnYM3bJWyC9hkdg",
+            "quality": "4K | DV",
+            "size": "4.48GB",
+            "fileName": "Sex.Education.S01E03.2160p.NF.WEB-DL.HIN-ENG.DDP.5.1.DoVi.HEVC-Telly.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Sex Education S01E03 Episode 3 1080p NF WEB-DL DD+5 1 x264-Telly\n1.92GB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2n5xKs56Q3B8xkXUgzclEVUm91JafUq0R0XYruQAlGryAnUVGWdCDX2HcDz5mk3tRMEZWXpeLaBjlDUR6ImrrgrdT3OVhjocAbtwphrVTxTrbgIXNx3tWbWolfK_MGl0uXUe-TdYCDNw_a24k831nEWtmYj484zZSv0z34FU3M0rD15_2wEQR9kxF-X4h5hoDhd_MduXeKy2qbZiFTOZz0iIGIo92_4iusBqmLLBw5ckU9e9J98JgImmqf19zsQhCJQs77bPq2D4AIg-sSZVBrqjqIQqB42LRP6NqwvAXOE0wsRP0hVd48sOyz7U1M8BABV24B6lIh7S4Bf7uH3RRtjg1Kqv0egGVpLnU1hTBD1QKtrHdrnIym8IeS-dTZ0FYIAKBCsQTjK76wRmrDW9ttjrvtvq-6FRQKe2jTg50uTqfwSTyh0aDv357Th-Fpg9jF_oXqPnfx3U7QtSHDL6iWOzDEMfFnDstBHFeyVaxD9Ew_Md7DIMUxYDva7YR7v10pMA7cdJfj3bagc8DgmFJ0YF8D4nQW63-8ry_ICFCvnpdy1z011S_g5r_vlFVrPZlT5P_ezFalrgrAeAbErqCC3b7elS8KngzrwNRZHnADcCmos9F8Q54OEaEBEi_dp-dVTyxyCSBWh2ITVq2K_wKTuL0VahRhuH3EH__thZLUgz443Qik32gaHe9LAh4yEH7LlY72GL-_vyjzP_erSSpiVWxMj_0s_QsRDPnPrWRPbD6ZftLbYjdepAsWIKc4x2T-1keBe4WcpiYznYsTY1LpDq3Zs2eC5ASdT2S4WSpyGh_FegUIWbVpr6UCLXV7xlwuUsLSExy8dtNnif_BV8XRl5VwwzDBREdnjPU9buyD9y9Pa9oQZTGz2h4iYkZqFSKp0FuwpepAnSFVUkxpWpL9mwycwHJiYxDwzdjHzEcT5vWIxHsuFjhf6QwsL4pezQtho6zY9eVxIR_HUobX2-G6AnD8APUbowTeKCAaNR9C3fAuWoU1WTQ8z35I9uJcxkkM8VNlcjWQkNEtZCkyMFjVjcxBFUHn32woSmKyIiaLGWqK87TE",
+            "quality": "1080p",
+            "size": "1.92GB",
+            "fileName": "Sex.Education.S01E03.Episode.3.1080p.NF.WEB-DL.DD+5.1.x264-Telly.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Sex Education S01 E03 2160p 10bit WEBRip x265 HEVC [Hindi DDP 5 1 640Kbps + English AAC 5 1] ESub\n1.73GB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kSKK5ThTU3MRkAuPsZPjSZo3rnrEzh9LckkFwCUBiY1ylX0-HWNPZT5GvhkWJDQmpoXFzdzaV0941ptZqqdoQyszkul6Pnh1whsCGBNyWxAJbmJ0b8OTtF5XClzKIuAWfe9ofqzvOfQtNS4i3xfoJD3F8Qjl0bFiJ2X9T2IAqdoqHnX8cXHR4erhFtD7yC-moUEolYS-HX3XcZiC09r8qa27dcVTv6b23DjfAYJiaDOFRC8oZdTfYMt47nO7G-R4j0hwUT54c0NDhGehTBzOecS0Y4i-GZO4_bednKPlVpDqP0PrUgs6SAMOZ6POL-EtdWtmPWAjTqlk-M5TMco_EYbJysXd7VBJaW387pcDRTm_X1qQUHtlhBQT_lX0eYiz1zzU_0O-6vqm4PsT4i2f_orm4x0UymJ-FCOm5OFEhjfhscADQpmaV0me2zJtvwXxglPq7zoCgr5JJs7dZ4RZT2uoqP6pyuuCQrNN4K_7fhQDpLwk_KBk1cKMSuWzw6V0xRvgAQGzUkknEvsV5ZxMUAJJCfgVtVkicirkqajNQyNjysAnolnyAAtewbbFQKxaJUbk6eJIY5mLdY7trn_BuHYdm1OojazOUWcjBFW45e_04IbUQJu6NG84GNqMJiLsb4DCptQOj_GU9zTE3WWPUbR5y3kw68S0JXQspgg4Eq05PvcCilSDzQfP46rRzQqpAMWzHq1okdVjTmPThMYtshyjFl2AALpjPA5nm2TFTQ8ZPUBp9Hb8fgQxWLj4rzu-r6AicihvgAIP6_hbq6rsZ0kg64pbhWqOeSkiY9JzPR5Njk1EqkPukx1Pmxq7wGTruRBkAhElqQTWNNSecKvLgYmsFoqbYUCReU64xylLhJo2kk6PF1b2o6FEdRXoiLctsd15RrmBrIbxCmzmNN_2_jR1TFO32szockvF42vmC75hWQoRkTVXYNX6rz54NYKq7klGYVqskuBuVRKXKI-6E_IxS2LbhEhC4xzmVBIk4uwL-GDGiM4kLdfOjkhYEwgkirtpawNmAP-r2H1_V4Mbqf_50J5y0qmhXigcw1RNE1sUsZusY",
+            "quality": "4K",
+            "size": "1.73GB",
+            "fileName": "Sex Education S01 E03 2160p 10bit WEBRip x265 HEVC [Hindi DDP 5.1 640Kbps + English AAC 5.1] ESub.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Sex Education S01 E03 1080p 10bit WEBRip x265 HEVC [Hindi DDP 5 1 640Kbps + English AAC 5 1] ESub\n720.24MB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2maoFE5Xh8MZWirjD9F6WYvFbOqCWmyGgSu28qxOhj6Y_-wrumaDfVQCT7n-BEOEnVL8DfzWr2DT6_TcyKVwlM9bJLB-KEiBvjBz0U1Ho0nF7yiyVCQ3-uCDRDnZ2hy-M_wxdHjwCH15JXgXft-eIbXhOCO1oGvZ-iHR8Hd8MbWlDIGMvC3u4nZ4ry-rfMOuQeALO-rj69zc-DL71JdRgjZFv9f-LSF8XfflEFeOCvk7lkXBejhglVijz9O83RKQDU3C4y-ol7_ddldh3cqHHhOVJ_NOI_LK97akrrzKUagh2flG5HppNsyoDLawoiduwx3seXJOJ8l1Uh0nKI8w9Lg_KDSC7Z_rSPGevD6yD1gw-PP50OXLuGst7vMCHtccUPiAW6ZofiMeX-nG1VdB6r0G1dLzmNczk41Tw3RwtF8JbvnmkFf-okZJuTySBUPxSMpzmLCHfOJTr5H7eF9l7BcNfZmg579NRwk8KSaQyBJ4Piq-o1Mvl8_RYesFa-P7NsM54k7G0USSu0qJyjnEsN4tcmvOve1FrOkcfr-MSx4Nn1Qje8XCSBUnxbj7R273IdvADzxBGrD_Cpfcg6u6VT-nCkD4g8zywKRDm2s2ZQIYhyRvMfKfUJUJoqVNFkBR-Mx-W8e6g6ZSN1y8md6vWUwy1Da8oVcXap3MI4LuAiDUIUCwjQUZojV_vKTpLkhhne0XbNEsmY2zOhBut_soLK4TN02BBz7766cUXzDFRwj_7rXpA0JnaVNYnW6N6TqyOVlbuzg-wEfHadDHWNmjoXMOeIf6Ydz3cRDkRCEq55QC7X6MuE-RyKjbm5QFMFwKQ0g0ahdizaFIMw0IoEmkDQN8P6tlLgzw-uMqHve_dXeUoyhfVn5-kqxr_rm7X3se_oG7rs6zzes79zlIkprMDYF-nJG4uBI2to5aBjsKI9Rmy9V0RF3LomBfdQFIkoEgW4dwgbSOlviCyK7SpDRNT7ATqC0VdlgNsnhNfu8LLl4UZ1qvWsbZvjFKJvBbT_i57-OTjODefNYmyHolDb8n0Xgg2j1fnGP450VzVecIVjRMn_qPP4",
+            "quality": "1080p",
+            "size": "720.24MB",
+            "fileName": "Sex Education S01 E03 1080p 10bit WEBRip x265 HEVC [Hindi DDP 5.1 640Kbps + English AAC 5.1] ESub.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1167:s2e1",
+      "storedAt": 1757767250132,
+      "meta": {
+        "storedAt": 1757767250,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1167",
+        "imdbId": "tt0988820",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies The Inspector Lynley Mysteries - S02E01 - Playing for the Ashes WEBDL-480p.mkv",
+            "url": "https://a.111477.xyz/tvs/The%20Inspector%20Lynley%20Mysteries/Season%202/The%20Inspector%20Lynley%20Mysteries%20-%20S02E01%20-%20Playing%20for%20the%20Ashes%20WEBDL-480p.mkv",
+            "quality": "480p",
+            "size": null,
+            "type": "direct",
+            "filename": "The Inspector Lynley Mysteries - S02E01 - Playing for the Ashes WEBDL-480p.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1418:s2e2",
+      "storedAt": 1757767260101,
+      "meta": {
+        "storedAt": 1757767260,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1418",
+        "imdbId": "tt0898266",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies REMUX DTS-HD MA 5 1 Dual Hiro360",
+            "url": "https://a.111477.xyz/tvs/The%20Big%20Bang%20Theory/Season%202/The.Big.Bang.Theory.S02E02.Bluray.1080p.REMUX.DTS-HD.MA.5.1.Dual.Hiro360.mkv",
+            "quality": "1080p | REMUX",
+            "size": null,
+            "type": "direct",
+            "filename": "The.Big.Bang.Theory.S02E02.Bluray.1080p.REMUX.DTS-HD.MA.5.1.Dual.Hiro360.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:moviesmod:tv:1418:s2e2",
+      "storedAt": 1757767262641,
+      "meta": {
+        "storedAt": 1757767262,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "tv",
+        "tmdbId": "1418",
+        "imdbId": "tt0898266",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "The Big Bang Theory S02E02 1080p 10Bit BluRay English Esubs Moviesmod In\n601.09MB • 10-bit",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2ln3n6qYXm9YGGzFdKcfoHpQKlVedsDRms4VQXg3L28RVwXsqf5Vtyse0pXWrF8gPM1xJoKHkqmU_fVFlJF9hxcOrTj0szLsV36f3k_X4od5hGJ8OohV0YAJLYOHSlXTKwEfC5RION3cblhCP4YQ1rNcC5rY8bZAT4EBhSTwuAeNwfObSPmagQ6ePE_JVXm_H8c-BwVH3DuCfycB1F0Niyt3Tir7O5OURnaFf8KFpdBvxKfpWcfsJJf4JTOmTOpvxdsKfJZ2FHqHrdveEB5XUncbGiqvX5lFCjcs2zWNSU-gJ0iaCm7tMKvcc8LP8I87F_1ZeASF-GTBrnusxjY46xdXbMKcvsDAt4TpmY7PR2tvmVIlehCjkWQ0njDX3F6tRWUBN79vSX0uZsyPfRj96Bw-iAkUA_pfxDHAcE5WgMDxeXcGXX7IM0MfrZW5o2iusyfOPtIF6pti-xs-JeE_jMMEeC2h_HSVMppeXwpcOWiEr6NuCH8asJPGp-v2Y9e-f60ZNvyFsZHI895XFeT8qi0PBYGvILxghD2juvt_r1AUWOcow8xp7A4du1l4irF9lisJcwP0wOfFliNo4lCWajPd3KjMweJNMEsp3dhIdFR44ZcL1XlZi56PTafn86J2RZ-b4RfOzfALwwA8RoDHINHjze3kRQQzmu3fU5GltsiSEd42rYcYELSlCCu0fKk1ChupTo1im-U9hDjAY4AsPjYIHwI_BqnCZA-H4Yk24EXB0Tq9xjTgQNPJhitPAkaTwqgGuNEq1vIp2byUGVjHYgwM9RkQAoA2I8f7rivX4vp0cFCqLpHJv7Fsd6qhJU75pceKh_F3BerXwofV0RDx78XRWUnwWaJMgkL75BmAt4GnFp9DjSAH5qnr6KK7BNe6QTc3SOoKZTlZU9KNd6exLnzh2TU2oLQRqUiA4j2Q3ffNrOmNVjNRGK3l_vUe1BSgnPPown3eNIib9bkRtsMVLCD4VxZJXZbx4OYl4dSk_WykLtV1PvHciocqNhYRNZWyjdQa63Ycy38TetO85W-8NOyQBuKYJuyQ5IRUTf8GHsHlC6a6Eg",
+            "quality": "1080p",
+            "size": "601.09MB",
+            "fileName": "The.Big.Bang.Theory.S02E02.1080p.10Bit.BluRay.English.Esubs.Moviesmod.In.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:214994:s1e9",
+      "storedAt": 1757767266211,
+      "meta": {
+        "storedAt": 1757767266,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "214994",
+        "imdbId": "tt27664007",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Once.Upon.a.Witchs.Death.S01E09.9.-.Once.Upon.a.Witchs.Death.-.S01.1080p.AMZN.WEB-DL.Multi.DDP2.0.H.264-4kHdHub.Com.mkv\n848.9 MB",
+            "url": "https://pixeldrain.dev/api/file/hHp3pSwj?download",
+            "quality": "1080p",
+            "size": "848.9 MB",
+            "fileName": "Once.Upon.a.Witchs.Death.S01E09.9.-.Once.Upon.a.Witchs.Death.-.S01.1080p.AMZN.WEB-DL.Multi.DDP2.0.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-09-13T12:40:30.229Z",
-    "totalOriginalEntries": 95,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-09-13T12:41:08.986Z",
+    "totalOriginalEntries": 105,
+    "newItemsInThisBatch": 10,
     "format": "compact_v1"
   }
 }
