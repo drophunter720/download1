@@ -10516,12 +10516,461 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:dvdplay:movie:259316",
+      "storedAt": 1757768229741,
+      "meta": {
+        "storedAt": 1757768229,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dvdplay",
+        "type": "movie",
+        "tmdbId": "259316",
+        "imdbId": "tt3183660",
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:259316",
+      "storedAt": 1757768229555,
+      "meta": {
+        "storedAt": 1757768229,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "259316",
+        "imdbId": "tt3183660",
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:333484",
+      "storedAt": 1757768254122,
+      "meta": {
+        "storedAt": 1757768254,
+        "urlCount": 10,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "333484",
+        "imdbId": "tt2404435",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Things.Heard.&.Seen.2021.2160p.NF.WEB-DL.DUAL.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv\n17.21 GB",
+            "url": "https://pixeldrain.dev/api/file/YhXfft4q?download",
+            "quality": "2160p",
+            "size": "17.21 GB",
+            "fileName": "Things.Heard.&.Seen.2021.2160p.NF.WEB-DL.DUAL.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Things.Heard.&.Seen.2021.2160p.NF.WEB-DL.DUAL.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv\n17.21 GB",
+            "url": "https://fsl.fastcloud.casa/Things.Heard.&.Seen.2021.2160p.NF.WEB-DL.DUAL.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv?token=1757768253",
+            "quality": "2160p",
+            "size": "17.21 GB",
+            "fileName": "Things.Heard.&.Seen.2021.2160p.NF.WEB-DL.DUAL.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Things.Heard.&.Seen.2021.2160p.NF.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv\n10.96 GB",
+            "url": "https://pixeldrain.dev/api/file/mmHw1oNq?download",
+            "quality": "2160p",
+            "size": "10.96 GB",
+            "fileName": "Things.Heard.&.Seen.2021.2160p.NF.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Things.Heard.&.Seen.2021.2160p.NF.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv\n10.96 GB",
+            "url": "https://fsl.fastcloud.casa/Things.Heard.&.Seen.2021.2160p.NF.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv?token=1757768253",
+            "quality": "2160p",
+            "size": "10.96 GB",
+            "fileName": "Things.Heard.&.Seen.2021.2160p.NF.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Things.Heard.&.Seen.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-4kHdHub.Com.mkv\n6.06 GB",
+            "url": "https://pixeldrain.dev/api/file/eqdfSycp?download",
+            "quality": "1080p",
+            "size": "6.06 GB",
+            "fileName": "Things.Heard.&.Seen.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Things.Heard.&.Seen.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-4kHdHub.Com.mkv\n6.06 GB",
+            "url": "https://fsl.fastcloud.casa/Things.Heard.&.Seen.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-4kHdHub.Com.mkv?token=1757768253",
+            "quality": "1080p",
+            "size": "6.06 GB",
+            "fileName": "Things.Heard.&.Seen.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Things.Heard.&.Seen.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv\n2.89 GB",
+            "url": "https://pixeldrain.dev/api/file/utT1jZsX?download",
+            "quality": "1080p",
+            "size": "2.89 GB",
+            "fileName": "Things.Heard.&.Seen.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Things.Heard.&.Seen.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv\n2.89 GB",
+            "url": "https://fsl.fastcloud.casa/Things.Heard.&.Seen.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv?token=1757768253",
+            "quality": "1080p",
+            "size": "2.89 GB",
+            "fileName": "Things.Heard.&.Seen.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Things.Heard.&.Seen.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv\n2.36 GB",
+            "url": "https://pixeldrain.dev/api/file/zEF84cBq?download",
+            "quality": "1080p",
+            "size": "2.36 GB",
+            "fileName": "Things.Heard.&.Seen.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Things.Heard.&.Seen.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv\n2.36 GB",
+            "url": "https://fsl.fastcloud.casa/Things.Heard.&.Seen.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv?token=1757768253",
+            "quality": "1080p",
+            "size": "2.36 GB",
+            "fileName": "Things.Heard.&.Seen.2021.1080p.NF.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 10
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:338788",
+      "storedAt": 1757768258580,
+      "meta": {
+        "storedAt": 1757768258,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "338788",
+        "imdbId": "tt4040616",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "28 Days Later 2002 1080p BluRay REMUX AVC [Hindi DDP 2.0 + English DTS-HD MA 5.1] x264 FraMeSToR-4kHDHub.com.mkv\n27.19 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/28%20Days%20Later%202002%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%202.0%20+%20English%20DTS-HD%20MA%205.1]%20x264%20FraMeSToR-4kHDHub.com.mkv?token=1757768257",
+            "quality": "1080p",
+            "size": "27.19 GB",
+            "fileName": "28 Days Later 2002 1080p BluRay REMUX AVC [Hindi DDP 2.0 + English DTS-HD MA 5.1] x264 FraMeSToR-4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "28 Days Later 2002 1080p BluRay [Hindi DDP 2.0 + English DTS] x264 FGT-4kHDHub.com.mkv\n13.54 GB",
+            "url": "https://pixeldrain.dev/api/file/e3Eh9EUo?download",
+            "quality": "1080p",
+            "size": "13.54 GB",
+            "fileName": "28 Days Later 2002 1080p BluRay [Hindi DDP 2.0 + English DTS] x264 FGT-4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "28 Days Later 2002 1080p BluRay [Hindi DDP 2.0 + English DTS] x264 FGT-4kHDHub.com.mkv\n13.54 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/28%20Days%20Later%202002%201080p%20BluRay%20[Hindi%20DDP%202.0%20+%20English%20DTS]%20x264%20FGT-4kHDHub.com.mkv?token=1757768257",
+            "quality": "1080p",
+            "size": "13.54 GB",
+            "fileName": "28 Days Later 2002 1080p BluRay [Hindi DDP 2.0 + English DTS] x264 FGT-4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "28 Days Later 2002 1080p BluRay 10bit HEVC [Hindi DDP 2.0 + English DDP 5.1] x265 GRiMM-4kHDHub.com.mkv\n10.43 GB",
+            "url": "https://pixeldrain.dev/api/file/VsvP3RiX?download",
+            "quality": "1080p",
+            "size": "10.43 GB",
+            "fileName": "28 Days Later 2002 1080p BluRay 10bit HEVC [Hindi DDP 2.0 + English DDP 5.1] x265 GRiMM-4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "28 Days Later 2002 1080p BluRay 10bit HEVC [Hindi DDP 2.0 + English DDP 5.1] x265 GRiMM-4kHDHub.com.mkv\n10.43 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/28%20Days%20Later%202002%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20DDP%202.0%20+%20English%20DDP%205.1]%20x265%20GRiMM-4kHDHub.com.mkv?token=1757768257",
+            "quality": "1080p",
+            "size": "10.43 GB",
+            "fileName": "28 Days Later 2002 1080p BluRay 10bit HEVC [Hindi DDP 2.0 + English DDP 5.1] x265 GRiMM-4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:202297:s1e13",
+      "storedAt": 1757768217848,
+      "meta": {
+        "storedAt": 1757768217,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "202297",
+        "imdbId": "tt16098700",
+        "season": 1,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Proper][EAC3 5 1][h265]-d3g",
+            "url": "https://a.111477.xyz/tvs/Fire%20Country/Season%201/Fire%20Country%20(2022)%20-%20S01E13%20-%20You%20Know%20Your%20Dragon%20Best%20[WEBRip-1080p%20Proper][EAC3%205.1][h265]-d3g.mkv",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "Fire Country (2022) - S01E13 - You Know Your Dragon Best [WEBRip-1080p Proper][EAC3 5.1][h265]-d3g.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:237316:s2e8",
+      "storedAt": 1757768224491,
+      "meta": {
+        "storedAt": 1757768224,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "237316",
+        "imdbId": "tt26675358",
+        "season": 2,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x264]-EDITH",
+            "url": "https://a.111477.xyz/tvs/Love%20Is%20Blind%20-%20UK/Season%202/Love%20Is%20Blind%20-%20UK%20(2024)%20-%20S02E08%20-%20Episode%208%20[WEBDL-1080p][EAC3%205.1][x264]-EDITH.mkv",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "Love Is Blind - UK (2024) - S02E08 - Episode 8 [WEBDL-1080p][EAC3 5.1][x264]-EDITH.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:34268:s7e15",
+      "storedAt": 1757768249370,
+      "meta": {
+        "storedAt": 1757768249,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "34268",
+        "imdbId": "tt1833558",
+        "season": 7,
+        "episode": 15,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 2 0][x264]-EDITH",
+            "url": "https://a.111477.xyz/tvs/The%20Real%20Housewives%20of%20Miami/Season%207/The%20Real%20Housewives%20of%20Miami%20(2011)%20-%20S07E15%20-%20Birthday%20Blues%20Cruise%20[WEBDL-1080p][AAC%202.0][x264]-EDITH.mkv",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "The Real Housewives of Miami (2011) - S07E15 - Birthday Blues Cruise [WEBDL-1080p][AAC 2.0][x264]-EDITH.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:45140:s2e22",
+      "storedAt": 1757768217191,
+      "meta": {
+        "storedAt": 1757768217,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "45140",
+        "imdbId": "tt2771780",
+        "season": 2,
+        "episode": 22,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEB-DL DDP2 0 x264-TVSmash",
+            "url": "https://a.111477.xyz/tvs/Teen%20Titans%20Go!/Season%202/Teen.Titans.Go.S02E22.Road.Trip.1080p.AMZN.WEB-DL.DDP2.0.x264-TVSmash.mkv",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "Teen.Titans.Go.S02E22.Road.Trip.1080p.AMZN.WEB-DL.DDP2.0.x264-TVSmash.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:86248:s2e4",
+      "storedAt": 1757768235018,
+      "meta": {
+        "storedAt": 1757768235,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "86248",
+        "imdbId": "tt7826376",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-FLUX",
+            "url": "https://a.111477.xyz/tvs/Upload/Season%202/Upload%20(2020)%20-%20S02E04%20-%20Family%20Day%20[WEBDL-1080p][EAC3%205.1][h264]-FLUX.mkv",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "Upload (2020) - S02E04 - Family Day [WEBDL-1080p][EAC3 5.1][h264]-FLUX.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:93693:s1e1",
+      "storedAt": 1757768231032,
+      "meta": {
+        "storedAt": 1757768231,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "93693",
+        "imdbId": "tt10473306",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "You.Are.Ms.Servant.S01E01.Our.Destined.First.Encounter.1080p.AMZN.WEB-DL.Hindi.DDP2.0-Japanese.DDP2.0.H.264-4kHdHub.Com.mkv\n726.03 MB",
+            "url": "https://pixeldrain.dev/api/file/vouBKqrM?download",
+            "quality": "1080p",
+            "size": "726.03 MB",
+            "fileName": "You.Are.Ms.Servant.S01E01.Our.Destined.First.Encounter.1080p.AMZN.WEB-DL.Hindi.DDP2.0-Japanese.DDP2.0.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "You.are.Ms.Servant.S01E01.My.Fateful.Encounter.with.You.1080p.AMZN.WEB-DL.Multi.DDP2.0.H.264-4kHdHub.Com.mkv\n777.13 MB",
+            "url": "https://pixeldrain.dev/api/file/3eU28zUi?download",
+            "quality": "1080p",
+            "size": "777.13 MB",
+            "fileName": "You.are.Ms.Servant.S01E01.My.Fateful.Encounter.with.You.1080p.AMZN.WEB-DL.Multi.DDP2.0.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-09-13T12:56:50.843Z",
-    "totalOriginalEntries": 269,
-    "newItemsInThisBatch": 9,
+    "exportedAt": "2025-09-13T12:57:39.507Z",
+    "totalOriginalEntries": 279,
+    "newItemsInThisBatch": 10,
     "format": "compact_v1"
   }
 }
