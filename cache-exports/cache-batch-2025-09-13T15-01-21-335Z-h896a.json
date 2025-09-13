@@ -1,0 +1,284 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dvdplay:movie:1128650",
+      "storedAt": 1757775680119,
+      "meta": {
+        "storedAt": 1757775680,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dvdplay",
+        "type": "movie",
+        "tmdbId": "1128650",
+        "imdbId": "tt30024043",
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:691422",
+      "storedAt": 1757775681119,
+      "meta": {
+        "storedAt": 1757775681,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "691422",
+        "imdbId": "tt12121582",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEB DL x265 10bit HDR DDP5 1 Atmos FLUX ORARBG",
+            "url": "https://a.111477.xyz/movies/When%20You%20Finish%20Saving%20the%20World%20(2023)/When%20You%20Finish%20Saving%20the%20World%202022%202160p%20WEB%20DL%20x265%2010bit%20HDR%20DDP5%201%20Atmos%20FLUX%20ORARBG.mkv",
+            "quality": "2160p | HDR",
+            "size": null,
+            "type": "direct",
+            "filename": "When You Finish Saving the World 2022 2160p WEB DL x265 10bit HDR DDP5 1 Atmos FLUX ORARBG.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip x264 AAC-AOC",
+            "url": "https://a.111477.xyz/movies/When%20You%20Finish%20Saving%20the%20World%20(2023)/When.You.Finish.Saving.the.World.2022.1080p.WEBRip.x264.AAC-AOC.mkv",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "When.You.Finish.Saving.the.World.2022.1080p.WEBRip.x264.AAC-AOC.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:135934:s3e12",
+      "storedAt": 1757775668410,
+      "meta": {
+        "storedAt": 1757775668,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "135934",
+        "imdbId": "tt11247158",
+        "season": 3,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Proper][EAC3 5 1][h264]-FLUX",
+            "url": "https://a.111477.xyz/tvs/The%20Legend%20of%20Vox%20Machina/Season%203/The%20Legend%20of%20Vox%20Machina%20(2022)%20-%20S03E12%20-%20Souls%20in%20Darkness%20[WEBDL-1080p%20Proper][EAC3%205.1][h264]-FLUX.mkv",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "The Legend of Vox Machina (2022) - S03E12 - Souls in Darkness [WEBDL-1080p Proper][EAC3 5.1][h264]-FLUX.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:2328:s1e2",
+      "storedAt": 1757775680013,
+      "meta": {
+        "storedAt": 1757775680,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "2328",
+        "imdbId": "tt0106064",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Outer.Range.S01E02.The.Land.1080p.AMZN.WEB-DL.DUAL.DDP5.1.H.264-4kHdHub.Com.mkv\n2.93 GB",
+            "url": "https://pixeldrain.dev/api/file/HLRDMqg1?download",
+            "quality": "1080p",
+            "size": "2.93 GB",
+            "fileName": "Outer.Range.S01E02.The.Land.1080p.AMZN.WEB-DL.DUAL.DDP5.1.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Outer.Range.S01E02.The.Land.1080p.AMZN.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv\n1.11 GB",
+            "url": "https://pixeldrain.dev/api/file/iUeDg8N3?download",
+            "quality": "1080p",
+            "size": "1.11 GB",
+            "fileName": "Outer.Range.S01E02.The.Land.1080p.AMZN.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Outer.Range.S01E02.The.Land.2160p.AMZN.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv\n4.63 GB",
+            "url": "https://pixeldrain.dev/api/file/4iyYTFBF?download",
+            "quality": "2160p",
+            "size": "4.63 GB",
+            "fileName": "Outer.Range.S01E02.The.Land.2160p.AMZN.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Outer.Range.S01E02.The.Land.2160p.AMZN.WEB-DL.DUAL.DDP5.1.HDR.H.265-4kHdHub.Com.mkv\n4.63 GB",
+            "url": "https://pixeldrain.dev/api/file/VEPX3zSb?download",
+            "quality": "2160p",
+            "size": "4.63 GB",
+            "fileName": "Outer.Range.S01E02.The.Land.2160p.AMZN.WEB-DL.DUAL.DDP5.1.HDR.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:dvdplay:tv:246246:s1e14",
+      "storedAt": 1757775668419,
+      "meta": {
+        "storedAt": 1757775668,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dvdplay",
+        "type": "tv",
+        "tmdbId": "246246",
+        "imdbId": "tt31260386",
+        "season": 1,
+        "episode": 14,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:246246:s1e14",
+      "storedAt": 1757775668189,
+      "meta": {
+        "storedAt": 1757775668,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "246246",
+        "imdbId": "tt31260386",
+        "season": 1,
+        "episode": 14,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:dvdplay:tv:46952:s7e12",
+      "storedAt": 1757775673404,
+      "meta": {
+        "storedAt": 1757775673,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dvdplay",
+        "type": "tv",
+        "tmdbId": "46952",
+        "imdbId": "tt2741602",
+        "season": 7,
+        "episode": 12,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:79744:s6e7",
+      "storedAt": 1757775681335,
+      "meta": {
+        "storedAt": 1757775681,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "79744",
+        "imdbId": "tt7587890",
+        "season": 6,
+        "episode": 7,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:93740:s1e1",
+      "storedAt": 1757775663629,
+      "meta": {
+        "storedAt": 1757775663,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "93740",
+        "imdbId": "tt0804484",
+        "season": 1,
+        "episode": 1,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:dvdplay:tv:93740:s1e1",
+      "storedAt": 1757775662249,
+      "meta": {
+        "storedAt": 1757775662,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dvdplay",
+        "type": "tv",
+        "tmdbId": "93740",
+        "imdbId": "tt0804484",
+        "season": 1,
+        "episode": 1,
+        "streams": [],
+        "count": 0
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-09-13T15:01:21.336Z",
+    "totalOriginalEntries": 10,
+    "newItemsInThisBatch": 10,
+    "format": "compact_v1"
+  }
+}
