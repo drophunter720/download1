@@ -65655,11 +65655,447 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dvdplay:movie:1226578",
+      "storedAt": 1757772875806,
+      "meta": {
+        "storedAt": 1757772875,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dvdplay",
+        "type": "movie",
+        "tmdbId": "1226578",
+        "imdbId": "tt23468450",
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:225574",
+      "storedAt": 1757772879641,
+      "meta": {
+        "storedAt": 1757772879,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "225574",
+        "imdbId": "tt2024469",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265",
+            "url": "https://a.111477.xyz/movies/Non-Stop%20(2014)/Non-Stop.2014.1080p.BluRay.x265.mp4",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "Non-Stop.2014.1080p.BluRay.x265.mp4"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AVC ReMuX DTS-HDMA 5 1-PriMeHD",
+            "url": "https://a.111477.xyz/movies/Non-Stop%20(2014)/Non-Stop.2014.Blu-Ray.1080p.AVC.ReMuX.DTS-HDMA.5.1-PriMeHD.mkv",
+            "quality": "1080p | REMUX",
+            "size": null,
+            "type": "direct",
+            "filename": "Non-Stop.2014.Blu-Ray.1080p.AVC.ReMuX.DTS-HDMA.5.1-PriMeHD.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:869",
+      "storedAt": 1757772886478,
+      "meta": {
+        "storedAt": 1757772886,
+        "urlCount": 7,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "869",
+        "imdbId": "tt0133152",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Rise of the Planet of the Apes (2011) 2160p BluRay 10bit SDR HEVC [Hindi DD 5.1 + English DTS-HD.MA 5.1] (SWTYBLZ-wAgen).mkv\n30.38 GB",
+            "url": "https://still-recipe-8ec8.pibigoj4497600.workers.dev/c9f1a6b0c11f64083662bf2c505dc525b3bacb478fa0d8495e367fa6adc829c33bfd44462d66173f152b32cc3c515213::0c77fbde62fb62a59f65f4e31287097f/1397312997/Rise%20of%20the%20Planet%20of%20the%20Apes%20(2011)%202160p%20BluRay%2010bit%20SDR%20HEVC%20[Hindi%20DD%205.1%20+%20English%20DTS-HD.MA%205.1]%20(SWTYBLZ-wAgen).mkv",
+            "quality": "2160p",
+            "size": "30.38 GB",
+            "fileName": "Rise of the Planet of the Apes (2011) 2160p BluRay 10bit SDR HEVC [Hindi DD 5.1 + English DTS-HD.MA 5.1] (SWTYBLZ-wAgen).mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Rise of the Planet of the Apes 2011 2160p UHD BluRay REMUX DoVi HDR HEVC [Hindi DD 5.1 + English DTS-HD.MA 5.1] FraMeSToR-wAgen.mkv\n28.94 GB",
+            "url": "https://fsl.fastcloud.casa/Rise%20of%20the%20Planet%20of%20the%20Apes%202011%202160p%20UHD%20BluRay%20REMUX%20DoVi%20HDR%20HEVC%20[Hindi%20DD%205.1%20+%20English%20DTS-HD.MA%205.1]%20FraMeSToR-wAgen.mkv?token=1757772882",
+            "quality": "2160p",
+            "size": "28.94 GB",
+            "fileName": "Rise of the Planet of the Apes 2011 2160p UHD BluRay REMUX DoVi HDR HEVC [Hindi DD 5.1 + English DTS-HD.MA 5.1] FraMeSToR-wAgen.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Rise of the Planet of the Apes 2011 1080p BluRay REMUX AVC [Hindi DD 5.1 + English DTS-HD.MA 5.1] x264 FraMeSToR-wAgen.mkv\n22.2 GB",
+            "url": "https://fsl.fastcloud.casa/Rise%20of%20the%20Planet%20of%20the%20Apes%202011%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DD%205.1%20+%20English%20DTS-HD.MA%205.1]%20x264%20FraMeSToR-wAgen.mkv?token=1757772882",
+            "quality": "1080p",
+            "size": "22.2 GB",
+            "fileName": "Rise of the Planet of the Apes 2011 1080p BluRay REMUX AVC [Hindi DD 5.1 + English DTS-HD.MA 5.1] x264 FraMeSToR-wAgen.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Rise of the Planet of the Apes (2011) 2160p UHD BluRay DoVi HDR HEVC [Hindi DD 5.1 + English DDP 5.1] (HONE-wAgen).mkv\n17.72 GB",
+            "url": "https://throbbing-dew-21ca.ceseto75759215.workers.dev/d36e66fa8ab887b63199a49e0408ade0a4111b9c20ddcd1fd6e32447e82a9c662f671792092e7efe537d043eb999c88a::65e03fbdb7a09f16ce46d3e3e002038b/1397312997/Rise%20of%20the%20Planet%20of%20the%20Apes%20(2011)%202160p%20UHD%20BluRay%20DoVi%20HDR%20HEVC%20[Hindi%20DD%205.1%20+%20English%20DDP%205.1]%20(HONE-wAgen).mkv",
+            "quality": "2160p",
+            "size": "17.72 GB",
+            "fileName": "Rise of the Planet of the Apes (2011) 2160p UHD BluRay DoVi HDR HEVC [Hindi DD 5.1 + English DDP 5.1] (HONE-wAgen).mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Rise of the Planet of the Apes 2011 1080p UHD BluRay HDR HEVC [Hindi DD 5.1 + English DDP 5.1] LEGi0N-wAgen.mkv\n15.88 GB",
+            "url": "https://pixeldrain.dev/api/file/no3ahke4?download",
+            "quality": "1080p",
+            "size": "15.88 GB",
+            "fileName": "Rise of the Planet of the Apes 2011 1080p UHD BluRay HDR HEVC [Hindi DD 5.1 + English DDP 5.1] LEGi0N-wAgen.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Rise of the Planet of the Apes 2011 1080p UHD BluRay HDR HEVC [Hindi DD 5.1 + English DDP 5.1] LEGi0N-wAgen.mkv\n15.88 GB",
+            "url": "https://fsl.fastcloud.casa/Rise%20of%20the%20Planet%20of%20the%20Apes%202011%201080p%20UHD%20BluRay%20HDR%20HEVC%20[Hindi%20DD%205.1%20+%20English%20DDP%205.1]%20LEGi0N-wAgen.mkv?token=1757772882",
+            "quality": "1080p",
+            "size": "15.88 GB",
+            "fileName": "Rise of the Planet of the Apes 2011 1080p UHD BluRay HDR HEVC [Hindi DD 5.1 + English DDP 5.1] LEGi0N-wAgen.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Rise of the Planet of the Apes 2011 1080p BluRay [Hindi DD 5.1 + English DDP 5.1] x264 playHD-wAgen.mkv\n13.92 GB",
+            "url": "https://pixeldrain.dev/api/file/qZ5KxxZm?download",
+            "quality": "1080p",
+            "size": "13.92 GB",
+            "fileName": "Rise of the Planet of the Apes 2011 1080p BluRay [Hindi DD 5.1 + English DDP 5.1] x264 playHD-wAgen.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 7
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1100:s8e23",
+      "storedAt": 1757772887978,
+      "meta": {
+        "storedAt": 1757772887,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1100",
+        "imdbId": "tt0460649",
+        "season": 8,
+        "episode": 23,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][h264]-BS",
+            "url": "https://a.111477.xyz/tvs/How%20I%20Met%20Your%20Mother/Season%208/How%20I%20Met%20Your%20Mother%20(2005)%20-%20S08E23%20-%20Something%20Old%20[WEBDL-1080p][AC3%205.1][h264]-BS.mkv",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "How I Met Your Mother (2005) - S08E23 - Something Old [WEBDL-1080p][AC3 5.1][h264]-BS.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x264]-NOGRP",
+            "url": "https://a.111477.xyz/tvs/How%20I%20Met%20Your%20Mother/Season%208/How%20I%20Met%20Your%20Mother%20(2005)%20-%20S08E23%20-%20Something%20Old%20[WEBRip-1080p][EAC3%205.1][x264]-NOGRP.mkv",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "How I Met Your Mother (2005) - S08E23 - Something Old [WEBRip-1080p][EAC3 5.1][x264]-NOGRP.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:moviesmod:tv:1100:s8e23",
+      "storedAt": 1757772885339,
+      "meta": {
+        "storedAt": 1757772885,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "tv",
+        "tmdbId": "1100",
+        "imdbId": "tt0460649",
+        "season": 8,
+        "episode": 23,
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "How I Met Your Mother S08E23 1080p 10Bit English Esubs Moviesmod Net\n690.34MB • 10-bit",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nXBYElOSVUQC7JJguqgr8SKPC_EqMQFKyrtE4MBozkGedszUKulMD_bvDvuszzZD4_z7xFK2iFteWsZg1qQPZizlDk4hQCj77cJauNOwPgAt-mDJXtT8cGwD0hjOYNIs-aBjLWTi8Nmq9029EHMAiYcD0JKVctqaTx3uGWOpfjFjLgYOe-Vo4yEBIJdGQzzaVLaD0IsQH65Z6Q-KbOOZerLOV9wa84Y9AP4UBrwI5OzoZL1sdlFJ3ydrQbIkmKUD-35McVFUas9WUJ_VU944cZEbYWl1mir3epoKCkM0JMnfS4aejsuzLyCRezFBdEUQeuAwbsrRS3czx0M9LGc6cKC0CeUsrSTYEVECUj22uKUwa3CeFlIPRM27mwEFfEh24tgsPXXJSbkgQsGMdr4qlri8dsaRWsGElvUmAye3sRWXspBs2V_P1TNjN4nmx_h7_mnJ0PodHgjkkeOdCysEzj1svpHWWjL09npQlZ5JzP_ijVKmrAoIXuyRvkOM0xoLxKJoYglOBCOhZhtXpehTHMjPmg3tnMyC2FB_7jk-69r-k289vOuMUvML3KrqICgdbN29_f__onWJAvXpdwPvgamukAPVutTo81pFkQu3LM41tqOBalGcdaIbMMJrQ1rD4YfhJ3JgYU_p7sXoRRGmqOCsR9JJqQTNU2tFVNWojrkKaSWb83HGLw7c6d8gUgqurZZi7ablRjVuY9JidAMYG5HcKEiKqUVWUlSAhfRommNlobcYnNfG8Q8LivvWjjBwBGTz6uRw_MHybWbbufsMHFN0BqtKvsvJy8WK2pub4RS2veBFCFZxH-O4e-Cum-2udCUkW_edsi3JLCc6Of2fIj7FuEYKZO3O4sy3otR8yvR8LAEkStxWW8YIi6imvOxJZ7dlNnWJLaft3oyWZyfrpGxJUc-SfLA9nhO5jMYNziFVBxQEUeKWjETSUB8NHdZbRU7XjO99Yko6LS3sq1SPps7GmEVbr0-VXNkMFH4ZF76-3dm-cWIo-5_w8JS-Qgz_18uxrfOLkdqvefRrHZLZ5fUQIzIc-uioPkI01JFbsjBTlpP5s",
+            "quality": "1080p",
+            "size": "690.34MB",
+            "fileName": "How.I.Met.Your.Mother.S08E23.1080p.10Bit.English.Esubs.Moviesmod.Net.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1416:s13e17",
+      "storedAt": 1757772873157,
+      "meta": {
+        "storedAt": 1757772873,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1416",
+        "imdbId": "tt0413573",
+        "season": 13,
+        "episode": 17,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEB-DL x265 Garshasp)",
+            "url": "https://a.111477.xyz/tvs/Grey",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "Grey&#x27;s Anatomy (2005) - S13E17 - &#x27;Til I Hear It From You (1080p AMZN WEB-DL x265 Garshasp).mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Grey",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "Grey&#x27;s Anatomy (2005) - S13E17 - &#x27;Til I Hear It from You [WEBRip-1080p][EAC3 5.1][x265]-iVy.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEB-DL DD5 1 H265-SiGMA",
+            "url": "https://a.111477.xyz/tvs/Grey",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "Greys.Anatomy.S13E17.Til.I.Hear.It.from.You.1080p.AMZN.WEB-DL.DD5.1.H265-SiGMA.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:32351:s1e3",
+      "storedAt": 1757772882478,
+      "meta": {
+        "storedAt": 1757772882,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "32351",
+        "imdbId": "tt1621748",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Paul.American.S01E03.2160p.MAX.WEB-DL.H.265.DDP5.1-Tyrell.mkv\n5.2 GB",
+            "url": "https://pixeldrain.dev/api/file/29YhZJwA?download",
+            "quality": "2160p",
+            "size": "5.2 GB",
+            "fileName": "Paul.American.S01E03.2160p.MAX.WEB-DL.H.265.DDP5.1-Tyrell.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:47665:s3e10",
+      "storedAt": 1757772881820,
+      "meta": {
+        "storedAt": 1757772881,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "47665",
+        "imdbId": "tt2375692",
+        "season": 3,
+        "episode": 10,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:69478:s6e4",
+      "storedAt": 1757772867715,
+      "meta": {
+        "storedAt": 1757772867,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "69478",
+        "imdbId": "tt5834204",
+        "season": 6,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-FLUX",
+            "url": "https://a.111477.xyz/tvs/The%20Handmaid",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "The Handmaid&#x27;s Tale (2017) - S06E04 - Promotion [WEBDL-1080p][EAC3 5.1][h264]-FLUX.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-successfulcrab",
+            "url": "https://a.111477.xyz/tvs/The%20Handmaid",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "The Handmaid&#x27;s Tale (2017) - S06E04 - Promotion [WEBDL-1080p][EAC3 5.1][h264]-successfulcrab.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:79622:s2e1",
+      "storedAt": 1757772886714,
+      "meta": {
+        "storedAt": 1757772886,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "79622",
+        "imdbId": "tt7456722",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Hunters.S02E01.Van.Glootens.Day.1972.Butter.Sculptor.of.the.Year.1080p.AMZN.WEB-DL.DUAL.DDP5.1.H.264-4kHdHub.Com.mkv\n2.37 GB",
+            "url": "https://pixeldrain.dev/api/file/ENnBYoAC?download",
+            "quality": "1080p",
+            "size": "2.37 GB",
+            "fileName": "Hunters.S02E01.Van.Glootens.Day.1972.Butter.Sculptor.of.the.Year.1080p.AMZN.WEB-DL.DUAL.DDP5.1.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Hunters.S02E01.Van.Glootens.Day.1972.Butter.Sculptor.of.the.Year.1080p.AMZN.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv\n996.01 MB",
+            "url": "https://pixeldrain.dev/api/file/2Kabsnir?download",
+            "quality": "1080p",
+            "size": "996.01 MB",
+            "fileName": "Hunters.S02E01.Van.Glootens.Day.1972.Butter.Sculptor.of.the.Year.1080p.AMZN.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Hunters.S02E01.Van.Glootens.Day.1972.Butter.Sculptor.of.the.Year.2160p.AMZN.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv\n6.11 GB",
+            "url": "https://pixeldrain.net/api/file/UwrgWvFQ",
+            "quality": "2160p",
+            "size": "6.11 GB",
+            "fileName": "Hunters.S02E01.Van.Glootens.Day.1972.Butter.Sculptor.of.the.Year.2160p.AMZN.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Hunters.S02E01.Van.Glootens.Day.1972.Butter.Sculptor.of.the.Year.2160p.AMZN.WEB-DL.DUAL.DDP5.1.HDR.H.265-4kHdHub.Com.mkv\n7.92 GB",
+            "url": "https://pixeldrain.dev/api/file/rgTKjdxR?download",
+            "quality": "2160p",
+            "size": "7.92 GB",
+            "fileName": "Hunters.S02E01.Van.Glootens.Day.1972.Butter.Sculptor.of.the.Year.2160p.AMZN.WEB-DL.DUAL.DDP5.1.HDR.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-09-13T14:14:28.685Z",
-    "totalOriginalEntries": 1729,
+    "exportedAt": "2025-09-13T14:14:49.764Z",
+    "totalOriginalEntries": 1739,
     "newItemsInThisBatch": 10,
     "format": "compact_v1"
   }
