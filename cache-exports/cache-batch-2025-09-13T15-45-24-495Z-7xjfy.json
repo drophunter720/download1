@@ -1,0 +1,407 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:1016084",
+      "storedAt": 1757778320118,
+      "meta": {
+        "storedAt": 1757778320,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1016084",
+        "imdbId": "tt21867434",
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:dvdplay:movie:1016084",
+      "storedAt": 1757778321333,
+      "meta": {
+        "storedAt": 1757778321,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dvdplay",
+        "type": "movie",
+        "tmdbId": "1016084",
+        "imdbId": "tt21867434",
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:1016084",
+      "storedAt": 1757778321089,
+      "meta": {
+        "storedAt": 1757778321,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "1016084",
+        "imdbId": "tt21867434",
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:48942",
+      "storedAt": 1757778315122,
+      "meta": {
+        "storedAt": 1757778315,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "48942",
+        "imdbId": "tt0128907",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Young.Adam.2003..BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR-4KHDHub.mkv\n14.94 GB",
+            "url": "https://pixeldrain.dev/api/file/qpRJW32J?download",
+            "quality": "1080p",
+            "size": "14.94 GB",
+            "fileName": "Young.Adam.2003..BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR-4KHDHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Young.Adam.2003..BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR-4KHDHub.mkv\n14.94 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Young.Adam.2003..BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR-4KHDHub.mkv?token=1757775235",
+            "quality": "1080p",
+            "size": "14.94 GB",
+            "fileName": "Young.Adam.2003..BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR-4KHDHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Young.Adam.2003.1080p.BluRay.X264-AMIABLE-4KHDHub.mkv\n8.74 GB",
+            "url": "https://pixeldrain.dev/api/file/mjDoKG6N?download",
+            "quality": "1080p",
+            "size": "8.74 GB",
+            "fileName": "Young.Adam.2003.1080p.BluRay.X264-AMIABLE-4KHDHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Young.Adam.2003.1080p.BluRay.X264-AMIABLE-4KHDHub.mkv\n8.74 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Young.Adam.2003.1080p.BluRay.X264-AMIABLE-4KHDHub.mkv?token=1757775235",
+            "quality": "1080p",
+            "size": "8.74 GB",
+            "fileName": "Young.Adam.2003.1080p.BluRay.X264-AMIABLE-4KHDHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Young.Adam.2003.BluRay.1080p.DTS-HD.MA5.1.x265.10bit-BeiTai-4KHDHub.mkv\n5.37 GB",
+            "url": "https://pixeldrain.dev/api/file/m3GAyr7e?download",
+            "quality": "1080p",
+            "size": "5.37 GB",
+            "fileName": "Young.Adam.2003.BluRay.1080p.DTS-HD.MA5.1.x265.10bit-BeiTai-4KHDHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Young.Adam.2003.BluRay.1080p.DTS-HD.MA5.1.x265.10bit-BeiTai-4KHDHub.mkv\n5.37 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Young.Adam.2003.BluRay.1080p.DTS-HD.MA5.1.x265.10bit-BeiTai-4KHDHub.mkv?token=1757775235",
+            "quality": "1080p",
+            "size": "5.37 GB",
+            "fileName": "Young.Adam.2003.BluRay.1080p.DTS-HD.MA5.1.x265.10bit-BeiTai-4KHDHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:61238",
+      "storedAt": 1757778320369,
+      "meta": {
+        "storedAt": 1757778320,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "61238",
+        "imdbId": "tt1175522",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "The.Witcher.Nightmare.of.the.Wolf.2021.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv\n3.68 GB",
+            "url": "https://pixeldrain.dev/api/file/Kd5CPnMe?download",
+            "quality": "1080p",
+            "size": "3.68 GB",
+            "fileName": "The.Witcher.Nightmare.of.the.Wolf.2021.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "The.Witcher.Nightmare.of.the.Wolf.2021.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.DV.H.265-4kHdHub.Com.mkv\n2.98 GB",
+            "url": "https://pixeldrain.dev/api/file/163f2RAa?download",
+            "quality": "1080p",
+            "size": "2.98 GB",
+            "fileName": "The.Witcher.Nightmare.of.the.Wolf.2021.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.DV.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "The.Witcher.Nightmare.of.the.Wolf.2021.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv\n2.23 GB",
+            "url": "https://pixeldrain.dev/api/file/VvXCXob3?download",
+            "quality": "1080p",
+            "size": "2.23 GB",
+            "fileName": "The.Witcher.Nightmare.of.the.Wolf.2021.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "The.Witcher.Nightmare.of.the.Wolf.2021.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.HDR.H.265-4kHdHub.Com.mkv\n2.08 GB",
+            "url": "https://pixeldrain.dev/api/file/wNkBwriR?download",
+            "quality": "1080p",
+            "size": "2.08 GB",
+            "fileName": "The.Witcher.Nightmare.of.the.Wolf.2021.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.HDR.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "The.Witcher.Nightmare.of.the.Wolf.2021.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.AV1-4kHdHub.Com.mkv\n1.68 GB",
+            "url": "https://pixeldrain.dev/api/file/yUgkXXNz?download",
+            "quality": "1080p",
+            "size": "1.68 GB",
+            "fileName": "The.Witcher.Nightmare.of.the.Wolf.2021.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.AV1-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "The.Witcher.Nightmare.of.the.Wolf.2021.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.VP9-4kHdHub.Com.mkv\n1.22 GB",
+            "url": "https://pixeldrain.dev/api/file/zDwniL6d?download",
+            "quality": "1080p",
+            "size": "1.22 GB",
+            "fileName": "The.Witcher.Nightmare.of.the.Wolf.2021.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.VP9-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "The.Witcher.Nightmare.of.the.Wolf.2021.1080p.NF.WEB-DL.Hindi.AAC5.1-English.AAC5.1.AV1-4kHdHub.Com.mkv\n1.08 GB",
+            "url": "https://pixeldrain.dev/api/file/5564SCE3?download",
+            "quality": "1080p",
+            "size": "1.08 GB",
+            "fileName": "The.Witcher.Nightmare.of.the.Wolf.2021.1080p.NF.WEB-DL.Hindi.AAC5.1-English.AAC5.1.AV1-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "The.Witcher.Nightmare.of.the.Wolf.2021.1080p.NF.WEB-DL.Hindi.AAC5.1-English.AAC5.1.VP9-4kHdHub.Com.mkv\n638.91 MB",
+            "url": "https://pixeldrain.dev/api/file/24u2sxX7?download",
+            "quality": "1080p",
+            "size": "638.91 MB",
+            "fileName": "The.Witcher.Nightmare.of.the.Wolf.2021.1080p.NF.WEB-DL.Hindi.AAC5.1-English.AAC5.1.VP9-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1416:s6e6",
+      "storedAt": 1757778322055,
+      "meta": {
+        "storedAt": 1757778322,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1416",
+        "imdbId": "tt0413573",
+        "season": 6,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEB-DL x265 Garshasp)",
+            "url": "https://a.111477.xyz/tvs/Grey",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "Grey&#x27;s Anatomy (2005) - S06E06 - I Saw What I Saw (1080p AMZN WEB-DL x265 Garshasp).mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Grey",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "Grey&#x27;s Anatomy (2005) - S06E06 - I Saw What I Saw [WEBRip-1080p][EAC3 5.1][x265]-iVy.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEB-DL DD5 1 H265-SiGMA",
+            "url": "https://a.111477.xyz/tvs/Grey",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "Greys.Anatomy.S06E06.I.Saw.What.I.Saw.1080p.AMZN.WEB-DL.DD5.1.H265-SiGMA.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Greys.Anatomy.S06E06.SWESUB.DVDRip.XviD-NaXii.avi",
+            "url": "https://a.111477.xyz/tvs/Grey",
+            "quality": "Unknown | DV",
+            "size": null,
+            "type": "direct",
+            "filename": "Greys.Anatomy.S06E06.SWESUB.DVDRip.XviD-NaXii.avi"
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:moviesmod:tv:233347:s1e3",
+      "storedAt": 1757778321253,
+      "meta": {
+        "storedAt": 1757778321,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "moviesmod",
+        "type": "tv",
+        "tmdbId": "233347",
+        "imdbId": "tt35304338",
+        "season": 1,
+        "episode": 3,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:dvdplay:tv:62917:s1e1",
+      "storedAt": 1757778324495,
+      "meta": {
+        "storedAt": 1757778324,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dvdplay",
+        "type": "tv",
+        "tmdbId": "62917",
+        "imdbId": "tt4773278",
+        "season": 1,
+        "episode": 1,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:62917:s1e1",
+      "storedAt": 1757778324266,
+      "meta": {
+        "storedAt": 1757778324,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "62917",
+        "imdbId": "tt4773278",
+        "season": 1,
+        "episode": 1,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:79086:s2e2",
+      "storedAt": 1757778317281,
+      "meta": {
+        "storedAt": 1757778317,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "79086",
+        "imdbId": "tt8080122",
+        "season": 2,
+        "episode": 2,
+        "streams": [],
+        "count": 0
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-09-13T15:45:24.496Z",
+    "totalOriginalEntries": 10,
+    "newItemsInThisBatch": 10,
+    "format": "compact_v1"
+  }
+}
