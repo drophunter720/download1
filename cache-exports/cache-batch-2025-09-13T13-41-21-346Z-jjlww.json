@@ -1,0 +1,179 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dvdplay:movie:10490",
+      "storedAt": 1757770873307,
+      "meta": {
+        "storedAt": 1757770873,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dvdplay",
+        "type": "movie",
+        "tmdbId": "10490",
+        "imdbId": "tt0157503",
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:10490",
+      "storedAt": 1757770872902,
+      "meta": {
+        "storedAt": 1757770872,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "10490",
+        "imdbId": "tt0157503",
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:103759:s1e3",
+      "storedAt": 1757770874320,
+      "meta": {
+        "storedAt": 1757770874,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "103759",
+        "imdbId": "tt10651790",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Twisted.Metal.S01E03.NTHLAW1.1080p.AMZN.WEB-DL.English.DDP5.1.H.264-4kHdHub.Com.mkv\n1.84 GB",
+            "url": "https://pixeldrain.net/api/file/JodH7uWr",
+            "quality": "1080p",
+            "size": "1.84 GB",
+            "fileName": "Twisted.Metal.S01E03.NTHLAW1.1080p.AMZN.WEB-DL.English.DDP5.1.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Twisted.Metal.S01E03.NTHLAW1.1080p.AMZN.WEB-DL.English.DDP5.1.H.264-4kHdHub.Com.mkv\n1.84 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Twisted.Metal.S01E03.NTHLAW1.1080p.AMZN.WEB-DL.English.DDP5.1.H.264-4kHdHub.Com.mkv?token=1757770873",
+            "quality": "1080p",
+            "size": "1.84 GB",
+            "fileName": "Twisted.Metal.S01E03.NTHLAW1.1080p.AMZN.WEB-DL.English.DDP5.1.H.264-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Twisted.Metal.S01E03.NTHLAW1.1080p.AMZN.WEB-DL.English.DDP5.1.H.265-4kHdHub.Com.mkv\n688.63 MB",
+            "url": "https://pixeldrain.dev/api/file/Kzmz7xVg?download",
+            "quality": "1080p",
+            "size": "688.63 MB",
+            "fileName": "Twisted.Metal.S01E03.NTHLAW1.1080p.AMZN.WEB-DL.English.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Twisted.Metal.S01E03.NTHLAW1.1080p.AMZN.WEB-DL.English.DDP5.1.H.265-4kHdHub.Com.mkv\n688.63 MB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Twisted.Metal.S01E03.NTHLAW1.1080p.AMZN.WEB-DL.English.DDP5.1.H.265-4kHdHub.Com.mkv?token=1757770873",
+            "quality": "1080p",
+            "size": "688.63 MB",
+            "fileName": "Twisted.Metal.S01E03.NTHLAW1.1080p.AMZN.WEB-DL.English.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Twisted.Metal.S01E03.NTHLAW1.2160p.AMZN.WEB-DL.DDP5.1.H.265-4kHdHub.Com.mkv\n3.25 GB",
+            "url": "https://pixeldrain.net/api/file/Kah98L6g",
+            "quality": "2160p",
+            "size": "3.25 GB",
+            "fileName": "Twisted.Metal.S01E03.NTHLAW1.2160p.AMZN.WEB-DL.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Twisted.Metal.S01E03.NTHLAW1.2160p.AMZN.WEB-DL.DDP5.1.H.265-4kHdHub.Com.mkv\n3.25 GB",
+            "url": "https://fsl.fastcloud.casa/Twisted.Metal.S01E03.NTHLAW1.2160p.AMZN.WEB-DL.DDP5.1.H.265-4kHdHub.Com.mkv?token=1757770873",
+            "quality": "2160p",
+            "size": "3.25 GB",
+            "fileName": "Twisted.Metal.S01E03.NTHLAW1.2160p.AMZN.WEB-DL.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:moviesmod:tv:1434:s21e7",
+      "storedAt": 1757770869347,
+      "meta": {
+        "storedAt": 1757770869,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "moviesmod",
+        "type": "tv",
+        "tmdbId": "1434",
+        "imdbId": "tt0182576",
+        "season": 21,
+        "episode": 7,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:dvdplay:tv:2288:s2e2",
+      "storedAt": 1757770872460,
+      "meta": {
+        "storedAt": 1757770872,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dvdplay",
+        "type": "tv",
+        "tmdbId": "2288",
+        "imdbId": "tt0455275",
+        "season": 2,
+        "episode": 2,
+        "streams": [],
+        "count": 0
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-09-13T13:41:21.346Z",
+    "totalOriginalEntries": 5,
+    "newItemsInThisBatch": 5,
+    "format": "compact_v1"
+  }
+}
