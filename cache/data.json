@@ -31211,11 +31211,472 @@
         ],
         "count": 3
       }
+    },
+    {
+      "key": "prov:dvdplay:movie:489430",
+      "storedAt": 1757770747660,
+      "meta": {
+        "storedAt": 1757770747,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dvdplay",
+        "type": "movie",
+        "tmdbId": "489430",
+        "imdbId": "tt7549892",
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:moviesmod:movie:489430",
+      "storedAt": 1757770743951,
+      "meta": {
+        "storedAt": 1757770743,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "moviesmod",
+        "type": "movie",
+        "tmdbId": "489430",
+        "imdbId": "tt7549892",
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:515114",
+      "storedAt": 1757770729067,
+      "meta": {
+        "storedAt": 1757770729,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "515114",
+        "imdbId": "tt7021508",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Venom - The Last Dance 2024 2160p 4K UHD HDR10Plus DV BluRay HYBRID REMUX x265 10bit HEVC Multi Audio [Org AMZN Hindi-Tamil-Telugu DDP 5.1 ~ 640Kbps + English TrueHD Atmos 7.1] ESub ~ UNKNOWN-4kHDHub.com.mkv\n57.41 GB",
+            "url": "https://fsl.fastcloud.casa/Venom%20-%20The%20Last%20Dance%202024%202160p%204K%20UHD%20HDR10Plus%20DV%20BluRay%20HYBRID%20REMUX%20x265%2010bit%20HEVC%20Multi%20Audio%20[Org%20AMZN%20Hindi-Tamil-Telugu%20DDP%205.1%20~%20640Kbps%20+%20English%20TrueHD%20Atmos%207.1]%20ESub%20~%20UNKNOWN-4kHDHub.com.mkv?token=1757770727",
+            "quality": "2160p",
+            "size": "57.41 GB",
+            "fileName": "Venom - The Last Dance 2024 2160p 4K UHD HDR10Plus DV BluRay HYBRID REMUX x265 10bit HEVC Multi Audio [Org AMZN Hindi-Tamil-Telugu DDP 5.1 ~ 640Kbps + English TrueHD Atmos 7.1] ESub ~ UNKNOWN-4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Venom - The Last Dance 2024 2160p 4K UHD HDR10 DV BluRay x265 10bit HEVC Multi Audio [Org AMZN Hindi-Tamil-Telugu DDP 5.1 ~ 640Kbps + English TrueHD Atmos 7.1] ESub ~ SPHD-4kHDHub.com.mkv\n38.05 GB",
+            "url": "https://fsl.fastcloud.casa/Venom%20-%20The%20Last%20Dance%202024%202160p%204K%20UHD%20HDR10%20DV%20BluRay%20x265%2010bit%20HEVC%20Multi%20Audio%20[Org%20AMZN%20Hindi-Tamil-Telugu%20DDP%205.1%20~%20640Kbps%20+%20English%20TrueHD%20Atmos%207.1]%20ESub%20~%20SPHD-4kHDHub.com.mkv?token=1757770727",
+            "quality": "2160p",
+            "size": "38.05 GB",
+            "fileName": "Venom - The Last Dance 2024 2160p 4K UHD HDR10 DV BluRay x265 10bit HEVC Multi Audio [Org AMZN Hindi-Tamil-Telugu DDP 5.1 ~ 640Kbps + English TrueHD Atmos 7.1] ESub ~ SPHD-4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Venom - The Last Dance 2024 1080p BluRay REMUX x264 AVC Multi Audio [Org AMZN Hindi-Tamil-Telugu DDP 5.1 ~ 640Kbps + English English TrueHD Atmos 7.1] ESub ~ TRiToN-4kHDHub.com.mkv\n28.79 GB",
+            "url": "https://fsl.fastcloud.casa/Venom%20-%20The%20Last%20Dance%202024%201080p%20BluRay%20REMUX%20x264%20AVC%20Multi%20Audio%20[Org%20AMZN%20Hindi-Tamil-Telugu%20DDP%205.1%20~%20640Kbps%20+%20English%20English%20TrueHD%20Atmos%207.1]%20ESub%20~%20TRiToN-4kHDHub.com.mkv?token=1757770727",
+            "quality": "1080p",
+            "size": "28.79 GB",
+            "fileName": "Venom - The Last Dance 2024 1080p BluRay REMUX x264 AVC Multi Audio [Org AMZN Hindi-Tamil-Telugu DDP 5.1 ~ 640Kbps + English English TrueHD Atmos 7.1] ESub ~ TRiToN-4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Venom - The Last Dance 2024 1080p BluRay x264 AVC Multi Audio [Org AMZN Hindi-Tamil-Telugu DDP 5.1 ~ 640Kbps + English TrueHD Atmos 7.1] ESub ~ KNiVES-4kHDHub.com.mkv\n18.2 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Venom%20-%20The%20Last%20Dance%202024%201080p%20BluRay%20x264%20AVC%20Multi%20Audio%20[Org%20AMZN%20Hindi-Tamil-Telugu%20DDP%205.1%20~%20640Kbps%20+%20English%20TrueHD%20Atmos%207.1]%20ESub%20~%20KNiVES-4kHDHub.com.mkv?token=1757770727",
+            "quality": "1080p",
+            "size": "18.2 GB",
+            "fileName": "Venom - The Last Dance 2024 1080p BluRay x264 AVC Multi Audio [Org AMZN Hindi-Tamil-Telugu DDP 5.1 ~ 640Kbps + English TrueHD Atmos 7.1] ESub ~ KNiVES-4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Venom - The Last Dance 2024 1080p UHD HDR10 DV BluRay x265 10bit HEVC Multi Audio [Org AMZN Hindi-Tamil-Telugu DDP 5.1 ~ 640Kbps + English DDP 7.1] ESub ~ ATELiER-4kHDHub.com.mkv\n13.33 GB",
+            "url": "https://pixeldrain.dev/api/file/nw1Afzp1?download",
+            "quality": "1080p",
+            "size": "13.33 GB",
+            "fileName": "Venom - The Last Dance 2024 1080p UHD HDR10 DV BluRay x265 10bit HEVC Multi Audio [Org AMZN Hindi-Tamil-Telugu DDP 5.1 ~ 640Kbps + English DDP 7.1] ESub ~ ATELiER-4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Venom - The Last Dance 2024 1080p UHD HDR10 DV BluRay x265 10bit HEVC Multi Audio [Org AMZN Hindi-Tamil-Telugu DDP 5.1 ~ 640Kbps + English DDP 7.1] ESub ~ ATELiER-4kHDHub.com.mkv\n13.33 GB",
+            "url": "https://fsl.fastcloud.casa/Venom%20-%20The%20Last%20Dance%202024%201080p%20UHD%20HDR10%20DV%20BluRay%20x265%2010bit%20HEVC%20Multi%20Audio%20[Org%20AMZN%20Hindi-Tamil-Telugu%20DDP%205.1%20~%20640Kbps%20+%20English%20DDP%207.1]%20ESub%20~%20ATELiER-4kHDHub.com.mkv?token=1757770727",
+            "quality": "1080p",
+            "size": "13.33 GB",
+            "fileName": "Venom - The Last Dance 2024 1080p UHD HDR10 DV BluRay x265 10bit HEVC Multi Audio [Org AMZN Hindi-Tamil-Telugu DDP 5.1 ~ 640Kbps + English DDP 7.1] ESub ~ ATELiER-4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Venom - The Last Dance 2024 1080p BluRay x265 10bit HEVC Multi Audio [Org AMZN Hindi-Tamil-Telugu DDP 5.1 ~ 640Kbps + English DDP 7.1] ESub ~ Ralphy-4kHDHub.com.mkv\n8.26 GB",
+            "url": "https://pixeldrain.dev/api/file/EXQtRSiY?download",
+            "quality": "1080p",
+            "size": "8.26 GB",
+            "fileName": "Venom - The Last Dance 2024 1080p BluRay x265 10bit HEVC Multi Audio [Org AMZN Hindi-Tamil-Telugu DDP 5.1 ~ 640Kbps + English DDP 7.1] ESub ~ Ralphy-4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Venom - The Last Dance 2024 1080p BluRay x265 10bit HEVC Multi Audio [Org AMZN Hindi-Tamil-Telugu DDP 5.1 ~ 640Kbps + English DDP 7.1] ESub ~ Ralphy-4kHDHub.com.mkv\n8.26 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Venom%20-%20The%20Last%20Dance%202024%201080p%20BluRay%20x265%2010bit%20HEVC%20Multi%20Audio%20[Org%20AMZN%20Hindi-Tamil-Telugu%20DDP%205.1%20~%20640Kbps%20+%20English%20DDP%207.1]%20ESub%20~%20Ralphy-4kHDHub.com.mkv?token=1757770727",
+            "quality": "1080p",
+            "size": "8.26 GB",
+            "fileName": "Venom - The Last Dance 2024 1080p BluRay x265 10bit HEVC Multi Audio [Org AMZN Hindi-Tamil-Telugu DDP 5.1 ~ 640Kbps + English DDP 7.1] ESub ~ Ralphy-4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:515114",
+      "storedAt": 1757770734102,
+      "meta": {
+        "storedAt": 1757770734,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "515114",
+        "imdbId": "tt7021508",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Honey Dont 2025 2160p WEB h265-ETHEL\n13.3GB",
+            "url": "https://worker-sparkling-meadow-2f92.yotebo8338.workers.dev/c81b1180db225936b0ba0b8f8f5459a598aad9ca26cf3e5b3880816abe508de5d9ac0b323bc1e700379b0f54855e80535f946276141bd4dc62e91746a24171f5c75458c42bc21014eac6232d4b7c59d43ad690200e5c228119e9d6dba9c73594eea672e1dc1c12b28724668c68aab03c55aca4721e23d89efa13dc63a6a02bedc4ea552d9b0e28cc503cef49338d29f2824165b74d3a4adcfc2801dea6e945e4ac0263c7c41bd82f0623232e3c9030ae::6fc968457b0d523491178a2e90849b11/Honey.Dont.2025.2160p.WEB.h265ETHEL.mkv",
+            "quality": "4K",
+            "size": "13.3GB",
+            "fileName": "Honey.Dont.2025.2160p.WEB.h265-ETHEL.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Honey Dont 2025 1080p WEB h264-ETHEL\n4.64GB",
+            "url": "https://worker-super-frog-55d4.visefi4276.workers.dev/718219871e0e9b177e562f15130d76847379c7129dd84131e2723f348d7323a21aa45da41448a29e64bbbaa2dacf9731c35628d3e108f98f64076fe59e8bd86fab054b56f59dff48e6c9396a9b7a8c28c5dbfb7224c170f4db58cc5d8a631e9b2b33208a907090ec01f466d5d20123a096456e8fc283db7e1d3567811ebb43525591b0cf16efe2258c6bca4513e198a6e7edcbb099a9a1e16e5de7bf5f5022d215b7a40d0d3586e02589bab8af7f4d3d::ec440c2246f4711ea0798a18df495a1b/Honey.Dont.2025.1080p.WEB.h264ETHEL.mkv",
+            "quality": "1080p",
+            "size": "4.64GB",
+            "fileName": "Honey.Dont.2025.1080p.WEB.h264-ETHEL.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dvdplay:movie:950387",
+      "storedAt": 1757770738084,
+      "meta": {
+        "storedAt": 1757770738,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dvdplay",
+        "type": "movie",
+        "tmdbId": "950387",
+        "imdbId": "tt3566834",
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:1399:s6e10",
+      "storedAt": 1757770749691,
+      "meta": {
+        "storedAt": 1757770749,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 6,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Game of Thrones 2011 S06E10 2160p UHD BluRay REMUX DoVi HDR [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] HEVC FraMeSToR-4kHDHUB.com.mkv\n32.22 GB",
+            "url": "https://fsl.fastcloud.casa/Game%20of%20Thrones%202011%20S06E10%202160p%20UHD%20BluRay%20REMUX%20DoVi%20HDR%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20HEVC%20FraMeSToR-4kHDHUB.com.mkv?token=1757770748",
+            "quality": "2160p",
+            "size": "32.22 GB",
+            "fileName": "Game of Thrones 2011 S06E10 2160p UHD BluRay REMUX DoVi HDR [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] HEVC FraMeSToR-4kHDHUB.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Game of Thrones 2011 S06E10 2160p UHD SDR BluRay x265 10bit [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] HEVC SWTYBLZ-4kHDHUB.com.mkv\n21.14 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Game%20of%20Thrones%202011%20S06E10%202160p%20UHD%20SDR%20BluRay%20x265%2010bit%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20HEVC%20SWTYBLZ-4kHDHUB.com.mkv?token=1757770748",
+            "quality": "2160p",
+            "size": "21.14 GB",
+            "fileName": "Game of Thrones 2011 S06E10 2160p UHD SDR BluRay x265 10bit [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] HEVC SWTYBLZ-4kHDHUB.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Game of Thrones 2011 S06E10 1080p BluRay REMUX AVC [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English DTS-HDMA 5.1] FraMeSToR-4kHDHUB.Com.mkv\n11.44 GB",
+            "url": "https://pixeldrain.dev/api/file/YJFoAZEo?download",
+            "quality": "1080p",
+            "size": "11.44 GB",
+            "fileName": "Game of Thrones 2011 S06E10 1080p BluRay REMUX AVC [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English DTS-HDMA 5.1] FraMeSToR-4kHDHUB.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Game of Thrones 2011 S06E10 1080p BluRay REMUX AVC [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English DTS-HDMA 5.1] FraMeSToR-4kHDHUB.Com.mkv\n11.44 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Game%20of%20Thrones%202011%20S06E10%201080p%20BluRay%20REMUX%20AVC%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20DTS-HDMA%205.1]%20FraMeSToR-4kHDHUB.Com.mkv?token=1757770748",
+            "quality": "1080p",
+            "size": "11.44 GB",
+            "fileName": "Game of Thrones 2011 S06E10 1080p BluRay REMUX AVC [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English DTS-HDMA 5.1] FraMeSToR-4kHDHUB.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Game of Thrones 2011 S06E10 1080p BluRay [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English DTS-HDMA 5.1] x264 PiR8-4kHDHUB.com.mkv\n5.8 GB",
+            "url": "https://pixeldrain.dev/api/file/xCtndxHi?download",
+            "quality": "1080p",
+            "size": "5.8 GB",
+            "fileName": "Game of Thrones 2011 S06E10 1080p BluRay [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English DTS-HDMA 5.1] x264 PiR8-4kHDHUB.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Game of Thrones 2011 S06E10 1080p BluRay [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English DTS-HDMA 5.1] x264 PiR8-4kHDHUB.com.mkv\n5.8 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Game%20of%20Thrones%202011%20S06E10%201080p%20BluRay%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20DTS-HDMA%205.1]%20x264%20PiR8-4kHDHUB.com.mkv?token=1757770748",
+            "quality": "1080p",
+            "size": "5.8 GB",
+            "fileName": "Game of Thrones 2011 S06E10 1080p BluRay [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English DTS-HDMA 5.1] x264 PiR8-4kHDHUB.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Game of Thrones 2011 S06E10 1080p BluRay 10bit HEVC [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] x265 Absinth-4kHDHUB.Com.mkv\n4.36 GB",
+            "url": "https://pixeldrain.dev/api/file/ehjHWn7i?download",
+            "quality": "1080p",
+            "size": "4.36 GB",
+            "fileName": "Game of Thrones 2011 S06E10 1080p BluRay 10bit HEVC [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] x265 Absinth-4kHDHUB.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Game of Thrones 2011 S06E10 1080p BluRay 10bit HEVC [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] x265 Absinth-4kHDHUB.Com.mkv\n4.36 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/Game%20of%20Thrones%202011%20S06E10%201080p%20BluRay%2010bit%20HEVC%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20Absinth-4kHDHUB.Com.mkv?token=1757770748",
+            "quality": "1080p",
+            "size": "4.36 GB",
+            "fileName": "Game of Thrones 2011 S06E10 1080p BluRay 10bit HEVC [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] x265 Absinth-4kHDHUB.Com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:1429:s1e2",
+      "storedAt": 1757770745628,
+      "meta": {
+        "storedAt": 1757770745,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "1429",
+        "imdbId": "tt2560140",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Attack on Titan S01E02 1080p BluRay HEVC [Hindi AMZN DDP 2 0 + English Opus5 1 + Japanese Opus2 0] (Fuse-ZeroBuild)\n4.12GB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nqupPEXWLMElbFxpE0P6e4ZYZ5zKUQw2Nlptll3Fa4aT0u7KFmVjak01xTpacE2g94ToI3zOhqaXYXemCEucBhpFF2Xrunhqq7VGDbqkE9FzUepLqsMAEeE-VVmZT4uUKvhu1waLrjaJJcQITa-pSwyMAzq3cJZUyeitbvrXGPM9P964woMsODL9L_HtoTg1Oibjf-qr9nHAJ9QBhARqBJsv34yX6FodQtyt0YZ-7F_TRZNkfcE3ade11WIErMXmxtnb1tFHy8x5CLUPUSD4hIODuwQf-wuq9gyqqoVORKxd50ejL5xKiy9Lm7IHRNclpshVIgB2xKTMVQk-fMZr2KmsSpvVZSlaGsKtWe5FMwpK0iribHH67OIe_6lC9slFyJH1oF4KCyA1aqMw9O6gV2FyzJhoO2T4E7CHqPqmmIxJ-2YwzL02uBhI9Hal_c6H9Rdyhk6w6FvHG2Z6fcKR7o30HNgZ20zUM_emSdCjkXmamjWxnmed8W0Kjr-6Y5PG45Av5u0RB3wa1bwRMnu8H28gVTvQ_otwjaxWbmLsLX4Ov7Nccp9HxhZYmQ1OQDoBNiN686eRhvgVcmDp4MCWp8E9_poHFBfCyzxPzp4k01T1ro6r5WuUW7kDsKNYeAX6fKZsC8M4P8tOn4rUfxopvDTRYKDoeOH2E7rFuChnvQ9Y3uX2zM225hpyH0EU8hydvhXbqJXF0nDNmgatOn7dp_2zQG-soFJbk-1AaFdDitFM03BFLNERQ_LEMWp_9uhPmsjvqDy9-08Pf1JCFU7MaAdHRsBosTmsnzvPmD-oS56exv7txqGgzcEtTyP7Q0_co544LWMmSHDwwfsXrCdzKPSidGkMHi-oQqriPf_W0qsAo8WllWHXr6780TIchpC04ujtu21DIyB3Bs7XLTv62Es-bpb8E8FOWzfUJTUXU-C2FApPm3D21ozOaKG6npDQQ23SpEGSFoq2bX8bvIle4KexKL8YfwG527aHa8fSbCJUEOFJjs8m3RMo9ZlgBzYtVLT_Sk8J7aTABnENEHczBctbPft4PoORPd2DIqwy1RrSShAQg",
+            "quality": "1080p | BluRay",
+            "size": "4.12GB",
+            "fileName": "Attack on Titan S01E02 1080p BluRay HEVC [Hindi AMZN DDP 2.0 + English Opus5.1 + Japanese Opus2.0] (Fuse-ZeroBuild).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1434:s15e20",
+      "storedAt": 1757770731620,
+      "meta": {
+        "storedAt": 1757770731,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1434",
+        "imdbId": "tt0182576",
+        "season": 15,
+        "episode": 20,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEBRip x265 HEVC 6CH-MRN",
+            "url": "https://a.111477.xyz/tvs/Family%20Guy/Season%2015/Family.Guy.S15E20.Dearly.Deported.1080p.AMZN.WEBRip.x265.HEVC.6CH-MRN.mkv",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "Family.Guy.S15E20.Dearly.Deported.1080p.AMZN.WEBRip.x265.HEVC.6CH-MRN.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:moviesmod:tv:253372:s1e2",
+      "storedAt": 1757770746291,
+      "meta": {
+        "storedAt": 1757770746,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "tv",
+        "tmdbId": "253372",
+        "imdbId": "tt10946316",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "The Institute S01E02 Shots For Dots 1080p x264 English Esubs MoviesMod chat\n1.01GB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mMPHn1TVFaxaK4F_YPVg3cgaWpnUeWM9kFV3Zw8_geDaUFpCouuRXqAPNT6MBugMM2dWsPTXpuPhrlbJhLThg7-lmjWbmqKhUEkq_kTZSdUAjCEEGvNH0sI2Or6X0qEkvUvLLedJ6eBknwC_dByv_uB5mOSU_KnTrEkv99VUq3bw-MHwrUkWV9mD3zS6-Qwq8wmnWTkYy_p9kGcimBcncXCjkVxOYaji9mGp0Y1ughreQPTCXC-hKWtVkH6z9LxgteeIfHfyRcY72abctsXNp0rk5Xl9vM6-ir8EUwXTLTFcWq-8F7o4Y5JaI5OAzHtfqkV9njT22naWHELUQOHv2pl3EaN-shPCIS9FSBKSCh4g6Bnuk7vUexePRUHpP3k-7PZM9nI9sl8Xblg4oLtKFNbZavK0EybOdwnZp1TgyT2dv-vKkkCqie_W1xVNgQCaJ4yO3MYzoKE58NiQIJXNzh5-2Xv_ED4NIpRUgrh-Wtr-LwB-XDTwDXYu6CESuhOYEEBxch6yQuAtls-SQs7TyA3qwNMUfqTqfhFvKs6qs2ztIt_kPr3rZWY12_5hIq4WOyUInoXNk3SCIPtx9XIAf6YAXhHY8Yq6OctZSIthlASLKE51em-BDyYuPBBpy9MKsyIgpnBfJXGKIPNZ8C10qNz4PhndczJ65_RlEmS92RWLRBRhh6_kqrxjSyr9UppTTnwnsD4uDhvQ-azjU1LCwk9ajuCcxUJhn4sVQTFsjqjvf-grRseDrnylPuavzY4K0Kc080UsY5Id7EWFI2HMQHbkSbNi2M3HKwTQqJU8d5UFP-8leL6ul3rIKoqEAFxIYBllvLgB_OXgPfWxQoqBn29qA2dh7-90sDkr7kdsadSFR8jExV40PC4Rbflgt7GNbr4FoiSWxKVC57ThzBCTeprI5obVvcSG5YkW9JQyROQKXh5KnRPYVcMKI8zLs55-3_h4pLx0w3hv11c0hFLVtjnT2mYbdlUh2NXZ3xAjo6e7rC38EbLIXwxeKqboLhVZ5YbmqyE0kvbm-UpIeajZjDKvkpJQBTxjil0VPR91ltbTy8PeM",
+            "quality": "1080p",
+            "size": "1.01GB",
+            "fileName": "The.Institute.S01E02.Shots.For.Dots.1080p.x264.English.Esubs.MoviesMod.chat.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "The Institute S01E02 Shots For Dots 720p 10Bit English Esubs MoviesMod chat\n281.39MB • 10-bit",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2npWLzJzBxZvKAISYmW65AVkncQkbUdUdcNQDzDifwkCuGV2mwnPcKVSvEAK7cqZ8jBUSkgPATy5wQsnetcCEGU5ogFNdR30MHXL5y9Ms4b4kUHL_karWck4qwE_J4tO3gR1NGk-tQypeYbdC0Fwcze_3OtlEfL0FW64PB5WEFGuOqzxxusHTp24QzMB0WC7yX6TLl6AobSaMGCiwadKv7AKsz4gKrJbj8NSBSvqn-XXJ3GR8W_F22_mUHhTapRfWkbe8pzdOSxUHZIXSqdh548v0CyJvs_hkf2Q9iuiCEh2ZXM-sgy8UW-IYbUHINzEnh68BEtQSTe7SoB-nymWC9-34Jmh6g2FOS2poI_kojkH4E42K0PlycmkpPiXBgh1LtrzZiGiIoTAe65b2PqeLnqBbMHe8TYyFHDsKaxKmTaOoFOu8b2l2wDfuie5fpPiuBN7oSx57TmTBKMT8A_neCsUtUYMXT3-Y_pjpvoJGs-Aov4mqjN8EfKtaei9mlgj4T3MUVzpra7NTKRANRaqV9GB30GoUakG5N_g9kfDXVeVM4mVE-chtHgW377rEa0U1eOFb65kEEr7WpfdhjSHfmHg931eVbYBeVYNMO2L10Mg_XI9ZuenddF6syO8N_PjV5g-TD2dbf-Vk2dc8FEsj0fgmIfaejV5JFX5ul9XCvtxZSjrFj5RTuiuAt0_VfC0IODLxrf4xuY37WNr5f5cuc8TxTw68UL-IFJa61dYAdwHQ9zbjdfnYqn6rcjyneNjHAvcx8-89hY5oAN2M0jZzB07nvMyedig_aDaDv84t__nwIOIhkwjsQNf0LxzRacBv1oRry82A1VV4PGRw0R41gLjsvclGG-iIKmYmSTaoU4bOVHTo628vKB3h6injud7pTwjeaWC8UHmrwrptpyU8W7657sdVn1JSmuq53lIU4rO7oW_axhkjTMis3BCnTNl-HXhIeU-aK5l2zwLW3ZGfZ0nBgV8Hgqnj58VHM3z6TkgTgOydqOI18E0OKIFdcekNeP7JZkd3SOBCMt1Ooe759vfaEr4jj9TgGdm9iCEwidvOprrhE",
+            "quality": "720p",
+            "size": "281.39MB",
+            "fileName": "The.Institute.S01E02.Shots.For.Dots.720p.10Bit.English.Esubs.MoviesMod.chat.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "The Institute S01E02 Shots For Dots 720p x264 English Esubs MoviesMod chat\n433.2MB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lmbzqJ0Jd4ivqnfFekRImJZZBPJBj6VDiQiDbaYdw75bp23v-mMKNNnoRKOPO34cnderLOUiKirmpUhR6KdTCX5ghklI_p3m9PaMZpv12DcAW_1j6rwOceVjLFL_o3J-NIgWa6ylPjd6IlU3ESb3-fRGWcHs4kD_v7nfocRx0X-E4wkQD-PSAqG41Qtl-EuKmT9CrjUjEw1T0HkpQNqAmpipxXb_vw30Ao2dG30AofI8g1_QmlrIooERh_ZOc4BBQkJUGCih2iiBttzA55JfzfPHESEhRwo2ukOXATG_dU-GliARJYNMuE0WiB2_gbbnCQ1w6ayvELHgcicDYS660O6-0gD22tZzjBsfHfAky05f_If-orUL4ejHXeJ8js6JdHWFFDxvEAT1hKpxVXhGPSoGb_QdZL9Hro1aKqcZhSc-JVldIyMX-a0SAAZWe3QjnWL3JMVaK0nAqlY-e5O8fYIRFksi18aYEStBlcC1dIZvnlELfkn44xhUs_-LZ9U10FSONeJXqVrTm3B7RCZXdB_dpIIqvYH_DfskqinDqJnK4VLeCy_zncPZxLm3ezkM5gF9ogPA0dKeF7qYAw1U1s34ycBqK9PNhcDA05bFDpELR3gJUSKGNXzO0jYO_q7rD-QxhOmV56CouOmUd2O3eoHA0Z_lcxvHXTIR_D18yRO0-GFXVDMfvxYcWHORpsMaWRZtU1zfzLIGqgpAaj9eRLOrk12YeOIYvOFrfSBidN35wPGxsZT5kOsHFbFcYsHzyfFLm4S5Th68SRPNOn5oAbQG5x5YAOL2pkv2PSTOQNpYTK4KhzNhi6DhQrhj1YE88e6-qKa8a4yl595yzwRqGVQgUnD11XxYhPR1p16RNxOj0O4eDrYNCvbNMcxUt2QSCRMXa5MAT3yaB08L69lKL-xa_CvPvAolrJ1kWAZXq3KDiTvKfmKzKzVJsJs6x-mDU_5RfRHPzt--dwoxodXN0lDc53wDMvNLBEy3_40yderVyFrLk0a0HOBsIW0htxDuuYRoLcrr1EA6LjqZ9nNViFGCXHQpY4p1EelPoebaOVyeMb-_M",
+            "quality": "720p",
+            "size": "433.2MB",
+            "fileName": "The.Institute.S01E02.Shots.For.Dots.720p.x264.English.Esubs.MoviesMod.chat.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:46296:s3e5",
+      "storedAt": 1757770748731,
+      "meta": {
+        "storedAt": 1757770748,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "46296",
+        "imdbId": "tt1442449",
+        "season": 3,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Spartacus/Season%203/Spartacus%20(2010)%20-%20S03E05%20-%20Blood%20Brothers%20[Bluray-1080p%20Remux][DTS-HD%20MA%205.1][AVC]-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": null,
+            "type": "direct",
+            "filename": "Spartacus (2010) - S03E05 - Blood Brothers [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-NOGRP.mkv"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-09-13T13:38:49.403Z",
-    "totalOriginalEntries": 784,
+    "exportedAt": "2025-09-13T13:39:11.661Z",
+    "totalOriginalEntries": 794,
     "newItemsInThisBatch": 10,
     "format": "compact_v1"
   }
