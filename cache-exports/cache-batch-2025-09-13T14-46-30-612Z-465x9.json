@@ -1,0 +1,470 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dvdplay:movie:1355666",
+      "storedAt": 1757774789966,
+      "meta": {
+        "storedAt": 1757774789,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dvdplay",
+        "type": "movie",
+        "tmdbId": "1355666",
+        "imdbId": "tt33549683",
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:396493",
+      "storedAt": 1757774788201,
+      "meta": {
+        "storedAt": 1757774788,
+        "urlCount": 10,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "396493",
+        "imdbId": "tt3654796",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Creed.II.2018.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.REMUX-FraMeSToR.mkv\n42.65 GB",
+            "url": "https://still-cloud-afc6.forab43160.workers.dev/a36417519a6c85c50a49b1bf244bfebcf93d8abf95e020f8b8702892c04edbb8b57cce228ff7910bbad572d6e5556b47::23eae22e64d4801c01ed1c8371c70449/1397312997/Creed.II.2018.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.REMUX-FraMeSToR.mkv",
+            "quality": "2160p",
+            "size": "42.65 GB",
+            "fileName": "Creed.II.2018.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.REMUX-FraMeSToR.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Creed.II.2018.2160p.BluRay.x265.10bit.SDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ.mkv\n23.72 GB",
+            "url": "https://gentle-snowflake-8a90.kamel42719.workers.dev/2cf4ca2b1c6a03ab28fef0a6a8a1ab795ade296cf352c95aae3e9cecf84b3cef167e61bbd217bbcfa8a80faaef683319::6665c002d247d6cf5a4a4af2c7526310/1397312997/Creed.II.2018.2160p.BluRay.x265.10bit.SDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ.mkv",
+            "quality": "2160p",
+            "size": "23.72 GB",
+            "fileName": "Creed.II.2018.2160p.BluRay.x265.10bit.SDR.DTS-HD.MA.TrueHD.7.1.Atmos-SWTYBLZ.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Creed.II.2018.2160p.BluRay.TrueHD.Atmos.7.1.DV.HDR10.x265-Stelks.mkv\n16.32 GB",
+            "url": "https://pixeldrain.dev/api/file/KE4U1XJu?download",
+            "quality": "2160p",
+            "size": "16.32 GB",
+            "fileName": "Creed.II.2018.2160p.BluRay.TrueHD.Atmos.7.1.DV.HDR10.x265-Stelks.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Creed.II.2018.2160p.BluRay.TrueHD.Atmos.7.1.DV.HDR10.x265-Stelks.mkv\n16.32 GB",
+            "url": "https://fsl.fastcloud.casa/Creed.II.2018.2160p.BluRay.TrueHD.Atmos.7.1.DV.HDR10.x265-Stelks.mkv?token=1757774784",
+            "quality": "2160p",
+            "size": "16.32 GB",
+            "fileName": "Creed.II.2018.2160p.BluRay.TrueHD.Atmos.7.1.DV.HDR10.x265-Stelks.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Creed II 2018 1080p UHD BluRay DD5.1 x264-LoRD.mkv\n15.51 GB",
+            "url": "https://pixeldrain.dev/api/file/i9m3Xxo5?download",
+            "quality": "1080p",
+            "size": "15.51 GB",
+            "fileName": "Creed II 2018 1080p UHD BluRay DD5.1 x264-LoRD.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Creed II 2018 1080p UHD BluRay DD5.1 x264-LoRD.mkv\n15.51 GB",
+            "url": "https://fsl.fastcloud.casa/Creed%20II%202018%201080p%20UHD%20BluRay%20DD5.1%20x264-LoRD.mkv?token=1757774784",
+            "quality": "1080p",
+            "size": "15.51 GB",
+            "fileName": "Creed II 2018 1080p UHD BluRay DD5.1 x264-LoRD.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Creed II 2018 1080p UHD BluRay DD+7.1 HDR x265-AiO.mkv\n12.03 GB",
+            "url": "https://pixeldrain.net/api/file/bdpu93Tk",
+            "quality": "1080p",
+            "size": "12.03 GB",
+            "fileName": "Creed II 2018 1080p UHD BluRay DD+7.1 HDR x265-AiO.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Creed.II.2018.BluRay.1080p.DDP.5.1.x264-hallowed.mkv\n9.68 GB",
+            "url": "https://pixeldrain.dev/api/file/wBZp3NH4?download",
+            "quality": "1080p",
+            "size": "9.68 GB",
+            "fileName": "Creed.II.2018.BluRay.1080p.DDP.5.1.x264-hallowed.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Creed.II.2018.BluRay.1080p.TrueHD.Atmos.7.1.x265.10bit-BeiTai.mkv\n6.96 GB",
+            "url": "https://pixeldrain.dev/api/file/u212C5Gm?download",
+            "quality": "1080p",
+            "size": "6.96 GB",
+            "fileName": "Creed.II.2018.BluRay.1080p.TrueHD.Atmos.7.1.x265.10bit-BeiTai.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Creed II 2018 1080p BluRay x265 10bit Tigole.mkv\n3.46 GB",
+            "url": "https://pixeldrain.dev/api/file/KQnaerYD?download",
+            "quality": "1080p",
+            "size": "3.46 GB",
+            "fileName": "Creed II 2018 1080p BluRay x265 10bit Tigole.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 10
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1416:s12e15",
+      "storedAt": 1757774789256,
+      "meta": {
+        "storedAt": 1757774789,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1416",
+        "imdbId": "tt0413573",
+        "season": 12,
+        "episode": 15,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEB-DL x265 Garshasp)",
+            "url": "https://a.111477.xyz/tvs/Grey",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "Grey&#x27;s Anatomy (2005) - S12E15 - I Am Not Waiting Anymore (1080p AMZN WEB-DL x265 Garshasp).mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Grey",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "Grey&#x27;s Anatomy (2005) - S12E15 - I Am Not Waiting Anymore [WEBRip-1080p][EAC3 5.1][x265]-iVy.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEB-DL DD5 1 H265-SiGMA",
+            "url": "https://a.111477.xyz/tvs/Grey",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "Greys.Anatomy.S12E15.Grey.s.Anatomy.I.Am.Not.Waiting.Anymore.The.Catch.The.Pilot.1080p.AMZN.WEB-DL.DD5.1.H265-SiGMA.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:moviesmod:tv:1434:s4e2",
+      "storedAt": 1757774789424,
+      "meta": {
+        "storedAt": 1757774789,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "tv",
+        "tmdbId": "1434",
+        "imdbId": "tt0182576",
+        "season": 4,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "Family Guy S04E02 1080p English Esubs Moviesmod\n199.83MB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nYOTklic2CsO2vRNVPOflAe1UnXKOZDCY43wznCj9Wfl13qYhSnAHVcmVXuL7vVxDLAtVl1OC9WRkOA_Rw5RSLU7t9FMLjgaI4TT1qnrsD1EVkrlLE8LLZB2qDCTaAUkHYio_X0tvG62oeg7kyS0jL_7h8Mf5hEhi2Ig6rDblV6tJoWnonDaXY9ct8QTO_0V2ndqhZARwTmt_nA47vQC8E0isiHUS_V7lDUiJfUkjSg9PRCkcackEzXW_RgUccRT_5PH9WszZJh-uYNneVGwglNx7Wg7H_H0-Fgu3YLoyYyJnMVfIj8Vehz6mCMmyT2IXnGTpiTtKK_6gulzmLJCOlbQvg6yZjf-otYNyaWZ3678dvwOrPpTK6p5Ho8phezXs6_rlT5l8r4zIpeuPyScODSUiHiDObbZbUHL6Eb1X9VX7QYKTGKOmakd4Id8hrVFp5imaQEAzWlTHbQ7yjXJ1kJ_CS4x5rYK_u-kbv_IFgWlqgcMRauGb-bSs62iZZx7xdK8mSO0UnT7AJGK6fuTKumXtoh_a_jGNJZmd95PZSEfzjc2tPIaGdR2ftZcT6brXOGoON2L2P-l-BxzG-ljLT3QZInE4gC3j5NzCOYv7CzpzUwgMraWRTeXkTl1q7BNeNe_4qlyvWrtoiByC8JY6hEmemLsBEdYkofefIWFztlryPwwxbgchqTWyayMw4B-i74mIUNDzoc7WOpxa1Vq-H1xj9hO97K-Bf8FS5wMeg-ce3HIoaviXm9nogdGQV7YGZuh0RxSSDG5OguYdSHf_6aASqsU0_4PMBG0raIX8sx22g4lDnvzJCgxfoLIEVwxPX2wp2t7tcwLHo0lJa61nsTG3KIJxBrRRoyzeXuz87MOtyhjgEOrO90fseuaJdbZn8VFkC_GymladTunM6eRm9l-3rarZK_rbKiaySFo587KNdTzbvkRoMhToSBT0U3slxVHMnqfScSCbLcdr3kEB59iYro8JcjFN2EmMOvkSsaV572U3FyqGk6LcP4KaA58pfYAWm1glr_ZywMl0_aMmcGdAr83XylUqHcJnP3jpjTeNseuM",
+            "quality": "1080p",
+            "size": "199.83MB",
+            "fileName": "Family.Guy.S04E02.1080p.English.Esubs.Moviesmod.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "Family Guy S04E02 720p English Esubs Moviesmod\n177.25MB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mcXWq0qKIT8uL3JYrM3CZIxoLwTSg6vHebQa64njJVd2NXq4t0KKtSpz3boc40yxP9L7uGJKkufs2rNFs5x6wOJgUX6IgYh51FNwc-iFymwzJEl4FgKVYXHQDJGazmIeDQ1iccELZqXfplt33QIyaG22EVfUPMFr6hHS5tOIXv9J4HAVJ0bXapbNu5jTpqSYTM7mRJKfW1q6IfYxpNLl-q4yGTfXrJFmYCWsJ3wtAV_5LDzdb0nIP92GJNr3cWqotgygWu6E1BFBI2RDSojH5OriFHd06Afm7H5gO4iRY5Io1fNrgWZ3dMY9XQJ197EYuiL2yJJJo4aX4sz444ya7M6h3U-jPSvLGrGmExvlz7CUyc9HhHoaNG2Hq3bdtUoXyU2qISt5-61tjgMyLslzE6_O9crIrHIle586xaiSX5qG72QhJtWLH-1zERoRTdCXabhr9UoSvsyW6iW1NCRfty4hCLe09gJUFKIpqbSqycFoAfgkJgxz5MH-S-oPA8KiKUdl1983b1Lx87i1PVguNFPiLVET3Lf2SXEw9O0PeB4AfOv3X0Hm0SAAcocZgEvPhZtDmHatho0tyyjrns6GsSFspbNBzkV3o4h1tZO0Y8r-MdPAd-5vUT1-nOs5f5A7AIvWHCFpJw-p3hMNmqJu6l1tDVtUETUxgALYtKcouY-IMxInpaan0AFeaolFvGIg84Odse9hnsc2O8QJq2DDXB4Qy5vBwvIyCnghEWlr8rffPQU1ZDQAhDefpWbT8AGDzmm4kSsSMOcJEDB9iRVybdaddwfv-_QTzKjCKY5qzD63idVbna7SDpO0V1CPXhcgWeqdGMZcSsP0nyGZkTbPDIJ0XV-94Yfk1IRXMuBUL9QA8UlhZqiIh0U-Fvm4yrA4RakASXfrw1YXxZWrfXvJbVQqWGYfSrM1LQK2Ows_0Uyz8dbSjeyKrM3DdbEEQVrLh7MT_bgrrr6kFWYWa41AFweKszr1ZcsRJwWW64QjfDlibV2qUZIr7-dtrHSwM1gmtfzLMZzswQuD5tw4-O05Bw0Bwt1p5SqyIP0mAEvUD2RcT9V28",
+            "quality": "720p",
+            "size": "177.25MB",
+            "fileName": "Family.Guy.S04E02.720p.English.Esubs.Moviesmod.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:moviesmod:tv:2902:s3e7",
+      "storedAt": 1757774784345,
+      "meta": {
+        "storedAt": 1757774784,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "tv",
+        "tmdbId": "2902",
+        "imdbId": "tt0262985",
+        "season": 3,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "Queer as Folk US S03E07 1080p x264 English Esubs MoviesMod org\n909.19MB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lARY1NfkfG7w_iWGuvCjvTvfkFhYIyBFGIqODnuya2u7N7tYSBGDt6a4bfwVSrLEfuXLiEVIvXwRYROFe3RJZNKyvblerpfldtMQOBs7I84pFwnzirNnmazIIogwAh718snbWjuWyV4TZEj06600Iu4CBmHD6N-VoeHt7ydcvyx1ehUKKXhWi3B2Obb8N1x7tVrSMoxtCcjB1Jr-8Mej8BEvjDtP7Pu4bw2z5REd3_ee0_nTSFYus8UcMoJm7c_JVPRZ357-xfcnUwwGCdcBOLFqrQdDXMihnGPB_yoen_EVxcrdjzaZUMLKx7CspNaN8pCVtR-x52iAQDsdl0JseR6PRYthdUUtiKjtLpaq1EoefMmlIir9hMmpW64EqTaQaDyRde7eGCHfHAZtZefv_svkfQwg5WhUsJRokPPTW8a09oP7MxWa4auxzanzEWbCq4D1WyTuu04DlSzz8k9h2lq0jgORzKSt-v1lMrAuv_077cMdgIp1ZWS8kkBr83aYKgmKYV739eolaPo5vH7pJfdTGhzqkqByJHSpawDoGSXOLlonO0pfyxExalQ8XFOuJmHkxcvdirO6hxQArNWVpzhJrqCVsSaYN-LOMiGTfU0-_UCscU6Q36bOwsopwDW3zGNeEY8LjC83dv-qMUK0qgB0cT1YFy-Ep9o8f8crLuh3EHogTzo6bD0WSh3dexrvkExYZDcLypslrZPmLBwhdBSZNQ4MdZMzHmnxfHl-VWMRgmNhfEUYUY7A0Qgkm01_TeoxNNwWMOkEvjXuHDcXhBF3II8PcPTCOfDUB36_IDQi05SpFpsGgki7m4wSNC0nA3nJV_hXcxSeqg80Umg08pgMmeIG3KVzfNgvNoQQt8nwQyXjldfQolAge1Vv4dMWnfYyYVMnL094SoKwSpOSPBbeo_gAsY4WWXpaYWHzlRDJGjXuczBikpY6WDw7aCe7RqE0sOpH2_MTyGAbbQxI_i9ztYE5Nx-TzwYOmw8L1zUTntKj_1Qo4QSShA6kGbPfXBPO53phS3XmieNSQ6jy4LXRnkHAki2F_s--nVkXtUzIdX0qQ",
+            "quality": "1080p",
+            "size": "909.19MB",
+            "fileName": "Queer.as.Folk.US.S03E07.1080p.x264.English.Esubs.MoviesMod.org.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "Queer as Folk US S03E07 720p x264 English Esubs MoviesMod org\n372.86MB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kJDoT_6tBC3vHmjeURyWRau7asJ3WTp7nbdznHxF6XU-L-X4QDtozLF7QoYL3NQaoTmp1J0bzG5urny9U90fJxwWagNDl3oo-MSrRMjN1N3Mzxnd1DYbLhL6o9Db_7SqZmAKWi97N08zFsHYQ1b7NEfpGumTW_8DMMkIk_Zl-eHWlhxlTsBspytorTMpxWj0kBPMoSQVFRkW8MGrMjAaL-pIFLGEfMx78c3elYnUbDF0i3d-PpPKBd9S7C33Yvh4Oo5i7BUnYuX-FNax3L1LopzOP5HbtoT9wqMYrCafTDTvuesyhscJXTcXXp1rzPN_qfn2ykc511Td-56lzkXP-xosmQcbZM01uPWXk5IKOcYfnXgPVMx9oEdSA3ZTzPrcWDLo9rd8wQKddIwgNToMy4bN5gc6A6jgIOqSUGcvkuUcjMyvBX2SGriuAuSuXbApSK6fyOpt2Bt9jn5hkaBcDo8TD4Uw8gdBAPv2bZ2sz_UTdWorOoF2_yfL91q5nFRloxAWngyIuwpWjdZ08-_-A8QmkH0UhFISqepBoR7sRwDdf2nw0I7xUVKNgQHX1ph23dNWTpI-lLUWMJH9nSsZDAsdFernss9leTD_81aRn-aKrSRMHmV-6SLh4UANAhjAns-KkeVwS3XlROCVV_beMAJrRvLeurRN74UvLYo3LTCQsT6msp-FOzHxWh5IXEpOpU76FRfm_kqrj0jL4gko0ah81eTQmLkIoJOJZ6AqaIhkrAZ5oAr2Rg0vwFva0ZHsOLiZhng-Uw1PCjl2uJOp2OZLRAeststpBNIy_IaABmjNJtGu5mwnAOVkU7Us49msnsRdSfmCLLxK94aaC0lg5_KPQvac2EKasTMQ24ZKQA05agKGo6lDXaxeYD8WLWeACR_ExRyaz8-mHyVqsC_4LeYNUELXIpfwEg5Bb1y1mUAyIY6_xvvAo_ZzWS4tm-byL0f66v7vka60owqlpF49R2RAlKgUQEfmoA2gXVXrpg1awS1er-5d5yuTwATS2k94JZWmaJvKdCz4Y25d0vYSW21j2gNF-hPzTJf8rJZgaWXdE_1sI",
+            "quality": "720p",
+            "size": "372.86MB",
+            "fileName": "Queer.as.Folk.US.S03E07.720p.x264.English.Esubs.MoviesMod.org.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:74440:s1e12",
+      "storedAt": 1757774786114,
+      "meta": {
+        "storedAt": 1757774786,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "74440",
+        "imdbId": "tt7658402",
+        "season": 1,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DTS-HD MA 5 1][x264]-CARVED",
+            "url": "https://a.111477.xyz/tvs/Harley%20Quinn/Season%201/Harley%20Quinn%20(2019)%20-%20S01E12%20-%20Devils%20Snare%20[Bluray-1080p][DTS-HD%20MA%205.1][x264]-CARVED.mkv",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "Harley Quinn (2019) - S01E12 - Devils Snare [Bluray-1080p][DTS-HD MA 5.1][x264]-CARVED.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:moviesmod:tv:74440:s1e12",
+      "storedAt": 1757774783498,
+      "meta": {
+        "storedAt": 1757774783,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "tv",
+        "tmdbId": "74440",
+        "imdbId": "tt7658402",
+        "season": 1,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "Harley Quinn S01E12 1080p English Esubs Moviesmod\n227.57MB • 10-bit",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mocLY-xX1FRkHY6ZG995RwHgw2zJCXTiv6VPUuBDm0osJ0fM1woUiwT7xIRL1S_8U8NbbPU8IN-_R-e0IjBRgVUyCUZDe_IWzrFWjWuVMbYIVpvPfklEGPaPCimNAO1X3bqMmkE2eeJGrWdIWYJcY01xQRgCwYz0QbzCydd8wD6gyx_H3rCqGvSUz4ya3_N0KsK2FxZY7sChmlxQLkUbCcp7E4Gt9sZIGSPQQXtG7xnsIQDpwDIsFCTR6N6kalGB-KK9D-1bz4YBucT9HOsegrKX0bYIdQMV70Hqhc1666f58ZIXXLGK4KbEs4oom-0fAT-EOo0JFXPvgHfze3e78KWJQH-704B9lnj1ZZNMlufpz-c_TYyY-TEhI42NPweF87XJOoYJOeEATwc8V2j9g35EKMxjRFsasrW55h5fa78Lzv3EhGAC88VZW6UNUAE4Tx0aphwNsxIzux1zd47Vhlk4bP9gdSW41NULCmStF5QpopFyKolqxp_jrseUGByfpeLUScVKEBDd4sQYFxLAElNX69t2iCbDtbCsCQRpN__XaUy7en_IMnMsBaU1B6PItBFJnaLo5SJ2w7s7BaGW9kjXm1xzoCQF7sKTXNeRvWQoQ5XqLV0Lz4WT2UqFXKMngtrya-yfyU1_wsg9OeE6fZc_U8Jdk2mY953NjN0AeAJgGV0oBrGMbH_pI7conbsYjKy6BlFvEbZdB_SVBJVdB3CcWHHoaYmn1bh3f_6Z0J-lscu0A-SMnurodIdb9M6_mVB2_ljG5EbdA4UsaJ6A4v5cu-hZ60yz9j4ykAq3KZofGSR4jAjLUUFjLBYmgSNfi7nIogj_3kzyJOmxkHdX5IIN7SwecQEsraIUCI4oKZ5WYpDnSJcpQZEUqZCZ0WDJD36ynKQh4ZGa_4_hFZ8u03qLs2aGuHxfZbZrRl8II_2cIRElCmYC9ju-8qvzN6pFrzYD_dFtjcyV56CoKnn1Aa2N2ufM7lQziLFJk1na7E24l6-RqHgO93jhZpbgdcK1TUoQmD2zTWjcIXVIoWvAeb4xRumgBKkbsceQps1xeb0wRsNZ4",
+            "quality": "1080p",
+            "size": "227.57MB",
+            "fileName": "Harley.Quinn.S01E12.1080p.English.Esubs.Moviesmod.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "Harley Quinn S01E12 720p English Esubs Moviesmod\n95.62MB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mvabnu1ojMgwR8WwL8TXHpcryKl2B9hffgaE6dpJialoYOwWU90tHeszzwhrLjWI0gWsymp825dz0AFBW5ooolzJpqmWJ7TjI_7TPGlyaN7lKmdgXO_iN5X0W22RnayrHL8_Z-YhCbLMGkrrgQs5lCnklP7l8etxEXoxsLU0S13Qra0xDJFe2Lksd2VP7Iq5d_2Fz-9C6uf2zaZmkS6N-Lm6qqzPI4lHlVowY7xumQ_KjrXUa6FFEJpNeYmp1XoYEgbu0Qryo4NiOZzTKrAMM-Qy9TB-VsdMh8MhIPWIJvlFAqeiCywK5hkkpwBZXF4RIdaSLvjtjMeI8BBmXy1j4PRdWR5wPO8Oa8_2SB-tNR_tOc9gm4ImFpqhI1EBTtb7kl3f55Zx9lSFiHmtmSi1XeGy2ho5V98g3PM97cUfehqQy7tafvbNfXQAg9qrGlafGYvnJLTmqv5rRQu4o9gusFq1uk76GRIPERaol7-BRqT3Ifa-17i3HXYzAHuGCbliJ3VArpEJD8cMmJCTXeZrkqiGKmjrmBSpLb1fvMyfacgpRvfuCcg1ZIUO3qsU2IdIATqAhBQuLHbcNyGffxvFV89id2XoQZmi_nvY8Ky3XM7u7Bc2uLq5mSpC6l4kSZzA333CrA-cDrCL5DXVL9uLQAiAgE29UxAPpXPtFYdQtYDfLjYSs6HfGLT_g3mH7CCQEpuA30QL3kGoh_AxLB5_n1I7LwTVtR65M6vI4uxGHCemU80i1DF4COl027IeFXG940XrRbojihSVj3WukHw-a7nx1jVZ9MAhuIMNUHRi9RoWl50xWq_RsGI6mmw5emZyUZel_9wExWZ0q3ljC5r-rbQ1FTKzTiLfZK8Q3IwzklqMMBkLkh51dgdTziAEby4RKM_33529TZKkvTucI1qd5iDiXDioeNPbEEa8y7E-XmSqGb2nsE1UsR5TUPUSH8JC1eJlB1Xq5W-NM3eBP6byp9LSEH8OfXsFOIiU-cJEIO7tyEFT-zKpHN1MU5xoaUDXcLB-9kqOBi8YXRTkqCayZP1fdIowfkwdErlrojsw_0Qw9S1Kk",
+            "quality": "720p",
+            "size": "95.62MB",
+            "fileName": "Harley.Quinn.S01E12.720p.English.Esubs.Moviesmod.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:74440:s2e5",
+      "storedAt": 1757774790612,
+      "meta": {
+        "storedAt": 1757774790,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "74440",
+        "imdbId": "tt7658402",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DTS-HD MA 5 1][x264]-carved",
+            "url": "https://a.111477.xyz/tvs/Harley%20Quinn/Season%202/Harley%20Quinn%20(2019)%20-%20S02E05%20-%20Batmans%20Back%20Man%20[Bluray-1080p][DTS-HD%20MA%205.1][x264]-carved.mkv",
+            "quality": "1080p",
+            "size": null,
+            "type": "direct",
+            "filename": "Harley Quinn (2019) - S02E05 - Batmans Back Man [Bluray-1080p][DTS-HD MA 5.1][x264]-carved.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:moviesmod:tv:74440:s2e5",
+      "storedAt": 1757774788967,
+      "meta": {
+        "storedAt": 1757774788,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "tv",
+        "tmdbId": "74440",
+        "imdbId": "tt7658402",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "Harley Quinn S02E05 1080p English Esubs Moviesmod\n126.01MB • 10-bit",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kOXFOCeWvlG8g4a4huKpk6OIHPEtQXLI-OEFELWT7AaGJqW0O8ouYaK03FmYB-oIvQiMx-nIY2yNfTnvzXT0ccMpXjk7MGmFr95lZ0_EuDDzecmG112pbqq4XI9TK-f35AELY-AqTthF_wlBqqO8E5TgmHCcFusKxFmtlCdWAlNSIIPJp8ue3rdoryfy2rwADcp0MYFtsF_qnrxlQeUYLZ8OvrA_AYw9Vp0Cx-b-DlG7t7gH-rPTZwFlHHfroRpv3l8E_svKhlq2lqdPQA9HQVQrg889GLsEOGEgC3gYpW_UPhFC_VahKMkRDqWkKuSzJS0_mvEyXm4q_R3AXIEEgpKjKjuRziAV4csUqcLX55oNZ0pAMUwWoeIxiA9xbZT4b5ZEvrKJnZ9lxaKMUitD5lzeKZYLh2Fd7PX_ur0ZeI7FBzKUK6sEvuTBPR8NpLfG_ZsOEOnGzNYbUsazBtkv1fC5fgSoqgoRbyxu1O3TwYl3gRPK_DSpbXHgc0eqWBbI1dbZ67329aEbtSoP2D1L82jjr0B6TIlq_fMSRItN7lI-6bw3-sIrcaobrIV260X81xRPyaHwxM34KLV959We-9VhfahBsHygcfkVLxcFvJHoGpVaZsDyyQCQGUsQeUCIrT2vXEe0kATw87yTvz0lL4zBgksBuQ9VvJDoaPfV_zjhleJPEjzspiXHzxNh4B2FQNL3L_nDEI6fo3iQ7qAVmjiIZMPv64DzYdIUUac5aRra2j2Yv1TX1NhYby_sywuBd6-G8G2FxUJqpBEf01S0s8SFBHrAGfA9ORRLm2nTTxLmk7NEnOkhlNXUNg8BHt1ML_4APV4mja7lJ6pp4qIqI0kEbKFuHraAKoxFxFuJdzYamniDMcMclq14L29je3O1-kgpS3WtsSROdrfagWFISbI_cgy0w6Zn0dE79AKn382wpbm5YqVe_HHHxcm0_nzc736hxWQZ4ya4acKYKUbCSnWUbt9VKRinkRVmOZVGSsiWwHYqIriQKVNa2KHwPN97O9F2jRiJFxLv_R5J7Pimr8lI7JI8X7M6JVeUgR1XyOtKX310g",
+            "quality": "1080p",
+            "size": "126.01MB",
+            "fileName": "Harley.Quinn.S02E05.1080p.English.Esubs.Moviesmod.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "Harley Quinn S02E05 720p English Esubs Moviesmod\n60.44MB • HEVC",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2m_Ar3wqmm-ZECE8Cc5M1dcpjWT9vku6hygQsaq0bui07D2SL-VVwjFQvS7QBa-ewtRahsoduirICdtD-_RsStPIdwbGZYY0wKI1lbdP8YbK2tQZkc4CDYXzkizA1DyDzsTLQIc8A0PJ5nL0Mtt935XMhAkViUmJVZ5NNyrVRxafuZ5YB01eTsgw2etqVLcwBFYPnL_DjSRWTWlJoJRv3UF32bn8bt-zNNu0Jkc2v-lRi3UKdcY2HftkUlwdvHcjeCTeaMjEghKyyeSRMLuSlU_bDmSeYvjgpsJ-humNJhAHQy3PAyLEOl-ZHHV9D8apSPtvclunxejd4fVz9VD75jjYafsiHrqjHNCbnGlQXwzbhTuKrgB_ZOj7-t-snKoOKwYlE7jGJSN_JrN1zhJ6lnBMu03L8X0DQW0XLDePRYLqyhbb3yinJCNO_GYU7FaGNjnCHjQpTkINVI8_ba2yoU2b41A4UKfzp3bTEk-MDEqRJEdg0G05kLWscqdiKI6UOXfv-VgW6bAXbN79ntEX7EZhAie9anOiPJSKKyo1pS4vWTQ4w5-HbDKsTpcXPypv7hEa4GOHSD4HOsSagiZl1VRpbenlhIUabOHyVlLdBG4D7OAqCxFItNBs4Eh9ivI7DJ-vFEpwsvYkaI7w_yachdkuTxzRPGJLn461e161leXW7Ochlop6EBAZnfuM6yIuAJ41531A4ZewPtJFgFJ-c7Eb6ukQL_X2xIO0CG-uthMPLnhoNC1ol-CHecLrgy0dbypZZdS-5rZ9CnikiAhU3SxhycfD1vTcmZ6IHk7lYM9XOn7xWoTwTSi1HlUwosBAxVAu9wMLSobQlJuAC53SNDqOzpgJ2T8K9mJpU4rbP7t18k2kHuv-fHWV9-wJQgO4HKhWMl0tqfkZIE-tYH62jixGAecOAOgTmxt7KkGPtTUxTUnFt5ZXLNKhtQjnRSZHc9ebIrrLuHWlabiDhJSqCsTVfmR5VT7CutAinddK-shXo4MtwQVm8sE7RxrOX_v3jWCAlTlsTgNvHhEiUpqAHujD3HM1on4-p6MDTrpmNZUeSoBoV4",
+            "quality": "720p",
+            "size": "60.44MB",
+            "fileName": "Harley.Quinn.S02E05.720p.English.Esubs.Moviesmod.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:moviesmod:tv:8592:s6e16",
+      "storedAt": 1757774783283,
+      "meta": {
+        "storedAt": 1757774783,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "tv",
+        "tmdbId": "8592",
+        "imdbId": "tt1266020",
+        "season": 6,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "Parks and Recreation S06E16 1080p 10Bit BluRay English Esubs Moviesmod Asia\n659.19MB • 10-bit",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kcXpl_0XINERjoTceXzAHpzgug0SOaBTzZN2USBMlM5uAvB95KDLB34fmCp2fLu4doKVnPiUWLQR0kX3zuU4Mo4yls1XHnm8sU_ImHcyt8aw6HIS4SmVQbsyGfgZbn6iZBLsWkOP96wZvtIexyjbYSl219G8ZDnjpTuGAAd77fffvW_5J1qpubI9NbpKxtdYdV2dTa9w9xMBkmnnMNjp5mUewwasHN4HMQF0J00sHdfu49upuZeZ2kw-TiO5EMInHXKqIDaZk-2hHfwnntY4USgjCn4NZbzIPAh1HgskPWrtVTPgsXns9qJ9iYA5tZDhAHOcNrRkPHwVi90Z6pSbni3MCm5PYg71EbM0_C7KyF-GO8YfMz7S7fvv6nc-LEv-atYpd_e3y9hqBkTcgZkhvieyTx99m-DDKqklPExbFE5g6pCl7sxJ4lykSwAhE5fcj-SWdu4GUFeHgc2TFAfAyed5RO0fTvj0NWxGmhevzb2yT3DFavLviev3YobxCKQn25NZ1pCjj5WjN0o2U74KzUmEqx4YzdrX81PrBDeeQQtLLhVjeKjueYfQXMHQwZ9PcHN2qJ3mKgxmHMUgGiJluDTKnYiZ75nLtQBdVMnEiVwQa2RCMolbkacKSuwUf1iF7QMIboJP2dusvtjd_5gz6-UKz-I0fUQrYRsQxW7JUyA8__PzdsZ1JJVXXrLhNM1ixCd9Ffu5jJ49a7cf-eOP3Rjs0wI_Uf7-rZ5ho248yBrl2e26zobg7kPjI6qmLycnpy3K5yl3f-eQPmNfBD3xCgiS-6oMKjbSMuacZa6NdcAfS9nikfWZmR_UZbx6AuZUNzk_j2RxAoUXi9RzZNDUwPp41XoTxT-D-_ZQnApsZPFQ-B5zUmTfTRqYQt2j_VVZw5wugFT5t978OQShQAhWXnf3LC-xnMoAYxLnIMqf_YCv7IeTK37GPM7xXy7zLtArMrA_LUEwbzudm1MTkaMDMqfQA6ET75NJF_upUE9tTqqeB5_Hq_SPQhH1kWyZhU5iJcwGLB9t5X0HLfakWTRvMPKL4yAzMf1VYiGnEpgF_ffhhega8",
+            "quality": "1080p",
+            "size": "659.19MB",
+            "fileName": "Parks.and.Recreation.S06E16.1080p.10Bit.BluRay.English.Esubs.Moviesmod.Asia.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "Parks and Recreation S06E16 720p English Esubs Moviesmod Asia\n150.92MB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kQ9FZdMhU6kn275J5-FX_5orM1yFTVPRpB6WBeQrdUoC66GHkXus3lOA6kh0c7CTeOSWsjf-4JHZfDLnm-EKxnDFgAJSovh1enOUKgVne5EUq5M8rlNT1pZgI3BsPCKj-9wEdDvh0UAdmBfaQnlT0JgZYY9VpjoM0ZKy_rLZwqSu6HtU13DhPi5XPxGqjvh8JFnK9oG-LYTOfJQQrH5AkqsMQfS77GxbnlMSA4qFD_-rrcw2v8TXrKTc7spe3eOavIBXGBBW1Ce8wYkGHg21x6xxV9lTdPURAscFAMbArf-ArNpFISZ2Rjf181GwChepOAOZcqwHcdjyLczYb8kZ96NEpWMoZ3H_vUrXrLNRNhtK10rjyNFy2imuh_XoMFRCirfY0Za6rEuyKK-ryazjjSDNnpPZA0wuipxVCPUjEODlrda2baVDRlJFoDQqEQPv8K7lrVeoR3riAGG8HNK86gpzVFkRl3VtlRaURsUyMVsAHKffES3RrRpMkJ29iJgImr86i147KYhxoGtWC4WeJoe3VKeYW2yKASQnUkEq5fwgz67iqS3Tl8tCphBpUYPmyUt5TVTCdUhFjzkiq7B859XFG-B4KzM_9VSXa1r2q00KoPPHOWCbaLIObTrWCLzEpu52umLMjhBI7_2r-cE0uCztVBgiXXgpS1FissXlrIR4XqkcQ_tE8TN1t-H1V5-n31Ln3u9Aup6DTuYx0xm_ANXGQkDnQdZPAcAJG1zpyA8GTRyLdxAF8RmZ1MyukMkONid015KQxFB2kTmMAUiO5TyVUTc3CP36xntuUNTDTtfXu3X7QKra_pJ9HYiciE60AE2oNJG_-G2HumP2C-K8SpC_O4gBbuwms-CfmvzV_9ErLnZW5LpwZqWkvoA_hL_CJ40Fpt6gmkYETiYPA3SQQYCosHPUb-S6yf-K5Z8J4F6pv5bcxIA1eWg_fjgzqzcYXRyT6gYs11v2sqKUoVbf_xqOCPhhWKEhZyXxbYNPUd2irIAF6SW2lob_XguP2q31bFfVxJLeqFhudo41m7UpDmmaPF9Hq9aGO9lwZdjBknpM9vQZw",
+            "quality": "720p",
+            "size": "150.92MB",
+            "fileName": "Parks.and.Recreation.S06E16.720p.English.Esubs.Moviesmod.Asia.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-09-13T14:46:30.613Z",
+    "totalOriginalEntries": 10,
+    "newItemsInThisBatch": 10,
+    "format": "compact_v1"
+  }
+}
