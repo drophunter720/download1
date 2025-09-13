@@ -70326,12 +70326,351 @@
         "streams": [],
         "count": 0
       }
+    },
+    {
+      "key": "prov:dvdplay:tv:105:s3e1",
+      "storedAt": 1757773063436,
+      "meta": {
+        "storedAt": 1757773063,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dvdplay",
+        "type": "tv",
+        "tmdbId": "105",
+        "imdbId": "tt0159206",
+        "season": 3,
+        "episode": 1,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:moviesmod:tv:105:s3e1",
+      "storedAt": 1757773059074,
+      "meta": {
+        "storedAt": 1757773059,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "moviesmod",
+        "type": "tv",
+        "tmdbId": "105",
+        "imdbId": "tt0159206",
+        "season": 3,
+        "episode": 1,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:105:s3e1",
+      "storedAt": 1757773063047,
+      "meta": {
+        "storedAt": 1757773063,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "105",
+        "imdbId": "tt0159206",
+        "season": 3,
+        "episode": 1,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:262819:s1e1",
+      "storedAt": 1757773055762,
+      "meta": {
+        "storedAt": 1757773055,
+        "urlCount": 10,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "262819",
+        "imdbId": "tt35050741",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "The Last of Us S01E01 1080p BluRay [Hindi DDP 2.0 + English DDP 7.1] x264 WiKi-LUMiX 4kHDHub.com.mkv\n7.77 GB",
+            "url": "https://pixeldrain.net/api/file/pD9UhuR4",
+            "quality": "1080p",
+            "size": "7.77 GB",
+            "fileName": "The Last of Us S01E01 1080p BluRay [Hindi DDP 2.0 + English DDP 7.1] x264 WiKi-LUMiX 4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Last of Us S01E01 1080p BluRay [Hindi DDP 2.0 + English DDP 7.1] x264 WiKi-LUMiX 4kHDHub.com.mkv\n7.77 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/The%20Last%20of%20Us%20S01E01%201080p%20BluRay%20[Hindi%20DDP%202.0%20+%20English%20DDP%207.1]%20x264%20WiKi-LUMiX%204kHDHub.com.mkv?token=1757773054",
+            "quality": "1080p",
+            "size": "7.77 GB",
+            "fileName": "The Last of Us S01E01 1080p BluRay [Hindi DDP 2.0 + English DDP 7.1] x264 WiKi-LUMiX 4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "The Last of Us S01E01 1080p UHD BluRay DV HDR 10bit HEVC [Hindi DDP 2.0 + English DDP 7.1] x265 c0kE-LUMiX 4kHDHub.com.mkv\n8.27 GB",
+            "url": "https://pixeldrain.dev/api/file/Byhj55Q5?download",
+            "quality": "1080p",
+            "size": "8.27 GB",
+            "fileName": "The Last of Us S01E01 1080p UHD BluRay DV HDR 10bit HEVC [Hindi DDP 2.0 + English DDP 7.1] x265 c0kE-LUMiX 4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Last of Us S01E01 1080p UHD BluRay DV HDR 10bit HEVC [Hindi DDP 2.0 + English DDP 7.1] x265 c0kE-LUMiX 4kHDHub.com.mkv\n8.27 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/The%20Last%20of%20Us%20S01E01%201080p%20UHD%20BluRay%20DV%20HDR%2010bit%20HEVC%20[Hindi%20DDP%202.0%20+%20English%20DDP%207.1]%20x265%20c0kE-LUMiX%204kHDHub.com.mkv?token=1757773054",
+            "quality": "1080p",
+            "size": "8.27 GB",
+            "fileName": "The Last of Us S01E01 1080p UHD BluRay DV HDR 10bit HEVC [Hindi DDP 2.0 + English DDP 7.1] x265 c0kE-LUMiX 4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Last of Us S01E01 1080p BluRay REMUX AVC [Hindi DDP 2.0 + English TrueHD Atmos 7.1] x264 FraMeSToR-LUMiX 4kHDHub.com.mkv\n19.13 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/The%20Last%20of%20Us%20S01E01%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20x264%20FraMeSToR-LUMiX%204kHDHub.com.mkv?token=1757773054",
+            "quality": "1080p",
+            "size": "19.13 GB",
+            "fileName": "The Last of Us S01E01 1080p BluRay REMUX AVC [Hindi DDP 2.0 + English TrueHD Atmos 7.1] x264 FraMeSToR-LUMiX 4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "The Last of Us S01E01 2160p UHD BluRay DV HDR 10bit HEVC [Hindi DDP 2.0 + English DDP 7.1] x265 Weasley HONE-LUMiX 4kHDHub.com.mkv\n14.62 GB",
+            "url": "https://pixeldrain.net/api/file/F625K6u1",
+            "quality": "2160p",
+            "size": "14.62 GB",
+            "fileName": "The Last of Us S01E01 2160p UHD BluRay DV HDR 10bit HEVC [Hindi DDP 2.0 + English DDP 7.1] x265 Weasley HONE-LUMiX 4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The Last of Us S01E01 2160p UHD BluRay DV HDR 10bit HEVC [Hindi DDP 2.0 + English DDP 7.1] x265 Weasley HONE-LUMiX 4kHDHub.com.mkv\n14.62 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/The%20Last%20of%20Us%20S01E01%202160p%20UHD%20BluRay%20DV%20HDR%2010bit%20HEVC%20[Hindi%20DDP%202.0%20+%20English%20DDP%207.1]%20x265%20Weasley%20HONE-LUMiX%204kHDHub.com.mkv?token=1757773054",
+            "quality": "2160p",
+            "size": "14.62 GB",
+            "fileName": "The Last of Us S01E01 2160p UHD BluRay DV HDR 10bit HEVC [Hindi DDP 2.0 + English DDP 7.1] x265 Weasley HONE-LUMiX 4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The Last of Us S01E01 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi DDP 2.0 + English TrueHD Atmos 7.1] x265 PmP-LUMiX 4kHDHub.com.mkv\n29.01 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/The%20Last%20of%20Us%20S01E01%202160p%20UHD%20BluRay%20REMUX%20DV%20HDR%2010bit%20HEVC%20[Hindi%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20PmP-LUMiX%204kHDHub.com.mkv?token=1757773054",
+            "quality": "2160p",
+            "size": "29.01 GB",
+            "fileName": "The Last of Us S01E01 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi DDP 2.0 + English TrueHD Atmos 7.1] x265 PmP-LUMiX 4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "The Last of Us S01E01 1080p BluRay 10bit HEVC [Hindi DDP 2.0 + English DDP 7.1] x265 Vyndros-LUMiX 4kHDHub.com.mkv\n2.71 GB",
+            "url": "https://pixeldrain.dev/api/file/g7uYVMaY?download",
+            "quality": "1080p",
+            "size": "2.71 GB",
+            "fileName": "The Last of Us S01E01 1080p BluRay 10bit HEVC [Hindi DDP 2.0 + English DDP 7.1] x265 Vyndros-LUMiX 4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Last of Us S01E01 1080p BluRay 10bit HEVC [Hindi DDP 2.0 + English DDP 7.1] x265 Vyndros-LUMiX 4kHDHub.com.mkv\n2.71 GB",
+            "url": "https://pub-52f57cc1b81f4ecdac02802c1566c33d.r2.dev/The%20Last%20of%20Us%20S01E01%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20DDP%202.0%20+%20English%20DDP%207.1]%20x265%20Vyndros-LUMiX%204kHDHub.com.mkv?token=1757773054",
+            "quality": "1080p",
+            "size": "2.71 GB",
+            "fileName": "The Last of Us S01E01 1080p BluRay 10bit HEVC [Hindi DDP 2.0 + English DDP 7.1] x265 Vyndros-LUMiX 4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 10
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:262819:s1e1",
+      "storedAt": 1757773067735,
+      "meta": {
+        "storedAt": 1757773067,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "262819",
+        "imdbId": "tt35050741",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "La Suerte De Loli S01E01 Low Blow 1080p JIO WEB-DL AAC2 0 H 264-PEPE\n2.41GB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mTAhHpCeeEsX7Mop1MQQXSSJI3-EvRsdlPyjHRXCAgT1_52U_hqWkMHRwx9bR4GVYsyFCaHNEVt-6U6CWYwhGloAI0PxhEde6YbHsVg6lMoitfnDqU4z0H0aXa4GSLwTi-ULA4hJDgAKX6Ru73J8e9yXnQMsT2AN4klH-9DKbcuBeNVGREvPcwLqEkfn6jxsQcSY5ADlR8WhFGhbDIFGlhxq_DgxSWMasvJUwTDLfzEPm_E84TmrYjWxSijVc_0_s81fR8JQQR_3Puth2LWOds7xeW5UMuwOjyfuo1BivtfA5pLdIii1U12ALze3X-uzhW4fGPD3_FbFRAuE8Sj1R0ElGzqre1l2B71NURWIQeZLujs5vAisvjAkpvBsWAqUHcJ1NmToRseL9ln0WmldLhpxWd7CUUFhG8VKSwLIPGc2ch1AN8Uj8ST5oS2ke9tz4ncIu1oqIr1CTMQ-tlG3iVrhAn2EH8B0E3YscHV833rxbtlops2GEHBlyLDvIRTNWNkZ56Fga7_WrEUa82b6WXjSP19GGU-PwL_Dhn93sf1NjfeIwhq1wLItX6UTdokDWRmz8mcTK1hQrbCoHcRrT3iTSrMSF-XNlX82mJYBfr7S1nYb004rDz11kUeeZt05gJi2YucUlSgrU8ISklvvH-bDS6ntORrgV8QkzepYXqfMgOP9MMswlba67KWmclW-SD5Ak8kNEoHEKqOyQ0-niCKCT528iDFHuDjiPDYOwKw6Zs0ous_LX7u4T1i8WNeFdIGHcXXsl0G8W5BDImMxRISaiTjMgdQE4yTU2VFEetx6L6XUIkEHkJ84x7cbjtUg9ubsn1wJdnNqPmL0Hmog5-K1UBIC9M855OPhQljd8R2bNFnLbA6LTkaW1xq8FkPYrntMGBTNHV6ENACleq6FqdZbUjOtX6rfeUDuO6jusZSX-VOLlKHJcuYUbXN_noFnVUX02NGQDwMx4ftpjfVFspDbIlLhGQKMU3Mmepaoj6vZfjsCfN_4CxyoG7zG8DWf6oxf3oJ1ukUgy13XXxVFtyz4iV5SiclNz52Re2eeVrKZP-Ctw",
+            "quality": "1080p",
+            "size": "2.41GB",
+            "fileName": "La.Suerte.De.Loli.S01E01.Low.Blow.1080p.JIO.WEB-DL.AAC2.0.H.264-PEPE.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:2947:s6e6",
+      "storedAt": 1757773063946,
+      "meta": {
+        "storedAt": 1757773063,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "2947",
+        "imdbId": "tt1759761",
+        "season": 6,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-EPSiLON",
+            "url": "https://a.111477.xyz/tvs/Veep/Season%206/Veep%20(2012)%20-%20S06E06%20-%20Qatar%20[Bluray-1080p%20Remux][DTS-HD%20MA%205.1][AVC]-EPSiLON.mkv",
+            "quality": "1080p | REMUX",
+            "size": null,
+            "type": "direct",
+            "filename": "Veep (2012) - S06E06 - Qatar [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-EPSiLON.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:8592:s3e2",
+      "storedAt": 1757773073137,
+      "meta": {
+        "storedAt": 1757773073,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "8592",
+        "imdbId": "tt1266020",
+        "season": 3,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Parks%20and%20Recreation/Season%203/Parks%20and%20Recreation%20(2009)%20-%20S03E02%20-%20Flu%20Season%20[Bluray-1080p%20Remux][DTS-HD%20MA%205.1][AVC]-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": null,
+            "type": "direct",
+            "filename": "Parks and Recreation (2009) - S03E02 - Flu Season [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-NOGRP.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS-HD MA 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Parks%20and%20Recreation/Season%203/Parks.and.Recreation.S03E02.Flu.Season.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": null,
+            "type": "direct",
+            "filename": "Parks.and.Recreation.S03E02.Flu.Season.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:moviesmod:tv:8592:s3e2",
+      "storedAt": 1757773068207,
+      "meta": {
+        "storedAt": 1757773068,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "tv",
+        "tmdbId": "8592",
+        "imdbId": "tt1266020",
+        "season": 3,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "Parks and Recreation S03E02 1080p 10Bit BluRay English Esubs Moviesmod Asia\n686.17MB • 10-bit",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2l-sGbIWAdvwwzGPdzcUAk288VD4qPVD3rNYWwXO9BauBNg9s8-3F01yMHIQ_pVpJXp4VuWAS-ywuVxPhCM0mb3ePOu4rcKmncFoJzr3mZjYlvFyssMP13Jb-pE8se7j_wefYmWSuWPse8AXIw1kaxoqQFvNtL1SxgG2get-uNAuXZ1GcZa8cChKQEecJdsgPTtqzTjIFphASgsp049XdcY7BJ0nS10SXvUTbBmyv2SrncoIj_q_Ka20DizM9ChNwm-A238_VrIedr7foraCETeIrE97SGNxqHZ-NVMsXf6u93c1-aJyg4W2UFnuJzuWcOZGFI0iWbZjuVxiqOtAp7i14pNrEwoigKiZx5RdsFMTwJh7cNSdc9igrmr5f_lbnYf9k_2VZLcuVMLLDGUJqQWxv-qTJ3maltYbUu8hkzmv35mZHKiz1YEf2Fv8GBhvZRmF-Ulef0dsCQgblme6ynle8cAzyWQMcHciIlm5LgEgleqIqfEQK_02NhmcB-4jiORlh7h2wx6OmYH1hSAlURfDsLo-khJ5rHU9vgg_4HQL936-rYbLZmirp7GXStB923td0ca419pCsWqABdqRzXkOcjGTzo9n8nA4X_nIq_BXew5QfQcBTnBUqCFuc9AQajTi7jPZFvcchzUVxOa_PXFQgWEQ6r8hC0ZsNcs9G6MnK4iNRRClmS287RutdWt9NL4-ueFzJF5C-yv6vfTtYMob-3Aq0N6sIpTQjxJA2rNDHIC0ZwqOGl9j9NxOePReaOe5AkD96GwpvWh_wzcNCLXrY9KX9RraYVfpQHnczLi2vDVIBY3oFUtAO8U0gMrPMut8XQo6ZFzOySH3RTOkd4Mqbsj8AuQXxg5c70Sa3shVr2rX18hivw0BQ0FeOvpAhGn2EoMhVn6Za-Cul3SskhJvHcTCX7uqyE8Bob0a1Kj3995xiDYyN64dYWG2RQ3t1W5EQAyXiR4n9V2CLXGX4Cb40nODaiOak5prRiOywoPRoMI5GGymf2_C3LbOFU11CRDbs7QWfrijePTDgAro-BMAKoA63P0ou044OVjbAIT0xFTtnI",
+            "quality": "1080p",
+            "size": "686.17MB",
+            "fileName": "Parks.and.Recreation.S03E02.1080p.10Bit.BluRay.English.Esubs.Moviesmod.Asia.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "Parks and Recreation S03E02 720p English Esubs Moviesmod Asia\n150.69MB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kK6SIrNlOkCKwarCBtFG3MiGtDGfkn_GhxQNovQ3I1XjdT9Uq2NEsuh0v1Q8aWQP9rFJ8C6MDCh0LW8vielfmV8pLTySOVjtSmFZI5x4RJpMgEObziJ3xdsOz_P4Xe0cWJGo6uDTVKMuc89ynnnF25jXieeBKw-m7sVuNvHzuU_izUu6PJTqtt_sBjF724AmItgD5YIu7tJKCjYQZdX9tLadNBWOYaEym4et9PS8yidQPwWvPspiDJKbtf_oML_dOfN53WlUMIw7vdKtNklpXvC7e0NBp7eeHlS5IQKyTwDDrFmjfRBRD-owCKpDRvVkXW2zUbLakw35l4GZMOcYhaFLIapWHWFw6lpQcoMyf2R-uTYfi2w0EBoNlPYj0SXLdSWjLvJTdGVHMWEOi6QhE4ZaWTd01uML8yC-CNnAwuE62gPHywLh_c2H4bstHYgEWuqUCuhqzmxt2sx5wjg351kRIDm_WNwwxUcXc3YG3DS-7yCaHwMSTTDvgObIE5dhzjRXdUdGpTA53-u5UcMXZWyMoiYwLSz4QLjEXRtvn_ZmFv0qYPu6Tt8VLSjzGWY2rzRzP9wlqysaM7Hmz0hpCjITzrq7VKga1kkDgTvROdvWPo-eKmOWsYOSpX6aOsoe3oKkgvwf4f89WyclZpMaQHA2mDXAbNQ919K8q25l01GdLlHUDMuPbW0VqaPWG7xCV3H8qqxxHPxTZlCGhJYvQJm1eS8-4iNL4mdfSMjHFA1O2sEsEPlvR89TSmBNkFOeCYm13aA3XmCJrkjEGokKSQnOkaasqfSPEl7zS3X843rmo8t2HWGy68vq8nxamiglELHrjTq8JRP0QWSywz395EPEGP-iuqdZ6Ht_5L29TUOitIPKAhbfd1HQArhUUcoL1CIr6qNqilTZX-ahoIZtBEErwlcnM_5YL_SmbrT1iF9BNEuIv3NOV-Ttny1yfc3ra9cORn2b5XzSpa7eJpDtbzWkQXNZWDlItje8JtXBxgRvhYVnO40JMkAdIOoEneVfMmCqTz3wgPf26Cl-0Q4HXk0gdLNNi2T6UqlMNIh87p8GS-zLM",
+            "quality": "720p",
+            "size": "150.69MB",
+            "fileName": "Parks.and.Recreation.S03E02.720p.English.Esubs.Moviesmod.Asia.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-09-13T14:17:36.941Z",
-    "totalOriginalEntries": 1858,
-    "newItemsInThisBatch": 10,
+    "exportedAt": "2025-09-13T14:17:56.535Z",
+    "totalOriginalEntries": 1866,
+    "newItemsInThisBatch": 8,
     "format": "compact_v1"
   }
 }
