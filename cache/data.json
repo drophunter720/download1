@@ -37856,11 +37856,244 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:590593",
+      "storedAt": 1757770958384,
+      "meta": {
+        "storedAt": 1757770958,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "590593",
+        "imdbId": "tt10656188",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Queen.of.the.Ring.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.mkv\n9.74 GB",
+            "url": "https://pixeldrain.net/api/file/ofUWD1Hz",
+            "quality": "1080p",
+            "size": "9.74 GB",
+            "fileName": "Queen.of.the.Ring.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Queen.of.the.Ring.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.mkv\n9.74 GB",
+            "url": "https://fsl.fastcloud.casa/Queen.of.the.Ring.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.mkv?token=1757770957",
+            "quality": "1080p",
+            "size": "9.74 GB",
+            "fileName": "Queen.of.the.Ring.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:45140:s1e4",
+      "storedAt": 1757770958280,
+      "meta": {
+        "storedAt": 1757770958,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "45140",
+        "imdbId": "tt2771780",
+        "season": 1,
+        "episode": 4,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:moviesmod:tv:45140:s1e4",
+      "storedAt": 1757770958573,
+      "meta": {
+        "storedAt": 1757770958,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "moviesmod",
+        "type": "tv",
+        "tmdbId": "45140",
+        "imdbId": "tt2771780",
+        "season": 1,
+        "episode": 4,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:456:s21e4",
+      "storedAt": 1757770956397,
+      "meta": {
+        "storedAt": 1757770956,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "456",
+        "imdbId": "tt0096697",
+        "season": 21,
+        "episode": 4,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:dvdplay:tv:456:s21e4",
+      "storedAt": 1757770957397,
+      "meta": {
+        "storedAt": 1757770957,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dvdplay",
+        "type": "tv",
+        "tmdbId": "456",
+        "imdbId": "tt0096697",
+        "season": 21,
+        "episode": 4,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:456:s21e4",
+      "storedAt": 1757770957210,
+      "meta": {
+        "storedAt": 1757770957,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "456",
+        "imdbId": "tt0096697",
+        "season": 21,
+        "episode": 4,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:513:s1e9",
+      "storedAt": 1757770956606,
+      "meta": {
+        "storedAt": 1757770956,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "513",
+        "imdbId": "tt0147746",
+        "season": 1,
+        "episode": 9,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:513:s1e9",
+      "storedAt": 1757770956107,
+      "meta": {
+        "storedAt": 1757770956,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "513",
+        "imdbId": "tt0147746",
+        "season": 1,
+        "episode": 9,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:dvdplay:tv:90802:s1e3",
+      "storedAt": 1757770957670,
+      "meta": {
+        "storedAt": 1757770957,
+        "urlCount": 0,
+        "ttlSeconds": 86400
+      },
+      "data": {
+        "success": false,
+        "provider": "dvdplay",
+        "type": "tv",
+        "tmdbId": "90802",
+        "imdbId": "tt1751634",
+        "season": 1,
+        "episode": 3,
+        "streams": [],
+        "count": 0
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:99654:s1e15",
+      "storedAt": 1757770957367,
+      "meta": {
+        "storedAt": 1757770957,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "99654",
+        "imdbId": "tt12846096",
+        "season": 1,
+        "episode": 15,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "18 Again S01E15 1080p NF WEB-DL HEVC [Hindi AAC 2 0 + Korean AAC 2 0] x265 (Saon-UHDMovies)\n1.06GB",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lqLtWKf-fkdVcXP-1p_eoV6BjauEwQZ20c7RRWNF3cexXjoCwt-LJzaKukVKSs9KXxgBl6l079hygMS7Dudg7uVOGzT-XT72HzEU563gXsbPre-8MCNf5Nve7QtxNzU9lPf0n4VJU4GHilE6uNoehz-5I7xV5MjhHZbRYr2xf8-cS9IrpmL8mLKCR8O125ybfMxy7KHcvnkrXs30j-kzr_e-AIe0NzXQuuarV3fAaFnXeKkqNE7vYWICtaZHoqBmwkRN6VWO7YpenqeTH2wb6F-7hUKNSQxq-4TxIhEVmIkayYsKyUfx7Yb_H3DIL3IbF1SA6QX2vsUhh-EoYYGuRA0iD_C0M053lz0yHgmMNdssXxVjpCpTgU9SRUUg9kTbYA7TqCSZbopktFKgSRyNR1Kbw3BXHg7zuTf1othIcf-r-zKhON0E35z2fVYEeMuRM88yOhsrrK31gFEUWQBp39U5vN46FpPu11hhApI0blPz5pQirsYXnpMaHq8OiVv1Agx5VcSKDZ8MG85Ynp0GMpetdvn-0hFXU7vibHgdtF07r8aJvKhBgj4yA3UjS58NJIilg6viQIn2986WkzOAG2ObR1e8F3LYgEozdYV47u6KuUPiBzvl78QBy-rwK0OfW_yhHUj9D0O3HR9k9e5wmEn4foDb_nRxb1-V1Icg0F7YWJCXIpGcehtSmGSwcZ1RWaLwgvM9E8nENkMZREn5AowaUSUHpISGrjt7qEt6Evcr-fNNQ2hCDC79V-uURiSbdzqdRHfUby3Y0Iyo5ygLHfjcEIj9h3l6WQBjNJ730pHan3x7LKz4aHzIUp3NckQPeOXQXp_5Rsq73PDd7OunUPo3c2zISgDmdmlYj91C6EGT_3GiMERzjyR5K1UyW4JO-gcz7huapK4_ag_XxaoHbobNnzDnwiWBJscRTXgnZ70kxfE1D19IYU4iSA1iTiAcce1kyWuZNn4SP2YLscFc7Gd5pFy8h6KPyFW1fG6kki_jYjwpFDT4KOICFsNhlUpoTdP6pD57RtC9zq1NcyuRH-Qe4MobwDHuj61ylhGACsNK8mABo",
+            "quality": "1080p",
+            "size": "1.06GB",
+            "fileName": "18 Again S01E15 1080p NF WEB-DL HEVC [Hindi AAC 2.0 + Korean AAC 2.0] x265 (Saon-UHDMovies).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-09-13T13:42:35.763Z",
-    "totalOriginalEntries": 963,
+    "exportedAt": "2025-09-13T13:42:39.681Z",
+    "totalOriginalEntries": 973,
     "newItemsInThisBatch": 10,
     "format": "compact_v1"
   }
