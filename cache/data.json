@@ -68909,12 +68909,44 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:655:s2e19",
+      "storedAt": 1760349520944,
+      "meta": {
+        "storedAt": 1760349520,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "655",
+        "imdbId": "tt0092455",
+        "season": 2,
+        "episode": 19,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/258765?token=d5a8d25ac5a4c245b3f47edf584aef1d&expires=1765533520&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-13T09:52:21.618Z",
-    "totalOriginalEntries": 2166,
-    "newItemsInThisBatch": 5,
+    "exportedAt": "2025-10-13T10:00:27.231Z",
+    "totalOriginalEntries": 2167,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
