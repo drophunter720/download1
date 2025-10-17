@@ -242545,12 +242545,76 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:72541:s4e3",
+      "storedAt": 1760743118292,
+      "meta": {
+        "storedAt": 1760743118,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "72541",
+        "imdbId": "tt6322264",
+        "season": 4,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/235430?token=b41a5ff387435c0dd482bbc549158ff8&expires=1765927118&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:75006:s4e4",
+      "storedAt": 1760743488698,
+      "meta": {
+        "storedAt": 1760743488,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "75006",
+        "imdbId": "tt1312171",
+        "season": 4,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/252828?token=842483b8f917160efb3d059663882aec&expires=1765927488&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-17T23:17:38.933Z",
-    "totalOriginalEntries": 7622,
-    "newItemsInThisBatch": 4,
+    "exportedAt": "2025-10-17T23:26:04.485Z",
+    "totalOriginalEntries": 7624,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
