@@ -318405,12 +318405,140 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:245312:s1e3",
+      "storedAt": 1760922033692,
+      "meta": {
+        "storedAt": 1760922033,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "245312",
+        "imdbId": "tt26670955",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/271891?token=abf75faa4c7924ab9dc2c4acfab6ebbb&expires=1766106033&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:253:s1e13",
+      "storedAt": 1760921834257,
+      "meta": {
+        "storedAt": 1760921834,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "253",
+        "imdbId": "tt0060028",
+        "season": 1,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/189632?token=5a3521a4d858e334a1bf071ef3812990&expires=1766105834&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:42282:s1e3",
+      "storedAt": 1760921912860,
+      "meta": {
+        "storedAt": 1760921912,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "42282",
+        "imdbId": "tt1723816",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/249816?token=957305ed3000fea865e301e8098d6784&expires=1766105912&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:71789:s1e14",
+      "storedAt": 1760921592106,
+      "meta": {
+        "storedAt": 1760921592,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "71789",
+        "imdbId": "tt6473344",
+        "season": 1,
+        "episode": 14,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/159804?token=d3e690c887c8546ff0538f90184f172e&expires=1766105591&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-20T00:53:10.496Z",
-    "totalOriginalEntries": 10010,
-    "newItemsInThisBatch": 7,
+    "exportedAt": "2025-10-20T01:01:14.414Z",
+    "totalOriginalEntries": 10014,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
