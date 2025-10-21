@@ -342489,12 +342489,44 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:243115:s1e7",
+      "storedAt": 1761005266868,
+      "meta": {
+        "storedAt": 1761005266,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "243115",
+        "imdbId": "tt30252194",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/372238?token=6c5e3e28012c59424dcf6a36ddd9e219&expires=1766189266&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-21T00:05:08.981Z",
-    "totalOriginalEntries": 10767,
-    "newItemsInThisBatch": 6,
+    "exportedAt": "2025-10-21T00:13:24.424Z",
+    "totalOriginalEntries": 10768,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
