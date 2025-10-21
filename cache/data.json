@@ -349021,12 +349021,44 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:1419:s3e21",
+      "storedAt": 1761063196381,
+      "meta": {
+        "storedAt": 1761063196,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1419",
+        "imdbId": "tt1219024",
+        "season": 3,
+        "episode": 21,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/204382?token=c16c01ff2cd83c158574d1b261e23006&expires=1766247196&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-21T16:07:35.833Z",
-    "totalOriginalEntries": 10972,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-10-21T16:16:00.461Z",
+    "totalOriginalEntries": 10973,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
