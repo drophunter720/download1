@@ -354027,12 +354027,42 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1032876",
+      "storedAt": 1761093772134,
+      "meta": {
+        "storedAt": 1761093772,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1032876",
+        "imdbId": "tt4974812",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/397943?token=2b062b0d6d24a7aebb87e98cfc02a19c&expires=1766277771&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-22T00:34:53.654Z",
-    "totalOriginalEntries": 11129,
-    "newItemsInThisBatch": 0,
+    "exportedAt": "2025-10-22T00:42:59.136Z",
+    "totalOriginalEntries": 11130,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
