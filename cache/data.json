@@ -362375,12 +362375,138 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:939575",
+      "storedAt": 1761153347712,
+      "meta": {
+        "storedAt": 1761153347,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "939575",
+        "imdbId": "tt17506016",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/417495?token=5ae63ada96ac3065c25a7e5e0444a773&expires=1766337347&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:110381:s6e4",
+      "storedAt": 1761153201233,
+      "meta": {
+        "storedAt": 1761153201,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "110381",
+        "imdbId": "tt11363282",
+        "season": 6,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/448091?token=5becd7283349aa493979cdaeb5789c01&expires=1766337200&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:274766:s1e1",
+      "storedAt": 1761153320549,
+      "meta": {
+        "storedAt": 1761153320,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "274766",
+        "imdbId": "tt33651133",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/357043?token=e26de60f66e05af48fa7b5e6fa6e3d3f&expires=1766337320&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:80587:s4e22",
+      "storedAt": 1761153245754,
+      "meta": {
+        "storedAt": 1761153245,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "80587",
+        "imdbId": "tt7165904",
+        "season": 4,
+        "episode": 22,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/400530?token=c048d688fc5a7ceb8735e22e141b4899&expires=1766337245&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-22T17:10:51.093Z",
-    "totalOriginalEntries": 11391,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-10-22T17:18:52.602Z",
+    "totalOriginalEntries": 11395,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
