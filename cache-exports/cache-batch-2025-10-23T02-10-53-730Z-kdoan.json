@@ -1,0 +1,109 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:streamflix:movie:597",
+      "storedAt": 1761185365486,
+      "meta": {
+        "storedAt": 1761185365,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "597",
+        "imdbId": "tt0120338",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Titanic - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/1997/titanic.mkv",
+            "quality": "1080p",
+            "size": "3h 14m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Titanic - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/1997/titanic.mkv",
+            "quality": "1080p",
+            "size": "3h 14m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Titanic - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/1997/titanic.mkv",
+            "quality": "720p",
+            "size": "3h 14m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Titanic - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/1997/titanic.mkv",
+            "quality": "720p",
+            "size": "3h 14m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1426:s3e1",
+      "storedAt": 1761185443435,
+      "meta": {
+        "storedAt": 1761185443,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1426",
+        "imdbId": "tt1474684",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/280162?token=48a39bb7ccf9f76f1cdf6234f686759a&expires=1766369443&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-23T02:10:53.731Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
