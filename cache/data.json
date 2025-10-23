@@ -375587,12 +375587,281 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1171640",
+      "storedAt": 1761220045196,
+      "meta": {
+        "storedAt": 1761220045,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1171640",
+        "imdbId": "tt29260436",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/271762?token=5e2303107615fbcdcc422bfeb15b6a8f&expires=1766404043&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:826113",
+      "storedAt": 1761219735999,
+      "meta": {
+        "storedAt": 1761219735,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "826113",
+        "imdbId": "tt14584284",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/413906?token=6c6276d9aa1f241cf5412301b3ca6cb8&expires=1766403735&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:1396:s2e2",
+      "storedAt": 1761219854005,
+      "meta": {
+        "storedAt": 1761219853,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Breaking Bad S02E02 1080p BluRay REMUX AVC [Hindi DD 2.0 + English DTS-HD.MA 5.1] FraMeSToR-4kHDHub.com.mkv\n8.07 GB",
+            "url": "https://pixeldrain.dev/api/file/ZiKrTHaW?download",
+            "quality": "1080p",
+            "size": "8.07 GB",
+            "fileName": "Breaking Bad S02E02 1080p BluRay REMUX AVC [Hindi DD 2.0 + English DTS-HD.MA 5.1] FraMeSToR-4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Breaking Bad S02E02 1080p BluRay REMUX AVC [Hindi DD 2.0 + English DTS-HD.MA 5.1] FraMeSToR-4kHDHub.com.mkv\n8.07 GB",
+            "url": "https://fsl.anime4u.co/Breaking%20Bad%20S02E02%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DD%202.0%20+%20English%20DTS-HD.MA%205.1]%20FraMeSToR-4kHDHub.com.mkv?token=1761219853",
+            "quality": "1080p",
+            "size": "8.07 GB",
+            "fileName": "Breaking Bad S02E02 1080p BluRay REMUX AVC [Hindi DD 2.0 + English DTS-HD.MA 5.1] FraMeSToR-4kHDHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Breaking Bad S02E02 1080p BluRay [Hindi DD 2.0 + English DTS 5.1] x264 decibeL-4kHdHub.com.mkv\n4.27 GB",
+            "url": "https://pixeldrain.dev/api/file/uAZTjD5r?download",
+            "quality": "1080p",
+            "size": "4.27 GB",
+            "fileName": "Breaking Bad S02E02 1080p BluRay [Hindi DD 2.0 + English DTS 5.1] x264 decibeL-4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Breaking Bad S02E02 1080p BluRay [Hindi DD 2.0 + English DTS 5.1] x264 decibeL-4kHdHub.com.mkv\n4.27 GB",
+            "url": "https://fsl.anime4u.co/Breaking%20Bad%20S02E02%201080p%20BluRay%20[Hindi%20DD%202.0%20+%20English%20DTS%205.1]%20x264%20decibeL-4kHdHub.com.mkv?token=1761219853",
+            "quality": "1080p",
+            "size": "4.27 GB",
+            "fileName": "Breaking Bad S02E02 1080p BluRay [Hindi DD 2.0 + English DTS 5.1] x264 decibeL-4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Breaking Bad S02E02 1080p 10bit BluRay HEVC [Hindi DD 2.0 + English AAC 5.1] H.265 QxR-4kHdHub.com.mkv\n2.11 GB",
+            "url": "https://pixeldrain.dev/api/file/nNQ4c6yT?download",
+            "quality": "1080p",
+            "size": "2.11 GB",
+            "fileName": "Breaking Bad S02E02 1080p 10bit BluRay HEVC [Hindi DD 2.0 + English AAC 5.1] H.265 QxR-4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Breaking Bad S02E02 1080p 10bit BluRay HEVC [Hindi DD 2.0 + English AAC 5.1] H.265 QxR-4kHdHub.com.mkv\n2.11 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Breaking%20Bad%20S02E02%201080p%2010bit%20BluRay%20HEVC%20[Hindi%20DD%202.0%20+%20English%20AAC%205.1]%20H.265%20QxR-4kHdHub.com.mkv?token=1761219852",
+            "quality": "1080p",
+            "size": "2.11 GB",
+            "fileName": "Breaking Bad S02E02 1080p 10bit BluRay HEVC [Hindi DD 2.0 + English AAC 5.1] H.265 QxR-4kHdHub.com.mkv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1396:s2e2",
+      "storedAt": 1761219852395,
+      "meta": {
+        "storedAt": 1761219852,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux Proper][DTS-HD MA 5 1][AVC]-FraMeSToR",
+            "url": "https://a.111477.xyz/tvs/Breaking%20Bad/Season%202/Breaking%20Bad%20(2008)%20-%20S02E02%20-%20Grilled%20[Bluray-1080p%20Remux%20Proper][DTS-HD%20MA%205.1][AVC]-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": null,
+            "type": "direct",
+            "filename": "Breaking Bad (2008) - S02E02 - Grilled [Bluray-1080p Remux Proper][DTS-HD MA 5.1][AVC]-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS-HD MA 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Breaking%20Bad/Season%202/Breaking.Bad.S02E02.Grilled.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": null,
+            "type": "direct",
+            "filename": "Breaking.Bad.S02E02.Grilled.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1396:s2e2",
+      "storedAt": 1761219856186,
+      "meta": {
+        "storedAt": 1761219856,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Breaking Bad S2E2 - 2. Grilled",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/breakingbad/s2/BrBa.S02E02.720p.BrRip.x264.350MB-Pahe.in.mkv",
+            "quality": "1080p",
+            "size": "48min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Breaking Bad S2E2 - 2. Grilled",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/breakingbad/s2/BrBa.S02E02.720p.BrRip.x264.350MB-Pahe.in.mkv",
+            "quality": "1080p",
+            "size": "48min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:250923:s2e7",
+      "storedAt": 1761220049070,
+      "meta": {
+        "storedAt": 1761220049,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "250923",
+        "imdbId": "tt26933824",
+        "season": 2,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/451422?token=a434ed9cd71bba9d59d867705c754b5e&expires=1766404048&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-23T11:41:03.038Z",
-    "totalOriginalEntries": 11804,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-10-23T11:49:03.858Z",
+    "totalOriginalEntries": 11810,
+    "newItemsInThisBatch": 6,
     "format": "compact_v1"
   }
 }
