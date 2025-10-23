@@ -378574,12 +378574,264 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:116736:s1e8",
+      "storedAt": 1761237574443,
+      "meta": {
+        "storedAt": 1761237574,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "116736",
+        "imdbId": "tt10971022",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/190110?token=5b45afe8e7500257cc405726f658cc09&expires=1766421574&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:1396:s4e2",
+      "storedAt": 1761237374231,
+      "meta": {
+        "storedAt": 1761237374,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 4,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Breaking.Bad.S04.E02.1080p.BluRay.Hindi.DD2.0-English.5.1.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/tbtPyA4x?download",
+            "quality": "1080p",
+            "size": "852.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Breaking.Bad.S04.E02.1080p.BluRay.Hindi.DD2.0-English.5.1.x264-HDHub4u.Tv.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Breaking.Bad.S04.E02.1080p.BluRay.Hindi.DD2.0-English.5.1.x264-HDHub4u.Tv.mkv?token=1761237371",
+            "quality": "1080p",
+            "size": "852.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Breaking.Bad.S04.E02.1080p.BluRay.Hindi.DD2.0-English.5.1.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kLVyB24TLJyPcsz4BKf3h9dWZiMdeYHMQW9D025btLHNVA-jL6JfxiUw89ejnGm0xZTLMFg_tFBI-GtBfwV_0DjTQIrkQDaYa_c6tTbv3ROJq0Fj96q7zMXXaPSVsUnq8_P0IkD0llZN9tec73uAqMo4ky_v1SDBfBoKiQRgMf-3UtYb5LYAAxLqRgzqZGZsRNcYor8puUEYETVhCBXqD_FPYplB6OVEaEsyh-VcUX7CJuoOM",
+            "quality": "1080p",
+            "size": "852.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Breaking.Bad.S04.E02.720p.BluRay.Hindi.ORG.2.0-English.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/o2z5esVv?download",
+            "quality": "720p",
+            "size": "414.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Breaking.Bad.S04.E02.720p.BluRay.Hindi.ORG.2.0-English.x264-HDHub4u.Tv.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Breaking.Bad.S04.E02.720p.BluRay.Hindi.ORG.2.0-English.x264-HDHub4u.Tv.mkv?token=1761234453",
+            "quality": "720p",
+            "size": "414.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u S3 Server ",
+            "title": "Breaking.Bad.S04.E02.720p.BluRay.Hindi.ORG.2.0-English.x264-HDHub4u.Tv.mkv",
+            "quality": "720p",
+            "size": "414.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Breaking.Bad.S04.E02.720p.BluRay.Hindi.ORG.2.0-English.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2linW1gTeApN8HbrGAwdbg8icZWHPET5Lmr5JBXWf8NCbHNX_go5zLOpuCmACpWJUnGZCA5kWJpcSJ50CfcUyPP42axpPE6IZQSs9DbbcII6n_1eYqE6_BpmchbWxXseSe15J_DWYYvMcIkKUMpp8HLrpSCVwII9lYYYFZqYmvkdx84Db1dJRyy9GAxZxtGDCPRxmlxySZHp8Z55sZS218DP-blC5yc86W2mcEgbSFAgEQRQfg4XJZSKyszI82ZSN11q-Il",
+            "quality": "720p",
+            "size": "414.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 7
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1396:s4e2",
+      "storedAt": 1761237372221,
+      "meta": {
+        "storedAt": 1761237372,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 4,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Breaking Bad S4E2 - 2. Thirty-Eight Snub",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/breakingbad/s4/breaking bad s04e02 720p brrip sujaidr.mkv",
+            "quality": "1080p",
+            "size": "46min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Breaking Bad S4E2 - 2. Thirty-Eight Snub",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/breakingbad/s4/breaking bad s04e02 720p brrip sujaidr.mkv",
+            "quality": "1080p",
+            "size": "46min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1855:s2e25",
+      "storedAt": 1761237493646,
+      "meta": {
+        "storedAt": 1761237493,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1855",
+        "imdbId": "tt0112178",
+        "season": 2,
+        "episode": 25,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/264369?token=6a98b34e8e0f44526104c8cd9147dbcf&expires=1766421493&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:74016:s4e10",
+      "storedAt": 1761237313358,
+      "meta": {
+        "storedAt": 1761237313,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "74016",
+        "imdbId": "tt6483832",
+        "season": 4,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/262184?token=b84561cb4f432ccb43b75e5830fa424c&expires=1766421313&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-23T16:32:18.157Z",
-    "totalOriginalEntries": 11879,
-    "newItemsInThisBatch": 4,
+    "exportedAt": "2025-10-23T16:40:54.335Z",
+    "totalOriginalEntries": 11884,
+    "newItemsInThisBatch": 5,
     "format": "compact_v1"
   }
 }
