@@ -388075,12 +388075,372 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:streamflix:movie:617126",
+      "storedAt": 1761259434802,
+      "meta": {
+        "storedAt": 1761259434,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "617126",
+        "imdbId": "tt10676052",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Fantastic 4: First Steps - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2025/TheFantasticFourFirstSteps.mkv",
+            "quality": "1080p",
+            "size": "1h 55m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Fantastic 4: First Steps - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2025/TheFantasticFourFirstSteps.mkv",
+            "quality": "1080p",
+            "size": "1h 55m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Fantastic 4: First Steps - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2025/TheFantasticFourFirstSteps.mkv",
+            "quality": "720p",
+            "size": "1h 55m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Fantastic 4: First Steps - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2025/TheFantasticFourFirstSteps.mkv",
+            "quality": "720p",
+            "size": "1h 55m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:838180",
+      "storedAt": 1761259523017,
+      "meta": {
+        "storedAt": 1761259523,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "838180",
+        "imdbId": "tt14008268",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/426897?token=56e41a72dac09545c3a2e4a6a768ce10&expires=1766443522&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:844869",
+      "storedAt": 1761259174592,
+      "meta": {
+        "storedAt": 1761259174,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "844869",
+        "imdbId": "tt14861278",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/424303?token=b94cfea6d166372eb99757a200fc6048&expires=1766443174&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:1399:s1e3",
+      "storedAt": 1761259512491,
+      "meta": {
+        "storedAt": 1761259512,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Game.of.Thrones.S01E03.720p.10Bit.BluRay.Hindi.ORG.2.0-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/pUUXd9BL?download",
+            "quality": "720p",
+            "size": "491.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Game.of.Thrones.S01E03.720p.10Bit.BluRay.Hindi.ORG.2.0-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Game.of.Thrones.S01E03.720p.10Bit.BluRay.Hindi.ORG.2.0-English.HEVC.x265-HDHub4u.Tv.mkv?token=1761259511",
+            "quality": "720p",
+            "size": "491.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Game.of.Thrones.S01E03.720p.10Bit.BluRay.Hindi.ORG.2.0-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nqAWVoOEfhK7jrXy3AEFxItu9J6UZ628Kmj_N3IcQoRV8e_On8AF3JSHks2jx8XWkbrv2HMUC1tAnZC2Vf67HP_6JY5OR_roPukHQZ05PGt0oIGLPdX_s3B7jpIEkrVNSjva6ci0z-fkStlS6mGMuKUTLxk2LgNKYd8wqB1iPqEwHq1KUYVlCV7kTx1vc4An8JIE60fS0tdEBZYuxW9R0RUlcnAUtM3Lmkm8Whrq2yFNocP9nQ4TJI52mnkLH7Tlrhoa9k",
+            "quality": "720p",
+            "size": "491.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1399:s1e3",
+      "storedAt": 1761259512712,
+      "meta": {
+        "storedAt": 1761259512,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Game of Thrones S1E3 - 3. Lord Snow",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/gameofthrones/s1/Game Of Thrones S01E03 {Hindi-English} 720p Bluray ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "58min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Game of Thrones S1E3 - 3. Lord Snow",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/gameofthrones/s1/Game Of Thrones S01E03 {Hindi-English} 720p Bluray ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "58min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:157270:s1e2",
+      "storedAt": 1761259215961,
+      "meta": {
+        "storedAt": 1761259215,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "157270",
+        "imdbId": "tt6639066",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/178127?token=f89bc50e17be0031d327995f5b68d048&expires=1766443215&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1639:s1e5",
+      "storedAt": 1761259510933,
+      "meta": {
+        "storedAt": 1761259510,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1639",
+        "imdbId": "tt0813715",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/134308?token=bb4f5cbd46077e0ba24dde76fd45689f&expires=1766443509&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:4057:s7e19",
+      "storedAt": 1761259264724,
+      "meta": {
+        "storedAt": 1761259264,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4057",
+        "imdbId": "tt0452046",
+        "season": 7,
+        "episode": 19,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/170630?token=015dcfb560300e1d63b0991bbb3f342a&expires=1766443264&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:69050:s2e12",
+      "storedAt": 1761259377308,
+      "meta": {
+        "storedAt": 1761259377,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "69050",
+        "imdbId": "tt5420376",
+        "season": 2,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/270419?token=aaf2060d1b5f94e7e049a3d26636f361&expires=1766443377&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-23T22:36:38.042Z",
-    "totalOriginalEntries": 12056,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-10-23T22:45:55.704Z",
+    "totalOriginalEntries": 12065,
+    "newItemsInThisBatch": 9,
     "format": "compact_v1"
   }
 }
