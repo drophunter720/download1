@@ -386091,12 +386091,892 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1039512",
+      "storedAt": 1761253960816,
+      "meta": {
+        "storedAt": 1761253960,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1039512",
+        "imdbId": "tt27348699",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/361786?token=b7083402abeebb42db3a37640bda15eb&expires=1766437960&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:857598",
+      "storedAt": 1761254244254,
+      "meta": {
+        "storedAt": 1761254244,
+        "urlCount": 10,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "857598",
+        "imdbId": "tt16539454",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "tutVmx89\n13.97 GB",
+            "url": "https://pixeldrain.dev/api/file/tutVmx89?download",
+            "quality": "2160p",
+            "size": "13.97 GB",
+            "fileName": "tutVmx89",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "kiUot9Vb\n13.67 GB",
+            "url": "https://pixeldrain.dev/api/file/kiUot9Vb?download",
+            "quality": "2160p",
+            "size": "13.67 GB",
+            "fileName": "kiUot9Vb",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "QjBpWgcd\n8.82 GB",
+            "url": "https://pixeldrain.dev/api/file/QjBpWgcd?download",
+            "quality": "1080p",
+            "size": "8.82 GB",
+            "fileName": "QjBpWgcd",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Unstoppable.2025.1080p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.264-4kHdHub.Com\n8.82 GB",
+            "url": "https://fsl.anime4u.co/Unstoppable.2025.1080p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.264-4kHdHub.Com.mkv?token=1761254243",
+            "quality": "1080p",
+            "size": "8.82 GB",
+            "fileName": "Unstoppable.2025.1080p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "CzXCRgJG\n4.86 GB",
+            "url": "https://pixeldrain.dev/api/file/CzXCRgJG?download",
+            "quality": "1080p",
+            "size": "4.86 GB",
+            "fileName": "CzXCRgJG",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Unstoppable.2025.1080p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.265-4kHdHub.Com\n4.86 GB",
+            "url": "https://fsl.anime4u.co/Unstoppable.2025.1080p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.265-4kHdHub.Com.mkv?token=1761254243",
+            "quality": "1080p",
+            "size": "4.86 GB",
+            "fileName": "Unstoppable.2025.1080p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 720p",
+            "title": "t1i1vWJn\n4.19 GB",
+            "url": "https://pixeldrain.net/api/file/t1i1vWJn",
+            "quality": "720p",
+            "size": "4.19 GB",
+            "fileName": "t1i1vWJn",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 720p",
+            "title": "Unstoppable.2025.720p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.264-4kHdHub.Com\n4.19 GB",
+            "url": "https://fsl.anime4u.co/Unstoppable.2025.720p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.264-4kHdHub.Com.mkv?token=1761254243",
+            "quality": "720p",
+            "size": "4.19 GB",
+            "fileName": "Unstoppable.2025.720p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 720p",
+            "title": "7eEwgbfc\n1.9 GB",
+            "url": "https://pixeldrain.dev/api/file/7eEwgbfc?download",
+            "quality": "720p",
+            "size": "1.9 GB",
+            "fileName": "7eEwgbfc",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 720p",
+            "title": "Unstoppable.2025.720p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.265-4kHdHub.Com\n1.9 GB",
+            "url": "https://fsl.anime4u.co/Unstoppable.2025.720p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.265-4kHdHub.Com.mkv?token=1761254243",
+            "quality": "720p",
+            "size": "1.9 GB",
+            "fileName": "Unstoppable.2025.720p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 10
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:857598",
+      "storedAt": 1761254243432,
+      "meta": {
+        "storedAt": 1761254243,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "857598",
+        "imdbId": "tt16539454",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEB-DL AAC2 0 H 264-HDRush",
+            "url": "https://a.111477.xyz/movies/Pushpa%202%20-%20The%20Rule%20(2024)/Pushpa.The.Rule.Part.2.Tamil.2024.1080p.WEB-DL.AAC2.0.H.264-HDRush.mkv",
+            "quality": "1080p | HDR",
+            "size": "4.84 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Pushpa.The.Rule.Part.2.Tamil.2024.1080p.WEB-DL.AAC2.0.H.264-HDRush.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:857598",
+      "storedAt": 1761254246431,
+      "meta": {
+        "storedAt": 1761254246,
+        "urlCount": 38,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "857598",
+        "imdbId": "tt16539454",
+        "streams": [
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.4K-2160p.SDR.10Bit.NF.WEB-DL.Multi.DDP5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Pushpa.2.The.Rule.Reloaded.2024.4K-2160p.SDR.10Bit.NF.WEB-DL.Multi.DDP5.1.HEVC.x265-HDHub4u.Tv.mkv?token=1761248380",
+            "quality": "4K",
+            "size": "24.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.4K-2160p.SDR.10Bit.NF.WEB-DL.Multi.DDP5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lCIblcZF3HzrDZq0lUEJvJOGQlbo652Hv7IGUuDxL7kbrf642TesY6rkw8l-yUukxTbtE3ct6q_EdtH0fQHU64UIuFSq1wuctYR_62s6Z1pXf5-MO2OuGgAY7SjKmoE8SRYs9fwmm5osrzvVhRVfAZAptiEdKAnAWCKLmJVdyYLSDbqZkAo_rkMposWkN4OPgaPcj1kUF5da8GwvK0LBRS-YmFGNYu7BC-saDjHreTYXwDs5c",
+            "quality": "4K",
+            "size": "24.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.1080p.HEVC.WEB-DL.Hindi.5.1-Telugu.5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/JHog2heP?download",
+            "quality": "1080p",
+            "size": "3.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.1080p.HEVC.WEB-DL.Hindi.5.1-Telugu.5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://fsl.cdnship.buzz/Pushpa.2.The.Rule.Reloaded.2024.1080p.HEVC.WEB-DL.Hindi.5.1-Telugu.5.1.ESub.x265-HDHub4u.Tv.mkv?token=1761254244",
+            "quality": "1080p",
+            "size": "3.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.1080p.HEVC.WEB-DL.Hindi.5.1-Telugu.5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mgPA_4H50GPnN5UN5bvPVLr0oxi5qmuvRfz_Sf1_OY1_AUKUzhdiYO0YmMOJlOELYFPxO-oijXinKJKDc_yaz6rjRlmmAl0A-H9tTWGtjrmIiDEjvkBCS_ZX4PkAaNG2bzL5XkojeWYYRqfKQfKLdjKM_XZB2zuJ54mZGldwY7QV_ar8w2MlQqeEvKU4oqC2Daed1tXd-bHwlqs2ZoG03PsWsBMMPy08O9uGUgvby-zdXEwKuGTJSUBZIHs_8Iep4QqshS",
+            "quality": "1080p",
+            "size": "3.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.1080p.10Bit.WEB-DL.Hindi.5.1-Telugu.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/sxTDbT6W?download",
+            "quality": "1080p",
+            "size": "3.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.1080p.10Bit.WEB-DL.Hindi.5.1-Telugu.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://fsl.cdnship.buzz/Pushpa.2.The.Rule.Reloaded.2024.1080p.10Bit.WEB-DL.Hindi.5.1-Telugu.5.1.HEVC.x265-HDHub4u.Tv.mkv?token=1761254244",
+            "quality": "1080p",
+            "size": "3.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.1080p.10Bit.WEB-DL.Hindi.5.1-Telugu.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mMtr1HvAMcgKAuQ6XvdFNlLSXcR_ZqP1Zq2vuQHTqOYei8mMM0SCaBagNQq7BhIrhCgChqpxkqxKCguvjpiowo83XNyj3dirYolxIyFdejiY4_f2Fl5_beCHHAWV_xUZxpVxqKESTpBqtUZ52uvc59YyeJxY4b-U46EnpjvesUmjMzZGikbT8UK9DnrOrGmgpqkRIrLcNgXfE5iv5OB1eNY9Z_QRxaU0hC7fEWD-Kqz2-m9UQdZFGmBB5r0kSO_xjJIGJP",
+            "quality": "1080p",
+            "size": "3.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.1080p.10Bit.WEB-DL.Hindi.5.1-Telugu.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/BzYXN1pp?download",
+            "quality": "1080p",
+            "size": "3.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.1080p.10Bit.WEB-DL.Hindi.5.1-Telugu.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://fsl.anime4u.co/Pushpa.2.The.Rule.Reloaded.2024.1080p.10Bit.WEB-DL.Hindi.5.1-Telugu.5.1.HEVC.x265-HDHub4u.Tv.mkv?token=1761254244",
+            "quality": "1080p",
+            "size": "3.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.1080p.10Bit.WEB-DL.Hindi.5.1-Telugu.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nA7DAMlbtafzmwFaA1DZftqRxGb2wLhzpmS8Tc3GPhbgFug_375Kfa6E4oppikPZyZs0Kxv9bST4Jt3SmsHDYdLKd6eFu1REGYSAxLbhQ7B1QDhYebOX_srcNak4L2K69QY8u7fMwhb2oiFnbQvJZfFOsd8HY_v_oj7txa89mDt2A5MRhf3uM4NokcNgbsIlRJ71vNlK6I8PrEmWMaoahOKS_WDzz8q0PtLACQsyl57_AvWa1bPysimzaAF3Frpi2D-cQt",
+            "quality": "1080p",
+            "size": "3.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.1080p.WEB-DL.Hindi.5.1-Telugu.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/1goq2GaZ?download",
+            "quality": "1080p",
+            "size": "4.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.1080p.WEB-DL.Hindi.5.1-Telugu.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://fsl.cdnship.buzz/Pushpa.2.The.Rule.Reloaded.2024.1080p.WEB-DL.Hindi.5.1-Telugu.5.1.ESub.x264-HDHub4u.Tv.mkv?token=1761254244",
+            "quality": "1080p",
+            "size": "4.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.1080p.WEB-DL.Hindi.5.1-Telugu.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nI0OdkL6ZxAdxkeesdkR7FNA9xyn7KvebVK5BV4gj8-Yr8z3L1P2tTAaPLGw18fRChnnQob3EqMimIbvSpmCPs7foodMhYwOe8ktB7F3zCmduddTS6hC4H_66m8h3Fx95z6RTsCcbS4i2i3KCr9GdkZXER0xOZ8nVsHcVhGvJvJ23RQIbupq0WP38DbHwg9HBoJSBwcFDwak0ymIpDNAJvdxkDbiHUgjcCRaNclltz13OjPf6fm-buDF78UH3RCO0Qw2kA",
+            "quality": "1080p",
+            "size": "4.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.1080p.WEB-DL.Hindi.5.1-Telugu.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nzkVOQ1jIhMpU6adm3T1b2B9dwNe-LU69tMr3lsMuweYEckAS95rawDN3c0cGVmgiZNo3LGc8H5a1GCdSOgKRe88JMfXno6hlZQ3R1Z8oXLNmO-78T-ptTi15XXHnC-ICTJ2aA5J3QDch1fEqcIeG35Kx3MrXav9ov58ggwhdgdjMDNhckBJwDoKmY_xUlt9GcZmW2sm8BC0pC2lKuXRcOakaRt7eCzWV9FY9jex-e5fzmvvcmrx5G8-y_3qmHVNVnY4m4",
+            "quality": "1080p",
+            "size": "4.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.1080p.10Bit.NF.WEB-DL.Hindi.DDP5.1-Telugu.DDP5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/25GR2Mv2?download",
+            "quality": "1080p",
+            "size": "4.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.1080p.10Bit.NF.WEB-DL.Hindi.DDP5.1-Telugu.DDP5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Pushpa.2.The.Rule.Reloaded.2024.1080p.10Bit.NF.WEB-DL.Hindi.DDP5.1-Telugu.DDP5.1.HEVC.x265-HDHub4u.Tv.mkv?token=1761254244",
+            "quality": "1080p",
+            "size": "4.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.1080p.10Bit.NF.WEB-DL.Hindi.DDP5.1-Telugu.DDP5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2n73BkP8dDKXKWCy1LR2_GoH8HRKYJQb2oUf-4V_mkd1UWPWOGgrNxXJxgwEyXL4IXulio5oNVzcd7aodwuSayWrszYMIAZkIjTlBPOLqMsT5T8U7HnypTFtAPszdJ01Sva6IPtFLt1k10tiXbCA20GHYIUGkYG5eA-eM97sfWB2udz_hLl9ycUtz2VD30TwjN7WdlsrC2PpyW3WCw7qQC05Y6nm3wW9PL3W9HmWJgHKqfYqTk",
+            "quality": "1080p",
+            "size": "4.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.1080p.NF.WEB-DL.Hindi.DDP5.1-Telugu.DDP5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/H6VNX45v?download",
+            "quality": "1080p",
+            "size": "9.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.1080p.NF.WEB-DL.Hindi.DDP5.1-Telugu.DDP5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Pushpa.2.The.Rule.Reloaded.2024.1080p.NF.WEB-DL.Hindi.DDP5.1-Telugu.DDP5.1.ESub.x264-HDHub4u.Tv.mkv?token=1761254244",
+            "quality": "1080p",
+            "size": "9.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.1080p.NF.WEB-DL.Hindi.DDP5.1-Telugu.DDP5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2l8jDAxH6gSZCzgme5Ijx1dWmfG_VSKOYuwqmmcbCRhcY9txPKGzapfKH052U0rGx_ssjyyl2YPdtfz8kbm_YHeP90Js_a-GBa-Tr_HFeYiMulOhpDcU56qwIkpxWMnZqZ0A_6fdlrNAVHT_Q0D_KgoBhZBYKFYbFtMktS73k4nnl0-Bpo0U6mcNdQWEi6zwoQPxK5qfGst-tN4L0nfEcSFxdLulhz7xXrwInL9AdZLHbKTDyLY8ZuKcsA4u0-qSDej-2rQ",
+            "quality": "1080p",
+            "size": "9.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.1080p.NF.WEB-DL.Multi.DDP5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/AUTNUeMJ?download",
+            "quality": "1080p",
+            "size": "12.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.1080p.NF.WEB-DL.Multi.DDP5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://fsl.cdnship.buzz/Pushpa.2.The.Rule.Reloaded.2024.1080p.NF.WEB-DL.Multi.DDP5.1.ESub.x264-HDHub4u.Tv.mkv?token=1761254244",
+            "quality": "1080p",
+            "size": "12.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.1080p.NF.WEB-DL.Multi.DDP5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nofGnK7QQ4WgrHprlG43d3LQX8wanIMcS0ltLtGi-XzAp8lNaUp4HoTWn91Dob3naHbchdEe6ZkRP_wl6GT1sfmjfyUpq5_qzujh4jyraa47iPitw3wbNVrMWKru4KUXdZfTnf7ZMLiv5Yliwnqfth6KUmv2aIJt_y-NiOG8QbDUB43gzq9L6FzDafRWk4CeqEpP8jHl_RnTfB9THajs8qLXpXpq9Bw1k3VieKOpqRx67W3Ec",
+            "quality": "1080p",
+            "size": "12.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.720p.HEVC.WEB-DL.Hindi-Telugu.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/D7yHw3ZW?download",
+            "quality": "720p",
+            "size": "1.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.720p.HEVC.WEB-DL.Hindi-Telugu.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://fsl.cdnship.buzz/Pushpa.2.The.Rule.Reloaded.2024.720p.HEVC.WEB-DL.Hindi-Telugu.ESub.x265-HDHub4u.Tv.mkv?token=1761254244",
+            "quality": "720p",
+            "size": "1.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u S3 Server ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.720p.HEVC.WEB-DL.Hindi-Telugu.ESub.x265-HDHub4u.Tv.mkv",
+            "quality": "720p",
+            "size": "1.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.720p.HEVC.WEB-DL.Hindi-Telugu.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2n5-nUzBSag4dH8C-xacQJ0hqcvO_C4QtJpdG-fMuIyhfwe5-vi-b7Ki1ceuhQ4kCWsAcnj-2IeYC9xcOeXwZ7CDw21_M4v7LmN-Adx8v32QEGflH0RZwgb764_skOVXL1t_EygIn3Tl5uXA21wBhEyxI9zdpaZP9x8HvepVo5EgCJvCeEriZXG0xixwwv9g-llOSulPFSNcI7Miuxwshp38VUDr15-lFqxz9iJswp3y6GZDhJmuw8ze64VTS9DsGJcMzKn",
+            "quality": "720p",
+            "size": "1.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.720p.10Bit.WEB-DL.Hindi.5.1-Telugu.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/ijBtL5Y9?download",
+            "quality": "720p",
+            "size": "1.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.720p.10Bit.WEB-DL.Hindi.5.1-Telugu.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://fsl.cdnship.buzz/Pushpa.2.The.Rule.Reloaded.2024.720p.10Bit.WEB-DL.Hindi.5.1-Telugu.HEVC.x265-HDHub4u.Tv.mkv?token=1761254244",
+            "quality": "720p",
+            "size": "1.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.720p.10Bit.WEB-DL.Hindi.5.1-Telugu.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2m2XVpwpycZJ3__MU-tPfPB7Unc9JnlGlM-C9-W4PCvGu3mr0rh21galSu91OzpLOAAUYD_1JyhBSwXodnHPx95X_2KbD_mSuS_Ejyp4BGbrW33YESzEL1pVrR41CYdiIv5CxXZjpKtqvWtOl6N87yWiA2EMdbBRF4TRIn3RFo64imEL9ANPilAu8pm5RHT1okMiT3Qn4OtAfSRlzbyeTH91QWTXdUAAnHkY5A8OH-V1sIGINw",
+            "quality": "720p",
+            "size": "1.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.720p.WEB-DL.Hindi.5.1-Telugu.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/XPKxLXrP?download",
+            "quality": "720p",
+            "size": "2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.720p.WEB-DL.Hindi.5.1-Telugu.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Pushpa.2.The.Rule.Reloaded.2024.720p.WEB-DL.Hindi.5.1-Telugu.5.1.ESub.x264-HDHub4u.Tv.mkv?token=1761254244",
+            "quality": "720p",
+            "size": "2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.720p.WEB-DL.Hindi.5.1-Telugu.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2msX8u31G-OJ2WIqg5sSU9Y4tNWbAI2GQJ-L4Bto-u3fGf8jrSZ87w_8LBLFLR9CA05P5i0JYarXMM85-2-kYMg96XhUTCAPOvgL91EJ8aBKnkGTXQ5rVjm8ayp83IBZ7qmUCxNEuvT6hmrSkRH1RrwYNOw7G-plCh1EuIIacezTrbfKxJpVyIlcMNE6mOBAfAuxIAU1K4NbpbkTCxxtzR3lSMSt8F780hNvLX13AQPMvOHe-U",
+            "quality": "720p",
+            "size": "2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.720p.WEB-DL.Hindi.5.1-Telugu.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2matdx1RPBZzN-IbirV8z_yTOpNcxM_bAdpi7zJPef7GTEw8CRZVsoOKlAHlAH-uHT1xusc7nF5hA3PTuUw7XV9wd_l35citCpk2H2BJMXTAPs_ODaOmXFnZLe7t2OzuO8YGfr-aaYTIih9GgDMr7n2pHtDR-3iSI4Ug528ksy-5CrkZD4boQsvDG0VVV6B2J9gn2uDSZ0Jm6FBiNYh-PNUW8jSlCsACMyMAkCiWlam4GzDRug",
+            "quality": "720p",
+            "size": "2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.480p.WEB-DL.Hindi-Telugu.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/piyLLSdp?download",
+            "quality": "480p",
+            "size": "834.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.480p.WEB-DL.Hindi-Telugu.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Pushpa.2.The.Rule.Reloaded.2024.480p.WEB-DL.Hindi-Telugu.ESub.x264-HDHub4u.Tv.mkv?token=1761254244",
+            "quality": "480p",
+            "size": "834.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.480p.WEB-DL.Hindi-Telugu.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2muoj9nxWjcSAcoOdfs5fnfCX_jALB3M5T7AK9RRPSL7tWY8kBfNc8EHQD3AJaNgVIJ1utlTLBoxHNf2UzCdpCcO36qC0DIHY0pEyPjkn9fGldkQeiT4ta-RdNMjuYXPG0t6P7rjiJE8f56XM1Z0jgqky-0UkCDbUZYkXZvfG6ZGyZ7fAZx_Typj8z8Xu7xGZcl6XOsOkXUZhpdSwpyY9sy9km_y4CGEZKVwZ1g6S7AN69Aoj4",
+            "quality": "480p",
+            "size": "834.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Pushpa.2.The.Rule.Reloaded.2024.480p.WEB-DL.Hindi-Telugu.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2ny5_31qCEorFhxRRxx5V99exvldfa0htW9DgGz9QJQa7XkBr7sdMqQHkit5JyJybRuRvBJ9KXwgeL3SZDknym6zElwl1cIR99pOmQtMhs9vVyaXLnOBrtKOva5SMeUZLjSL-nbdU2ktd5nMzHRY1CvZFFa4cZ61K_Q2WLZj-vfsW1wZiXaPG10hV55cC43BkZURBUGkIFAQyzIcmDSO7oJD0NdznZTXvmyBttA-BXDFGz0XpA",
+            "quality": "480p",
+            "size": "834.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 39
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:857598",
+      "storedAt": 1761254243053,
+      "meta": {
+        "storedAt": 1761254243,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "857598",
+        "imdbId": "tt16539454",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Pushpa 2 - The Rule - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2025/Pushpa2.mkv",
+            "quality": "1080p",
+            "size": "3h 44m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Pushpa 2 - The Rule - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2025/Pushpa2.mkv",
+            "quality": "1080p",
+            "size": "3h 44m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Pushpa 2 - The Rule - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2025/Pushpa2.mkv",
+            "quality": "720p",
+            "size": "3h 44m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Pushpa 2 - The Rule - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2025/Pushpa2.mkv",
+            "quality": "720p",
+            "size": "3h 44m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:88803:s1e1",
+      "storedAt": 1761254098187,
+      "meta": {
+        "storedAt": 1761254098,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "88803",
+        "imdbId": "tt10233448",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "jggxKiu5\n1.64 GB",
+            "url": "https://pixeldrain.dev/api/file/jggxKiu5?download",
+            "quality": "1080p",
+            "size": "1.64 GB",
+            "fileName": "jggxKiu5",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "VINLAND.SAGA.S01E01.Somewhere.not.here.1080p.CR.WEB-DL.AAC2.0.x.264-4kHdHub.Com\n1.64 GB",
+            "url": "https://fsl.anime4u.co/VINLAND.SAGA.S01E01.Somewhere.not.here.1080p.CR.WEB-DL.AAC2.0.x.264-4kHdHub.Com.mkv?token=1761254097",
+            "quality": "1080p",
+            "size": "1.64 GB",
+            "fileName": "VINLAND.SAGA.S01E01.Somewhere.not.here.1080p.CR.WEB-DL.AAC2.0.x.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:88803:s1e1",
+      "storedAt": 1761254099239,
+      "meta": {
+        "storedAt": 1761254099,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "88803",
+        "imdbId": "tt10233448",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Vinland Saga S1E1 - 1. Somewhere Not Here",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/vinland/s1/Vinland Saga S01E01 Dual Audio {English-Japanese} 720p BluRay ESubs [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "29min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Vinland Saga S1E1 - 1. Somewhere Not Here",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/vinland/s1/Vinland Saga S01E01 Dual Audio {English-Japanese} 720p BluRay ESubs [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "29min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-23T21:11:13.482Z",
-    "totalOriginalEntries": 12017,
-    "newItemsInThisBatch": 4,
+    "exportedAt": "2025-10-23T21:19:52.686Z",
+    "totalOriginalEntries": 12024,
+    "newItemsInThisBatch": 7,
     "format": "compact_v1"
   }
 }
