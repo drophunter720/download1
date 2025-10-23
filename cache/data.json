@@ -380539,12 +380539,44 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:101918:s2e3",
+      "storedAt": 1761244499284,
+      "meta": {
+        "storedAt": 1761244499,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "101918",
+        "imdbId": "tt9731288",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/286033?token=0d46a2930fc6b5461fabcbd35522ba95&expires=1766428499&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-23T18:30:36.340Z",
-    "totalOriginalEntries": 11923,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-10-23T18:38:53.633Z",
+    "totalOriginalEntries": 11924,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
