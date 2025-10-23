@@ -387447,12 +387447,226 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1396788",
+      "storedAt": 1761256420665,
+      "meta": {
+        "storedAt": 1761256420,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1396788",
+        "imdbId": "tt34609336",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/353859?token=89e371c280963fca27273602bc1e9072&expires=1766440420&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:95480:s5e5",
+      "storedAt": 1761256563810,
+      "meta": {
+        "storedAt": 1761256563,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "95480",
+        "imdbId": "tt5875444",
+        "season": 5,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "qRE6DBnz\n6.7 GB",
+            "url": "https://pixeldrain.net/api/file/qRE6DBnz",
+            "quality": "2160p",
+            "size": "6.7 GB",
+            "fileName": "qRE6DBnz",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Slow.Horses.S05E05.2160p.ATVP.WEB-DL.English.DDP5.1.Atmos.H.265-4kHdHub.Com\n6.7 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Slow.Horses.S05E05.2160p.ATVP.WEB-DL.English.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv?token=1761253933",
+            "quality": "2160p",
+            "size": "6.7 GB",
+            "fileName": "Slow.Horses.S05E05.2160p.ATVP.WEB-DL.English.DDP5.1.Atmos.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "vxA5j7yQ\n3.36 GB",
+            "url": "https://pixeldrain.net/api/file/vxA5j7yQ",
+            "quality": "1080p",
+            "size": "3.36 GB",
+            "fileName": "vxA5j7yQ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Slow.Horses.S05E05.1080p.ATVP.WEB-DL.English.DDP5.1.Atmos.H.264-4kHdHub.Com\n3.36 GB",
+            "url": "https://fsl.anime4u.co/Slow.Horses.S05E05.1080p.ATVP.WEB-DL.English.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv?token=1761253934",
+            "quality": "1080p",
+            "size": "3.36 GB",
+            "fileName": "Slow.Horses.S05E05.1080p.ATVP.WEB-DL.English.DDP5.1.Atmos.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "iLgbT9aV\n1.78 GB",
+            "url": "https://pixeldrain.dev/api/file/iLgbT9aV?download",
+            "quality": "1080p",
+            "size": "1.78 GB",
+            "fileName": "iLgbT9aV",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Slow.Horses.S05E05.1080p.ATVP.WEB-DL.English.DDP5.1.Atmos.H.265-4kHdHub.Com\n1.78 GB",
+            "url": "https://fsl.anime4u.co/Slow.Horses.S05E05.1080p.ATVP.WEB-DL.English.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv?token=1761253936",
+            "quality": "1080p",
+            "size": "1.78 GB",
+            "fileName": "Slow.Horses.S05E05.1080p.ATVP.WEB-DL.English.DDP5.1.Atmos.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:95480:s5e5",
+      "storedAt": 1761256562164,
+      "meta": {
+        "storedAt": 1761256562,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "95480",
+        "imdbId": "tt5875444",
+        "season": 5,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][h264]-HiggsBoson",
+            "url": "https://a.111477.xyz/tvs/Slow%20Horses/Season%205/Slow%20Horses%20(2022)%20-%20S05E05%20-%20Circus%20[WEBDL-1080p][AC3%205.1][h264]-HiggsBoson.mkv",
+            "quality": "1080p",
+            "size": "3.48 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Slow Horses (2022) - S05E05 - Circus [WEBDL-1080p][AC3 5.1][h264]-HiggsBoson.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:95480:s5e5",
+      "storedAt": 1761256565173,
+      "meta": {
+        "storedAt": 1761256565,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "95480",
+        "imdbId": "tt5875444",
+        "season": 5,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "House.of.the.Dragon.S01E05.720p.10Bit.WEB-DL.Hindi.ORG.2.0-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/7zHnV4pd?download",
+            "quality": "720p",
+            "size": "371.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "House.of.the.Dragon.S01E05.720p.10Bit.WEB-DL.Hindi.ORG.2.0-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://fsl.cdnship.buzz/House.of.the.Dragon.S01E05.720p.10Bit.WEB-DL.Hindi.ORG.2.0-English.HEVC.x265-HDHub4u.Tv.mkv?token=1761256563",
+            "quality": "720p",
+            "size": "371.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "House.of.the.Dragon.S01E05.720p.10Bit.WEB-DL.Hindi.ORG.2.0-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lKxz1SHDZsteHMt2i2EehxGVo-uE94Rw5McJzc51Lo96CCw0XC3VBpOs2usq8ofCQRFrCnJ7n6SgLgkOX9MPWpELQ5OTpflTV_Jcr41FlSBYutVCNUzp3BXWMzSIom23rQ22UpDgABm5ZD4lZlIcvOLVR0MR2U9scVQR07RtqTUBjSsL73O9Zbu-gEHvfx6ei6HwcLPnAzueQu-PhuQHy-tWSXV9JnKzMp9cfNs963spxEYXzQYimqtvcvnNYaIlxnzynz",
+            "quality": "720p",
+            "size": "371.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 3
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-23T21:53:11.660Z",
-    "totalOriginalEntries": 12039,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-10-23T22:01:43.320Z",
+    "totalOriginalEntries": 12043,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
