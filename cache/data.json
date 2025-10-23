@@ -379973,12 +379973,87 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1117388",
+      "storedAt": 1761241286413,
+      "meta": {
+        "storedAt": 1761241286,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1117388",
+        "imdbId": "tt19034552",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/395667?token=9cd7cce66d7afdc1b16254165670a4e3&expires=1766425285&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1396:s5e1",
+      "storedAt": 1761241651854,
+      "meta": {
+        "storedAt": 1761241651,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 5,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Breaking Bad S5E1 - 1. Live Free or Die",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/breakingbad/s5/breaking bad s05e01 720p brrip sujaidr.mkv",
+            "quality": "1080p",
+            "size": "43min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Breaking Bad S5E1 - 1. Live Free or Die",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/breakingbad/s5/breaking bad s05e01 720p brrip sujaidr.mkv",
+            "quality": "1080p",
+            "size": "43min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-23T17:39:55.326Z",
-    "totalOriginalEntries": 11906,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-10-23T17:48:00.241Z",
+    "totalOriginalEntries": 11908,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
