@@ -384902,12 +384902,288 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:852795",
+      "storedAt": 1761251344913,
+      "meta": {
+        "storedAt": 1761251344,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "852795",
+        "imdbId": "tt12717390",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/452424?token=a7a9ff77f7a308fb913647359f20a2f4&expires=1766435344&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:119450:s1e1",
+      "storedAt": 1761251383400,
+      "meta": {
+        "storedAt": 1761251383,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "119450",
+        "imdbId": "tt13715332",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/256774?token=c96ff16ee1cad9369d347562a3bc8f60&expires=1766435383&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:137467:s1e2",
+      "storedAt": 1761251313928,
+      "meta": {
+        "storedAt": 1761251313,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "137467",
+        "imdbId": "tt16383322",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/425587?token=b49539b91107e7c1a5c37f20786a7b8e&expires=1766435313&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1421:s5e9",
+      "storedAt": 1761251776038,
+      "meta": {
+        "storedAt": 1761251776,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1421",
+        "imdbId": "tt1442437",
+        "season": 5,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Modern%20Family/Season%205/Modern%20Family%20(2009)%20-%20S05E09%20-%20The%20Big%20Game%20[WEBRip-1080p][EAC3%205.1][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": "484.56 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Modern Family (2009) - S05E09 - The Big Game [WEBRip-1080p][EAC3 5.1][x265]-iVy.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies x265 10bit Joy)",
+            "url": "https://a.111477.xyz/tvs/Modern%20Family/Season%205/Modern%20Family%20S05E09%20The%20Big%20Game%20%20(1080p%20x265%2010bit%20Joy).mkv",
+            "quality": "1080p",
+            "size": "218.93 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Modern Family S05E09 The Big Game (1080p x265 10bit Joy).mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1421:s5e9",
+      "storedAt": 1761251780491,
+      "meta": {
+        "storedAt": 1761251780,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1421",
+        "imdbId": "tt1442437",
+        "season": 5,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Modern Family S5E9 - 9. The Big Game",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/modernfamily/s5/Modern.Family.S05E09.The.Big.Game.720p.WEB-HD.x264.150MB-Pahe.in.mkv",
+            "quality": "1080p",
+            "size": "25min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Modern Family S5E9 - 9. The Big Game",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/modernfamily/s5/Modern.Family.S05E09.The.Big.Game.720p.WEB-HD.x264.150MB-Pahe.in.mkv",
+            "quality": "1080p",
+            "size": "25min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:205715:s2e4",
+      "storedAt": 1761251496045,
+      "meta": {
+        "storedAt": 1761251496,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "205715",
+        "imdbId": "tt13159924",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][h264]-ETHEL",
+            "url": "https://a.111477.xyz/tvs/Gen%20V/Season%202/Gen%20V%20(2023)%20-%20S02E04%20-%20Bags%20[WEBDL-1080p][EAC3%20Atmos%205.1][h264]-ETHEL.mkv",
+            "quality": "1080p",
+            "size": "3.15 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Gen V (2023) - S02E04 - Bags [WEBDL-1080p][EAC3 Atmos 5.1][h264]-ETHEL.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:205715:s2e4",
+      "storedAt": 1761251480412,
+      "meta": {
+        "storedAt": 1761251480,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "205715",
+        "imdbId": "tt13159924",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Agent Elvis S2E4 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1679327054/s2/episode4.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:262955:s1e7",
+      "storedAt": 1761251606099,
+      "meta": {
+        "storedAt": 1761251606,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "262955",
+        "imdbId": "tt33294894",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/264614?token=8cbc9fa97642160461fe6c951077d466&expires=1766435605&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-23T20:28:30.856Z",
-    "totalOriginalEntries": 11986,
-    "newItemsInThisBatch": 12,
+    "exportedAt": "2025-10-23T20:36:37.089Z",
+    "totalOriginalEntries": 11994,
+    "newItemsInThisBatch": 8,
     "format": "compact_v1"
   }
 }
