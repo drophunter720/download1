@@ -370568,12 +370568,121 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:112553:s2e10",
+      "storedAt": 1761185526792,
+      "meta": {
+        "storedAt": 1761185526,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "112553",
+        "imdbId": "tt13392648",
+        "season": 2,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/449007?token=53f580d94e76f0aebdeabb890c6d471c&expires=1766369526&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:115639:s5e1",
+      "storedAt": 1761185761357,
+      "meta": {
+        "storedAt": 1761185761,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "115639",
+        "imdbId": "tt13751472",
+        "season": 5,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/445532?token=c02d4d12e8b8ee2feeae796da8e4ebd7&expires=1766369761&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1396:s1e5",
+      "storedAt": 1761185912561,
+      "meta": {
+        "storedAt": 1761185912,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Breaking Bad S1E5 - 5. Gray Matter",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/breakingbad/s1/BrBa.S01E05.720p.BrRip.x264.350MB-Pahe.in.mkv",
+            "quality": "1080p",
+            "size": "48min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Breaking Bad S1E5 - 5. Gray Matter",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/breakingbad/s1/BrBa.S01E05.720p.BrRip.x264.350MB-Pahe.in.mkv",
+            "quality": "1080p",
+            "size": "48min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-23T02:10:56.641Z",
-    "totalOriginalEntries": 11647,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-10-23T02:20:09.810Z",
+    "totalOriginalEntries": 11650,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
