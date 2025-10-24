@@ -564334,12 +564334,1112 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1893",
+      "storedAt": 1761337827866,
+      "meta": {
+        "storedAt": 1761337827,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1893",
+        "imdbId": "tt0120915",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/200474?token=05401bd2aa4c73fdd24c6c1b0830dcad&expires=1766521827&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:302946",
+      "storedAt": 1761337934202,
+      "meta": {
+        "storedAt": 1761337934,
+        "urlCount": 12,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "302946",
+        "imdbId": "tt2140479",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The.Accountant.2016.UHD.BluRay.2160p.DTS-HD.MA.7.1.DV.HEVC.HYBRID.REMUX-FraMeSToR 4kHDHub.com\n46.08 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Accountant.2016.UHD.BluRay.2160p.DTS-HD.MA.7.1.DV.HEVC.HYBRID.REMUX-FraMeSToR%204kHDHub.com.mkv?token=1761337933",
+            "quality": "2160p",
+            "size": "46.08 GB",
+            "fileName": "The.Accountant.2016.UHD.BluRay.2160p.DTS-HD.MA.7.1.DV.HEVC.HYBRID.REMUX-FraMeSToR 4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "g\n46.08 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=m5NHHJ9zTZwa&n=GB8XFZ4B&fn=The.Accountant.2016.UHD.BluRay.2160p.DTS-HD.MA.7.1.DV.HEVC.HYBRID.REMUX-FraMeSToR%204kHDHub.com.mkv",
+            "quality": "2160p",
+            "size": "46.08 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The.Accountant.2016.BluRay.1080p.DTS-HD.MA.7.1.AVC.REMUX-FraMeSToR 4kHDHub.com\n26.97 GB",
+            "url": "https://fsl.anime4u.co/The.Accountant.2016.BluRay.1080p.DTS-HD.MA.7.1.AVC.REMUX-FraMeSToR%204kHDHub.com.mkv?token=1761337933",
+            "quality": "1080p",
+            "size": "26.97 GB",
+            "fileName": "The.Accountant.2016.BluRay.1080p.DTS-HD.MA.7.1.AVC.REMUX-FraMeSToR 4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n26.97 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=3MlzkIkTQJLa&n=UF831JbR&fn=The.Accountant.2016.BluRay.1080p.DTS-HD.MA.7.1.AVC.REMUX-FraMeSToR%204kHDHub.com.mkv",
+            "quality": "1080p",
+            "size": "26.97 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "S1MUfYdZ\n16.46 GB",
+            "url": "https://pixeldrain.dev/api/file/S1MUfYdZ?download",
+            "quality": "1080p",
+            "size": "16.46 GB",
+            "fileName": "S1MUfYdZ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The.Accountant.2016.1080p.BluRay.DTS.x264-DON 4kHDHub.com\n16.46 GB",
+            "url": "https://fsl.anime4u.co/The.Accountant.2016.1080p.BluRay.DTS.x264-DON%204kHDHub.com.mkv?token=1761337933",
+            "quality": "1080p",
+            "size": "16.46 GB",
+            "fileName": "The.Accountant.2016.1080p.BluRay.DTS.x264-DON 4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "gkGdJBqe\n13.68 GB",
+            "url": "https://pixeldrain.dev/api/file/gkGdJBqe?download",
+            "quality": "2160p",
+            "size": "13.68 GB",
+            "fileName": "gkGdJBqe",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The.Accountant.2016.2160p.AMZN.WEB-DL.DDP5.1.H.265-WADU 4kHDHub.com\n13.68 GB",
+            "url": "https://fsl.anime4u.co/The.Accountant.2016.2160p.AMZN.WEB-DL.DDP5.1.H.265-WADU%204kHDHub.com.mkv?token=1761337933",
+            "quality": "2160p",
+            "size": "13.68 GB",
+            "fileName": "The.Accountant.2016.2160p.AMZN.WEB-DL.DDP5.1.H.265-WADU 4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "S3Yq6iEd\n13.37 GB",
+            "url": "https://pixeldrain.dev/api/file/S3Yq6iEd?download",
+            "quality": "1080p",
+            "size": "13.37 GB",
+            "fileName": "S3Yq6iEd",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Accountant 2016 1080p UHD BluRay DD+7.1 HDR x265-DON 4kHDHub.com\n13.37 GB",
+            "url": "https://fsl.anime4u.co/The%20Accountant%202016%201080p%20UHD%20BluRay%20DD+7.1%20HDR%20x265-DON%204kHDHub.com.mkv?token=1761337933",
+            "quality": "1080p",
+            "size": "13.37 GB",
+            "fileName": "The Accountant 2016 1080p UHD BluRay DD+7.1 HDR x265-DON 4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "shcRAoBX\n2.81 GB",
+            "url": "https://pixeldrain.dev/api/file/shcRAoBX?download",
+            "quality": "1080p",
+            "size": "2.81 GB",
+            "fileName": "shcRAoBX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Accountant 2016 1080p.BluRay.x265.HEVC.10bit.51ch. xxxpav69 4kHDHub.com\n2.81 GB",
+            "url": "https://fsl.anime4u.co/The%20Accountant%202016%201080p.BluRay.x265.HEVC.10bit.51ch.%20xxxpav69%204kHDHub.com.mkv?token=1761337933",
+            "quality": "1080p",
+            "size": "2.81 GB",
+            "fileName": "The Accountant 2016 1080p.BluRay.x265.HEVC.10bit.51ch. xxxpav69 4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 12
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:302946",
+      "storedAt": 1761337933804,
+      "meta": {
+        "storedAt": 1761337933,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "302946",
+        "imdbId": "tt2140479",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS-HD MA 7 1-FGT",
+            "url": "https://a.111477.xyz/movies/The%20Accountant%20(2016)/The.Accountant.2016.1080p.BluRay.REMUX.AVC.DTS-HD.MA.7.1-FGT.mkv",
+            "quality": "1080p | REMUX",
+            "size": "33.80 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Accountant.2016.1080p.BluRay.REMUX.AVC.DTS-HD.MA.7.1-FGT.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x264 AC3",
+            "url": "https://a.111477.xyz/movies/The%20Accountant%20(2016)/The.Accountant.2016.1080p.BluRay.x264.AC3.mp4",
+            "quality": "1080p",
+            "size": "4.00 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Accountant.2016.1080p.BluRay.x264.AC3.mp4"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies x264 jeddak-MIRCrew",
+            "url": "https://a.111477.xyz/movies/The%20Accountant%20(2016)/The.Accountant.2016.iTA.ENG.AC3.SUB.iTA.ENG.BluRay.1080p.x264.jeddak-MIRCrew.mkv",
+            "quality": "1080p",
+            "size": "3.05 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Accountant.2016.iTA.ENG.AC3.SUB.iTA.ENG.BluRay.1080p.x264.jeddak-MIRCrew.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:302946",
+      "storedAt": 1761337936544,
+      "meta": {
+        "storedAt": 1761337936,
+        "urlCount": 21,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "302946",
+        "imdbId": "tt2140479",
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Accountant.2.2025.2160p.AMZN.WEB-DL.DDP5.1.H.265-4kHdHub.com.mkv",
+            "url": "https://pixeldrain.dev/api/file/pgt6NNEQ?download",
+            "quality": "4K",
+            "size": "15.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Accountant.2.2025.2160p.AMZN.WEB-DL.DDP5.1.H.265-4kHdHub.com.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kKSjiZaWbyE6x3LcpOe12wdko57XCw6zDS-BPd0nTJw5IXX0zENbyaEykMl-gk_UvhOEg7-PXY7qjBteyeFngSPV6CqJ1t7vhaDGso1ETFNcoRvyzhuXVo9YWZzJIteUhP7JRnWGO3NwtQEauAGGBgoAoC3-Xw_L2fLbPdKs3OhcsCLFg7hV5mY-XkkqDUlkgUEORNOXh4ko23yg-zZLGlmQKcfWFcKBqK0UC7KT02lHc9eghfmI9zk_Xwkeq1SRMP0NMW",
+            "quality": "4K",
+            "size": "15.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Accountant.2.2025.1080p.10Bit.WEB-DL.Hindi.5.1-English.5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/kdzcTcnN?download",
+            "quality": "1080p",
+            "size": "2.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Accountant.2.2025.1080p.10Bit.WEB-DL.Hindi.5.1-English.5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://fsl.anime4u.co/The.Accountant.2.2025.1080p.10Bit.WEB-DL.Hindi.5.1-English.5.1.HEVC.x265-HDHub4u.Ms.mkv?token=1761337934",
+            "quality": "1080p",
+            "size": "2.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Accountant.2.2025.1080p.10Bit.WEB-DL.Hindi.5.1-English.5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2m5hhy9jw52yqeVUZESOJSLX3nJZ3o3E1GbWQKkJlbkcPqHSMhfcz9FqoES0cOUlKTvrbzxf-Wz-qv3qgSniUklvuMCqnPICW7tTWRVdxLId_ZoLEglGrNUUujTiE4Ut-4hMaQe1db8RJFiEeUg_u3Z9ahYKr8kLSIdp6uDKWzk4aLU-EEQAbws_BQraFGoTlEpPl3C0_Ga1qSWOWDjUT8wce5ON05mMYTBOt4szRibXPtCrdWy1IzOI86dAdaO6RzULUcp",
+            "quality": "1080p",
+            "size": "2.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Accountant.2.2025.1080p.10Bit.WEB-DL.Hindi.5.1-English.5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kosD5hXMv6lbh_s-59DU0vSpwMnuv77d0sS9G2BCNWXcFFDEkQBzlZFMWVbDRpBywc-xYXs7mqDjFHHLKJIC0k9vfWLfCRaBM5rOvXEpVDqCaBmK0GSwZKHvTCYUKsihOJWFMn6ORXucvtmlfZ7QKVrTnvzcXxJd1sPqQ2qTLBeK09-F2zVgFuOsbdWWQR2OxvGnk1ngvPXlFrM8TrrC3vHjQMiRT41EtldsJOYGhmrZhAkCVOMNxZPkMuvaQYK3tsviml",
+            "quality": "1080p",
+            "size": "2.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Accountant.2.2025.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/M8Q9FBmf?download",
+            "quality": "1080p",
+            "size": "2.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Accountant.2.2025.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Accountant.2.2025.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv?token=1761337934",
+            "quality": "1080p",
+            "size": "2.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Accountant.2.2025.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nvRo_qYnJNQWlUrRhbSJfj6fNKM71lT0CtaV-iX_hXxtloU04unNzdLR9qhQq6-XSxPuZORIealHJU0lgWuwV9XOk79c88yG9dV_eevdWKEWk3m3U5bh3ZjGOCPTlMHG66XMGxDXEigUUr06DDKsm_9Mtq7OzaWPR39yHP_iwxWretRtIuw4OuVtPr2jNWzBcML3ACOCbwOSJjQITCH6aJHOi_QY5PtlN_iJwpqS8FGzX3X7E",
+            "quality": "1080p",
+            "size": "2.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Accountant.2.2025.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2n0z8_9FbePNuBiKhAt0wXi8L41hSP2qZkH0ewlIfiGLH7Ayx1zC-xSE-xdn821AgurKg2atKNQSS_ySSOtKg6vMVDK7_2SZyW4ePBC6IIct57pHDMVxX3gJiNUEo2B5-bbFyPShsRQpJe15XEK8bEXFaR5_GxaBmtZGKJkArCZJBeGDfEDKqNnBlB8qWOkmNxk5OxmibIkUU_nH67ly99nmQYDd2l99R-Zr8MWbNllI2Gt3-ON3D-8IWzVZ2q_fmWPmmGE",
+            "quality": "1080p",
+            "size": "2.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Accountant.2.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.com.mkv",
+            "url": "https://pixeldrain.dev/api/file/xcLfV93P?download",
+            "quality": "1080p",
+            "size": "10.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Accountant.2.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.com.mkv",
+            "url": "https://fsl.cdnship.buzz/The.Accountant.2.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.com.mkv?token=1761334181",
+            "quality": "1080p",
+            "size": "10.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Accountant.2.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.com.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2ng9sWWKyL8-c4HosLoeOrDp3aexW9Wp73Xbp4mjlfLBiZ7FGGBPa9d_U9KV0Z4oOfaiHUfsGRd2_3afxMtGdtKG9wyuPiVM_Tws1Y43PLIm7042-ebTshKeEn4AwAPl4imQtzPLvbAUQQDmibbOZ0b6VnTFRzxw1iINS-1BzY-BZTUCZkM-hY3Y-NzT8U9DUqsb2mtAkngtB5hV1bg25F2LMQkoGwJsTn3Ao6qfFi6ut3yDco",
+            "quality": "1080p",
+            "size": "10.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Accountant.2.2025.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/Zd63EC6z?download",
+            "quality": "720p",
+            "size": "931.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Accountant.2.2025.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Accountant.2.2025.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv?token=1761337935",
+            "quality": "720p",
+            "size": "931.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Accountant.2.2025.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lkMwDcQ3is6pCZ9e9RU4Wg3VWkGL2O8n4i4qADkUE5i0yzkFfuPfha_ZKtqSCvukQIlVJDI9r9e4RPj07J3QabjEGcnFZmEdbbUmkqlkqNnN4IBgqz2xGDO1d_jiYjc8poxgLiPL84JYmiH-L5s_Th8uin4JIeVbayG7OKoF8rP2NSlBNh3sm7q3qsURkRm9i6jfKZNENzp5eshsC8DoMDPGYpZXdyQMe1hCItZvF9pBEOTzE",
+            "quality": "720p",
+            "size": "931.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Accountant.2.2025.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kMbFRmG0XBxeSY5mrVTh2-7rCUmw6gnuMiUfRVRhAXuhEXdmdYe8Q5652kO93AKijV8jtBvEzQotmq4OcrG9-7CJ8dozuTz9GhHf9fzBhKtuPu6iHnssMALRrsAJmq1DUWMbslK-2fQhp79Yvk2lwGDITuJFFXOn-kNX2HcnKrE7XljA_SyQIAQJ_zDTh63cuCtohZ4dH-vN8E7qted04wnXHKjYTYyM-xjYvBpuJHM3zX4Sj_to0HEQsGv6FlKU1viRth",
+            "quality": "720p",
+            "size": "931.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Accountant.2.2025.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/S55geJ4v?download",
+            "quality": "720p",
+            "size": "1.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Accountant.2.2025.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Accountant.2.2025.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv?token=1761337934",
+            "quality": "720p",
+            "size": "1.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Accountant.2.2025.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lv09Ga7pjedsFC0uYVbC2FJwq5le-4aWVJhb-BOf4SCMDkmbbLY54cff2N9Ey5Jm_wHUcavdnppsHOwOOLccugUCSyy7q2iel6gcnm8T30kbP7g5ruHVeyRoGhwC1NnD3nYjIkDrCL0iq5Xn4Ux1MEq3DTElz98HeH_6NbRp2ZoaGljlvhDE62Pez49SYD6Twj7Homqj9gUX4g9WMTZJXEYHPEpvV20boPdcvLic6oSftWG4k",
+            "quality": "720p",
+            "size": "1.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Accountant.2.2025.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mYpT7B2f-NVsNh8x8ZF8FXTwJmtCBfTRGzSyWKBN_qb0k73MnvUoVc6q2K3OUeYdQgtQqbElZyfCWu4r0YWadW_-vY3jffjA8Hci_NMb6eCRvR-hcWJ_PbRukviHMnaYbSuny1ucN05ET2cxQiITalGrKFh_yxLGY7Vg2pfpMbrnbnXiUXgNLZidt3NgaZvmL7841HbO7LJNdKemvbO6ltY8GwoQyl2QZvSdQJnW643LypsBjsoxQ-K-w3lPHdhdzoHyjv",
+            "quality": "720p",
+            "size": "1.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 21
+      }
+    },
+    {
+      "key": "prov:moviesmod:movie:302946",
+      "storedAt": 1761337940152,
+      "meta": {
+        "storedAt": 1761337940,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "movie",
+        "tmdbId": "302946",
+        "imdbId": "tt2140479",
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "The Accountant 2016 1080p English Esubs Moviesmod Com\n3.24GB",
+            "url": "https://worker-frosty-sea-e7a4.kogome2461.workers.dev/7820e0b7d6708c8c7190432203616e50be973eb32dd705107b3d865aea8cd3d2d93bfd937d31ce35e2f9c6a3f4c454b9ef98bb91429c9dc03436580c0faef94ab714fe9af4183b774e1c7f01e390b873125a8190718ea36f1d93f86d9b37e173f19b32b85b0d44eda08ed4033a1a33228796220194b6b66c5a686a745bbcd6dab3c782eb3898e31e7c879c5d3df585f950721698575415624869b063c52011aaa68c4eb71a29c1b5bf6a33068f0227e2::d55f93448c48d1062c08539bc6a0a22c/The.Accountant.2016.1080p.English.Esubs.Moviesmod.Com.mkv",
+            "quality": "1080p",
+            "size": "3.24GB",
+            "fileName": "The.Accountant.2016.1080p.English.Esubs.Moviesmod.Com.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:302946",
+      "storedAt": 1761337938170,
+      "meta": {
+        "storedAt": 1761337938,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "302946",
+        "imdbId": "tt2140479",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "The Accountant (2025) 2160p AMZN WEB-DL DV HDR 10bit HEVC [Himdi DDP 5 1 + English DDP 5 1] x265 (WADU-UHDMovies)\n15.04GB",
+            "url": "https://worker-fancy-flower-bfe1.daxop18442.workers.dev/1a409874a3f3956c0c03467b0edd0e8704173a09bd4fa142e9b9d5b66eb30d87e52e1b0906806939761e80f336b72165d693d2b999e9df582a03eb577049c3c1f88f05d39ab7142905fb60ada0dd50b469ae8229fd837e7fbd58e202d150cb5200d4bd011f0d1e8d6107722b578c74125aa27eca6697d7e1c7fe06f3f966bb28136686997f6472271193e2b46827b043119d23fcd9f3c77fb2bc8dc81358d6ef10a5339e1afe01cffae2efe4ae45c410::d18db7cecc28c277453dcdb863c361ca/The Accountant (2025) 2160p AMZN WEB-DL DV HDR 10bit HEVC [Himdi DDP 5.1  English DDP 5.1] x265 (WADU-UHDMovies).mkv",
+            "quality": "4K | HDR | DV",
+            "size": "15.04GB",
+            "fileName": "The Accountant (2025) 2160p AMZN WEB-DL DV HDR 10bit HEVC [Himdi DDP 5.1 + English DDP 5.1] x265 (WADU-UHDMovies).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "The Accountant 2 2025 1080p AMZN WEB-DL DDP5 1 Atmos DUAL H 264-WADU\n10.25GB",
+            "url": "https://worker-sparkling-sun-c37d.hiwosak407.workers.dev/0bfe6bf7f46365c62f6344a53271b207662cffe72566a4a63fee4fc77bccaa5de187ee3246ecbed58999177a6f9f1de5e10ee16b1551d96b71534a0fce601214f010dac5619c3b46a35a4c3a597768df90544694aa01400b47a2d4beb51d417ecddb57f7010e503e9aa3c6c72f74aefb2aa17c7b59d5f00a8434e06e7adb775acbcb104e157b64076e1d6275678eb196570d85485764cd1074c65e7d1adf8c9cc92231fda068c23a144a143037a5671c::77514e208097b7ce08bb1bd57e447d4f/The.Accountant.2.2025.1080p.AMZN.WEB-DL.DDP5.1.Atmos.DUAL.H.264-WADU.mkv",
+            "quality": "1080p",
+            "size": "10.25GB",
+            "fileName": "The.Accountant.2.2025.1080p.AMZN.WEB-DL.DDP5.1.Atmos.DUAL.H.264-WADU.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "The Accountant 2 2025 1080p AMZN WEB-DL DDP5 1 HEVC-KyoGo (1)\n4.99GB",
+            "url": "https://worker-blue-meadow-c397.jexiyo4124.workers.dev/1dd122839801f2c2d4edf1ac47c00a98462fa1f3c14a0c125abef6d02fe62a37cec20decd77fb0494af4966a28764f8cb344a058f00e944f09da64cb09574f53985315b1bcb65a401249c83f6e97d68dcdb80553d45b34ba84a81804b2e91c475a80d5b657b21ded33ca97ec1f198edf28fa7bbb8bef6d873bcf42b8484e74cb3d251d7511fa8a5570b2e827157d39cf9e182de5b849a5f327768c5ecad5493628ff3a3bd003a8844befd2cd1540a6c2::74495d816501454cf0a1fbffa1d038e4/The.Accountant.2.2025.1080p.AMZN.WEB-DL.DDP5.1.HEVC-KyoGo (1).mkv",
+            "quality": "1080p",
+            "size": "4.99GB",
+            "fileName": "The.Accountant.2.2025.1080p.AMZN.WEB-DL.DDP5.1.HEVC-KyoGo (1).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1402:s11e1",
+      "storedAt": 1761337974762,
+      "meta": {
+        "storedAt": 1761337974,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1402",
+        "imdbId": "tt1520211",
+        "season": 11,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/191872?token=91fa8b75e5bd49c1b00988c10102cf60&expires=1766521974&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1433:s10e11",
+      "storedAt": 1761337779543,
+      "meta": {
+        "storedAt": 1761337779,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1433",
+        "imdbId": "tt0397306",
+        "season": 10,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/194193?token=3fd7aaba092d2a9a2dc19c5bf12fe353&expires=1766521779&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1622:s5e7",
+      "storedAt": 1761338085059,
+      "meta": {
+        "storedAt": 1761338085,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1622",
+        "imdbId": "tt0460681",
+        "season": 5,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/178901?token=3e947fba60ca27e9e45ef1dfb22b1a13&expires=1766522084&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1622:s5e13",
+      "storedAt": 1761337877604,
+      "meta": {
+        "storedAt": 1761337877,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1622",
+        "imdbId": "tt0460681",
+        "season": 5,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Supernatural.S05E13.The.Song.Remains.the.Same.2009-2010.BDRemux.1080p.mkv",
+            "url": "https://a.111477.xyz/tvs/Supernatural/Season%205/Supernatural.S05E13.The.Song.Remains.the.Same.2009-2010.BDRemux.1080p.mkv",
+            "quality": "1080p | REMUX",
+            "size": "5.21 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Supernatural.S05E13.The.Song.Remains.the.Same.2009-2010.BDRemux.1080p.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1622:s5e13",
+      "storedAt": 1761337883201,
+      "meta": {
+        "storedAt": 1761337883,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1622",
+        "imdbId": "tt0460681",
+        "season": 5,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Supernatural S5E13 - 13. The Song Remains the Same",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/supernatural/s5/Supernatural.S05.E13.BluRay.720p.English.AAC.5.1.x264.ESub.mkv",
+            "quality": "1080p",
+            "size": "41min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Supernatural S5E13 - 13. The Song Remains the Same",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/supernatural/s5/Supernatural.S05.E13.BluRay.720p.English.AAC.5.1.x264.ESub.mkv",
+            "quality": "1080p",
+            "size": "41min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1622:s11e11",
+      "storedAt": 1761338242026,
+      "meta": {
+        "storedAt": 1761338242,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1622",
+        "imdbId": "tt0460681",
+        "season": 11,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/179072?token=57265718085a89018f15f5484b42507c&expires=1766522241&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:258357:s1e5",
+      "storedAt": 1761338226744,
+      "meta": {
+        "storedAt": 1761338226,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "258357",
+        "imdbId": "tt37436184",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/339513?token=955cea3e96cc8df7e92a06cdcc875b93&expires=1766522226&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2734:s4e4",
+      "storedAt": 1761338235831,
+      "meta": {
+        "storedAt": 1761338235,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2734",
+        "imdbId": "tt0203259",
+        "season": 4,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/229173?token=d68104e4f914ac6a024959eeaa9bcc53&expires=1766522235&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:40075:s1e7",
+      "storedAt": 1761337789440,
+      "meta": {
+        "storedAt": 1761337789,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "40075",
+        "imdbId": "tt1865718",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/194752?token=61972a99b1ee12cea3b053cca5bfc68f&expires=1766521789&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:62127:s2e2",
+      "storedAt": 1761337892992,
+      "meta": {
+        "storedAt": 1761337892,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "62127",
+        "imdbId": "tt3322310",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/321615?token=624ebc2c80c4e5f87c1a2be618b6bfac&expires=1766521892&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:63639:s1e9",
+      "storedAt": 1761337922872,
+      "meta": {
+        "storedAt": 1761337922,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "63639",
+        "imdbId": "tt3230854",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/187049?token=67e7bb2e514043c3e3de22c4306e0dc8&expires=1766521922&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:66732:s1e6",
+      "storedAt": 1761338242688,
+      "meta": {
+        "storedAt": 1761338242,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "66732",
+        "imdbId": "tt4574334",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/309646?token=251b954b75f04c6d2d559949bb9c679a&expires=1766522242&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:66732:s4e1",
+      "storedAt": 1761337881332,
+      "meta": {
+        "storedAt": 1761337881,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "66732",
+        "imdbId": "tt4574334",
+        "season": 4,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/309632?token=d92b8ff351e47e7fe1482b6e81163517&expires=1766521881&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:70047:s3e4",
+      "storedAt": 1761337884531,
+      "meta": {
+        "storedAt": 1761337884,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "70047",
+        "imdbId": "tt4902964",
+        "season": 3,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/195299?token=4ba77aaf15281672db6072dd2f8f56cc&expires=1766521884&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:71790:s6e4",
+      "storedAt": 1761337989431,
+      "meta": {
+        "storedAt": 1761337989,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "71790",
+        "imdbId": "tt6111130",
+        "season": 6,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/217413?token=5b76c74222dd00e2244aaabbb7ad9ef3&expires=1766521989&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-24T20:29:11.208Z",
-    "totalOriginalEntries": 16986,
-    "newItemsInThisBatch": 29,
+    "exportedAt": "2025-10-24T20:37:44.078Z",
+    "totalOriginalEntries": 17007,
+    "newItemsInThisBatch": 22,
     "format": "compact_v1"
   }
 }
