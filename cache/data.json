@@ -571002,12 +571002,433 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:6466",
+      "storedAt": 1761343222531,
+      "meta": {
+        "storedAt": 1761343222,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "6466",
+        "imdbId": "tt0329101",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/276578?token=56d86a97d83977447e916963a7649187&expires=1766527222&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:68726",
+      "storedAt": 1761343163423,
+      "meta": {
+        "storedAt": 1761343163,
+        "urlCount": 9,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "68726",
+        "imdbId": "tt1663662",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Pacific Rim 2013 2160p UHD BluRay REMUX DV HDR HEVC [Hindi DDP 5.1 + English TrueHD Atmos 7.1] x265 FraMeSToR-KiNGSMAN\n62.19 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Pacific%20Rim%202013%202160p%20UHD%20BluRay%20REMUX%20DV%20HDR%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20FraMeSToR-KiNGSMAN.mkv?token=1761343163",
+            "quality": "2160p",
+            "size": "62.19 GB",
+            "fileName": "Pacific Rim 2013 2160p UHD BluRay REMUX DV HDR HEVC [Hindi DDP 5.1 + English TrueHD Atmos 7.1] x265 FraMeSToR-KiNGSMAN",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Pacific Rim 2013 2160p UHD BluRay SDR 10bit HEVC [Hindi DDP 5.1 + English TrueHD Atmos 7.1] x265 SWTYBLZ-KiNGSMAN\n36.03 GB",
+            "url": "https://fsl.anime4u.co/Pacific%20Rim%202013%202160p%20UHD%20BluRay%20SDR%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20SWTYBLZ-KiNGSMAN.mkv?token=1761343162",
+            "quality": "2160p",
+            "size": "36.03 GB",
+            "fileName": "Pacific Rim 2013 2160p UHD BluRay SDR 10bit HEVC [Hindi DDP 5.1 + English TrueHD Atmos 7.1] x265 SWTYBLZ-KiNGSMAN",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Pacific Rim 2013 1080p Hybrid BluRay REMUX AVC [Hindi DDP 5.1 + English TrueHD Atmos 7.1] x264 BLURANiUM-KiNGSMAN\n27.96 GB",
+            "url": "https://fsl.anime4u.co/Pacific%20Rim%202013%201080p%20Hybrid%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%205.1%20+%20English%20TrueHD%20Atmos%207.1]%20x264%20BLURANiUM-KiNGSMAN.mkv?token=1761343162",
+            "quality": "1080p",
+            "size": "27.96 GB",
+            "fileName": "Pacific Rim 2013 1080p Hybrid BluRay REMUX AVC [Hindi DDP 5.1 + English TrueHD Atmos 7.1] x264 BLURANiUM-KiNGSMAN",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Pacific Rim 2013 2160p UHD BluRay DV HDR 10bit HEVC [Hindi DDP 5.1 + English TrueHD Atmos 7.1] x265 BiTOR-KiNGSMAN\n24.29 GB",
+            "url": "https://fsl.anime4u.co/Pacific%20Rim%202013%202160p%20UHD%20BluRay%20DV%20HDR%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20BiTOR-KiNGSMAN.mkv?token=1761343163",
+            "quality": "2160p",
+            "size": "24.29 GB",
+            "fileName": "Pacific Rim 2013 2160p UHD BluRay DV HDR 10bit HEVC [Hindi DDP 5.1 + English TrueHD Atmos 7.1] x265 BiTOR-KiNGSMAN",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Pacific Rim 2013 1080p BluRay [Hindi DDP 5.1 + English DDP 7.1] x264 playHD-KiNGSMAN\n17.74 GB",
+            "url": "https://fsl.anime4u.co/Pacific%20Rim%202013%201080p%20BluRay%20[Hindi%20DDP%205.1%20+%20English%20DDP%207.1]%20x264%20playHD-KiNGSMAN.mkv?token=1761343163",
+            "quality": "1080p",
+            "size": "17.74 GB",
+            "fileName": "Pacific Rim 2013 1080p BluRay [Hindi DDP 5.1 + English DDP 7.1] x264 playHD-KiNGSMAN",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "hUWgC76d\n16.63 GB",
+            "url": "https://pixeldrain.dev/api/file/hUWgC76d?download",
+            "quality": "1080p",
+            "size": "16.63 GB",
+            "fileName": "hUWgC76d",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Pacific Rim 2013 1080p UHD BluRay HDR 10bit HEVC [Hindi DDP 5.1 + English DDP 7.1] x265 DON-KiNGSMAN\n16.63 GB",
+            "url": "https://fsl.anime4u.co/Pacific%20Rim%202013%201080p%20UHD%20BluRay%20HDR%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DDP%207.1]%20x265%20DON-KiNGSMAN.mkv?token=1761343163",
+            "quality": "1080p",
+            "size": "16.63 GB",
+            "fileName": "Pacific Rim 2013 1080p UHD BluRay HDR 10bit HEVC [Hindi DDP 5.1 + English DDP 7.1] x265 DON-KiNGSMAN",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "A6UL2G3C\n8.75 GB",
+            "url": "https://pixeldrain.dev/api/file/A6UL2G3C?download",
+            "quality": "1080p",
+            "size": "8.75 GB",
+            "fileName": "A6UL2G3C",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Pacific Rim 2013 1080p BluRay 10bit HEVC [Hindi DDP 5.1 + English DDP 7.1] x265 Vialle-KiNGSMAN\n8.75 GB",
+            "url": "https://fsl.anime4u.co/Pacific%20Rim%202013%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DDP%207.1]%20x265%20Vialle-KiNGSMAN.mkv?token=1761343163",
+            "quality": "1080p",
+            "size": "8.75 GB",
+            "fileName": "Pacific Rim 2013 1080p BluRay 10bit HEVC [Hindi DDP 5.1 + English DDP 7.1] x265 Vialle-KiNGSMAN",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 9
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:68726",
+      "storedAt": 1761343162873,
+      "meta": {
+        "storedAt": 1761343162,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "68726",
+        "imdbId": "tt1663662",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX DTS-HD MA 7 1-PublicHD",
+            "url": "https://a.111477.xyz/movies/Pacific%20Rim%20(2013)/Pacific.Rim.2013.1080p.BluRay.REMUX.DTS-HD.MA.7.1-PublicHD.mkv",
+            "quality": "1080p | REMUX",
+            "size": "27.03 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Pacific.Rim.2013.1080p.BluRay.REMUX.DTS-HD.MA.7.1-PublicHD.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x264-nikt0",
+            "url": "https://a.111477.xyz/movies/Pacific%20Rim%20(2013)/Pacific.Rim.2013.1080p.BluRay.x264-nikt0.mkv",
+            "quality": "1080p",
+            "size": "5.86 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Pacific.Rim.2013.1080p.BluRay.x264-nikt0.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265-LAMA",
+            "url": "https://a.111477.xyz/movies/Pacific%20Rim%20(2013)/Pacific.Rim.2013.1080p.BluRay.x265-LAMA.mp4",
+            "quality": "1080p",
+            "size": "2.05 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Pacific.Rim.2013.1080p.BluRay.x265-LAMA.mp4"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:moviesmod:movie:68726",
+      "storedAt": 1761343167827,
+      "meta": {
+        "storedAt": 1761343167,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "movie",
+        "tmdbId": "68726",
+        "imdbId": "tt1663662",
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "Pacific Rim 2013 1080p Hindi English Moviesmod in\n2.12GB",
+            "url": "https://worker-damp-dew-bcd7.wanax10405.workers.dev/0b0ba01e68935267ade0b770f31d80e091e5a4526c9d5010fd20ed0b822cc0d9e9d9b6215c69847ce608b590fafc3816fbdd55f56acbd7e1d55d377732d3a3fca8ca50b4dddbe1583238df23148de18a3184c73d806cc4fcd0f249a5f0caea0ff0a907f2ad191b20996290095341c20b9c6b09b4aaef47ad80a7304ce128409b1b25e12c782479bb7950484b06d2688951d69f9d796b2d4bccb5309564e8afe95a61513ab9bca5d5a18a9db92d7ff83f::7dcf82d0a5e22549eaaaa400085f2c87/Pacific.Rim.2013.1080p.Hindi.English.Moviesmod.in.mkv",
+            "quality": "1080p",
+            "size": "2.12GB",
+            "fileName": "Pacific.Rim.2013.1080p.Hindi.English.Moviesmod.in.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:68726",
+      "storedAt": 1761343168085,
+      "meta": {
+        "storedAt": 1761343168,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "68726",
+        "imdbId": "tt1663662",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Pacific Rim Uprsising (2013) 2160p UHD Bluray REMUX DV HDR 0bit HEVC [Hindi DDP 7 1 + English trueHD Atmos 7 1] x265 (FraMeSToR-UHDMovies)\n64.2GB",
+            "url": "https://worker-nameless-king-551b.vixelatu.workers.dev/ce97cb5e1510c7d8a3b419f83a013f7564d5d94451538aa6a9645a36fe9fe4268654e9ec8435388c3d76d902a4e2c7d27c086adfcb462bec9c3db320fc990008c60ddcaea6294d964b36430b6d725dff128d9284051a0715ccf485d6b71ee646cb0860a9b5bd3e5037a49a8cdd031c9146219343b60e3222809fe27bdab0cfd913742aa415f338cdc601cfb4566e32ff38ec0017a16f8ee8f083f00508c6ec94c2ce8111178ba4b7b40cbde04be8b79a::785d6b7d0dcf4bc631f1e33370f04a51/Pacific Rim Uprsising (2013) 2160p UHD Bluray REMUX DV HDR 0bit HEVC [Hindi DDP 7.1  English trueHD Atmos 7.1] x265 (FraMeSToR-UHDMovies).mkv",
+            "quality": "4K | HDR | DV | BluRay",
+            "size": "64.2GB",
+            "fileName": "Pacific Rim Uprsising (2013) 2160p UHD Bluray REMUX DV HDR 0bit HEVC [Hindi DDP 7.1 + English trueHD Atmos 7.1] x265 (FraMeSToR-UHDMovies).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Pacific Rim (2013) 2160p UHD Bluray REMUX DV HDR 0bit HEVC [Hindi DDP 5 1 + English DTS-HDMA 5 1] x265 (FraMeSToR-UHDMovies)\n62.48GB",
+            "url": "https://worker-quiet-union-701d.tirowe8949.workers.dev/87a156332a7c8040c0e890b01eaa37c9f01f77f077f99157cf47baf60a104fbd0dbd35f7de13d47b5dd803ed5358e4fe951f95fafe0a5e987ecc05d053b1a782384e2b15c5f55c3d4b5904637c6b75d91d078834e72fbad973f49a34d4a0db5f232579420c7eb824487490b9a8db44c135b55aab60fc980da528859a34b81f2a754fa55e6a8d3d02659682d41493240549fb6703f0ae72faac3a385bf209fdcb4ce58c110f8e061a075a85a4fffd34eb::906fcd2fa176543a7c32a842c317b43f/Pacific Rim (2013) 2160p UHD Bluray REMUX DV HDR 0bit HEVC [Hindi DDP 5.1  English DTS-HDMA 5.1] x265 (FraMeSToR-UHDMovies).mkv",
+            "quality": "4K | HDR | DV | BluRay",
+            "size": "62.48GB",
+            "fileName": "Pacific Rim (2013) 2160p UHD Bluray REMUX DV HDR 0bit HEVC [Hindi DDP 5.1 + English DTS-HDMA 5.1] x265 (FraMeSToR-UHDMovies).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Pacific Rim (2013) 1080p Bluray REMUX AVC [Hindi DDP 5 1  + English DTS-HDMA 5 1] x264 (FraMeSToR-UHDMovies)\n27.74GB",
+            "url": "https://worker-odd-paper-3e12.paheha9858.workers.dev/7a54b379f300c1284c939ce4a2065e67a1a3078b16576cc079cdf1215c7ba415baddb054c241fedabf77bcb3d5f0cab0538aa168307e63354f87f51ee64e6ac36819e6efd26ccda10e630c7c6cb09ebd953da4c44393f9de07298ecbf44f895b364a0d40804663b28dbe772afb94ec43cf3a2cc9438b8af17d7039b083888576873cd0a11e2a447f32c0fa44ad5a7e82ee593baa47eee7cdc2657cb0f0d59ead917a89e490688fad40552a018bfa994a::f593fe4eea28a9d40799f6cfe89799a1/Pacific Rim (2013) 1080p Bluray REMUX AVC [Hindi DDP 5.1   English DTS-HDMA 5.1] x264 (FraMeSToR-UHDMovies).mkv",
+            "quality": "1080p | BluRay",
+            "size": "27.74GB",
+            "fileName": "Pacific Rim (2013) 1080p Bluray REMUX AVC [Hindi DDP 5.1  + English DTS-HDMA 5.1] x264 (FraMeSToR-UHDMovies).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Pacific Rim Uprising (2018) 2160p 10bit Bluray HDR [BD 7 1 Hindi + DD 7 1 English]-x265-UHDMovies [18 4GB]\n18.41GB",
+            "url": "https://worker-holy-truth-b146.kijisa6972.workers.dev/093dcb0e767fce6da781c749560481cc7e7f9f76104dc0ac3a11beff5c746b878d65eeebbdad743473730f46df410722ead49897a11777e27be1f33ec9516a16037d1a03268e843365160e1ef1e84f99ac259fb77b83a245c3e557cf9835b8a7daaf83ed427984a59dab1fe3e5d22ba2bfba2c509e981d247b3e338f6c9e82a4056a41d3ec4fb4f086f43995b0f1e59efa7518fdced48582e6b54761743054328825de2b4bf81fd8bb795f3f193d54c3::5f28892166ab25bef8ddc3d2e5be3f3e/Pacific Rim Uprising (2018) 2160p 10bit Bluray HDR [BD 7.1 Hindi  DD 7.1 English]-x265-UHDMovies [18.4GB].mkv",
+            "quality": "4K | HDR | BluRay",
+            "size": "18.41GB",
+            "fileName": "Pacific Rim Uprising (2018) 2160p 10bit Bluray HDR [BD 7.1 Hindi + DD 7.1 English]-x265-UHDMovies [18.4GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Pacific Rim (2013) 2160p 10bit Bluray HDR [DD 5 1 Hindi + DD 7 1 English] x265-UHDMovies [17 7GB]\n17.79GB",
+            "url": "https://worker-shrill-lake-d75a.conaxe5106.workers.dev/1f51fe6986541ad6b51b8eef669c10ff2b1c9838fe783ff0c4a59740f960c4788a57023bd4e394d494913068b17b250f28cde68e6897cd22d9e4c955eebce2caa66060ecd596a052a4e7b484795ce8de0819679e130037e3e07411aceb9673e0f61a793500f7f892bd43506b98cde0ac4c6fa714bbca1a27943cedd908d132bfa372dcaf4a8fd080bf26f554512d7db2df769e1be2480cebb954da34ca4e54b7370ca2e2797c4c0d363f8ee54f47a2bb::32f8bbfb8784a88affbfe1c87e9b6a83/Pacific Rim (2013) 2160p 10bit Bluray HDR [DD 5.1 Hindi  DD 7.1 English] x265-UHDMovies [17.7GB].mkv",
+            "quality": "4K | HDR | BluRay",
+            "size": "17.79GB",
+            "fileName": "Pacific Rim (2013) 2160p 10bit Bluray HDR [DD 5.1 Hindi + DD 7.1 English] x265-UHDMovies [17.7GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Pacific Rim (2013) 2160p 10bit Bluray HDR HEVC [DD 5 1 Hindi + DD 7 1 English] x265-UHDMovies[7 1GB]\n7.11GB",
+            "url": "https://worker-morning-fire-325f.vyhaxizi.workers.dev/596f2be802a52961f745a567e5dbdb935c721b3abc3b4a8309839056e199953b8b59babe907307d27f61806f6a984d48aff317a440995247c29795868263b3b867fcedaa80195a156aca6830df6266909b8957091e4d3cbac2c49cad7dde83e8281db1042c243eb32122fa1554dc034f9a6a18fc243baa98f536f23cf21326c9b2c3e6baccb94ff9f6236d6968546c7f1850c167be3db2daec73f31e5d9b7ef370d4fe2073488c1385653b22a1563a57::9bbe352dc32471ddbd3708858548b467/Pacific Rim (2013) 2160p 10bit Bluray HDR HEVC [DD 5.1 Hindi  DD 7.1 English] x265-UHDMovies[7.1GB].mkv",
+            "quality": "4K | HDR | BluRay",
+            "size": "7.11GB",
+            "fileName": "Pacific Rim (2013) 2160p 10bit Bluray HDR HEVC [DD 5.1 Hindi + DD 7.1 English] x265-UHDMovies[7.1GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Pacific Rim (2013) 1080p 10bit Bluray HEVC [DD 5 1 Hindi + DD 7 1 English] x265-UHDMovies [5 7GB]\n5.75GB",
+            "url": "https://worker-autumn-thunder-2e9a.yoline4177.workers.dev/86a2f911df72572ca84f1823f540c136448f2576f63b0b19f2d1e6560a24cdb620ec3095c990b361de58df0489098761c29fe2738716c6833c26d4d02044dccb423d27dc7d73e555b8d8390ff1a2ad2686848ccc1992c2a3e89cbf0a26478e7d39d2dfa422259ab8a0d56b38acf0a342e911b14b689ffbdfa1abec5cd1828751735fa62bcfbe21fb3b0725601ecda6b41675bd1932cab85ea67de2a4911312579bb3ad043b956a13ae7cf6bedf21dbc4::919b18f6a58f113ba91706f55543e88b/Pacific Rim (2013) 1080p 10bit Bluray HEVC [DD 5.1 Hindi  DD 7.1 English] x265-UHDMovies [5.7GB].mkv",
+            "quality": "1080p | BluRay",
+            "size": "5.75GB",
+            "fileName": "Pacific Rim (2013) 1080p 10bit Bluray HEVC [DD 5.1 Hindi + DD 7.1 English] x265-UHDMovies [5.7GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Pacific Rim Uprising (2018) 2160p 10bit Bluray HDR HEVC [BD 7 1 Hindi + DD 7 1 English]-x265-UHDMovies [4 3GB]\n4.32GB",
+            "url": "https://worker-holy-snow-41ab.hoximi5830.workers.dev/1a7d09bb8f37cf1844395b337752b9f3be25df1538b4d7d60c9de520a0aee0c98ad7af2e3eaccfb3b5b9d0b8fac3ba487bb00e90f8d4a20ae20a129cff0e7d17bb1c8104330cb2a5a4a1e91a16942c3d47180ebb74f4c8bcb1d9353f4c47d86b7165839f6c48b4603adf0ae0227dcbd0b9bd36643b02f7d372925fd42625ebd84aefbd097a31d66d6ec404d3095f3fc36b5086da38e268bdedd5da7f5c58f9f80b0ddcf5b5c5b398dc671ce19781060e::1688d9511afee801e23fdead47999b75/Pacific Rim Uprising (2018) 2160p 10bit Bluray HDR HEVC [BD 7.1 Hindi  DD 7.1 English]-x265-UHDMovies [4.3GB].mkv",
+            "quality": "4K | HDR | BluRay",
+            "size": "4.32GB",
+            "fileName": "Pacific Rim Uprising (2018) 2160p 10bit Bluray HDR HEVC [BD 7.1 Hindi + DD 7.1 English]-x265-UHDMovies [4.3GB].mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1398:s4e1",
+      "storedAt": 1761342777396,
+      "meta": {
+        "storedAt": 1761342777,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1398",
+        "imdbId": "tt0141842",
+        "season": 4,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/280282?token=a1b7f29650d59837d4479bf3df120142&expires=1766526777&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1399:s6e10",
+      "storedAt": 1761343222710,
+      "meta": {
+        "storedAt": 1761343222,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 6,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/180544?token=67a381c2bc3140a6a327d7e69d51a982&expires=1766527222&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:93740:s2e2",
+      "storedAt": 1761342792241,
+      "meta": {
+        "storedAt": 1761342792,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "93740",
+        "imdbId": "tt0804484",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/323209?token=ed00f569cfe72e40d5c88fb111396198&expires=1766526792&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-24T21:36:18.237Z",
-    "totalOriginalEntries": 17151,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-10-24T22:01:00.894Z",
+    "totalOriginalEntries": 17159,
+    "newItemsInThisBatch": 9,
     "format": "compact_v1"
   }
 }
