@@ -510377,12 +510377,1271 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1245347",
+      "storedAt": 1761313742906,
+      "meta": {
+        "storedAt": 1761313742,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1245347",
+        "imdbId": "tt31322753",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/337337?token=d2a05c6fbf000e5eaed22e13bb25b68e&expires=1766497742&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:705861",
+      "storedAt": 1761313721074,
+      "meta": {
+        "storedAt": 1761313721,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "705861",
+        "imdbId": "tt8009428",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/119032?token=fcb5f39ebbbbe7b4e7de43594c47e44a&expires=1766497720&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:110492:s1e3",
+      "storedAt": 1761313693836,
+      "meta": {
+        "storedAt": 1761313693,
+        "urlCount": 9,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "110492",
+        "imdbId": "tt13146488",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "3pKqEdP2\n3.94 GB",
+            "url": "https://pixeldrain.dev/api/file/3pKqEdP2?download",
+            "quality": "1080p",
+            "size": "3.94 GB",
+            "fileName": "3pKqEdP2",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Peacemaker S01E03 1080p BluRay [Hindi HE-AAC 2.0 + English DDP 5.1] x264 SbR-LUMiX 4kHDHub.Com\n3.94 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Peacemaker%20S01E03%201080p%20BluRay%20[Hindi%20HE-AAC%202.0%20+%20English%20DDP%205.1]%20x264%20SbR-LUMiX%204kHDHub.Com.mkv?token=1761313693",
+            "quality": "1080p",
+            "size": "3.94 GB",
+            "fileName": "Peacemaker S01E03 1080p BluRay [Hindi HE-AAC 2.0 + English DDP 5.1] x264 SbR-LUMiX 4kHDHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "eMoiSB6s\n933.87 MB",
+            "url": "https://pixeldrain.dev/api/file/eMoiSB6s?download",
+            "quality": "1080p",
+            "size": "933.87 MB",
+            "fileName": "eMoiSB6s",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Peacemaker S01E03 1080p BluRay 10bit HEVC [Hindi HE-AAC 2.0 + English AAC 5.1] x265 Vyndros-LUMiX 4kHDHub.Com\n933.87 MB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Peacemaker%20S01E03%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20HE-AAC%202.0%20+%20English%20AAC%205.1]%20x265%20Vyndros-LUMiX%204kHDHub.Com.mkv?token=1761313693",
+            "quality": "1080p",
+            "size": "933.87 MB",
+            "fileName": "Peacemaker S01E03 1080p BluRay 10bit HEVC [Hindi HE-AAC 2.0 + English AAC 5.1] x265 Vyndros-LUMiX 4kHDHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "BSueBDrN\n8.41 GB",
+            "url": "https://pixeldrain.dev/api/file/BSueBDrN?download",
+            "quality": "1080p",
+            "size": "8.41 GB",
+            "fileName": "BSueBDrN",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Peacemaker S01E03 1080p BluRay REMUX AVC [Hindi HE-AAC 2.0 + English DTS-HD MA 5.1] x264 FraMeSToR-LUMiX 4kHDHub.Com\n8.41 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Peacemaker%20S01E03%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20HE-AAC%202.0%20+%20English%20DTS-HD%20MA%205.1]%20x264%20FraMeSToR-LUMiX%204kHDHub.Com.mkv?token=1761313693",
+            "quality": "1080p",
+            "size": "8.41 GB",
+            "fileName": "Peacemaker S01E03 1080p BluRay REMUX AVC [Hindi HE-AAC 2.0 + English DTS-HD MA 5.1] x264 FraMeSToR-LUMiX 4kHDHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n8.41 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=MaTCoE9nzB7b&n=wE9XWBDZ&fn=Peacemaker%20S01E03%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20HE-AAC%202.0%20+%20English%20DTS-HD%20MA%205.1]%20x264%20(FraMeSToR-LUMiX)%204kHDHub.Com.mkv",
+            "quality": "1080p",
+            "size": "8.41 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "aCxMeujK\n6.03 GB",
+            "url": "https://pixeldrain.dev/api/file/aCxMeujK?download",
+            "quality": "2160p",
+            "size": "6.03 GB",
+            "fileName": "aCxMeujK",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Peacemaker S01E03 2160p MAX WEB-DL DV HDR 10bit HEVC [Hindi HE-AAC 2.0 + English DDP Atmos 5.1] x265 WADU-LUMiX 4kHDHub.Com\n6.03 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Peacemaker%20S01E03%202160p%20MAX%20WEB-DL%20DV%20HDR%2010bit%20HEVC%20[Hindi%20HE-AAC%202.0%20+%20English%20DDP%20Atmos%205.1]%20x265%20WADU-LUMiX%204kHDHub.Com.mkv?token=1761313693",
+            "quality": "2160p",
+            "size": "6.03 GB",
+            "fileName": "Peacemaker S01E03 2160p MAX WEB-DL DV HDR 10bit HEVC [Hindi HE-AAC 2.0 + English DDP Atmos 5.1] x265 WADU-LUMiX 4kHDHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 9
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:110492:s1e3",
+      "storedAt": 1761313692429,
+      "meta": {
+        "storedAt": 1761313692,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "110492",
+        "imdbId": "tt13146488",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-FraMeSToR",
+            "url": "https://a.111477.xyz/tvs/Peacemaker/Season%201/Peacemaker%20(2022)%20-%20S01E03%20-%20Better%20Goff%20Dead%20[Bluray-1080p%20Remux][DTS-HD%20MA%205.1][AVC]-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": "8.39 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Peacemaker (2022) - S01E03 - Better Goff Dead [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h265]-d3g",
+            "url": "https://a.111477.xyz/tvs/Peacemaker/Season%201/Peacemaker%20(2022)%20-%20S01E03%20-%20Better%20Goff%20Dead%20[Bluray-1080p][EAC3%205.1][h265]-d3g.mkv",
+            "quality": "1080p",
+            "size": "2.40 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Peacemaker (2022) - S01E03 - Better Goff Dead [Bluray-1080p][EAC3 5.1][h265]-d3g.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][x264]-PECULATE",
+            "url": "https://a.111477.xyz/tvs/Peacemaker/Season%201/Peacemaker%20(2022)%20-%20S01E03%20-%20Better%20Goff%20Dead%20[WEBDL-720p][AC3%205.1][x264]-PECULATE.mkv",
+            "quality": "720p",
+            "size": "1.05 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Peacemaker (2022) - S01E03 - Better Goff Dead [WEBDL-720p][AC3 5.1][x264]-PECULATE.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:110492:s1e3",
+      "storedAt": 1761313694958,
+      "meta": {
+        "storedAt": 1761313694,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "110492",
+        "imdbId": "tt13146488",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Peacemaker S1E3 - 3. Better Goff Dead",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/peacemaker/s1/Peacemaker.S01E03.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "40min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Peacemaker S1E3 - 3. Better Goff Dead",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/peacemaker/s1/Peacemaker.S01E03.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "40min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:1399:s1e1",
+      "storedAt": 1761313730649,
+      "meta": {
+        "storedAt": 1761313730,
+        "urlCount": 13,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Game of Thrones 2011 S01E01 2160p UHD BluRay REMUX DoVi HDR [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] HEVC FraMeSToR-4kHDHUB.com\n26.82 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Game%20of%20Thrones%202011%20S01E01%202160p%20UHD%20BluRay%20REMUX%20DoVi%20HDR%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20HEVC%20FraMeSToR-4kHDHUB.com.mkv?token=1761313730",
+            "quality": "2160p",
+            "size": "26.82 GB",
+            "fileName": "Game of Thrones 2011 S01E01 2160p UHD BluRay REMUX DoVi HDR [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] HEVC FraMeSToR-4kHDHUB.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "g\n26.82 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=3ADscU1xiTRa&n=MdkhHJ4K&fn=Game%20of%20Thrones%20(2011)%20S01E01%202160p%20UHD%20BluRay%20REMUX%20DoVi%20HDR%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20HEVC%20(FraMeSToR-4kHDHUB.com).mkv",
+            "quality": "2160p",
+            "size": "26.82 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Game of Thrones 2011 S01E01 2160p UHD SDR BluRay x265 10bit [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] HEVC SWTYBLZ-4kHDHUB.com\n21.55 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Game%20of%20Thrones%202011%20S01E01%202160p%20UHD%20SDR%20BluRay%20x265%2010bit%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20HEVC%20SWTYBLZ-4kHDHUB.com.mkv?token=1761313730",
+            "quality": "2160p",
+            "size": "21.55 GB",
+            "fileName": "Game of Thrones 2011 S01E01 2160p UHD SDR BluRay x265 10bit [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] HEVC SWTYBLZ-4kHDHUB.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "g\n21.55 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=s7DCiI9FAZgS&n=mMl1ARJa&fn=Game%20of%20Thrones%20(2011)%20S01E01%202160p%20UHD%20SDR%20BluRay%20x265%2010bit%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20HEVC%20(SWTYBLZ-4kHDHUB.com).mkv",
+            "quality": "2160p",
+            "size": "21.55 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "32BE241Y\n13.63 GB",
+            "url": "https://pixeldrain.dev/api/file/32BE241Y?download",
+            "quality": "1080p",
+            "size": "13.63 GB",
+            "fileName": "32BE241Y",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Game of Thrones 2011 S01E01 1080p BluRay REMUX AVC [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English DTS-HDMA 5.1] FraMeSToR-4kHDHUB.Com\n13.63 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Game%20of%20Thrones%202011%20S01E01%201080p%20BluRay%20REMUX%20AVC%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20DTS-HDMA%205.1]%20FraMeSToR-4kHDHUB.Com.mkv?token=1761313730",
+            "quality": "1080p",
+            "size": "13.63 GB",
+            "fileName": "Game of Thrones 2011 S01E01 1080p BluRay REMUX AVC [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English DTS-HDMA 5.1] FraMeSToR-4kHDHUB.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n13.63 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=YU8s6J9z3RiB&n=KE8zmb6Q&fn=Game%20of%20Thrones%20(2011)%20S01E01%201080p%20BluRay%20REMUX%20AVC%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20DTS-HDMA%205.1]%20(FraMeSToR-4kHDHUB.Com).mkv",
+            "quality": "1080p",
+            "size": "13.63 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "VcqXbid3\n5.96 GB",
+            "url": "https://pixeldrain.dev/api/file/VcqXbid3?download",
+            "quality": "1080p",
+            "size": "5.96 GB",
+            "fileName": "VcqXbid3",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Game of Thrones 2011 S01E01 1080p BluRay [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English DTS-HDMA 5.1] x264 PiR8-4kHDHUB.com\n5.96 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Game%20of%20Thrones%202011%20S01E01%201080p%20BluRay%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20DTS-HDMA%205.1]%20x264%20PiR8-4kHDHUB.com.mkv?token=1761313730",
+            "quality": "1080p",
+            "size": "5.96 GB",
+            "fileName": "Game of Thrones 2011 S01E01 1080p BluRay [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English DTS-HDMA 5.1] x264 PiR8-4kHDHUB.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n5.96 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=bdjqQuonSbBA&n=9qwFRRxa&fn=Game%20of%20Thrones%20(2011)%20S01E01%201080p%20BluRay%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20DTS-HDMA%205.1]%20x264%20(PiR8-4kHDHUB.com).mkv",
+            "quality": "1080p",
+            "size": "5.96 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "2rBaKiEa\n4.41 GB",
+            "url": "https://pixeldrain.dev/api/file/2rBaKiEa?download",
+            "quality": "1080p",
+            "size": "4.41 GB",
+            "fileName": "2rBaKiEa",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Game of Thrones 2011 S01E01 1080p BluRay 10bit HEVC [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] x265 [Absinth-4kHDHUB.Com]\n4.41 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Game%20of%20Thrones%202011%20S01E01%201080p%20BluRay%2010bit%20HEVC%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20[Absinth-4kHDHUB.Com].mkv?token=1761313730",
+            "quality": "1080p",
+            "size": "4.41 GB",
+            "fileName": "Game of Thrones 2011 S01E01 1080p BluRay 10bit HEVC [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] x265 [Absinth-4kHDHUB.Com]",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n4.41 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=qKL9074niRxT&n=k7pTHTqL&fn=Game%20of%20Thrones%20(2011)%20S01E01%201080p%20BluRay%2010bit%20HEVC%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20[Absinth-4kHDHUB.Com].mkv",
+            "quality": "1080p",
+            "size": "4.41 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 13
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1399:s1e1",
+      "storedAt": 1761313729713,
+      "meta": {
+        "storedAt": 1761313729,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][HDR10][TrueHD Atmos 7 1][HEVC]-FraMeSToR",
+            "url": "https://a.111477.xyz/tvs/Game%20of%20Thrones/Season%201/Game%20of%20Thrones%20(2011)%20-%20S01E01%20-%20Winter%20Is%20Coming%20[Bluray-2160p%20Remux][HDR10][TrueHD%20Atmos%207.1][HEVC]-FraMeSToR.mkv",
+            "quality": "2160p | HDR | REMUX",
+            "size": "25.25 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Game of Thrones (2011) - S01E01 - Winter Is Coming [Bluray-2160p Remux][HDR10][TrueHD Atmos 7.1][HEVC]-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DTS 5 1][x264]-LiNG",
+            "url": "https://a.111477.xyz/tvs/Game%20of%20Thrones/Season%201/Game%20of%20Thrones%20(2011)%20-%20S01E01%20-%20Winter%20Is%20Coming%20[Bluray-1080p][DTS%205.1][x264]-LiNG.mkv",
+            "quality": "1080p",
+            "size": "8.42 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Game of Thrones (2011) - S01E01 - Winter Is Coming [Bluray-1080p][DTS 5.1][x264]-LiNG.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1399:s1e1",
+      "storedAt": 1761313732777,
+      "meta": {
+        "storedAt": 1761313732,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Game of Thrones S1E1 - 1. Winter Is Coming",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/gameofthrones/s1/Game Of Thrones S01E01 {Hindi-English} 720p Bluray ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "62min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Game of Thrones S1E1 - 1. Winter Is Coming",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/gameofthrones/s1/Game Of Thrones S01E01 {Hindi-English} 720p Bluray ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "62min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:1399:s1e1",
+      "storedAt": 1761313734812,
+      "meta": {
+        "storedAt": 1761313734,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Game of Thrones S01E01 Winter Is Coming 2160p DV HEVC REMUX [Hindi DD 2 0 - Eng TrueHD Atmos 7 1]-MSubs~(Tom) FraMeSToR\n26.3GB",
+            "url": "https://worker-bold-forest-d413.lokog96868.workers.dev/c20293fd884c6c7a12f456c033866422346bbb1d8e2bebb68967f745d108fd2da12f32111f28074a159587377dc8319471c1dab516fdd6f446da1614c5c0a5f76b7084795f53830db0223504631f46be52cded34b97d13119ef97d963f7b3bad60443b8368d83937ab1620ab6681f63594648407bc9c423314a179ad0971a3cf6262291f756200aa40f828b6c6747e41df40dd35956ddf56d56272e855b1801b25950f5a4741095187fd6809f096ff9f::d107d28b2975d5020242421405dd852f/Game.of.Thrones.S01E01.Winter.Is.Coming.2160p.DV.HEVC.REMUX.[Hindi DD 2.0 - Eng TrueHD.Atmos.7.1]-MSubs(Tom) FraMeSToR.mkv",
+            "quality": "4K | DV | BluRay",
+            "size": "26.3GB",
+            "fileName": "Game.of.Thrones.S01E01.Winter.Is.Coming.2160p.DV.HEVC.REMUX.[Hindi DD 2.0 - Eng TrueHD.Atmos.7.1]-MSubs~(Tom) FraMeSToR.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Game of Thrones (2011) S01E01 1080p BluRay [Hindi DD 2 0 + English DTS 5 1] x264-LiNG[AK47]\n8.51GB",
+            "url": "https://worker-blue-tree-a2d3.degifec113.workers.dev/d2f35c16791dbbcc03dab53408dd920b37c15d950b079e5511edbb4b7a81f53f764b11d422c25bf4c30d3c8aa6a0a9e19e401caa5da6d9b7a9265dbadf82ab96cfb1c5e6721415179124489eb7f0a6e9383de9172ff1acf0e031c28e049d2335f3ea43c187002d66c167c4648934700ab3fba3319a2ef74c1176ff9db94db023c5e5fce4c17aa0d55e128f11f69da74fe3bac02f105e39f71ff3f4ff6a04581949dd31679dfcc3d7fadd9b2308e44956::602b4cf8d14817ef6bf07657d5e70f76/Game of Thrones (2011) S01E01 1080p BluRay [Hindi DD 2.0  English DTS 5.1] x264-LiNG[AK47].mkv",
+            "quality": "1080p | BluRay",
+            "size": "8.51GB",
+            "fileName": "Game of Thrones (2011) S01E01 1080p BluRay [Hindi DD 2.0 + English DTS 5.1] x264-LiNG[AK47].mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1399:s1e10",
+      "storedAt": 1761313456856,
+      "meta": {
+        "storedAt": 1761313456,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 1,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/173423?token=19316feccde8f7fd345b78047fec47d6&expires=1766497456&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1402:s6e11",
+      "storedAt": 1761313562489,
+      "meta": {
+        "storedAt": 1761313562,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1402",
+        "imdbId": "tt1520211",
+        "season": 6,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/191796?token=a971f19ab815b388c910a999a8d9f616&expires=1766497562&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1434:s1e4",
+      "storedAt": 1761313666141,
+      "meta": {
+        "storedAt": 1761313666,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1434",
+        "imdbId": "tt0182576",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/198039?token=e34d23758b9fc3afe28e416e4b36fddb&expires=1766497665&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:18347:s3e7",
+      "storedAt": 1761313626365,
+      "meta": {
+        "storedAt": 1761313626,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "18347",
+        "imdbId": "tt1439629",
+        "season": 3,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/145842?token=192aaa3edfa9a8af30018d9e2759820f&expires=1766497626&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:199001:s2e3",
+      "storedAt": 1761313701076,
+      "meta": {
+        "storedAt": 1761313701,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "199001",
+        "imdbId": "tt8323628",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/334877?token=8d940f863fb5962969e0ba43a532c889&expires=1766497700&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2140:s3e18",
+      "storedAt": 1761313628891,
+      "meta": {
+        "storedAt": 1761313628,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2140",
+        "imdbId": "tt0115167",
+        "season": 3,
+        "episode": 18,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/226818?token=fea81ce1120960ce9b5345b3acf08d94&expires=1766497628&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:219053:s2e4",
+      "storedAt": 1761313683062,
+      "meta": {
+        "storedAt": 1761313683,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "219053",
+        "imdbId": "tt21092364",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/288171?token=32e08dea05ffcfdc40918faa2694a123&expires=1766497682&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2316:s1e4",
+      "storedAt": 1761313553793,
+      "meta": {
+        "storedAt": 1761313553,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2316",
+        "imdbId": "tt0386676",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/186439?token=f89cde368a0d9f80a095f4e3a123e904&expires=1766497553&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:233219:s1e7",
+      "storedAt": 1761313386394,
+      "meta": {
+        "storedAt": 1761313386,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "233219",
+        "imdbId": "tt34622123",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/342886?token=39ce6408ca89c248174c430ce192bd57&expires=1766497385&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:253030:s1e5",
+      "storedAt": 1761313353941,
+      "meta": {
+        "storedAt": 1761313353,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "253030",
+        "imdbId": "tt27719131",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/352341?token=fda7e476dcb5f0efd86d331aaad14562&expires=1766497353&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2673:s4e4",
+      "storedAt": 1761313457131,
+      "meta": {
+        "storedAt": 1761313457,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2673",
+        "imdbId": "tt0362359",
+        "season": 4,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/183065?token=3fde201b9402c0157e7b03be7b3d552f&expires=1766497456&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:32726:s1e13",
+      "storedAt": 1761313664848,
+      "meta": {
+        "storedAt": 1761313664,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "32726",
+        "imdbId": "tt1561755",
+        "season": 1,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/195020?token=715bd56d3419e4f6d1af31a68eaa20df&expires=1766497664&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:35016:s2e84",
+      "storedAt": 1761313400552,
+      "meta": {
+        "storedAt": 1761313400,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "35016",
+        "imdbId": "tt1638319",
+        "season": 2,
+        "episode": 84,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/333313?token=b3ffe422310aeda274771ed4a095ffae&expires=1766497400&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:39358:s4e11",
+      "storedAt": 1761313386682,
+      "meta": {
+        "storedAt": 1761313386,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "39358",
+        "imdbId": "tt1837642",
+        "season": 4,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/192378?token=516ec4c6b97bdf99370bf243a76b0be9&expires=1766497386&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:4057:s17e3",
+      "storedAt": 1761313666028,
+      "meta": {
+        "storedAt": 1761313666,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4057",
+        "imdbId": "tt0452046",
+        "season": 17,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/236566?token=d0edfe3e789cdb403cb1122596753cbd&expires=1766497665&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:66203:s1e23",
+      "storedAt": 1761313674266,
+      "meta": {
+        "storedAt": 1761313674,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "66203",
+        "imdbId": "tt5189554",
+        "season": 1,
+        "episode": 23,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/225614?token=e77003718ea69bc856aabaa116c3ecf0&expires=1766497673&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:693:s3e14",
+      "storedAt": 1761313623363,
+      "meta": {
+        "storedAt": 1761313623,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "693",
+        "imdbId": "tt0410975",
+        "season": 3,
+        "episode": 14,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/201230?token=43a4ac22ad36ab8a2bd1b95bbda7d855&expires=1766497623&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:71694:s4e4",
+      "storedAt": 1761313822799,
+      "meta": {
+        "storedAt": 1761313822,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "71694",
+        "imdbId": "tt6439752",
+        "season": 4,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/193972?token=bdd4de1b36dd8e16050626ef1ca31e4c&expires=1766497822&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:71712:s7e8",
+      "storedAt": 1761313663643,
+      "meta": {
+        "storedAt": 1761313663,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "71712",
+        "imdbId": "tt6470478",
+        "season": 7,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/265096?token=f641791290e6372480b111eb2372932f&expires=1766497663&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:8592:s4e10",
+      "storedAt": 1761313400096,
+      "meta": {
+        "storedAt": 1761313400,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "8592",
+        "imdbId": "tt1266020",
+        "season": 4,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/274561?token=547a244ab14261adaabd53b865992daa&expires=1766497399&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:95655:s2e1",
+      "storedAt": 1761313456593,
+      "meta": {
+        "storedAt": 1761313456,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "95655",
+        "imdbId": "tt6665406",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/180055?token=0353c92754f496848af51aa30b1483a6&expires=1766497456&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-24T13:42:29.850Z",
-    "totalOriginalEntries": 15530,
-    "newItemsInThisBatch": 33,
+    "exportedAt": "2025-10-24T13:50:37.777Z",
+    "totalOriginalEntries": 15560,
+    "newItemsInThisBatch": 32,
     "format": "compact_v1"
   }
 }
