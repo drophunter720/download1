@@ -581188,12 +581188,899 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:10304",
+      "storedAt": 1761349625249,
+      "meta": {
+        "storedAt": 1761349625,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "10304",
+        "imdbId": "tt0367093",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/247779?token=ae2d3e848043486612f3d4e8631aaf37&expires=1766533624&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:1230368",
+      "storedAt": 1761349799620,
+      "meta": {
+        "storedAt": 1761349799,
+        "urlCount": 17,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1230368",
+        "imdbId": "tt31923069",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "JBLnEFKa\n13.14 GB",
+            "url": "https://pixeldrain.net/api/file/JBLnEFKa",
+            "quality": "2160p",
+            "size": "13.14 GB",
+            "fileName": "JBLnEFKa",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Fear Street Prom Queen 2025 2160p 10BIT 10bit WEB-DL DoVi HDR HEVC [Hindi DDP 5.1 + English DDP.Atmos 5.1] H.265 HHWEB-4kHDHUB.com\n13.14 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Fear%20Street%20Prom%20Queen%202025%202160p%2010BIT%2010bit%20WEB-DL%20DoVi%20HDR%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DDP.Atmos%205.1]%20H.265%20HHWEB-4kHDHUB.com.mkv?token=1761349799",
+            "quality": "2160p",
+            "size": "13.14 GB",
+            "fileName": "Fear Street Prom Queen 2025 2160p 10BIT 10bit WEB-DL DoVi HDR HEVC [Hindi DDP 5.1 + English DDP.Atmos 5.1] H.265 HHWEB-4kHDHUB.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "g\n13.14 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=EPztHV9xEbBT&n=7E0hyb4Y&fn=Fear%20Street%20Prom%20Queen%20(2025)%202160p%2010BIT%2010bit%20WEB-DL%20DoVi%20HDR%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DDP.Atmos%205.1]%20H.265%20(HHWEB-4kHDHUB.com).mkv",
+            "quality": "2160p",
+            "size": "13.14 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "FJtDpgdF\n11.78 GB",
+            "url": "https://pixeldrain.dev/api/file/FJtDpgdF?download",
+            "quality": "2160p",
+            "size": "11.78 GB",
+            "fileName": "FJtDpgdF",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Fear Street - Prom Queen 2025 2160p NF WEB-DL SDR 10bit HEVC [Hindi DDP 5.1 + English DDPA 5.1] x265 HHWEB-LUMiX 4KHDHub.com\n11.78 GB",
+            "url": "https://fsl.anime4u.co/Fear%20Street%20-%20Prom%20Queen%202025%202160p%20NF%20WEB-DL%20SDR%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DDPA%205.1]%20x265%20HHWEB-LUMiX%204KHDHub.com.mkv?token=1761349799",
+            "quality": "2160p",
+            "size": "11.78 GB",
+            "fileName": "Fear Street - Prom Queen 2025 2160p NF WEB-DL SDR 10bit HEVC [Hindi DDP 5.1 + English DDPA 5.1] x265 HHWEB-LUMiX 4KHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "R2JDQiej\n5.73 GB",
+            "url": "https://pixeldrain.dev/api/file/R2JDQiej?download",
+            "quality": "1080p",
+            "size": "5.73 GB",
+            "fileName": "R2JDQiej",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Fear.Street.Prom.Queen.2025.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.265-4kHdHub.Com\n5.73 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Fear.Street.Prom.Queen.2025.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv?token=1761349799",
+            "quality": "1080p",
+            "size": "5.73 GB",
+            "fileName": "Fear.Street.Prom.Queen.2025.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "cjLm35yT\n4.88 GB",
+            "url": "https://pixeldrain.dev/api/file/cjLm35yT?download",
+            "quality": "1080p",
+            "size": "4.88 GB",
+            "fileName": "cjLm35yT",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Fear.Street.Prom.Queen.2025.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.DV.H.265-4kHdHub.Com\n4.88 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Fear.Street.Prom.Queen.2025.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.DV.H.265-4kHdHub.Com.mkv?token=1761349799",
+            "quality": "1080p",
+            "size": "4.88 GB",
+            "fileName": "Fear.Street.Prom.Queen.2025.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.DV.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "bJnLVqCr\n4.27 GB",
+            "url": "https://pixeldrain.dev/api/file/bJnLVqCr?download",
+            "quality": "1080p",
+            "size": "4.27 GB",
+            "fileName": "bJnLVqCr",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Fear.Street.Prom.Queen.2025.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.HDR.H.265-4kHdHub.Com\n4.27 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Fear.Street.Prom.Queen.2025.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.HDR.H.265-4kHdHub.Com.mkv?token=1761349799",
+            "quality": "1080p",
+            "size": "4.27 GB",
+            "fileName": "Fear.Street.Prom.Queen.2025.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.HDR.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "PfjYgjCK\n3.97 GB",
+            "url": "https://pixeldrain.dev/api/file/PfjYgjCK?download",
+            "quality": "1080p",
+            "size": "3.97 GB",
+            "fileName": "PfjYgjCK",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Fear.Street.Prom.Queen.2025.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.264-4kHdHub.Com\n3.97 GB",
+            "url": "https://fsl.anime4u.co/Fear.Street.Prom.Queen.2025.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv?token=1761349799",
+            "quality": "1080p",
+            "size": "3.97 GB",
+            "fileName": "Fear.Street.Prom.Queen.2025.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "4nFkaQwM\n1.63 GB",
+            "url": "https://pixeldrain.dev/api/file/4nFkaQwM?download",
+            "quality": "1080p",
+            "size": "1.63 GB",
+            "fileName": "4nFkaQwM",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Fear.Street.Prom.Queen.2025.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.AV1-4kHdHub.Com\n1.63 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Fear.Street.Prom.Queen.2025.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.AV1-4kHdHub.Com.mkv?token=1761349799",
+            "quality": "1080p",
+            "size": "1.63 GB",
+            "fileName": "Fear.Street.Prom.Queen.2025.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.AV1-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ainQVpx4\n1010.27 MB",
+            "url": "https://pixeldrain.dev/api/file/ainQVpx4?download",
+            "quality": "1080p",
+            "size": "1010.27 MB",
+            "fileName": "ainQVpx4",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Fear.Street.Prom.Queen.2025.1080p.NF.WEB-DL.Hindi.AAC5.1-English.AAC5.1.AV1-4kHdHub.Com\n1010.27 MB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Fear.Street.Prom.Queen.2025.1080p.NF.WEB-DL.Hindi.AAC5.1-English.AAC5.1.AV1-4kHdHub.Com.mkv?token=1761349799",
+            "quality": "1080p",
+            "size": "1010.27 MB",
+            "fileName": "Fear.Street.Prom.Queen.2025.1080p.NF.WEB-DL.Hindi.AAC5.1-English.AAC5.1.AV1-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 17
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:1290159",
+      "storedAt": 1761349840124,
+      "meta": {
+        "storedAt": 1761349840,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1290159",
+        "imdbId": "tt32376165",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/454205?b=1&token=d9cc024e764aaa2d2ab4b92ed5ca8d1c&expires=1766533839&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:201088",
+      "storedAt": 1761349544186,
+      "meta": {
+        "storedAt": 1761349544,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "201088",
+        "imdbId": "tt2717822",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/302405?token=73153ae7236304fd3b96440047a062c1&expires=1766533543&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:602",
+      "storedAt": 1761349778058,
+      "meta": {
+        "storedAt": 1761349778,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "602",
+        "imdbId": "tt0116629",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/201886?token=fa8a89fac5969d01815f226769667f2c&expires=1766533777&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:114118:s1e11",
+      "storedAt": 1761349382427,
+      "meta": {
+        "storedAt": 1761349382,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "114118",
+        "imdbId": "tt13777028",
+        "season": 1,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/437674?token=a4f8abf61c93826ca6b114daa362d410&expires=1766533381&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1418:s2e23",
+      "storedAt": 1761349734447,
+      "meta": {
+        "storedAt": 1761349734,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1418",
+        "imdbId": "tt0898266",
+        "season": 2,
+        "episode": 23,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/268226?token=2de3f6fecd0b8bf79ee52e3e9403c4e3&expires=1766533734&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1418:s7e6",
+      "storedAt": 1761349641421,
+      "meta": {
+        "storedAt": 1761349641,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1418",
+        "imdbId": "tt0898266",
+        "season": 7,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/268327?token=08fa2299e4eb765a65749035afedda4e&expires=1766533641&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1421:s3e4",
+      "storedAt": 1761349805445,
+      "meta": {
+        "storedAt": 1761349805,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1421",
+        "imdbId": "tt1442437",
+        "season": 3,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/270714?token=c2361248e32fc97bbf5750c620578210&expires=1766533805&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1433:s10e20",
+      "storedAt": 1761349746997,
+      "meta": {
+        "storedAt": 1761349746,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1433",
+        "imdbId": "tt0397306",
+        "season": 10,
+        "episode": 20,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/194202?token=f57959194f5be8059afdb2986ab76f1e&expires=1766533746&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1622:s6e18",
+      "storedAt": 1761349824220,
+      "meta": {
+        "storedAt": 1761349824,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1622",
+        "imdbId": "tt0460681",
+        "season": 6,
+        "episode": 18,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/178935?token=2c684f2f442c129d85e444d3e9ae05ed&expires=1766533824&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:18165:s7e14",
+      "storedAt": 1761349454081,
+      "meta": {
+        "storedAt": 1761349454,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "18165",
+        "imdbId": "tt1405406",
+        "season": 7,
+        "episode": 14,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/305431?token=db13c0e9f3a52b5ac87c87700fd8601e&expires=1766533453&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:186:s6e10",
+      "storedAt": 1761349784063,
+      "meta": {
+        "storedAt": 1761349784,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "186",
+        "imdbId": "tt0439100",
+        "season": 6,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/200765?token=b33eb7219b076d1cc459b765531cd338&expires=1766533783&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:226637:s1e11",
+      "storedAt": 1761349753524,
+      "meta": {
+        "storedAt": 1761349753,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "226637",
+        "imdbId": "tt22091076",
+        "season": 1,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/294739?token=1ccb8c0cf2aca1ef87ca8e38d415ba00&expires=1766533753&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:253:s3e24",
+      "storedAt": 1761349831191,
+      "meta": {
+        "storedAt": 1761349831,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "253",
+        "imdbId": "tt0060028",
+        "season": 3,
+        "episode": 24,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/189699?token=54ee631f3a698cede2922d9ce4064964&expires=1766533830&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:42009:s4e4",
+      "storedAt": 1761349625725,
+      "meta": {
+        "storedAt": 1761349625,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "42009",
+        "imdbId": "tt2085059",
+        "season": 4,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/307318?token=8c0867bc6141ed42355cb26698f23aec&expires=1766533625&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:5920:s1e13",
+      "storedAt": 1761349768145,
+      "meta": {
+        "storedAt": 1761349768,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "5920",
+        "imdbId": "tt1196946",
+        "season": 1,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/315087?token=c726c437e98d5d205be2530f4bfdfe4e&expires=1766533767&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:5920:s1e18",
+      "storedAt": 1761349641567,
+      "meta": {
+        "storedAt": 1761349641,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "5920",
+        "imdbId": "tt1196946",
+        "season": 1,
+        "episode": 18,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/315092?token=2ea12a95daa91bcfee583704173ac128&expires=1766533640&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:60708:s3e20",
+      "storedAt": 1761349788274,
+      "meta": {
+        "storedAt": 1761349788,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "60708",
+        "imdbId": "tt3749900",
+        "season": 3,
+        "episode": 20,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/236746?token=8e4595a5ad17453ca3779f8a4c661813&expires=1766533787&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:62560:s2e5",
+      "storedAt": 1761349653879,
+      "meta": {
+        "storedAt": 1761349653,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "62560",
+        "imdbId": "tt4158110",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/181959?token=785559283d6bf11efdea9cad565ee8ff&expires=1766533653&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:79084:s1e8",
+      "storedAt": 1761349410643,
+      "meta": {
+        "storedAt": 1761349410,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "79084",
+        "imdbId": "tt7562112",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/198689?token=a804179052f4d66860d80c29a3484aa1&expires=1766533410&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:79744:s2e4",
+      "storedAt": 1761349698881,
+      "meta": {
+        "storedAt": 1761349698,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "79744",
+        "imdbId": "tt7587890",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/314479?token=439de0a614b7194fa24e8adb1832990a&expires=1766533698&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-24T23:42:45.496Z",
-    "totalOriginalEntries": 17444,
-    "newItemsInThisBatch": 18,
+    "exportedAt": "2025-10-24T23:51:06.207Z",
+    "totalOriginalEntries": 17466,
+    "newItemsInThisBatch": 23,
     "format": "compact_v1"
   }
 }
