@@ -416492,12 +416492,1769 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1151031",
+      "storedAt": 1761267398147,
+      "meta": {
+        "storedAt": 1761267398,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1151031",
+        "imdbId": "tt32246771",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/336295?token=c88a11ef44f62ecd6ccbc899b1675f97&expires=1766451397&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:122",
+      "storedAt": 1761267232441,
+      "meta": {
+        "storedAt": 1761267232,
+        "urlCount": 7,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "122",
+        "imdbId": "tt0167260",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The Lord of the Rings - The Two Towers 2002 Extended 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi NF DDP 2.0 - DVD 2.0 + English TrueHD Atmos 7.1] x265 FraMeSToR-LUMiX\n109.21 GB",
+            "url": "https://fsl.anime4u.co/The%20Lord%20of%20the%20Rings%20-%20The%20Two%20Towers%202002%20Extended%202160p%20UHD%20BluRay%20REMUX%20DV%20HDR%2010bit%20HEVC%20[Hindi%20NF%20DDP%202.0%20-%20DVD%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20FraMeSToR-LUMiX.mkv?token=1761265920",
+            "quality": "2160p",
+            "size": "109.21 GB",
+            "fileName": "The Lord of the Rings - The Two Towers 2002 Extended 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi NF DDP 2.0 - DVD 2.0 + English TrueHD Atmos 7.1] x265 FraMeSToR-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The Lord of the Rings - The Two Towers 2002 Extended 2160p MA WEB-DL SDR 10bit HEVC [Hindi NF DDP 2.0 - DVD 2.0 + English TrueHD Atmos 7.1] x265 FLUX-LUMiX\n47.2 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The%20Lord%20of%20the%20Rings%20-%20The%20Two%20Towers%202002%20Extended%202160p%20MA%20WEB-DL%20SDR%2010bit%20HEVC%20[Hindi%20NF%20DDP%202.0%20-%20DVD%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20FLUX-LUMiX.mkv?token=1761265920",
+            "quality": "2160p",
+            "size": "47.2 GB",
+            "fileName": "The Lord of the Rings - The Two Towers 2002 Extended 2160p MA WEB-DL SDR 10bit HEVC [Hindi NF DDP 2.0 - DVD 2.0 + English TrueHD Atmos 7.1] x265 FLUX-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The Lord of the Rings - The Two Towers 2002 Extended 2160p UHD BluRay DV HDR 10bit HEVC [Hindi NF DDP 2.0 - DVD 2.0 + English TrueHD Atmos 7.1] x265 DON-LUMiX\n39.87 GB",
+            "url": "https://fsl.anime4u.co/The%20Lord%20of%20the%20Rings%20-%20The%20Two%20Towers%202002%20Extended%202160p%20UHD%20BluRay%20DV%20HDR%2010bit%20HEVC%20[Hindi%20NF%20DDP%202.0%20-%20DVD%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20DON-LUMiX.mkv?token=1761265920",
+            "quality": "2160p",
+            "size": "39.87 GB",
+            "fileName": "The Lord of the Rings - The Two Towers 2002 Extended 2160p UHD BluRay DV HDR 10bit HEVC [Hindi NF DDP 2.0 - DVD 2.0 + English TrueHD Atmos 7.1] x265 DON-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Lord of the Rings - The Two Towers 2002 Extended 1080p BluRay [Hindi NF DDP 2.0 - DVD 2.0 + English DDP 7.1] x264 playHD-LUMiX\n32.15 GB",
+            "url": "https://fsl.anime4u.co/The%20Lord%20of%20the%20Rings%20-%20The%20Two%20Towers%202002%20Extended%201080p%20BluRay%20[Hindi%20NF%20DDP%202.0%20-%20DVD%202.0%20+%20English%20DDP%207.1]%20x264%20playHD-LUMiX.mkv?token=1761265920",
+            "quality": "1080p",
+            "size": "32.15 GB",
+            "fileName": "The Lord of the Rings - The Two Towers 2002 Extended 1080p BluRay [Hindi NF DDP 2.0 - DVD 2.0 + English DDP 7.1] x264 playHD-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Lord of the Rings - The Two Towers 2002 Extended 1080p UHD BluRay DV HDR 10bit HEVC [Hindi NF DDP 2.0 - DVD 2.0 + English DDP 7.1] x265 NTb-LUMiX\n21.62 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The%20Lord%20of%20the%20Rings%20-%20The%20Two%20Towers%202002%20Extended%201080p%20UHD%20BluRay%20DV%20HDR%2010bit%20HEVC%20[Hindi%20NF%20DDP%202.0%20-%20DVD%202.0%20+%20English%20DDP%207.1]%20x265%20NTb-LUMiX.mkv?token=1761265920",
+            "quality": "1080p",
+            "size": "21.62 GB",
+            "fileName": "The Lord of the Rings - The Two Towers 2002 Extended 1080p UHD BluRay DV HDR 10bit HEVC [Hindi NF DDP 2.0 - DVD 2.0 + English DDP 7.1] x265 NTb-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "dnQpshzC\n13.63 GB",
+            "url": "https://pixeldrain.dev/api/file/dnQpshzC?download",
+            "quality": "1080p",
+            "size": "13.63 GB",
+            "fileName": "dnQpshzC",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Lord of the Rings - The Two Towers 2002 Extended 1080p BluRay 10bit HEVC [Hindi NF DDP 2.0 - DVD 2.0 + English DDP 5.1] x265 ARTiCUNO0-LUMiX\n13.63 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The%20Lord%20of%20the%20Rings%20-%20The%20Two%20Towers%202002%20Extended%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20NF%20DDP%202.0%20-%20DVD%202.0%20+%20English%20DDP%205.1]%20x265%20ARTiCUNO0-LUMiX.mkv?token=1761265920",
+            "quality": "1080p",
+            "size": "13.63 GB",
+            "fileName": "The Lord of the Rings - The Two Towers 2002 Extended 1080p BluRay 10bit HEVC [Hindi NF DDP 2.0 - DVD 2.0 + English DDP 5.1] x265 ARTiCUNO0-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 7
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:122",
+      "storedAt": 1761267231021,
+      "meta": {
+        "storedAt": 1761267230,
+        "urlCount": 7,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "122",
+        "imdbId": "tt0167260",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies TrueHD Atmos 7 1 HEVC REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/The%20Lord%20of%20the%20Rings%20The%20Return%20of%20the%20King%20(2003)/The.Lord.of.the.Rings.The.Return.of.the.King.2003.Extended.UHD.BluRay.2160p.TrueHD.Atmos.7.1.HEVC.REMUX-FraMeSToR.mkv",
+            "quality": "2160p | REMUX",
+            "size": "127.56 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Lord.of.the.Rings.The.Return.of.the.King.2003.Extended.UHD.BluRay.2160p.TrueHD.Atmos.7.1.HEVC.REMUX-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies TrueHD Atmos 7 1 DV HEVC REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/The%20Lord%20of%20the%20Rings%20The%20Return%20of%20the%20King%20(2003)/The.Lord.of.the.Rings.The.Return.of.the.King.2003.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.REMUX-FraMeSToR.mkv",
+            "quality": "2160p | DV | REMUX",
+            "size": "78.77 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Lord.of.the.Rings.The.Return.of.the.King.2003.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.REMUX-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies TrueHD Atmos 7 1 HEVC REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/The%20Lord%20of%20the%20Rings%20The%20Return%20of%20the%20King%20(2003)/The.Lord.of.the.Rings.The.Return.of.the.King.2003.UHD.BluRay.2160p.TrueHD.Atmos.7.1.HEVC.REMUX-FraMeSToR.mkv",
+            "quality": "2160p | REMUX",
+            "size": "75.81 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Lord.of.the.Rings.The.Return.of.the.King.2003.UHD.BluRay.2160p.TrueHD.Atmos.7.1.HEVC.REMUX-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies -rutracker",
+            "url": "https://a.111477.xyz/movies/The%20Lord%20of%20the%20Rings%20The%20Return%20of%20the%20King%20(2003)/The.Lord.of.the.Rings.The.Return.of.the.King.2003.Warner.Bros.UHD.BDRemux.2160p-rutracker.mkv",
+            "quality": "2160p | REMUX",
+            "size": "91.14 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Lord.of.the.Rings.The.Return.of.the.King.2003.Warner.Bros.UHD.BDRemux.2160p-rutracker.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS HD MA TrueHD 7 1 Atmos FGT ORARBG",
+            "url": "https://a.111477.xyz/movies/The%20Lord%20of%20the%20Rings%20The%20Return%20of%20the%20King%20(2003)/The%20Lord%20of%20the%20Rings%20The%20Return%20of%20the%20King%202003%20EXTENDED%20REMASTERED%201080p%20BluRay%20REMUX%20AVC%20DTS%20HD%20MA%20TrueHD%207%201%20Atmos%20FGT%20ORARBG.mkv",
+            "quality": "1080p | REMUX",
+            "size": "81.72 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Lord of the Rings The Return of the King 2003 EXTENDED REMASTERED 1080p BluRay REMUX AVC DTS HD MA TrueHD 7 1 Atmos FGT ORARBG.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265",
+            "url": "https://a.111477.xyz/movies/The%20Lord%20of%20the%20Rings%20The%20Return%20of%20the%20King%20(2003)/The.Lord.of.the.Rings.The.Return.of.the.King.2003.EXTENDED.1080p.BluRay.x265.mp4",
+            "quality": "1080p",
+            "size": "4.11 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Lord.of.the.Rings.The.Return.of.the.King.2003.EXTENDED.1080p.BluRay.x265.mp4"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265",
+            "url": "https://a.111477.xyz/movies/The%20Lord%20of%20the%20Rings%20The%20Return%20of%20the%20King%20(2003)/The.Lord.of.the.Rings.The.Return.of.the.King.2003.EXTENDED.REMASTERED.1080p.BluRay.x265.mp4",
+            "quality": "1080p",
+            "size": "4.10 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Lord.of.the.Rings.The.Return.of.the.King.2003.EXTENDED.REMASTERED.1080p.BluRay.x265.mp4"
+          }
+        ],
+        "count": 7
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:122",
+      "storedAt": 1761267234841,
+      "meta": {
+        "storedAt": 1761267234,
+        "urlCount": 10,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "122",
+        "imdbId": "tt0167260",
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The Lord of the Rings- The Return of the King (2003) Extended Edition 1080p-HDHub4u.mkv",
+            "url": "https://pixeldrain.dev/api/file/2qy6MCX8?download",
+            "quality": "1080p",
+            "size": "7.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The Lord of the Rings- The Return of the King (2003) Extended Edition 1080p-HDHub4u.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The Lord of the Rings- The Return of the King 2003 Extended Edition 1080p-HDHub4u.mkv?token=1761267233",
+            "quality": "1080p",
+            "size": "7.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The Lord of the Rings- The Return of the King (2003) Extended Edition 1080p-HDHub4u.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2le4q_7i1EF1HhW0PNDKfQHPsilVlqYhtEQECF_ww2LzfGQf3J4Vy0F1c9H3YttTu0PtZwE49JsMCm-oDbYoSwwKFHBCPSNx-bEI4KUNFtgI4Pas1sXV2cMP24uk7dG0jlSPbf5YZhYZFtCsbF_x5DQIead9PvqtPaVpDRcKLVAYViEzDZ35dUaQsiUD7x8ZP2xKTvq4-erZJ926gPHUxHXxFr9PHSof_53Tmo8XOPwnYSjX2RFhHRzce6EDI4CFWaKyPoQ",
+            "quality": "1080p",
+            "size": "7.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The Lord of the Rings- The Return of the King (2003) Extended Edition 720p-HDHub4u.mkv",
+            "url": "https://pixeldrain.dev/api/file/U6Bd47Ms?download",
+            "quality": "720p",
+            "size": "2.9 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The Lord of the Rings- The Return of the King (2003) Extended Edition 720p-HDHub4u.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The Lord of the Rings- The Return of the King 2003 Extended Edition 720p-HDHub4u.mkv?token=1761267233",
+            "quality": "720p",
+            "size": "2.9 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u S3 Server ",
+            "title": "The Lord of the Rings- The Return of the King (2003) Extended Edition 720p-HDHub4u.mkv",
+            "quality": "720p",
+            "size": "2.9 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The Lord of the Rings- The Return of the King (2003) Extended Edition 720p-HDHub4u.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kvOJ0_sjN3W0FM7FM-yeeTkoO7DiqHsFEjCumiUYxlD9YaHegswhZBkGdhfyOwmGZS6SFIBFijqNBApwNXr-DGbP75bJejd6VZoE5Eqv45_Vg4AzAIP9-PceX1mWKAfk3aTfHBgNPtI-rWudGJ4WhXl6yTRmjG5V8sPrZw7IyXLG-4lM-j4WGIOuTGDPHtclAPcoJW91YLe6eJOmsNzekumdPl5Coh-5tb___pqe8FRsmx9eE",
+            "quality": "720p",
+            "size": "2.9 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The Lord of the Rings- The Return of the King (2003) Extended Edition 480p-HDHub4u.mkv",
+            "url": "https://pixeldrain.dev/api/file/1QmT9Waf?download",
+            "quality": "480p",
+            "size": "1.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The Lord of the Rings- The Return of the King (2003) Extended Edition 480p-HDHub4u.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The Lord of the Rings- The Return of the King 2003 Extended Edition 480p-HDHub4u.mkv?token=1761267233",
+            "quality": "480p",
+            "size": "1.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The Lord of the Rings- The Return of the King (2003) Extended Edition 480p-HDHub4u.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mI1eIJ8BRQr9LzOMrapfWX0sDQj4xo316o1N_tWyvRL47RVOMNytGOJyl1zuDJQ03G6k_wMDDBpIeO5iLmBtzTgVdlCP79w7B3reAw6IF7l5zLjklgD5H1_4uLjLegpjLy-CpNJekO48cOk4kWd5yTY-JkYE1xYcDuyr8I-8zpAMY3U08_ebNvArphuD-qwV8fYwg5ttPWZs4_yCebtSehHqsSqhjM9DjlJ_vSHFTof6ED60NM7kuoP400tEOV0kVWnm7J",
+            "quality": "480p",
+            "size": "1.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The Lord of the Rings- The Return of the King (2003) Extended Edition 480p-HDHub4u.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lZFJ6eoZMFT4XGHuBxZXlnFsJ22yMPjB6grPJcCP4z6_ei5LOeEwxGp8D158Q7Qj6u44XVduAaX3MIvhK1Hgq1JOIXdA9Gx5OLcOHL652WUe0ryIB-qyGBJnyAaEU1oggtztpDiTaDoLVdDooA8eABwbbd9hxv3DJUIbO_9C1iAbRO4WrIPWanotG4RVJBNi8_pJ9V9al4GQuQ_-jcAVUL6ymMunXd96OIApuHmUPDTvQb2SLy7vpEbRssJNbw-p_mHT3a",
+            "quality": "480p",
+            "size": "1.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 11
+      }
+    },
+    {
+      "key": "prov:moviesmod:movie:122",
+      "storedAt": 1761267235700,
+      "meta": {
+        "storedAt": 1761267235,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "movie",
+        "tmdbId": "122",
+        "imdbId": "tt0167260",
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "Lord Of The Rings Return Of The King (2003) 1080p Hindi Eng MoviesmodPro in\n4.47GB",
+            "url": "https://worker-soft-waterfall-f25a.tocaga5026.workers.dev/873c2b6652cf5790224b0e359510b01bf9a25215bfc240cdff9cc2206783f0c8b2b9e1d5fff51b7d35263606fac1a9fb3402970b97164692ef25e629996c2862f210ac718316097d83a7ca08a5554cffe67de0d561f5398da37076a328aca132ebc62de25a91c9e5caf821294e8e2998e5ee6a365141453a08d89b3c447c201ede84a40273ab7b37e44d54c1bb7af8ad8d8cc9a34bb5d76f0f3b34ea704bc73ff17ebe1373c11282109c0142f43dd695::f8dad8836da2ae87f58c8d07a34ef26b/Lord.Of.The.Rings.Return.Of.The.King.(2003).1080p.Hindi.Eng.MoviesmodPro.in.mkv",
+            "quality": "1080p",
+            "size": "4.47GB",
+            "fileName": "Lord.Of.The.Rings.Return.Of.The.King.(2003).1080p.Hindi.Eng.MoviesmodPro.in.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "The Lord of the Rings-The Return of the King 2003 Extended 1080p 10bit Bluray Hindi English Msubs MoviesMod org\n4.64GB",
+            "url": "https://worker-summer-meadow-6cb2.memiwa5008.workers.dev/398f0ea7db899bb1053c6ed14dedf41ff83d36fc6385d7e4b0c6dfd47380ba80a9d855125412563c37be8eeaf0c5cfe92e07c99f5faf0a77142e173e2239fa74b45c76a7fd26e1a7aab51643bf84505a433f3259f991a6b246cda3aa704ec6ffc0b0ec9bab0506ba8983c2bf0f57010ec69750c25089d517597c84e5c2b6960bb53a05b1fc0187248b7899b6519184473b95f04a7e01e14041f4907389788704508722808c2996473cf2a84cf8b05f0a::d701b7f934ccd0ac92d5abe211a35f4a/The.Lord.of.the.Rings-The.Return.of.the.King.2003.Extended.1080p.10bit.Bluray.Hindi.English.Msubs.MoviesMod.org.mkv",
+            "quality": "1080p",
+            "size": "4.64GB",
+            "fileName": "The.Lord.of.the.Rings-The.Return.of.the.King.2003.Extended.1080p.10bit.Bluray.Hindi.English.Msubs.MoviesMod.org.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "The Lord Of The Rings-The Return Of The King 2003 Extended 1080P Bluray Hindi English Msubs MoviesMod org\n5.61GB",
+            "url": "https://worker-withered-sound-c618.xokoroh169.workers.dev/80a4095b353c922bc7b19fdb693fb62bb66bd06e4fd44f7eefed4824542da50bf5685f58c91b14e99c8b8499a2cf06c9f9be8c1795635527800e6b1ebd77e39e9346dd1205b97f06cf643ff539f791dd9fc5b486e1f6c2eaf51bdac377e1894759ec5e783194ac15b08860c57b83684102bb6bb07ea39fb13cd648fb018df7c0d6b46ab4fae9875a4c03cce8e17a607715dc3c424911fb0596667b447e0aed6ed1cffa29169e5770c038beab73f74cb4::80eb180b0aeae5271cc58b9c549178a5/The.Lord.Of.The.Rings-The.Return.Of.The.King.2003.Extended.1080P.Bluray.Hindi.English.Msubs.MoviesMod.org.mkv",
+            "quality": "1080p",
+            "size": "5.61GB",
+            "fileName": "The.Lord.Of.The.Rings-The.Return.Of.The.King.2003.Extended.1080P.Bluray.Hindi.English.Msubs.MoviesMod.org.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "Lord Of The Rings Return Of The King (2003) 720p Hindi Eng MoviesmodPro in\n2.07GB",
+            "url": "https://worker-fancy-flower-bfe1.daxop18442.workers.dev/7c15b9fb7177a6eb4e81ea9f43a8094bc9a146d07c7f0da690c9c4d2392899b8587428d1730b02f8796f58912e2d2fee054b7669443baa5a500766c2dd97f45cd3e2a5857557afaf1912d7086d54e891e6b5be4a8422a376fdc66089f251e4d10d6b34084fce5d0897c9cc40468f3c225fc42570ef77269f93eb58ad1eb8ebff325c0bfaee93ae85fdc052eaed08c270e985d6d07427bece0aa32fda4f87c2ec69788aed4297dede26b87b9073dc5d96::881f115e30f5402b5ae3178e772effc5/Lord.Of.The.Rings.Return.Of.The.King.(2003).720p.Hindi.Eng.MoviesmodPro.in.mkv",
+            "quality": "720p",
+            "size": "2.07GB",
+            "fileName": "Lord.Of.The.Rings.Return.Of.The.King.(2003).720p.Hindi.Eng.MoviesmodPro.in.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "Lord Of TheRings Return Of The King 2003 Extended 720p 10Bit BRRip Hindi English ESubs Moviesmod Com\n3.04GB",
+            "url": "https://worker-silent-shadow-953c.xegol92519.workers.dev/12852ce9de6f2bab64eb1ee2d89fa5c7ba46ebb35181f372628deed0ad2123ecfc3734058a999081c809391803a513f668c1c33712796e70231ebd599a4b96b376919e459c2107a1e9a0001e901f5d7822ba7b62769d06f8834f67b197bdbb43fb2212dacd83c5687068d937ad6d87766b4cc4ec357881dbd8bb3f24def78cd4bc74145d2f53aaee2233729693402b8c287eb39ecd0836012b3eb433fb7d1770d880ba0e292504ef3b0fd96662578b96::75ebd5f3edde0aafb9e99cf9555bf70d/Lord.Of.TheRings.Return.Of.The.King.2003.Extended.720p.10Bit.BRRip.Hindi.English.ESubs.Moviesmod.Com.mkv",
+            "quality": "720p",
+            "size": "3.04GB",
+            "fileName": "Lord.Of.TheRings.Return.Of.The.King.2003.Extended.720p.10Bit.BRRip.Hindi.English.ESubs.Moviesmod.Com.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "The Lord Of The Rings-The Return Of The King 2003 Extended 720P Bluray Hindi English Msubs MoviesMod org\n2.38GB",
+            "url": "https://worker-aged-unit-858c.getak43328.workers.dev/7bf00e31203653c8e046a4cd1beefa147391d259311570078583e492f3e9d041f9d3dda5f48c59c4044ab620b621e9d067bf878ce52c73067045f08c9a126e0e4d88809933a248ed21f6b70d8d6b32a6e3cf19ef74241b495e23a67ef0b2d3fcb28ccf22a3db2bb3f3ba2ff8c021ce9c3ddf59f624ec4e9f591793b829d52e7affe39c3e5621e48fec4f91582f9662ab19d163c3a16371a3115623acfdbadd34c810a89c59173807684e3d51ae7d3036::cdbf09b365526150647ca6a48d0a99b0/The.Lord.Of.The.Rings-The.Return.Of.The.King.2003.Extended.720P.Bluray.Hindi.English.Msubs.MoviesMod.org.mkv",
+            "quality": "720p",
+            "size": "2.38GB",
+            "fileName": "The.Lord.Of.The.Rings-The.Return.Of.The.King.2003.Extended.720P.Bluray.Hindi.English.Msubs.MoviesMod.org.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:122",
+      "storedAt": 1761267232457,
+      "meta": {
+        "storedAt": 1761267232,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "122",
+        "imdbId": "tt0167260",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Lord of the Rings: The Return of the King - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2003/lordoftherings.mkv",
+            "quality": "1080p",
+            "size": "3h 21m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Lord of the Rings: The Return of the King - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2003/lordoftherings.mkv",
+            "quality": "1080p",
+            "size": "3h 21m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Lord of the Rings: The Return of the King - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2003/lordoftherings.mkv",
+            "quality": "720p",
+            "size": "3h 21m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Lord of the Rings: The Return of the King - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2003/lordoftherings.mkv",
+            "quality": "720p",
+            "size": "3h 21m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:1328803",
+      "storedAt": 1761267025332,
+      "meta": {
+        "storedAt": 1761267025,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1328803",
+        "imdbId": "tt33057137",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/373709?token=22782c609ce9d73992581036d5427133&expires=1766451025&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:1734",
+      "storedAt": 1761266958297,
+      "meta": {
+        "storedAt": 1761266958,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1734",
+        "imdbId": "tt0209163",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/234620?token=aea3fe65fc5cd76ce49048d6baea12b7&expires=1766450958&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:253450",
+      "storedAt": 1761267303595,
+      "meta": {
+        "storedAt": 1761267303,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "253450",
+        "imdbId": "tt3508840",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/130554?token=c1cb827f749d9fc1254e91ae1e7af24e&expires=1766451303&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:337170",
+      "storedAt": 1761267198298,
+      "meta": {
+        "storedAt": 1761267198,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "337170",
+        "imdbId": "tt3532216",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/237125?token=4294ce3f7af74300a019f1082dc90f97&expires=1766451198&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:4247",
+      "storedAt": 1761267242677,
+      "meta": {
+        "storedAt": 1761267242,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "4247",
+        "imdbId": "tt0175142",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/86879?token=e3acf52c4da542164596ae2b96b51ecc&expires=1766451242&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:766",
+      "storedAt": 1761267014143,
+      "meta": {
+        "storedAt": 1761267014,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "766",
+        "imdbId": "tt0106308",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/97047?token=1eba8065a7aab70b05f4dd5e4ea7666b&expires=1766451013&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:8643",
+      "storedAt": 1761267089437,
+      "meta": {
+        "storedAt": 1761267089,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "8643",
+        "imdbId": "tt0404032",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/328613?token=5cf587b5437916529049f41736e76e8c&expires=1766451088&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:124364:s2e10",
+      "storedAt": 1761266991628,
+      "meta": {
+        "storedAt": 1761266991,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "124364",
+        "imdbId": "tt9813792",
+        "season": 2,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/264701?token=6815fde021fcbfd170908e8bacaa62ff&expires=1766450991&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1398:s3e6",
+      "storedAt": 1761267167012,
+      "meta": {
+        "storedAt": 1761267167,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1398",
+        "imdbId": "tt0141842",
+        "season": 3,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/323441?token=e8cb0e7af362e7146005fbc5f92e7a97&expires=1766451166&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1405:s6e11",
+      "storedAt": 1761267216257,
+      "meta": {
+        "storedAt": 1761267216,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1405",
+        "imdbId": "tt0773262",
+        "season": 6,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/170954?token=87112a58c3bb96e42662d0a4dff36eb7&expires=1766451216&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1418:s2e4",
+      "storedAt": 1761267275715,
+      "meta": {
+        "storedAt": 1761267275,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1418",
+        "imdbId": "tt0898266",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/268207?token=9910d01946244d59f0eb176fd4742918&expires=1766451275&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1421:s1e9",
+      "storedAt": 1761267199365,
+      "meta": {
+        "storedAt": 1761267199,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1421",
+        "imdbId": "tt1442437",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/271551?token=1d34ca1ab11316e2c129a70df4cedc57&expires=1766451199&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:14315:s1e1",
+      "storedAt": 1761267198164,
+      "meta": {
+        "storedAt": 1761267198,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "14315",
+        "imdbId": "tt1000734",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/332935?token=7c70d3b8c4bbcd4dfdaf479ed9c9066a&expires=1766451197&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:14315:s3e1",
+      "storedAt": 1761267219810,
+      "meta": {
+        "storedAt": 1761267219,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "14315",
+        "imdbId": "tt1000734",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/332919?token=60fd4bf1a0cffff74a6071be5a1b5918&expires=1766451219&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:18165:s3e2",
+      "storedAt": 1761267230620,
+      "meta": {
+        "storedAt": 1761267230,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "18165",
+        "imdbId": "tt1405406",
+        "season": 3,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/305293?token=29911dcd18fa346e8127f252b85fabec&expires=1766451230&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:18165:s4e6",
+      "storedAt": 1761267331949,
+      "meta": {
+        "storedAt": 1761267331,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "18165",
+        "imdbId": "tt1405406",
+        "season": 4,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/305356?token=a63f1bb7904b1f3b9524e0cd1e663e27&expires=1766451331&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2734:s19e15",
+      "storedAt": 1761267317242,
+      "meta": {
+        "storedAt": 1761267317,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2734",
+        "imdbId": "tt0203259",
+        "season": 19,
+        "episode": 15,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/229058?token=3a1e86caa974c4d7dbc119702d4129ce&expires=1766451316&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2734:s20e4",
+      "storedAt": 1761267224206,
+      "meta": {
+        "storedAt": 1761267224,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2734",
+        "imdbId": "tt0203259",
+        "season": 20,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/229148?token=19e4afde15a09848a68431262dc5302c&expires=1766451223&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2734:s20e5",
+      "storedAt": 1761267293620,
+      "meta": {
+        "storedAt": 1761267293,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2734",
+        "imdbId": "tt0203259",
+        "season": 20,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/229149?token=e7efa282030487ef649ebed7c396f3b8&expires=1766451293&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:286822:s1e9",
+      "storedAt": 1761266941784,
+      "meta": {
+        "storedAt": 1761266941,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "286822",
+        "imdbId": "tt36582176",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/400291?token=99398f92234ef92b36b8dfac11bc8611&expires=1766450941&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:291018:s1e6",
+      "storedAt": 1761266962605,
+      "meta": {
+        "storedAt": 1761266962,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "291018",
+        "imdbId": null,
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/344002?token=44278b6fcdb2578251d2790371e80ec2&expires=1766450962&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2919:s1e3",
+      "storedAt": 1761266939498,
+      "meta": {
+        "storedAt": 1761266939,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2919",
+        "imdbId": "tt0810788",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/196378?token=3a29ebccfeae77d8007eeba73b02e9ed&expires=1766450939&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:31356:s2e10",
+      "storedAt": 1761267373138,
+      "meta": {
+        "storedAt": 1761267373,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "31356",
+        "imdbId": "tt1131746",
+        "season": 2,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/215844?token=7eb14bbfe512ece2fe2f1baefda20006&expires=1766451372&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:32726:s5e5",
+      "storedAt": 1761267369659,
+      "meta": {
+        "storedAt": 1761267369,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "32726",
+        "imdbId": "tt1561755",
+        "season": 5,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/195087?token=24e49319a3462ca3b798bd898f22a63d&expires=1766451369&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:32726:s7e18",
+      "storedAt": 1761267234814,
+      "meta": {
+        "storedAt": 1761267234,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "32726",
+        "imdbId": "tt1561755",
+        "season": 7,
+        "episode": 18,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/195151?token=3327da1c223d034e63102849a241e92a&expires=1766451234&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:35016:s1e49",
+      "storedAt": 1761267159272,
+      "meta": {
+        "storedAt": 1761267159,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "35016",
+        "imdbId": "tt1638319",
+        "season": 1,
+        "episode": 49,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/333218?token=87b8e33d6089813070da6c752a1a5f06&expires=1766451158&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:35016:s2e72",
+      "storedAt": 1761267134655,
+      "meta": {
+        "storedAt": 1761267134,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "35016",
+        "imdbId": "tt1638319",
+        "season": 2,
+        "episode": 72,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/333301?token=14a2cfcbb3f34c583e826e44b0e9510e&expires=1766451134&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:38693:s2e4",
+      "storedAt": 1761267136347,
+      "meta": {
+        "storedAt": 1761267136,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "38693",
+        "imdbId": "tt1871731",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/244027?token=9422f864ec089a4a1f1ddad6acec66a7&expires=1766451136&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:38693:s2e5",
+      "storedAt": 1761267077665,
+      "meta": {
+        "storedAt": 1761267077,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "38693",
+        "imdbId": "tt1871731",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/244028?token=bae9e64a142610941f00ac4800f1e511&expires=1766451077&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:43348:s1e1",
+      "storedAt": 1761267165061,
+      "meta": {
+        "storedAt": 1761267165,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "43348",
+        "imdbId": "tt2187850",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/235716?token=c3f9fa5cb867cb49a508f25ea6ffb189&expires=1766451164&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:4630:s2e4",
+      "storedAt": 1761267168256,
+      "meta": {
+        "storedAt": 1761267168,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4630",
+        "imdbId": "tt0235918",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/182186?token=d4e20865173ebe03e991c76be6817ca8&expires=1766451167&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:49011:s5e13",
+      "storedAt": 1761267105882,
+      "meta": {
+        "storedAt": 1761267105,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "49011",
+        "imdbId": "tt2660806",
+        "season": 5,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/206505?token=14b068e83b185b76d9d0b236a6f92bd9&expires=1766451105&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:549:s20e5",
+      "storedAt": 1761267031627,
+      "meta": {
+        "storedAt": 1761267031,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "549",
+        "imdbId": "tt0098844",
+        "season": 20,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/242417?token=c656b839ff4c17f87a3617d6b7e2ef5e&expires=1766451031&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:5920:s2e14",
+      "storedAt": 1761266984248,
+      "meta": {
+        "storedAt": 1761266984,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "5920",
+        "imdbId": "tt1196946",
+        "season": 2,
+        "episode": 14,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/315111?token=c8b9ecf518ab1447b483d94c69478287&expires=1766450984&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:60625:s3e2",
+      "storedAt": 1761266978055,
+      "meta": {
+        "storedAt": 1761266978,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "60625",
+        "imdbId": "tt2861424",
+        "season": 3,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/309233?token=2194d820f6faa60e53fee93d9217019c&expires=1766450977&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:60735:s1e2",
+      "storedAt": 1761267032915,
+      "meta": {
+        "storedAt": 1761267032,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "60735",
+        "imdbId": "tt3107288",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/202681?token=33e4f957ea37bd6851baf5d55f1fd96e&expires=1766451032&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:76479:s1e4",
+      "storedAt": 1761267322596,
+      "meta": {
+        "storedAt": 1761267322,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "76479",
+        "imdbId": "tt1190634",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/238599?token=5a81abc35ba315f3cc3b5a66fe3a4a6c&expires=1766451322&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:80752:s3e4",
+      "storedAt": 1761267404546,
+      "meta": {
+        "storedAt": 1761267404,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "80752",
+        "imdbId": "tt7949218",
+        "season": 3,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/257535?token=e00d9582e25ddd0ece8234e4fb9b7cea&expires=1766451404&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:90282:s2e2",
+      "storedAt": 1761267175554,
+      "meta": {
+        "storedAt": 1761267175,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "90282",
+        "imdbId": "tt7203552",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/213877?token=f6e8848d7463268be152df1070cc2d7b&expires=1766451175&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-24T00:49:01.101Z",
-    "totalOriginalEntries": 12788,
-    "newItemsInThisBatch": 38,
+    "exportedAt": "2025-10-24T00:56:47.938Z",
+    "totalOriginalEntries": 12833,
+    "newItemsInThisBatch": 47,
     "format": "compact_v1"
   }
 }
