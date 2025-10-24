@@ -566557,12 +566557,1353 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1541",
+      "storedAt": 1761339150803,
+      "meta": {
+        "storedAt": 1761339150,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1541",
+        "imdbId": "tt0103074",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/323412?token=99b7b0e83399ee651a4178b578995f81&expires=1766523150&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:15708",
+      "storedAt": 1761339004898,
+      "meta": {
+        "storedAt": 1761339004,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "15708",
+        "imdbId": "tt0345551",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "J9NnceNj\n9.89 GB",
+            "url": "https://pixeldrain.net/api/file/J9NnceNj",
+            "quality": "1080p",
+            "size": "9.89 GB",
+            "fileName": "J9NnceNj",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "kvUwVhNH\n4.02 GB",
+            "url": "https://pixeldrain.dev/api/file/kvUwVhNH?download",
+            "quality": "1080p",
+            "size": "4.02 GB",
+            "fileName": "kvUwVhNH",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Daddy Day Care 2003 1080p AMZN WEB-DL 10bit HEVC [HIndi DDP 5.1 + English DDP 5.1] x265 iVy-4kHdHub\n4.02 GB",
+            "url": "https://fsl.anime4u.co/Daddy%20Day%20Care%202003%201080p%20AMZN%20WEB-DL%2010bit%20HEVC%20[HIndi%20DDP%205.1%20+%20English%20DDP%205.1]%20x265%20iVy-4kHdHub.mkv?token=1761339004",
+            "quality": "1080p",
+            "size": "4.02 GB",
+            "fileName": "Daddy Day Care 2003 1080p AMZN WEB-DL 10bit HEVC [HIndi DDP 5.1 + English DDP 5.1] x265 iVy-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:15708",
+      "storedAt": 1761339005683,
+      "meta": {
+        "storedAt": 1761339005,
+        "urlCount": 12,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "15708",
+        "imdbId": "tt0345551",
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Ip.Man.Kung.Fu.Master.2019.1080p.BluRay.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/api/file/SnKH3sZp?download",
+            "quality": "1080p",
+            "size": "1.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Ip.Man.Kung.Fu.Master.2019.1080p.BluRay.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://fsl.anime4u.co/Ip.Man.Kung.Fu.Master.2019.1080p.BluRay.Hindi.English.DD5.1.x264.ESubs.mkv?token=1761339004",
+            "quality": "1080p",
+            "size": "1.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Ip.Man.Kung.Fu.Master.2019.1080p.BluRay.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nlvsC7xrJLjl0z-sthL2bcacOSCbdNCdU_1CrzjhWE7RlFXOvXs1VZLqbwWceA260KmWVem4akSujt0wcJ248e87GNZFYiMiT2cHzZ2FQvBNvDf0549aQ98ZI9mTZeuxTO0SYMd2zKAfDCDFpCyOpUM0f2J3AFZW_-tKXsATj8yNnHUAwU3UgreZ5ryslBg_3MYsalsa0XYpnhj7tLTA7fAHw1er6ZJLO0X-ivi7XwibMOGJw-VEe95U-wLAGwH5t-dfHWWeOvq_d_UDBdehuvpttFrpkzuqjh0npo5krEiBsid21LxEN6nJ07r9anqx3r_Y9wvpxBm6SsyfUBgsV7pu1JjiBs0VEAb9MCK7_wxj5crKA36RoTpO93B4fh2iPLbz6gFRoLYFk0r6JTbwVOd8JvhWfRK6j_M53mATaK8sWuoaaNzMetn5iczdQn-aGA5SzwWW3r3pm5aErYUAP0xOkMKo61coI5y1c4qkFaQKxj2oD2TrnXuoug9zxF5_bDNeWKJz584NftgXfIOMdMkiYCIH5DfCO-NROltjTA5FKroC05kM-Ppi1RF6dpMZIU-wjb-PrD5qhQkLuyy0D9A60RxjPHqeKgYqJrvIchvRudVrCFGxzXOLQVbshOWQa192AMfmpYsUw9XO0nsSuFSee9c2EJtxqPDHOkFO6teXJGnhtNJOGOcBf605iSzf3dUsnI6lbnMpBTbY2EBBvZnxuRlz55mqL03phZzItMmE6SpnmE8OryYtypV9_kR5A8igCKW9k5Qifk9U4GXA4DU2t4d0rkA1ZU_81I0bpChgoGe2fOhSzBXqcoJbApCG9rnnLJ5WjG73OdXCv5Td14IdoV8iCnIuFbI73zBcQPNd4GnTNqMnhZKU-sbaaeexFzXV0HV8i8nuywqUk6QgKscoovvWj8JaXpLCSrqW1GsINrgpj35fRcqjWlc64ZD45pmINtP1asI2XUamPK9lwuoJaNc2mPXzXjCZ0smzcFFmf7Yj_0MgMl8khYD5Y4YN-0V737h6NkbqDyUexS_ijvVbgI-A88UCvEOWm710jbtu5DVND0hel-IWIMZIgK0u76K_of",
+            "quality": "1080p",
+            "size": "1.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Ip.Man.Kung.Fu.Master.2019.1080p.BluRay.Hindi.English.DD5.1.x264.ESubs.Untouch.mkv",
+            "url": "https://pixeldrain.dev/api/file/tLYyc51P?download",
+            "quality": "1080p",
+            "size": "8.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Ip.Man.Kung.Fu.Master.2019.1080p.BluRay.Hindi.English.DD5.1.x264.ESubs.Untouch.mkv",
+            "url": "https://fsl.anime4u.co/Ip.Man.Kung.Fu.Master.2019.1080p.BluRay.Hindi.English.DD5.1.x264.ESubs.Untouch.mkv?token=1761333363",
+            "quality": "1080p",
+            "size": "8.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Ip.Man.Kung.Fu.Master.2019.1080p.BluRay.Hindi.English.DD5.1.x264.ESubs.Untouch.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lcA9dhbC_syj5R8AXOd7mcgUa591d2nihdyHV1REibclHBNZgr7dQMsri22s5rmWkresdd7pAOrI1qvtxzlhq05BXor4hzbjit7G-BPC_7OWhUacKFgpV_kKr_dXvPKg_DzfW5hWVx6IPqZaDwKnj30RWTLCF8loHmaz8ZkUVDjxaFXXr0fxo-99osDWGiE1Rxo35qmaDkv_YAlt4VxvHI8q01Tky_h2UVlnjXkC8D6bOutqOZReteQgeVmm0RyQA3xaOzs46UqrclDyTg7q6O3D4I17jQsg3mB6-CxDUPrk7EC3nLSh72QmbVXR0mnz8Vg37vCrz_VARlm0qyPEwtLMstGQI8EM9TQos5ppBt79et08Kjk8d_8qrirWjkf3ymOweQRtL8BoOql_JQbU2YhKYJ1GOa0xeU-JBd8BKMUY_GsUD1PMoxM9xN0i5UDhZuf1ZLNCfVlQm2tvkvpNdjntiVHIIF6-0NSgEpdeRmMxPUKBBfk4b9N5EIQd5SaYioet1PVowNTv5T31ximfJVzy2KSNFdYK0kmgxMbo7G3wtVL4nJlwCjsKJ1pBwUCAhPPI3_BKTkfNBtrqwEktLgTCIQhbXlg8IH4-P_sw_Jxo0COq0Y2mpO6gUqh3zsjrJ4xdLlhYKSRRHukILg94ZMl5iB_Z7fsrBb3U3sZdvGIHVI8lQOpQBorZjDICHoCnYaq0Eang_LFEOgsSL_krKPlLr7O5SnkArPc7I8CNBf80481dy5fJHsfEPE89lOBRefw9p72cf7tifJtsrm4qRUWJA2eddh_tCkr24tr8JZLDsHCCw8DX_cueI5_JZxCjcmPTqHeXdIokdmmomp7FK-hzEsc24JWHwLAyJpxGCgnMU_pKy9UriFaOxmuWADo-AxKgI-uSmnkpZ5ncHyIV8UFm8YlImLyJWor_rajF4-q270Q0zCNZPr2ptZn77nBw29t0tNTSTj9dLOSMOiSdo-3Rk1E0BDd-eXrAPg27q74br_I7BCCVlO4JcrpgahP-W20tyzywfmidez4D82ObmsHX0Ja7lc1widZo831Fwgw-BpkbfGUKSNaq96jUY1ecAvR1ks",
+            "quality": "1080p",
+            "size": "8.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Ip.Man.Kung.Fu.Master.2019.720p.BluRay.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/api/file/BXNevKgr?download",
+            "quality": "720p",
+            "size": "759.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Ip.Man.Kung.Fu.Master.2019.720p.BluRay.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://fsl.anime4u.co/Ip.Man.Kung.Fu.Master.2019.720p.BluRay.Hindi.English.DD5.1.x264.ESubs.mkv?token=1761339004",
+            "quality": "720p",
+            "size": "759.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Ip.Man.Kung.Fu.Master.2019.720p.BluRay.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nGLdSBDt4UA--M_n9JdaUFEfJl_ntCZBWEsJMOxfsKUiHybmFcjYEo7FnkxgUtbmbIhqn2Y3JJSaVQDsL8UrMw1aNy_YOiHt3J01VBUdo8eiESi5oHOiRvXp4KB1pxpb8xEnl728pe24Z5wap-r6laF_SivJtKPkD7STPAaK2SZDFRI-rG0AFs878ov4l-XlZhLNR-VIOpRqktaf98QNaPRJ7SwSWx1dZ_G5pqkOEUPkIJR_fRPCVPEW0gI8vpcl8lg82Bh_6uCQsXQ4fNnMxojJqhi7y-uQSQQlKeek2l0BpONvQ5j3zK0hW70N79VswvyCKRcuRuIpjiJxLUwYQvAuCZQ4F8b48VXL_r5a9n_gnq9e1otjYMki6WjVtXGEJdFp-u4I5m-IrtlRQzKjxQJTivfvehFtlwpR3yXagCkLTL-w_osAy5v9zIkGT75VeutvSSJrwvu7YjGJv3Senckow9WeIR5-g2Wr9xNFfWJ6L5uqDzhpuK-DKV-yxkAe_YswEB_oSV9bxjL9jKAVk-8lDnqHeRGAHh4OLewHqCKB2yrtcBAEPtZKVUKdeh1meyIgUfTi23l8nfOXpedPm5dQ26l0ezgviEdGkUWxDnMwsSXHPXidAyujnReFOtxf5dX3h9EujLyx4G8GE3-9GFnY11FXUUtmTfF2M9Osr-5akQzRJtaciaP_Q-6q4PYJegn8d9RH8Grpjt2iqHR-xiHj-E2dvh_BmjYq_1QZ8TJUSYmR20i2tnMLQ48kUcnOuPBUpRiYv1StjSqg8G9D01t6ip0YfO8wjS6kl6_krFBEpqYJb6_YndW3EUdZFbBy2a5gaMzXxxwURJmO8RiCGnTsdpbPaJ9b01iYKPvXPu-ZiRVpUe0bZi1GoVUYBey1lllkMYwDshrTJJGUqDB-rcFNVPEPBPbpYMw65iHCowJnQ0SmOfUasHZtPlsr5soHOthMx9ROjDT4S620uY4N2AS2K1IPFMLJ3wGUnGF7BPeNVbsgxxLbQiMVOYVdAbvdA6rVvF44d2M0O78SNKAgaJN0Na2cPUNnaCNq_SBCsaK9QvT96xFhZPAQ_CFiWNyvCGX2iO",
+            "quality": "720p",
+            "size": "759.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Ip.Man.Kung.Fu.Master.2019.480p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/api/file/DxkdQoDF?download",
+            "quality": "480p",
+            "size": "285.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Ip.Man.Kung.Fu.Master.2019.480p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://fsl.anime4u.co/Ip.Man.Kung.Fu.Master.2019.480p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv?token=1761339004",
+            "quality": "480p",
+            "size": "285.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u S3 Server ",
+            "title": "Ip.Man.Kung.Fu.Master.2019.480p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "quality": "480p",
+            "size": "285.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Ip.Man.Kung.Fu.Master.2019.480p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nQUvbItgR9dkUsVMU15-oIEEYZP2WokHBMs0cifYmHSlWtLejpbOAu_VRH4kP4413CqS-6QT_jVYO5oUivaNjMZjBAAfASXcaemW4RjAh57S475JWA5t5kJ-BKYZrkb2XM0DgYFH2Smqeykqp4no28NnJohTGuncxhSQmP7HM1coBT5TE_gaYRvMtzZ3O9fTL3zCPaIsJmJBYkgFX-MtGs4wa8Pn3uH26p3DYzz3tDP6GY_3tjRlfjtHrWikqJtpti0qyar6DspMMITT-Mr_M3VhqSZhWNMlHvtF3_pYTyU65wyGeN2BewyLYswfLOQmej9S5BKO68FCl75SSMNGU4Mr83JWmLGDX5EWhe5uG_FpplFbmDIGzlRA3QMSH45S2qS82erpE9-em8ooSFduBw93NgGAmlNNG0GSFIvxMQvIZ8VinseS7DTh05m77rg0t-P9y9FpbYJw0rQko_MRWpzD9qnsUYoxjCN5X_qnDvzXZDKIM0L51Wn5ZWWHtpDa5czw8f9PBiV7b9JGsDzXsYQ_yt4wv8WqZdLXZAQ4A_LHDJFFMV447ujvFLjT00fuw2RDXgvpGS-6RrSNE7uzsA-KAbiG2TprvsSxalRh8sLYmnxtK8u3PJYNKHriIaejjFULh5AN38VyFU1Tgi0Uc9BAm5AukzctKP_eN24TUld14PNhAUlKoVxd6Sdpgwwz5Jj_xsuvoDHl-1pnYZyGZIuB_RkYC_vVsL59VuB3CyVP7tMoHJc2_o3_HNMDh6idu46pA14ZbX0KSHFcb9U2xDcqGm9jsVc8tppuhOspTfU51imkZt_GZoE6F2bwWslT_MG20FqdTzIGrR842MSf5Ui51vcsbdIxxWHV5tDxEZbr87Ct1b1RFOXTkVm5zJ_mxuaMHezSU23CdCVMlkPq5lWobCiwAs6b7PoyQYBt-MvtBCOEN37qbJ8M2INJq2kowRX32UNHegCrnRY66NaNeavUTAN9Fk5lHs_LFwjfnxTb-fcMIbrTXs_LZ_m2fyBBsiU6XH-nDepRPLvsa7Cwx-VeE6HYoHzVq2I8Iw0-01Axfb_AhOCzcx19Cwo8sE1W5Z7EHZ",
+            "quality": "480p",
+            "size": "285.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 13
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:343668",
+      "storedAt": 1761338879241,
+      "meta": {
+        "storedAt": 1761338879,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "343668",
+        "imdbId": "tt4649466",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/201751?token=742d009e98083bc83442bc2d4bdcff07&expires=1766522878&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:597",
+      "storedAt": 1761339202696,
+      "meta": {
+        "storedAt": 1761339202,
+        "urlCount": 11,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "597",
+        "imdbId": "tt0120338",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Titanic 1997 Open Matte 1080p Bluray x264 AVC [Org BD 5.1 Hindi ~ 448Kbps + DTS-HDMA 5.1 English] MSubs ~ FGT-4kHdHub\n26.48 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Titanic%201997%20Open%20Matte%201080p%20Bluray%20x264%20AVC%20[Org%20BD%205.1%20Hindi%20~%20448Kbps%20+%20DTS-HDMA%205.1%20English]%20MSubs%20~%20FGT-4kHdHub.mkv?token=1761339202",
+            "quality": "1080p",
+            "size": "26.48 GB",
+            "fileName": "Titanic 1997 Open Matte 1080p Bluray x264 AVC [Org BD 5.1 Hindi ~ 448Kbps + DTS-HDMA 5.1 English] MSubs ~ FGT-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Titanic 1997 REMASTERED 2160p 4K UHD BluRay 10bit HDR HEVC x265 [Hindi BD 5.1 448Kbps + English DD 5.1] MSubs-Tekno3D EPS-4kHdHub\n23.89 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Titanic%201997%20REMASTERED%202160p%204K%20UHD%20BluRay%2010bit%20HDR%20HEVC%20x265%20[Hindi%20BD%205.1%20448Kbps%20+%20English%20DD%205.1]%20MSubs-Tekno3D%20EPS-4kHdHub.mkv?token=1761339202",
+            "quality": "2160p",
+            "size": "23.89 GB",
+            "fileName": "Titanic 1997 REMASTERED 2160p 4K UHD BluRay 10bit HDR HEVC x265 [Hindi BD 5.1 448Kbps + English DD 5.1] MSubs-Tekno3D EPS-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Titanic 1997 UHD 2160p HDR 10bit Bluray HEVC [DD 5.1 Hindi + DD 5.1 English] x265-DTOne-4kHdHub\n21.28 GB",
+            "url": "https://fsl.anime4u.co/Titanic%201997%20UHD%202160p%20HDR%2010bit%20Bluray%20HEVC%20[DD%205.1%20Hindi%20+%20DD%205.1%20English]%20x265-DTOne-4kHdHub.mkv?token=1761339202",
+            "quality": "2160p",
+            "size": "21.28 GB",
+            "fileName": "Titanic 1997 UHD 2160p HDR 10bit Bluray HEVC [DD 5.1 Hindi + DD 5.1 English] x265-DTOne-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "JLiRwFL8\n13.73 GB",
+            "url": "https://pixeldrain.dev/api/file/JLiRwFL8?download",
+            "quality": "1080p",
+            "size": "13.73 GB",
+            "fileName": "JLiRwFL8",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Titanic 1997 Open Matte 1080p Bluray [BD 5.1 Hindi + DD 5.1 English] x264-4kHdHub\n13.73 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Titanic%201997%20Open%20Matte%201080p%20Bluray%20[BD%205.1%20Hindi%20+%20DD%205.1%20English]%20x264-4kHdHub.mkv?token=1761339202",
+            "quality": "1080p",
+            "size": "13.73 GB",
+            "fileName": "Titanic 1997 Open Matte 1080p Bluray [BD 5.1 Hindi + DD 5.1 English] x264-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "eXM1eHKH\n7.46 GB",
+            "url": "https://pixeldrain.dev/api/file/eXM1eHKH?download",
+            "quality": "1080p",
+            "size": "7.46 GB",
+            "fileName": "eXM1eHKH",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Titanic 1997 Open-Matte 1080p 10bit [60FPS] BluRay x265 HEVC [Org Hindi BD 5.1 448Kbps + English AAC 5.1] MSubs ~ MrStrange-4kHdHub\n7.46 GB",
+            "url": "https://fsl.anime4u.co/Titanic%201997%20Open-Matte%201080p%2010bit%20[60FPS]%20BluRay%20x265%20HEVC%20[Org%20Hindi%20BD%205.1%20448Kbps%20+%20English%20AAC%205.1]%20MSubs%20~%20MrStrange-4kHdHub.mkv?token=1761339202",
+            "quality": "1080p",
+            "size": "7.46 GB",
+            "fileName": "Titanic 1997 Open-Matte 1080p 10bit [60FPS] BluRay x265 HEVC [Org Hindi BD 5.1 448Kbps + English AAC 5.1] MSubs ~ MrStrange-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "KN3VrccA\n7.14 GB",
+            "url": "https://pixeldrain.dev/api/file/KN3VrccA?download",
+            "quality": "1080p",
+            "size": "7.14 GB",
+            "fileName": "KN3VrccA",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Titanic.1997.REMASTERED.1080p.10bit.DS4K.BluRay.[Org.DD5.1-Hindi+DDP7.1-English].ESub.HEVC-The.PunisheR-4kHdHub\n7.14 GB",
+            "url": "https://fsl.anime4u.co/Titanic.1997.REMASTERED.1080p.10bit.DS4K.BluRay.[Org.DD5.1-Hindi+DDP7.1-English].ESub.HEVC-The.PunisheR-4kHdHub.mkv?token=1761339202",
+            "quality": "1080p",
+            "size": "7.14 GB",
+            "fileName": "Titanic.1997.REMASTERED.1080p.10bit.DS4K.BluRay.[Org.DD5.1-Hindi+DDP7.1-English].ESub.HEVC-The.PunisheR-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "bv34T4QG\n6.68 GB",
+            "url": "https://pixeldrain.dev/api/file/bv34T4QG?download",
+            "quality": "1080p",
+            "size": "6.68 GB",
+            "fileName": "bv34T4QG",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Titanic 1997 CE Open Matte 1080p 10Bit Bluray x265 HEVC [Org BD 5.1 Hindi + DD 5.1 English] MSubs ~ TombDoc-4kHdHub\n6.68 GB",
+            "url": "https://fsl.cdnship.buzz/Titanic%201997%20CE%20Open%20Matte%201080p%2010Bit%20Bluray%20x265%20HEVC%20[Org%20BD%205.1%20Hindi%20+%20DD%205.1%20English]%20MSubs%20~%20TombDoc-4kHdHub.mkv?token=1761339202",
+            "quality": "1080p",
+            "size": "6.68 GB",
+            "fileName": "Titanic 1997 CE Open Matte 1080p 10Bit Bluray x265 HEVC [Org BD 5.1 Hindi + DD 5.1 English] MSubs ~ TombDoc-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 11
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:597",
+      "storedAt": 1761339201935,
+      "meta": {
+        "storedAt": 1761339201,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "597",
+        "imdbId": "tt0120338",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DD+5 1 H265-d3g-xpost",
+            "url": "https://a.111477.xyz/movies/Titanic%20(1997)/Titanic%201997%20Extended%20BluRay%2010Bit%201080p%20DD+5.1%20H265-d3g-xpost.mkv",
+            "quality": "1080p",
+            "size": "4.81 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Titanic 1997 Extended BluRay 10Bit 1080p DD+5.1 H265-d3g-xpost.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS-HD MA 5 1-BLURANiUM",
+            "url": "https://a.111477.xyz/movies/Titanic%20(1997)/Titanic.1997.REPACK.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-BLURANiUM.mkv",
+            "quality": "1080p | REMUX",
+            "size": "40.47 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Titanic.1997.REPACK.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-BLURANiUM.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:moviesmod:movie:597",
+      "storedAt": 1761339205965,
+      "meta": {
+        "storedAt": 1761339205,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "movie",
+        "tmdbId": "597",
+        "imdbId": "tt0120338",
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "Titanic 1997 1080P Bluray Hindi English MoviesMod org\n4.1GB",
+            "url": "https://worker-sweet-base-c034.wodava8443.workers.dev/2385f6030bf8104b394bc64c441905187e54a4cd1fa7f28579b7a5eebb6ce8e88955b429f60301dc58da663e3507227e038ea9d45e5ff0d3f34c246b3377a436c95c3d50a66a81b947ed5292005bb97e8f33f4071fcd2f018809638839c8e07858e186bb1f76549f527b289b0d20443a2181c9639e1f3764f8030c7bcfac41852d621b2bcc7f2ee17af7d6e41577e76c281f6b5d270b93f250eba88be218029821d05ce89272656a5af6f25045e322e0::c349d173581431a37bf04c463f07b5eb/Titanic.1997.1080P.Bluray.Hindi.English.MoviesMod.org.mkv",
+            "quality": "1080p",
+            "size": "4.1GB",
+            "fileName": "Titanic.1997.1080P.Bluray.Hindi.English.MoviesMod.org.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:597",
+      "storedAt": 1761339204913,
+      "meta": {
+        "storedAt": 1761339204,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "597",
+        "imdbId": "tt0120338",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Titanic 1997 UHD 2160p HDR 10bit Bluray HEVC [DD 5 1 Hindi + DD 5 1 English] x265-DTOne [21 2GB]\n21.28GB",
+            "url": "https://worker-fancy-flower-bfe1.daxop18442.workers.dev/4eb8a75c844b61823e511439d7f5ad336c805b6656aa8a2a76309bf540664fa5f3f8fc964d2fdac5a790246b12f1b61153d5644d4bd429ebe0b20f00d0e3ce8815fe5059d24e9df0f27815ead24d884150e3cc1a79c1a6935c6ac0fe6320a68101cade7514a38b0f80a8baf0c8f9e7689185808eac83fc09f22cc8d5eddbeb8a85d5898c47dce41fd37f64a517daf7d9a349690444a76739b9460d57a98eda973dd70794d43cb6e0846fdc9b13833bc1::b56293f9cb64e33be842741159621ace/Titanic 1997 UHD 2160p HDR 10bit Bluray HEVC [DD 5.1 Hindi  DD 5.1 English] x265-DTOne [21.2GB].mkv",
+            "quality": "4K | HDR | BluRay",
+            "size": "21.28GB",
+            "fileName": "Titanic 1997 UHD 2160p HDR 10bit Bluray HEVC [DD 5.1 Hindi + DD 5.1 English] x265-DTOne [21.2GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Titanic (1997) Open Matte 1080p Bluray [BD 5 1 Hindi + DD 5 1 English] x264-UHDMovies [13 7GB]\n13.73GB",
+            "url": "https://hello-world-restless-feather-b61b.hotevol439.workers.dev/37791d4f6d27dd01c08db31cc7b87266fb2fe09715b19b7d3e9311120c67953106dc657a1615c661b5e5b30c99a5446bf1ea2c81939fe40f6f5037673009893d578c9bd57c502e993df478ee8ea95bbf4d037fd789bacee0ec8a40dc3641d572388defda83be2c59b343e4225b8a26d0da076a148cf26da217942e55d242024e347a4d30b520947986b74e6095c7174820c5072799152c8c7ab74669a50a19c09351eb625db0c7636c4487b9a8d0f012::34c8aa1d52264b802e8031c1d9e32bf5/Titanic (1997) Open Matte 1080p Bluray [BD 5.1 Hindi  DD 5.1 English] x264-UHDMovies [13.7GB].mkv",
+            "quality": "1080p | BluRay",
+            "size": "13.73GB",
+            "fileName": "Titanic (1997) Open Matte 1080p Bluray [BD 5.1 Hindi + DD 5.1 English] x264-UHDMovies [13.7GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Titanic (1997) Open-Matte 1080p 10bit [60FPS] BluRay x265 HEVC [Org Hindi BD 5 1 448Kbps + English AAC 5 1] MSubs ~ MrStrange [7 4GB]\n7.46GB",
+            "url": "https://worker-flat-moon-7e83.fatemi6790.workers.dev/5d02f1652b2d59794c2899af10d57041759c987bcedd82a569832367064ee08f77948fd4b44eb68cc983c8cd9b24563b87bd9c6a03a51076533f9a9228da09bced14f591938f44993926d437cd6b83094337bf002f223344b03c56461eedd0356354449fa98fc3bc06c6fd515088aee5b2c6ef45980f88e59e8c2be079c4308df27dae407e2fa714920b9cbd555001137055a9701211732c1a9eb0c7ac0a53c9668c959b617f85f4183ee5fb5abfe0b3::ca03698a28150c49f23de1265d4af215/Titanic (1997) Open-Matte 1080p 10bit [60FPS] BluRay x265 HEVC [Org Hindi BD 5.1 448Kbps  English AAC 5.1] MSubs  MrStrange [7.4GB].mkv",
+            "quality": "1080p | BluRay",
+            "size": "7.46GB",
+            "fileName": "Titanic (1997) Open-Matte 1080p 10bit [60FPS] BluRay x265 HEVC [Org Hindi BD 5.1 448Kbps + English AAC 5.1] MSubs ~ MrStrange [7.4GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Titanic (1997) CE Open Matte 1080p 10Bit Bluray x265 HEVC [Org BD 5 1 Hindi + DD 5 1 English] MSubs ~ TombDoc [6 6GB]\n6.68GB",
+            "url": "https://worker-holy-truth-b146.kijisa6972.workers.dev/808ffb48f876ef778c2c2a9de437863e5353f8cfe249b4a0794dead17a6262624d60695f8e63a51b12e55a74d2dea6a1715d29d9fe29ee5ea4266a2b48c2fc8aa147d4c5cafefb27eeaa620d538af7585261581be62e9feffa231b0af8bfa8a2db82113b7c6d34d1c75c216c4fe5dbe2a99e168eedd6eb4bdb725d0a5a8a35c63bd2d8fb1977c651f649b4ea2ae4452d856aef7ad8e7d3c947e30d17f59a8efa29e60c67f308d133905f1049e6c6af0f::eb15c7b8a41e6679747e6afc728ef9ba/Titanic (1997) CE Open Matte 1080p 10Bit Bluray x265 HEVC [Org BD 5.1 Hindi  DD 5.1 English] MSubs  TombDoc [6.6GB].mkv",
+            "quality": "1080p | BluRay",
+            "size": "6.68GB",
+            "fileName": "Titanic (1997) CE Open Matte 1080p 10Bit Bluray x265 HEVC [Org BD 5.1 Hindi + DD 5.1 English] MSubs ~ TombDoc [6.6GB].mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:8681",
+      "storedAt": 1761338955784,
+      "meta": {
+        "storedAt": 1761338955,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "8681",
+        "imdbId": "tt0936501",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/202063?token=906702d6feaef0fb95c9a39503b994ee&expires=1766522955&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:107113:s4e10",
+      "storedAt": 1761339208535,
+      "meta": {
+        "storedAt": 1761339208,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "107113",
+        "imdbId": "tt11691774",
+        "season": 4,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/267962?token=ba95fbce300287077905f0aeee1e8e02&expires=1766523208&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1402:s2e3",
+      "storedAt": 1761338940634,
+      "meta": {
+        "storedAt": 1761338940,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1402",
+        "imdbId": "tt1520211",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/191727?token=71aed8d24e55ad2368314cac96d46c78&expires=1766522940&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1408:s3e6",
+      "storedAt": 1761338747309,
+      "meta": {
+        "storedAt": 1761338747,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1408",
+        "imdbId": "tt0412142",
+        "season": 3,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/180862?token=df24afef3363b80c897536415e9914cd&expires=1766522746&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1409:s1e6",
+      "storedAt": 1761339081592,
+      "meta": {
+        "storedAt": 1761339081,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1409",
+        "imdbId": "tt1124373",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/317933?token=cd8095fa1b63fb3ab36cc3c088ed706a&expires=1766523081&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1433:s10e12",
+      "storedAt": 1761339069490,
+      "meta": {
+        "storedAt": 1761339069,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1433",
+        "imdbId": "tt0397306",
+        "season": 10,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/194194?token=b8bef161c7f87533de6772fd6c7cd718&expires=1766523069&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1435:s6e16",
+      "storedAt": 1761338753215,
+      "meta": {
+        "storedAt": 1761338753,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1435",
+        "imdbId": "tt1442462",
+        "season": 6,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/119197?token=523d0c8fe9a806dc6d88b51d13ce05ee&expires=1766522752&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:212204:s1e4",
+      "storedAt": 1761338747022,
+      "meta": {
+        "storedAt": 1761338747,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "212204",
+        "imdbId": "tt27446493",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/379224?token=2c3b37d3c2d19650bf2886a6fbc9f56e&expires=1766522744&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:258025:s1e12",
+      "storedAt": 1761338873604,
+      "meta": {
+        "storedAt": 1761338873,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "258025",
+        "imdbId": "tt37146661",
+        "season": 1,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/333040?token=f255a60e75128bef3433c852c49ec766&expires=1766522873&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2734:s15e3",
+      "storedAt": 1761339090179,
+      "meta": {
+        "storedAt": 1761339090,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2734",
+        "imdbId": "tt0203259",
+        "season": 15,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/228668?token=8345c432e66675fc60a2bcb14695135a&expires=1766523090&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:33217:s1e4",
+      "storedAt": 1761338959948,
+      "meta": {
+        "storedAt": 1761338959,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "33217",
+        "imdbId": "tt1641384",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/242801?token=1d2d6abce9fe7dbe2c1f1f51bc2f76e4&expires=1766522959&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:36189:s3e6",
+      "storedAt": 1761339063305,
+      "meta": {
+        "storedAt": 1761339063,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "36189",
+        "imdbId": "tt1020116",
+        "season": 3,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/207707?token=409684bc916e7757b72a85e38284e20e&expires=1766523063&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:39269:s1e2",
+      "storedAt": 1761339017435,
+      "meta": {
+        "storedAt": 1761339017,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "39269",
+        "imdbId": "tt1837576",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/216903?token=dbf25810d6d414101d18cd28001a2f64&expires=1766523017&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:39269:s1e3",
+      "storedAt": 1761339017486,
+      "meta": {
+        "storedAt": 1761339017,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "39269",
+        "imdbId": "tt1837576",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/216904?token=9b3d29a0dff556fc9df4ed2f5535612f&expires=1766523017&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:5920:s2e11",
+      "storedAt": 1761339146659,
+      "meta": {
+        "storedAt": 1761339146,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "5920",
+        "imdbId": "tt1196946",
+        "season": 2,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/315108?token=cbcac7456af6fa8319d7ae64abef6499&expires=1766523146&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:62560:s3e4",
+      "storedAt": 1761338854186,
+      "meta": {
+        "storedAt": 1761338854,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "62560",
+        "imdbId": "tt4158110",
+        "season": 3,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/182461?token=0c160d912fc949ef6f8c48c6054c5e42&expires=1766522854&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:62650:s9e5",
+      "storedAt": 1761338986152,
+      "meta": {
+        "storedAt": 1761338986,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "62650",
+        "imdbId": "tt4655480",
+        "season": 9,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/223862?token=6fcaa4668dc36175a5cabe46c4253a4c&expires=1766522985&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:66025:s1e7",
+      "storedAt": 1761338967532,
+      "meta": {
+        "storedAt": 1761338967,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "66025",
+        "imdbId": "tt5574490",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/203403?token=6cb689d2052688cb018dc8d6626c1dd9&expires=1766522967&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:693:s3e20",
+      "storedAt": 1761339176985,
+      "meta": {
+        "storedAt": 1761339176,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "693",
+        "imdbId": "tt0410975",
+        "season": 3,
+        "episode": 20,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/201236?token=9526130b74470d67b4ab2a31e3ec4775&expires=1766523176&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:69478:s5e9",
+      "storedAt": 1761339071489,
+      "meta": {
+        "storedAt": 1761339071,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "69478",
+        "imdbId": "tt5834204",
+        "season": 5,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/315055?token=ab829ce6ed0aef85c0552d19a773c553&expires=1766523071&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:70523:s2e5",
+      "storedAt": 1761339010666,
+      "meta": {
+        "storedAt": 1761339010,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "70523",
+        "imdbId": "tt5753856",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/320376?token=8f947dd81fa9e8dd348ffabb140b2aaf&expires=1766523010&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:73107:s2e5",
+      "storedAt": 1761338914956,
+      "meta": {
+        "storedAt": 1761338914,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "73107",
+        "imdbId": "tt5348176",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/252571?token=7e11951ee04115a58d6b98ed7c286d58&expires=1766522914&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:78191:s5e10",
+      "storedAt": 1761338765696,
+      "meta": {
+        "storedAt": 1761338765,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "78191",
+        "imdbId": "tt7335184",
+        "season": 5,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/308762?token=8b627416eb8a70f6153f3e8e5f8358be&expires=1766522765&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:83631:s1e1",
+      "storedAt": 1761338994252,
+      "meta": {
+        "storedAt": 1761338994,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "83631",
+        "imdbId": "tt7908628",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/196332?token=70c60ab179db38d36a8267584047bbae&expires=1766522994&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-24T20:45:46.041Z",
-    "totalOriginalEntries": 17039,
-    "newItemsInThisBatch": 32,
+    "exportedAt": "2025-10-24T20:53:53.422Z",
+    "totalOriginalEntries": 17071,
+    "newItemsInThisBatch": 34,
     "format": "compact_v1"
   }
 }
