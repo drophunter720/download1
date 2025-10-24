@@ -519242,12 +519242,1412 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1022074",
+      "storedAt": 1761318239779,
+      "meta": {
+        "storedAt": 1761318239,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1022074",
+        "imdbId": "tt29383191",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/339357?token=6275082332aa16ae47e33a2d1aeedb97&expires=1766502239&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:10634",
+      "storedAt": 1761317861008,
+      "meta": {
+        "storedAt": 1761317861,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "10634",
+        "imdbId": "tt0113118",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/283346?token=7f4dbf93622194eca030bc57a4554da3&expires=1766501860&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:1233413",
+      "storedAt": 1761318035186,
+      "meta": {
+        "storedAt": 1761318035,
+        "urlCount": 16,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1233413",
+        "imdbId": "tt31193180",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Sinners.2025.Hybrid.2160p.UHD.BluRay.TrueHD.DoVi.HDR10+.x265-REBORN\n48.03 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Sinners.2025.Hybrid.2160p.UHD.BluRay.TrueHD.DoVi.HDR10+.x265-REBORN.mkv?token=1761316027",
+            "quality": "2160p",
+            "size": "48.03 GB",
+            "fileName": "Sinners.2025.Hybrid.2160p.UHD.BluRay.TrueHD.DoVi.HDR10+.x265-REBORN",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "g\n48.03 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=jbDNSNsziTDJ&n=TdlBHDwA&fn=Sinners.2025.Hybrid.2160p.UHD.BluRay.TrueHD.DoVi.HDR10+.x265-REBORN.mkv",
+            "quality": "2160p",
+            "size": "48.03 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Sinners.2025.1080p.Blu-ray.Remux.AVC.Atmos-eXterminator\n27.22 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Sinners.2025.1080p.Blu-ray.Remux.AVC.Atmos-eXterminator.mkv?token=1761316027",
+            "quality": "1080p",
+            "size": "27.22 GB",
+            "fileName": "Sinners.2025.1080p.Blu-ray.Remux.AVC.Atmos-eXterminator",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n27.22 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=ZAwsbtx1xZbA&n=e0wnFTbY&fn=Sinners.2025.1080p.Blu-ray.Remux.AVC.Atmos-eXterminator.mkv",
+            "quality": "1080p",
+            "size": "27.22 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Sinners 2025 2160p MA WEB-DL H265 SDR DDP Atmos 5.1 English - HONE\n24.35 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Sinners%202025%202160p%20MA%20WEB-DL%20H265%20SDR%20DDP%20Atmos%205.1%20English%20-%20HONE.mkv?token=1761316027",
+            "quality": "2160p",
+            "size": "24.35 GB",
+            "fileName": "Sinners 2025 2160p MA WEB-DL H265 SDR DDP Atmos 5.1 English - HONE",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "g\n24.35 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=w339i0xlwRLC&n=m8xFVZwQ&fn=Sinners%20(2025)%20(2160p%20MA%20WEB-DL%20H265%20SDR%20DDP%20Atmos%205.1%20English%20-%20HONE).mkv",
+            "quality": "2160p",
+            "size": "24.35 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Sinners.2025.Hybrid.1080p.UHD.Blu-ray.DDP7.1.DoVi.HDR10Plus.x265-SoLaR\n20.17 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Sinners.2025.Hybrid.1080p.UHD.Blu-ray.DDP7.1.DoVi.HDR10Plus.x265-SoLaR.mkv?token=1761316027",
+            "quality": "1080p",
+            "size": "20.17 GB",
+            "fileName": "Sinners.2025.Hybrid.1080p.UHD.Blu-ray.DDP7.1.DoVi.HDR10Plus.x265-SoLaR",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n20.17 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=SQw2y541hZyA&n=jkwlAZZA&fn=Sinners.2025.Hybrid.1080p.UHD.Blu-ray.DDP7.1.DoVi.HDR10Plus.x265-SoLaR.mkv",
+            "quality": "1080p",
+            "size": "20.17 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Sinners.2025.1080p.WEBRip.DDP7.1.x264-ZoroSenpai\n18.24 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Sinners.2025.1080p.WEBRip.DDP7.1.x264-ZoroSenpai.mkv?token=1761316027",
+            "quality": "1080p",
+            "size": "18.24 GB",
+            "fileName": "Sinners.2025.1080p.WEBRip.DDP7.1.x264-ZoroSenpai",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n18.24 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=QIhZad1h3JRa&n=fYtnDLDC&fn=Sinners.2025.1080p.WEBRip.DDP7.1.x264-ZoroSenpai.mkv",
+            "quality": "1080p",
+            "size": "18.24 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "7zszeAVm\n9.35 GB",
+            "url": "https://pixeldrain.dev/api/file/7zszeAVm?download",
+            "quality": "1080p",
+            "size": "9.35 GB",
+            "fileName": "7zszeAVm",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Sinners.2025.1080p.BluRay.x265.10bit.DDP7.1-WiKi\n9.35 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Sinners.2025.1080p.BluRay.x265.10bit.DDP7.1-WiKi.mkv?token=1761313554",
+            "quality": "1080p",
+            "size": "9.35 GB",
+            "fileName": "Sinners.2025.1080p.BluRay.x265.10bit.DDP7.1-WiKi",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n9.35 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=cEvcfE0FVLyS&n=eE81wbQQ&fn=Sinners.2025.1080p.BluRay.x265.10bit.DDP7.1-WiKi.mkv",
+            "quality": "1080p",
+            "size": "9.35 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "16C9nk7Y\n5.74 GB",
+            "url": "https://pixeldrain.dev/api/file/16C9nk7Y?download",
+            "quality": "1080p",
+            "size": "5.74 GB",
+            "fileName": "16C9nk7Y",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Sinners.2025.1080p.10bit.DS4K.MA.WEBRip.x265.HEVC.DDP5.1.Atmos-NmCT\n5.74 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Sinners.2025.1080p.10bit.DS4K.MA.WEBRip.x265.HEVC.DDP5.1.Atmos-NmCT.mkv?token=1761316027",
+            "quality": "1080p",
+            "size": "5.74 GB",
+            "fileName": "Sinners.2025.1080p.10bit.DS4K.MA.WEBRip.x265.HEVC.DDP5.1.Atmos-NmCT",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n5.74 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=kgRhjElR2LZI&n=CAkTlJ6B&fn=Sinners.2025.1080p.10bit.DS4K.MA.WEBRip.x265.HEVC.DDP5.1.Atmos-NmCT.mkv",
+            "quality": "1080p",
+            "size": "5.74 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 16
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:1233413",
+      "storedAt": 1761318034919,
+      "meta": {
+        "storedAt": 1761318034,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "1233413",
+        "imdbId": "tt31193180",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEB-DL DDP5 1 Atmos DV HDR H 265",
+            "url": "https://a.111477.xyz/movies/Sinners%20(2025)/Sinners.2025.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265.mkv",
+            "quality": "2160p | DV | HDR",
+            "size": "23.99 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sinners.2025.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEB-DL DDP5 1 Atmos SDR H265-AOC",
+            "url": "https://a.111477.xyz/movies/Sinners%20(2025)/Sinners.2025.2160p.WEB-DL.DDP5.1.Atmos.SDR.H265-AOC.mkv",
+            "quality": "2160p",
+            "size": "12.19 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sinners.2025.2160p.WEB-DL.DDP5.1.Atmos.SDR.H265-AOC.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies iT WEB-DL DDP5 1 Atmos DV HDR H 265-BYNDR-AsRequested",
+            "url": "https://a.111477.xyz/movies/Sinners%20(2025)/Sinners.2025.2160p.iT.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-BYNDR-AsRequested.mkv",
+            "quality": "2160p | DV | HDR",
+            "size": "23.99 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sinners.2025.2160p.iT.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-BYNDR-AsRequested.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies MULTi REMUX AVC Atmos DTS-HD MA 7 1-Aisha",
+            "url": "https://a.111477.xyz/movies/Sinners%20(2025)/Sinners%202025%20iNTERNAL%20BluRay%201080p%20MULTi%20REMUX%20AVC%20Atmos%20DTS-HD%20MA%207%201-Aisha.mkv",
+            "quality": "1080p | REMUX",
+            "size": "32.74 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sinners 2025 iNTERNAL BluRay 1080p MULTi REMUX AVC Atmos DTS-HD MA 7 1-Aisha.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEB-DL DDP5 1 Atmos H 265-WADU",
+            "url": "https://a.111477.xyz/movies/Sinners%20(2025)/Sinners.2025.1080p.WEB-DL.DDP5.1.Atmos.H.265-WADU.mkv",
+            "quality": "1080p",
+            "size": "7.46 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sinners.2025.1080p.WEB-DL.DDP5.1.Atmos.H.265-WADU.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEB H264-SCENE",
+            "url": "https://a.111477.xyz/movies/Sinners%20(2025)/Sinners.2025.1080p.WEB.H264-SCENE.mkv",
+            "quality": "1080p",
+            "size": "7.22 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sinners.2025.1080p.WEB.H264-SCENE.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip READNFO x264 AC3-AOC",
+            "url": "https://a.111477.xyz/movies/Sinners%20(2025)/Sinners.2025.1080p.WEBRip.READNFO.x264.AC3-AOC.mkv",
+            "quality": "1080p",
+            "size": "9.38 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sinners.2025.1080p.WEBRip.READNFO.x264.AC3-AOC.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip x265-DH",
+            "url": "https://a.111477.xyz/movies/Sinners%20(2025)/Sinners.2025.1080p.WEBRip.x265-DH.mkv",
+            "quality": "1080p",
+            "size": "2.66 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sinners.2025.1080p.WEBRip.x265-DH.mkv"
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:1233413",
+      "storedAt": 1761318036790,
+      "meta": {
+        "storedAt": 1761318036,
+        "urlCount": 21,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "1233413",
+        "imdbId": "tt31193180",
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Sinners.2025.REPACK.2160p.WEB-DL.DDP5.1.Atmos.H.265-4kHDHub.com.mkv",
+            "url": "https://pixeldrain.dev/api/file/2sLMo1cL?download",
+            "quality": "4K",
+            "size": "12.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Sinners.2025.REPACK.2160p.WEB-DL.DDP5.1.Atmos.H.265-4kHDHub.com.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Sinners.2025.REPACK.2160p.WEB-DL.DDP5.1.Atmos.H.265-4kHDHub.com.mkv?token=1761316653",
+            "quality": "4K",
+            "size": "12.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Sinners.2025.REPACK.2160p.WEB-DL.DDP5.1.Atmos.H.265-4kHDHub.com.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nKZc1k73lavTVcgPVnvqP2gqoPZjHyVjywo4KcjGnVpfVQPnXTSLl_nj-k7wGzM1wHiJGG7eV3eRYRRBSOmF8fw39hR5iI-jGmvYIQeqXhX92cgf6MaFKiQuyhjnIXS7GZuhrneI7nSvuJBLYF7gfA6bIYRUXFgbz35jqk4L2ct14KganPKL9UbH6CurgIuiTa1ClAd8m_v9j8_x02veEKYysMS_RJfBBguqqefxudGHFkIFE",
+            "quality": "4K",
+            "size": "12.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Sinners.2025.1080p.10Bit..English.WEB-DL.5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/FcCqSGG9?download",
+            "quality": "1080p",
+            "size": "2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Sinners.2025.1080p.10Bit..English.WEB-DL.5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://fsl.cdnship.buzz/Sinners.2025.1080p.10Bit..English.WEB-DL.5.1.HEVC.x265-HDHub4u.Ms.mkv?token=1761315187",
+            "quality": "1080p",
+            "size": "2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Sinners.2025.1080p.10Bit..English.WEB-DL.5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2ktslnrgAFQ5nMdFbQv9gLdlLzBiveqKQwYsk2a5596SX3WeruCBSLKLWym9ow6fCzy48X5449nSCtgdGCLbWXsqnjJRTRX5xdf9PsncBAq1ngD-uU54TQVwGrxTJxcO4-3V4hQCvXEA6RN7zcS1OHI3BPozieoVTm64kXbZaJAlU7aOeykqzo8NTgwnm3j7vASFSGNHf660R8NS6V20Uz7GD_KnHmJtQkryfFrBgGfQqdQspvn6Ap7RawuzCjuE-57PADk",
+            "quality": "1080p",
+            "size": "2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Sinners.2025.1080p.English.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/GkciZwnc?download",
+            "quality": "1080p",
+            "size": "2.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Sinners.2025.1080p.English.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Sinners.2025.1080p.English.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv?token=1761318035",
+            "quality": "1080p",
+            "size": "2.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Sinners.2025.1080p.English.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nqXI7o0sJVKTN0G48sCulBWcGAC6nParGmqimnLPXAjZaoWvk7Y1VZaJRw8dv1uztYfrtgbwZR2zeEb0EfqDA3k1wVgoRJlB8eP69YWGXpZsIgRErcaDUb21etqbdnFYiZyxi9c4ANrrvutY7O4HjjSn7D-lXQV06Uv7cW7rk6ORBrsQ8KTDpvBdmI6ljTQxmf1uqszzwBk0ZO23bgF2C4_srIEwh0prmxVmGF0z8_2Us3XMgV20lr8SXpP-FlRAVJKXOR",
+            "quality": "1080p",
+            "size": "2.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Sinners.2025.1080p.WEB-DL.DDP5.1.Atmos.H.264-4kHDHub.com.mkv",
+            "url": "https://pixeldrain.dev/api/file/k7WzNUcU?download",
+            "quality": "1080p",
+            "size": "7.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Sinners.2025.1080p.WEB-DL.DDP5.1.Atmos.H.264-4kHDHub.com.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Sinners.2025.1080p.WEB-DL.DDP5.1.Atmos.H.264-4kHDHub.com.mkv?token=1761317741",
+            "quality": "1080p",
+            "size": "7.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Sinners.2025.1080p.WEB-DL.DDP5.1.Atmos.H.264-4kHDHub.com.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nIqpa85C7LO-eepRcrREq7fXytxCGHOLmVbLKRRLsRJa3LjdZFl1mqjNgRPD73HEJ4LR77Pofa-slsyU2qILxu7J-spOzp-O5_lsU0MM3tySOzAvx7tGJlklgRXpqz3SfOKHb2ThWx_Z1KAA7qatHuUHoD2YhDv0rOiDYXrYIFQkIUbC3ynVWwFjG3O8LV0pLxRJraYeDgiKwFPMWEpA5Bc-0o7EzuiC-jdxkchXSNBBoU_N07ueJTYoCnD2Qj07FPZ1zq",
+            "quality": "1080p",
+            "size": "7.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Sinners.2025.720p.10Bit..English.WEB-DL.5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/QoMHdvhJ?download",
+            "quality": "720p",
+            "size": "867.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Sinners.2025.720p.10Bit..English.WEB-DL.5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://fsl.cdnship.buzz/Sinners.2025.720p.10Bit..English.WEB-DL.5.1.HEVC.x265-HDHub4u.Ms.mkv?token=1761314417",
+            "quality": "720p",
+            "size": "867.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Sinners.2025.720p.10Bit..English.WEB-DL.5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lg7c0dYCHhQVV_nc6JmBS7yA6aHqeDZjwD5KSmzeKYVoaOqpauTLW7ZfhB8SIqBj5qKe3U3jWJWewoaT1bzMzyQP7TYPYGIoBsl5g_5KTjx9RvYEQeHlLs_mmipZOCmaFLrCm7k0kx9PecGN4qR5Zx3B4W9TrgAtUs7XexbuIWd8SXVZTX-GBha79FUFW_X-mPt_uAcWb69mm0qV13MFnGJSUm9tvUxkU3PUfMXZNqGlMMwjs",
+            "quality": "720p",
+            "size": "867.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Sinners.2025.720p.English.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/taC34N2d?download",
+            "quality": "720p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Sinners.2025.720p.English.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://fsl.cdnship.buzz/Sinners.2025.720p.English.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv?token=1761314189",
+            "quality": "720p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Sinners.2025.720p.English.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nfLNQxoyyzBy6Ga6u2omOArrUcHwn2S5YU3bKD75Uwn_KFdrGLXMW48B3i2_-dFzYzvpaO6iWXsEV22p_3evsYPp--H9fnzF_vMFKXSTtOLC4cqI8WPxtO8Iqt4NRDm-yDcODHRpmgciSnNqF0mP5-6TpJNbS5XU3LQguKhAYy2cjqhAyEY4QoDCLSqt4JrWAWR9r9QeBPbSfrgae7q3ZYXcpEP1prO7xE_SOqDn4dFIkJBSo",
+            "quality": "720p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Sinners.2025.480p.English.WEB-DL.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/neQW8BRZ?download",
+            "quality": "480p",
+            "size": "472.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Sinners.2025.480p.English.WEB-DL.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://fsl.cdnship.buzz/Sinners.2025.480p.English.WEB-DL.ESub.x264-HDHub4u.Ms.mkv?token=1761318035",
+            "quality": "480p",
+            "size": "472.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Sinners.2025.480p.English.WEB-DL.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2l1VN5kju1VCK8VYn2bcJcbBCFheoWAuC9F9dMgFn-kHIgR6Yz8yHujtcxagrpz4mq9sPTrJKL-P34-7Byc_hh5O0dIx3WmsFYDN-zhSdGw4gtbrCErvC208-hMbuXV8ciMOqDdZCXwEgbB3vUeF2r6ta79Wc6DJJ8kSUbmlIdNNobiCHVTKNr4qqVtdDy3fBHF2qUQWmNIyvu6wuHVSnw4JCegEIHeLg5GIWxn25l9Axe8mm_ipVBc7I7IdMGT1IJJp_Iw",
+            "quality": "480p",
+            "size": "472.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 21
+      }
+    },
+    {
+      "key": "prov:moviesmod:movie:1233413",
+      "storedAt": 1761318038485,
+      "meta": {
+        "storedAt": 1761318038,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "movie",
+        "tmdbId": "1233413",
+        "imdbId": "tt31193180",
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "Sinners 2025 1080p WEB-DL English MSubs MoviesMod email\n2.75GB",
+            "url": "https://worker-cold-brook-2f21.tepin17851.workers.dev/fb51bd22dd513fcdb95cc449488d5276e2c896aa7a30be9262d2b7da13d8e684ec85d2b429837122573e018356708e842e72071d6ca03b2666f2f08bab0736312c197586f3baf6b87362ef442f1c382b5bc5780bc325b5aa54fd3f25ae93d59ca558f22082f8af51a81029d6ce86c2883451012203f38cf6e934a880ff8b4e45b9dd6dfe60475a222cc398d1dc821599c294e1eb1253b5ed6517b86616ab9917f3f5f95b1c48d2166db37ede3a57e159::2635036b19dc5785e1b1b1f7f52712c7/Sinners.2025.1080p.WEB-DL.English.MSubs.MoviesMod.email.mkv",
+            "quality": "1080p",
+            "size": "2.75GB",
+            "fileName": "Sinners.2025.1080p.WEB-DL.English.MSubs.MoviesMod.email.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "Sinners 2025 1080p 10bit WEB-DL English MSubs MoviesMod email\n2.05GB",
+            "url": "https://worker-nameless-pond-93e0.jarec10301.workers.dev/b8d7d5a3747830ce7f277ee8537abd7f9e3587dfe9e7300b62e36ec97c52a6ddf5b5cba0969f676290413d5ece071026cf79d2e54ec4e96053983022bfb8087835d2410daee5ff102c5f12c1294b4ce5c11dc16a457620f7ba68b51a7e4083e2013c794ce2ac6b743281658ce29e75fe9668ee7cb712691a4b61db3bb5500278ed790526908e86022b4c605135b8ed8b8e4165636c831d50abb476a36c7f95a76a1c3e096312b790e5b1b83c2fbc0fb5::6644a6d409b7ed821e90043d2c6eefc1/Sinners.2025.1080p.10bit.WEB-DL.English.MSubs.MoviesMod.email.mkv",
+            "quality": "1080p",
+            "size": "2.05GB",
+            "fileName": "Sinners.2025.1080p.10bit.WEB-DL.English.MSubs.MoviesMod.email.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:1233413",
+      "storedAt": 1761318039234,
+      "meta": {
+        "storedAt": 1761318039,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "1233413",
+        "imdbId": "tt31193180",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Sinners 2025 2160p WEB-DL DDP5 1 Atmos DV HDR H 265-WADU\n23.99GB",
+            "url": "https://worker-sweet-morning-313e.fojeveh148.workers.dev/597f850abab5742d6b057268106416328e07c650ac542e6ad33d02e93dbf0ca2f1c662584440d5855a093bf90a10c28174de61426d2f7ec508eb4d228877f8ff474d7cafd4df6f87d80e7c04683273212df0784c298d1e3f83623aefa7e5eea687dffa0a938492a5d67b0b11cb5004dbcb96e185e2e0e5f2166df32d3cf612a6e60e6634934b6b9eca8060f14a64b470f698987efd507f57b61422713be3ec5296d60eddda7de8d7e18eb67ae569f564::9acb551c1a7dada093943a43937a601d/Sinners.2025.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-WADU.mkv",
+            "quality": "4K | HDR | DV",
+            "size": "23.99GB",
+            "fileName": "Sinners.2025.2160p.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-WADU.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Sinners 2025 2160p WEB-DL DDP5 1 Atmos H 265-WADU\n12.19GB",
+            "url": "https://worker-autumn-thunder-2e9a.yoline4177.workers.dev/a7d011d6b5989e6cad5bdc5b66a3aa4174b7fad1b671b32acdc3f2a7d08391995498584ccbeb8d14945b5828bb6ceb6fd1eb30e43f479f18f2c3cc5c93039f8e545a18336a3b2b0e5b237781ca2f30c03aebb6b49f0adc4ea49d57fd77660d30da6513ffb70c97dfbca8316fefda0ece12e8eede45252b5b13fdd99afbb32449db4ae7a33ff74dedfd08d3e722fcf12bf7ff08d08aef2f93f3e4c280315b52b1f96fe8b80c7fdaddaec56b2311527f94::656df7923c4d0ca1d0f67edb6bc5353b/Sinners.2025.2160p.WEB-DL.DDP5.1.Atmos.H.265-WADU.mkv",
+            "quality": "4K",
+            "size": "12.19GB",
+            "fileName": "Sinners.2025.2160p.WEB-DL.DDP5.1.Atmos.H.265-WADU.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:1807",
+      "storedAt": 1761318123095,
+      "meta": {
+        "storedAt": 1761318123,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1807",
+        "imdbId": "tt0363589",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/317841?token=ed1a77d97c16165bf5b3ce47efcbf098&expires=1766502122&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:2567",
+      "storedAt": 1761318182496,
+      "meta": {
+        "storedAt": 1761318182,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "2567",
+        "imdbId": "tt0338751",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/233780?token=2e7900285a64e23b42d8ee696dbc6375&expires=1766502182&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:493922",
+      "storedAt": 1761317904177,
+      "meta": {
+        "storedAt": 1761317904,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "493922",
+        "imdbId": "tt7784604",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/276400?token=e8051d9fb29e31df0114e6b55b0ec0aa&expires=1766501903&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:664413",
+      "storedAt": 1761317778255,
+      "meta": {
+        "storedAt": 1761317778,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "664413",
+        "imdbId": "tt10886166",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/60889?token=421b23a293bf92ea0d0fa6284106b914&expires=1766501777&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:100088:s2e5",
+      "storedAt": 1761317767356,
+      "meta": {
+        "storedAt": 1761317767,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "100088",
+        "imdbId": "tt3581920",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/314195?token=6ee279635524a6bf2c9ccd58736dc939&expires=1766501767&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:135934:s1e7",
+      "storedAt": 1761318182960,
+      "meta": {
+        "storedAt": 1761318182,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "135934",
+        "imdbId": "tt11247158",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/203872?token=9ba092330987efec0167808c90c1a199&expires=1766502182&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1395:s6e9",
+      "storedAt": 1761318234353,
+      "meta": {
+        "storedAt": 1761318234,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1395",
+        "imdbId": "tt0397442",
+        "season": 6,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/174660?token=da2ef58dc02e82c7aa90279fd7894885&expires=1766502234&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1405:s4e5",
+      "storedAt": 1761318043252,
+      "meta": {
+        "storedAt": 1761318043,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1405",
+        "imdbId": "tt0773262",
+        "season": 4,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/170924?token=2f52aaa05413cd39f8e33794453249cf&expires=1766502043&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1418:s2e19",
+      "storedAt": 1761318141408,
+      "meta": {
+        "storedAt": 1761318141,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1418",
+        "imdbId": "tt0898266",
+        "season": 2,
+        "episode": 19,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/268222?token=7600fe4a2bbf62113cc6fa9acb4117b5&expires=1766502141&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1433:s9e15",
+      "storedAt": 1761318202535,
+      "meta": {
+        "storedAt": 1761318202,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1433",
+        "imdbId": "tt0397306",
+        "season": 9,
+        "episode": 15,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/194178?token=911c6a761e606ef2ff9a9996e5067466&expires=1766502202&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:219053:s2e1",
+      "storedAt": 1761318183677,
+      "meta": {
+        "storedAt": 1761318183,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "219053",
+        "imdbId": "tt21092364",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/288168?token=4f12345897534a5b0638826a2f9a37b1&expires=1766502183&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2316:s1e5",
+      "storedAt": 1761318117050,
+      "meta": {
+        "storedAt": 1761318117,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2316",
+        "imdbId": "tt0386676",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/186440?token=e35e82de2f7b46dc5fa175139990a6ae&expires=1766502116&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:253030:s1e9",
+      "storedAt": 1761318014959,
+      "meta": {
+        "storedAt": 1761318014,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "253030",
+        "imdbId": "tt27719131",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/352346?token=e346ba6e6ca6e57b35a95418b4a94a44&expires=1766502014&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:254674:s2e4",
+      "storedAt": 1761318102811,
+      "meta": {
+        "storedAt": 1761318102,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "254674",
+        "imdbId": "tt32293149",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/316757?token=2be7785853d4bdf0f548026725ae8d80&expires=1766502101&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2673:s2e12",
+      "storedAt": 1761318183835,
+      "meta": {
+        "storedAt": 1761318183,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2673",
+        "imdbId": "tt0362359",
+        "season": 2,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/183024?token=69f487d688e570745d92ad73df5ce936&expires=1766502183&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:4630:s7e15",
+      "storedAt": 1761318114830,
+      "meta": {
+        "storedAt": 1761318114,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4630",
+        "imdbId": "tt0235918",
+        "season": 7,
+        "episode": 15,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/55182?token=f351b71f6dc0b65fb9662f46e05a1280&expires=1766502114&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:4630:s10e18",
+      "storedAt": 1761317803567,
+      "meta": {
+        "storedAt": 1761317803,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4630",
+        "imdbId": "tt0235918",
+        "season": 10,
+        "episode": 18,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/207930?token=ee459db5be7cdb4fdfe287afcb8ae89e&expires=1766501803&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:48891:s6e15",
+      "storedAt": 1761317887439,
+      "meta": {
+        "storedAt": 1761317887,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "48891",
+        "imdbId": "tt2467372",
+        "season": 6,
+        "episode": 15,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/320536?token=643d168d68d693bb14cdeef537fe2042&expires=1766501887&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:78173:s3e11",
+      "storedAt": 1761317892337,
+      "meta": {
+        "storedAt": 1761317892,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "78173",
+        "imdbId": "tt4816058",
+        "season": 3,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/168157?token=bff38de41242367044c3b24aca0c4a59&expires=1766501892&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:82856:s2e4",
+      "storedAt": 1761317764996,
+      "meta": {
+        "storedAt": 1761317764,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "82856",
+        "imdbId": "tt8111088",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/237264?token=59264866822387e69a646d6f82653418&expires=1766501764&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:8592:s4e13",
+      "storedAt": 1761317780833,
+      "meta": {
+        "storedAt": 1761317780,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "8592",
+        "imdbId": "tt1266020",
+        "season": 4,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/274564?token=6f7a8f01d050e1b6c1c8e107e5acb658&expires=1766501780&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-24T14:55:24.939Z",
-    "totalOriginalEntries": 15778,
-    "newItemsInThisBatch": 31,
+    "exportedAt": "2025-10-24T15:04:08.837Z",
+    "totalOriginalEntries": 15806,
+    "newItemsInThisBatch": 28,
     "format": "compact_v1"
   }
 }
