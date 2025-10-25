@@ -679149,12 +679149,1394 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:2034",
+      "storedAt": 1761420500903,
+      "meta": {
+        "storedAt": 1761420500,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "2034",
+        "imdbId": "tt0139654",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/266065?token=1eef93e78bdb009a18ef08aeb8dfebbe&expires=1766604500&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:337167",
+      "storedAt": 1761420553978,
+      "meta": {
+        "storedAt": 1761420553,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "337167",
+        "imdbId": "tt4477536",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/226923?token=a52331449083cf19976dda185963a2a8&expires=1766604553&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:489",
+      "storedAt": 1761420499544,
+      "meta": {
+        "storedAt": 1761420499,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "489",
+        "imdbId": "tt0119217",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Good Will Hunting 1997 1080p BluRay REMUX AVC [Hindi DD 2.0 + English DTS-HD.MA 5.1] x264 FraMeSToR-wAgen\n34.38 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Good%20Will%20Hunting%201997%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DD%202.0%20+%20English%20DTS-HD.MA%205.1]%20x264%20FraMeSToR-wAgen.mkv?token=1761420499",
+            "quality": "1080p",
+            "size": "34.38 GB",
+            "fileName": "Good Will Hunting 1997 1080p BluRay REMUX AVC [Hindi DD 2.0 + English DTS-HD.MA 5.1] x264 FraMeSToR-wAgen",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Good Will Hunting 1997 1080p BluRay [Hindi DD 2.0 + English DDP 5.1] x264 playHD-wAgen\n22.08 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Good%20Will%20Hunting%201997%201080p%20BluRay%20[Hindi%20DD%202.0%20+%20English%20DDP%205.1]%20x264%20playHD-wAgen.mkv?token=1761420499",
+            "quality": "1080p",
+            "size": "22.08 GB",
+            "fileName": "Good Will Hunting 1997 1080p BluRay [Hindi DD 2.0 + English DDP 5.1] x264 playHD-wAgen",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "9FimNuG8\n11.55 GB",
+            "url": "https://pixeldrain.dev/api/file/9FimNuG8?download",
+            "quality": "1080p",
+            "size": "11.55 GB",
+            "fileName": "9FimNuG8",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Good Will Hunting 1997 1080p BluRay [Hindi DD 2.0 + English DDP 5.1] x264 hallowed-wAgen\n11.55 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Good%20Will%20Hunting%201997%201080p%20BluRay%20[Hindi%20DD%202.0%20+%20English%20DDP%205.1]%20x264%20hallowed-wAgen.mkv?token=1761420499",
+            "quality": "1080p",
+            "size": "11.55 GB",
+            "fileName": "Good Will Hunting 1997 1080p BluRay [Hindi DD 2.0 + English DDP 5.1] x264 hallowed-wAgen",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "US5PLZKc\n4.65 GB",
+            "url": "https://pixeldrain.dev/api/file/US5PLZKc?download",
+            "quality": "1080p",
+            "size": "4.65 GB",
+            "fileName": "US5PLZKc",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Good Will Hunting 1997 1080p 10bit HEVC [Hindi DD 2.0 + English DDP 5.1] x265 iVy-wAgen\n4.65 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Good%20Will%20Hunting%201997%201080p%2010bit%20HEVC%20[Hindi%20DD%202.0%20+%20English%20DDP%205.1]%20x265%20iVy-wAgen.mkv?token=1761420499",
+            "quality": "1080p",
+            "size": "4.65 GB",
+            "fileName": "Good Will Hunting 1997 1080p 10bit HEVC [Hindi DD 2.0 + English DDP 5.1] x265 iVy-wAgen",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:489",
+      "storedAt": 1761420797566,
+      "meta": {
+        "storedAt": 1761420797,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "489",
+        "imdbId": "tt0119217",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies x265 10bit 2Audio MNHD-FRDS",
+            "url": "https://a.111477.xyz/movies/Good%20Will%20Hunting%20(1997)/102.Good.Will.Hunting.1997.BluRay.1080p.x265.10bit.2Audio.MNHD-FRDS.mkv",
+            "quality": "1080p",
+            "size": "9.18 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "102.Good.Will.Hunting.1997.BluRay.1080p.x265.10bit.2Audio.MNHD-FRDS.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS HD MA 5 1 FGT",
+            "url": "https://a.111477.xyz/movies/Good%20Will%20Hunting%20(1997)/Good%20Will%20Hunting%201997%201080p%20BluRay%20REMUX%20AVC%20DTS%20HD%20MA%205%201%20FGT.mkv",
+            "quality": "1080p | REMUX",
+            "size": "23.74 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Good Will Hunting 1997 1080p BluRay REMUX AVC DTS HD MA 5 1 FGT.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay DTS-HD MA5 1 x264-FuzerHD",
+            "url": "https://a.111477.xyz/movies/Good%20Will%20Hunting%20(1997)/Good.Will.Hunting.1997.1080p.BluRay.DTS-HD.MA5.1.x264-FuzerHD.mkv",
+            "quality": "1080p",
+            "size": "16.62 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Good.Will.Hunting.1997.1080p.BluRay.DTS-HD.MA5.1.x264-FuzerHD.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265-LAMA",
+            "url": "https://a.111477.xyz/movies/Good%20Will%20Hunting%20(1997)/Good.Will.Hunting.1997.1080p.BluRay.x265-LAMA.mp4",
+            "quality": "1080p",
+            "size": "1.97 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Good.Will.Hunting.1997.1080p.BluRay.x265-LAMA.mp4"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DDP 5 1 x264-hallowed",
+            "url": "https://a.111477.xyz/movies/Good%20Will%20Hunting%20(1997)/Good.Will.Hunting.1997.BluRay.1080p.DDP.5.1.x264-hallowed.mkv",
+            "quality": "1080p",
+            "size": "11.23 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Good.Will.Hunting.1997.BluRay.1080p.DDP.5.1.x264-hallowed.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DTS-HD MA 5 1 AVC REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/Good%20Will%20Hunting%20(1997)/Good.Will.Hunting.1997.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": "34.18 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Good.Will.Hunting.1997.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv"
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:489",
+      "storedAt": 1761420500912,
+      "meta": {
+        "storedAt": 1761420500,
+        "urlCount": 9,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "489",
+        "imdbId": "tt0119217",
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Good.Will.Hunting.1997.1080p.BluRay.Hindi.English.DD.2.0.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/api/file/SwXmMYpH?download",
+            "quality": "1080p",
+            "size": "2.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Good.Will.Hunting.1997.1080p.BluRay.Hindi.English.DD.2.0.x264.ESubs.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Good.Will.Hunting.1997.1080p.BluRay.Hindi.English.DD.2.0.x264.ESubs.mkv?token=1761420499",
+            "quality": "1080p",
+            "size": "2.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Good.Will.Hunting.1997.1080p.BluRay.Hindi.English.DD.2.0.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nQq3cOabNqT6g8z9M9KNpoH7bvvCu5dMXEa9FzVE1Dnbt_kmHuIUQH-42rwEdXbPjdtZJVUrFQD-vYNb0cRlCDAacaW0BkW_l5hPI7ClsidzTUJm-rHwiM17kOCdaLVVyPxVa7x3KeZEhffuPGHLkpDp_-_mYdOBVf7BoE5Gi_WidAOlz68wOOuxrIffncE-6ifQdXkpjduoh7lS1K_1Z-yh4xQlU4MO6mYdp_ho9rP5V-K3_u5V9sYujsMaBFP5AAj5sS",
+            "quality": "1080p",
+            "size": "2.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Good.Will.Hunting.1997.720p.BluRay.Hindi.English.DD.2.0.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/api/file/MP12kH6Y?download",
+            "quality": "720p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Good.Will.Hunting.1997.720p.BluRay.Hindi.English.DD.2.0.x264.ESubs.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Good.Will.Hunting.1997.720p.BluRay.Hindi.English.DD.2.0.x264.ESubs.mkv?token=1761420499",
+            "quality": "720p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Good.Will.Hunting.1997.720p.BluRay.Hindi.English.DD.2.0.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kGYESmy5dV1_Spx2NkxCKjiLLnr9_Rh1Xsi6aJ7NEMbPscQKIXzsIP9y0Q3buifwJpM5eVucrjTrirqi2qfifXKsoJvOzj29DPMAP6aj_OErCy5nDIAf46WS4aDhtyeYGlq2IJcXwh0FYKJLoWzlkeixdc81p0K48fbpo743SILNKsTeZ_YW96-bVKCWt1aPWhNxiN4KBDFHDVRInjSFD5gRdied59wV9HwKdcXqjBeFiwzZpwiqDzAavCrWRUjd37PPd9",
+            "quality": "720p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Good.Will.Hunting.1997.480p.BluRay.Hindi.English.DD.2.0.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/api/file/281oCUrJ?download",
+            "quality": "480p",
+            "size": "427.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Good.Will.Hunting.1997.480p.BluRay.Hindi.English.DD.2.0.x264.ESubs.mkv",
+            "url": "https://fsl.anime4u.co/Good.Will.Hunting.1997.480p.BluRay.Hindi.English.DD.2.0.x264.ESubs.mkv?token=1761420499",
+            "quality": "480p",
+            "size": "427.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Good.Will.Hunting.1997.480p.BluRay.Hindi.English.DD.2.0.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mNUFFTo9Rj4R32pc5RHzcAnTZ-WLyY0KhnrbZU5ma5_ftv1oNJz6AxidbmBC_cGqAys1RnfGI38ZZULRkcKNLFfXafnL9xHMxbuMLxKXpoMWBUPoNGFpVU6eHRrp8GBodbesS06eKFwgyBIDpKORRY4Zta40DKv2bcqmW_MAU2Gjl5fEbtD8honZT_KUb1_YFijBflpdioOwYHJGRJFpfnxpwM00PqNPIRgfKzHH7FWzFXJfs0fbsO5aWTsg6sJdBSNry0",
+            "quality": "480p",
+            "size": "427.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 9
+      }
+    },
+    {
+      "key": "prov:moviesmod:movie:489",
+      "storedAt": 1761420522428,
+      "meta": {
+        "storedAt": 1761420522,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "movie",
+        "tmdbId": "489",
+        "imdbId": "tt0119217",
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "Good Will Hunting 1997 1080P Bluray Hindi English Esubs MoviesMod org\n2.64GB",
+            "url": "https://worker-jolly-lake-df2a.moreh57823.workers.dev/40ad9efb41d845d125164780f611daac59a5b0f238cfa4959d4bddc27ef0d984f7b64cffbe16e03d6ac3bf89959fabf8c4db29dd6f67bd80b5eb84e75e0f7654ca39f4b6c6b12d0bd7f4e52b4cec38b58e4cc5d82e95b416b917df09c60c424e304db17e2ea97b526a05441b03204f7aebe705d669f6a852f241a3bcb39e9ca039451329635ed622c4912ef3cc321f989173d65ee8438c9f23eb23dfa423834969c367aa8ef8cbf7d7e4a0232fe07de0::54c207a930eca284038b5be7c8c1ae14/Good.Will.Hunting.1997.1080P.Bluray.Hindi.English.Esubs.MoviesMod.org.mkv",
+            "quality": "1080p",
+            "size": "2.64GB",
+            "fileName": "Good.Will.Hunting.1997.1080P.Bluray.Hindi.English.Esubs.MoviesMod.org.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "MoviesMod",
+            "title": "Good Will Hunting 1997 1080p 10Bit HEVC BluRay Hindi DVD English ESubs - Moviesmod Info\n2.48GB",
+            "url": "https://worker-dark-dream-b0b2.tepeh90861.workers.dev/418ff5ed895d196bd000be5ab7678fe46ae63773bd8652b60018055f9c2ad00e3120ee9f40730573066e69c21ce04c4d325e08b61001cb18b00f6419cf396055e3bb6d25b64870e451f7e06a00c5db32eac9d0459a04085c2eb409e62ade289cf9b855731be0e11f3b6f09276677651eb0b6478f577e2582056d8a7038032c2bf68f4a0b72513ffa16c24f607ada64801eb0617ba31e9af3428b6614ca0a296bc56ed22e956b99e8c09c6b11b9869ca5::2884e6abb6ea9d4c025eb092638f439d/Good Will Hunting 1997 1080p 10Bit HEVC BluRay Hindi DVD English ESubs - Moviesmod.Info.mkv",
+            "quality": "1080p",
+            "size": "2.48GB",
+            "fileName": "Good Will Hunting 1997 1080p 10Bit HEVC BluRay Hindi DVD English ESubs - Moviesmod.Info.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:489",
+      "storedAt": 1761420498855,
+      "meta": {
+        "storedAt": 1761420498,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "489",
+        "imdbId": "tt0119217",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Good Will Hunting - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/1997/goodwillhunting.mkv",
+            "quality": "1080p",
+            "size": "2h 07m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Good Will Hunting - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/1997/goodwillhunting.mkv",
+            "quality": "1080p",
+            "size": "2h 07m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Good Will Hunting - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/1997/goodwillhunting.mkv",
+            "quality": "720p",
+            "size": "2h 07m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Good Will Hunting - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/1997/goodwillhunting.mkv",
+            "quality": "720p",
+            "size": "2h 07m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:489",
+      "storedAt": 1761420520617,
+      "meta": {
+        "storedAt": 1761420520,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "489",
+        "imdbId": "tt0119217",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Good Will Hunting (1997) 1080p BluRay [DD 2 0 Hindi + DTS 5 1 English] x264 (WiKi-UHDMovies)\n20.34GB",
+            "url": "https://worker-long-fire-b771.vayaxoj336.workers.dev/8a0ee1c2b581d91ee8207b8bf90307b377af82c48124c4219adeddd6a6ef5da81597e1f1c621a12d3de5fed8f3d1ba1d7687427a7be7abdee4c9da570521121934007f05da269534f2a6d8043d184213e2c794dc96c2ec6966ac5d4c492ea5e5e843d6e174d60f6a1e0e8dcbf306f4399328a22507ac6fb001ccec164a555dbb470bc77e6b92d58b73b16a685f31e6b4d56cf86711a9b6ba3bb4169b8c3a16b9cae5fab17b0fac4c0ab2b324bbfd8195::4d231daf66981c7ca08402290952d5d0/Good Will Hunting (1997) 1080p BluRay [DD 2.0 Hindi  DTS 5.1 English] x264 (WiKi-UHDMovies).mkv",
+            "quality": "1080p | BluRay",
+            "size": "20.34GB",
+            "fileName": "Good Will Hunting (1997) 1080p BluRay [DD 2.0 Hindi + DTS 5.1 English] x264 (WiKi-UHDMovies).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Good Will Hunting 1997 1080p BluRay x265 [Hindi DD 2 0- English AAC 5 1] ESubs~[HonDo] Tigole\n7.11GB",
+            "url": "https://worker-flat-salad-e316.jabaco4025.workers.dev/f5215358778ddb466a7d36f33207cb4c6448b72419a859fe5dd692809b48608d80e9e0d848301662ab7ccdca9c55bf24699428771b3e6b19e97471ad1f7a9e49956001964aea7108947514624d862b5100beb9c5805ebb1b5c2e9f11602f5b29046d923b2a7c60c963d1232f1aab2cba6efbdb6a751a6834f6e62caa2d10f1c81c303d843fe2eff57480f293b71287b3fd00bd713696a546eed57f5b554d7c9d7802a8a65307e2edadb1b096c8a3c1a8::59d325cbabf156040ad8b3aa29f2b9c1/Good.Will.Hunting.1997.1080p.BluRay.x265.[Hindi DD 2.0- English AAC 5.1].ESubs[HonDo] Tigole.mkv",
+            "quality": "1080p | BluRay",
+            "size": "7.11GB",
+            "fileName": "Good.Will.Hunting.1997.1080p.BluRay.x265.[Hindi DD 2.0- English AAC 5.1].ESubs~[HonDo] Tigole.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1395:s3e17",
+      "storedAt": 1761420469078,
+      "meta": {
+        "storedAt": 1761420469,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1395",
+        "imdbId": "tt0397442",
+        "season": 3,
+        "episode": 17,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/174530?token=c622140aae1d2836f485a399714f7b0f&expires=1766604468&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1403:s6e8",
+      "storedAt": 1761420463779,
+      "meta": {
+        "storedAt": 1761420463,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1403",
+        "imdbId": "tt2364582",
+        "season": 6,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/194718?token=31ebc15988675d5722a9ce75906dc758&expires=1766604463&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1416:s8e2",
+      "storedAt": 1761420645568,
+      "meta": {
+        "storedAt": 1761420645,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1416",
+        "imdbId": "tt0413573",
+        "season": 8,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/192949?token=8b6e126e22a7bc6092794fb3f7792ce4&expires=1766604645&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1433:s3e9",
+      "storedAt": 1761420763649,
+      "meta": {
+        "storedAt": 1761420763,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1433",
+        "imdbId": "tt0397306",
+        "season": 3,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/194023?token=edf125dfc9953ad851620f1b0c85d2eb&expires=1766604763&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1920:s3e12",
+      "storedAt": 1761420672280,
+      "meta": {
+        "storedAt": 1761420672,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1920",
+        "imdbId": "tt0098936",
+        "season": 3,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/168096?token=2f6be0b66b689e2cbd0cbdd8f2af42a9&expires=1766604672&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:205715:s1e8",
+      "storedAt": 1761420886804,
+      "meta": {
+        "storedAt": 1761420886,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "205715",
+        "imdbId": "tt13159924",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "WUbfUW13\n3.92 GB",
+            "url": "https://pixeldrain.dev/api/file/WUbfUW13?download",
+            "quality": "2160p",
+            "size": "3.92 GB",
+            "fileName": "WUbfUW13",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Gen.V.S01E08.Guardians.of.Godolkin.2160p.AMZN.WEB-DL.DDP5.1.H.265-Tyrell\n3.92 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Gen.V.S01E08.Guardians.of.Godolkin.2160p.AMZN.WEB-DL.DDP5.1.H.265-Tyrell.mkv?token=1761420886",
+            "quality": "2160p",
+            "size": "3.92 GB",
+            "fileName": "Gen.V.S01E08.Guardians.of.Godolkin.2160p.AMZN.WEB-DL.DDP5.1.H.265-Tyrell",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "anizcwJa\n3.87 GB",
+            "url": "https://pixeldrain.dev/api/file/anizcwJa?download",
+            "quality": "2160p",
+            "size": "3.87 GB",
+            "fileName": "anizcwJa",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Gen.V.S01E08.Guardians.of.Godolkin.2160p.AMZN.WEB-DL.DDP5.1.HDR.H.265-Tyrell\n3.87 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Gen.V.S01E08.Guardians.of.Godolkin.2160p.AMZN.WEB-DL.DDP5.1.HDR.H.265-Tyrell.mkv?token=1761420886",
+            "quality": "2160p",
+            "size": "3.87 GB",
+            "fileName": "Gen.V.S01E08.Guardians.of.Godolkin.2160p.AMZN.WEB-DL.DDP5.1.HDR.H.265-Tyrell",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "K1ej664s\n2.56 GB",
+            "url": "https://pixeldrain.dev/api/file/K1ej664s?download",
+            "quality": "1080p",
+            "size": "2.56 GB",
+            "fileName": "K1ej664s",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Gen.V.S01E08.Guardians.of.Godolkin.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.com\n2.56 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Gen.V.S01E08.Guardians.of.Godolkin.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.com.mkv?token=1761420886",
+            "quality": "1080p",
+            "size": "2.56 GB",
+            "fileName": "Gen.V.S01E08.Guardians.of.Godolkin.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "dhz98vES\n1.11 GB",
+            "url": "https://pixeldrain.dev/api/file/dhz98vES?download",
+            "quality": "1080p",
+            "size": "1.11 GB",
+            "fileName": "dhz98vES",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Gen.V.S01E08.Guardians.of.Godolkin.1080p.AMZN.WEB-DL.DDP5.1.H.265-4kHdHub.com\n1.11 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Gen.V.S01E08.Guardians.of.Godolkin.1080p.AMZN.WEB-DL.DDP5.1.H.265-4kHdHub.com.mkv?token=1761420886",
+            "quality": "1080p",
+            "size": "1.11 GB",
+            "fileName": "Gen.V.S01E08.Guardians.of.Godolkin.1080p.AMZN.WEB-DL.DDP5.1.H.265-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:205715:s1e8",
+      "storedAt": 1761420885620,
+      "meta": {
+        "storedAt": 1761420885,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "205715",
+        "imdbId": "tt13159924",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-A4O",
+            "url": "https://a.111477.xyz/tvs/Gen%20V/Season%201/Gen%20V%20(2023)%20-%20S01E08%20-%20Guardians%20of%20Godolkin%20[WEBDL-1080p][EAC3%205.1][h264]-A4O.mkv",
+            "quality": "1080p",
+            "size": "2.56 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Gen V (2023) - S01E08 - Guardians of Godolkin [WEBDL-1080p][EAC3 5.1][h264]-A4O.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-HiggsBoson",
+            "url": "https://a.111477.xyz/tvs/Gen%20V/Season%201/Gen%20V%20(2023)%20-%20S01E08%20-%20Guardians%20of%20Godolkin%20[WEBDL-1080p][EAC3%205.1][h264]-HiggsBoson.mkv",
+            "quality": "1080p",
+            "size": "2.56 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Gen V (2023) - S01E08 - Guardians of Godolkin [WEBDL-1080p][EAC3 5.1][h264]-HiggsBoson.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:205715:s1e8",
+      "storedAt": 1761420888031,
+      "meta": {
+        "storedAt": 1761420888,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "205715",
+        "imdbId": "tt13159924",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Agent Elvis S1E8 - 8. Head Soup",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/agentelvis/s1/Agent.Elvis.S01E08.720p.WEB-DL.HIN-ENG.x264.ESub-KatmovieHD.vg.mkv",
+            "quality": "1080p",
+            "size": "26min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Agent Elvis S1E8 - 8. Head Soup",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/agentelvis/s1/Agent.Elvis.S01E08.720p.WEB-DL.HIN-ENG.x264.ESub-KatmovieHD.vg.mkv",
+            "quality": "1080p",
+            "size": "26min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2288:s2e22",
+      "storedAt": 1761420815409,
+      "meta": {
+        "storedAt": 1761420815,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2288",
+        "imdbId": "tt0455275",
+        "season": 2,
+        "episode": 22,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/314964?token=6c21ec00b67a4c5a32e98e0e85a17771&expires=1766604815&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:234763:s1e1",
+      "storedAt": 1761420707774,
+      "meta": {
+        "storedAt": 1761420707,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "234763",
+        "imdbId": "tt28429213",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/376793?token=67be0731409c39971c9706077ae6917e&expires=1766604707&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2691:s1e3",
+      "storedAt": 1761420595680,
+      "meta": {
+        "storedAt": 1761420595,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2691",
+        "imdbId": "tt0369179",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/391953?token=39caf1e62eeb17ee686ce47b5927c80c&expires=1766604595&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:291904:s1e8",
+      "storedAt": 1761420636807,
+      "meta": {
+        "storedAt": 1761420636,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "291904",
+        "imdbId": "tt36985473",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/337082?token=40294b03ce95be1b3b9f94c2b60fc471&expires=1766604636&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:291904:s1e19",
+      "storedAt": 1761420638192,
+      "meta": {
+        "storedAt": 1761420638,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "291904",
+        "imdbId": "tt36985473",
+        "season": 1,
+        "episode": 19,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/337124?token=51e258b118c182979ba65aca868df86c&expires=1766604638&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:33217:s2e10",
+      "storedAt": 1761420595279,
+      "meta": {
+        "storedAt": 1761420595,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "33217",
+        "imdbId": "tt1641384",
+        "season": 2,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/242833?token=8960458287d52e622348b760981f559b&expires=1766604595&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:36189:s2e5",
+      "storedAt": 1761420462720,
+      "meta": {
+        "storedAt": 1761420462,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "36189",
+        "imdbId": "tt1020116",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/207692?token=611ed45259439fd0162ec25591027f36&expires=1766604460&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:4604:s7e1",
+      "storedAt": 1761420799471,
+      "meta": {
+        "storedAt": 1761420799,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4604",
+        "imdbId": "tt0279600",
+        "season": 7,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/318849?token=5282d98f44f970cc6271fa5321a8f0c5&expires=1766604799&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:46952:s1e18",
+      "storedAt": 1761420489116,
+      "meta": {
+        "storedAt": 1761420489,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "46952",
+        "imdbId": "tt2741602",
+        "season": 1,
+        "episode": 18,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/204147?token=8c18f40e29ccde71a9c7cd2ee38b0886&expires=1766604488&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:46952:s2e14",
+      "storedAt": 1761420534342,
+      "meta": {
+        "storedAt": 1761420534,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "46952",
+        "imdbId": "tt2741602",
+        "season": 2,
+        "episode": 14,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/204196?token=d4e5baaffd2081e1c49b7437cd1891fb&expires=1766604534&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:55630:s14e3",
+      "storedAt": 1761420908161,
+      "meta": {
+        "storedAt": 1761420908,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "55630",
+        "imdbId": "tt2352789",
+        "season": 14,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/276455?token=52a3e114f301e26e4b9cdf158d9d5066&expires=1766604907&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:58957:s2e3",
+      "storedAt": 1761420671697,
+      "meta": {
+        "storedAt": 1761420671,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "58957",
+        "imdbId": "tt2297757",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/323801?token=30f9e631abff5ef0a9ae61bbfff7439e&expires=1766604671&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:62286:s4e9",
+      "storedAt": 1761420491756,
+      "meta": {
+        "storedAt": 1761420491,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "62286",
+        "imdbId": "tt3743822",
+        "season": 4,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/315517?token=21daf29b9f1e83a22d932617052675bd&expires=1766604491&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:693:s4e3",
+      "storedAt": 1761420491530,
+      "meta": {
+        "storedAt": 1761420491,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "693",
+        "imdbId": "tt0410975",
+        "season": 4,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/201242?token=0001b2a1451f04705dc2888f766049aa&expires=1766604491&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:76479:s4e1",
+      "storedAt": 1761420645357,
+      "meta": {
+        "storedAt": 1761420645,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "76479",
+        "imdbId": "tt1190634",
+        "season": 4,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/236030?token=1b7adaeab7e445482fd4bf71317ea979&expires=1766604645&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:83867:s1e2",
+      "storedAt": 1761420786667,
+      "meta": {
+        "storedAt": 1761420786,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "83867",
+        "imdbId": "tt9253284",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/308261?token=dd34231087963e317ead915e0f08d12e&expires=1766604786&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-10-25T19:27:41.343Z",
-    "totalOriginalEntries": 20109,
-    "newItemsInThisBatch": 25,
+    "exportedAt": "2025-10-25T19:35:47.603Z",
+    "totalOriginalEntries": 20141,
+    "newItemsInThisBatch": 32,
     "format": "compact_v1"
   }
 }
