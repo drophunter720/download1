@@ -1,0 +1,976 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:460465",
+      "storedAt": 1761425954176,
+      "meta": {
+        "storedAt": 1761425954,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "460465",
+        "imdbId": "tt0293429",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/304207?token=89baccca4ac72f2fc1e590af9aed7479&expires=1766609953&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:621191",
+      "storedAt": 1761425963518,
+      "meta": {
+        "storedAt": 1761425963,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "621191",
+        "imdbId": "tt9285882",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/64120?token=b32fff6716c555840d0e1897664a7369&expires=1766609963&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:8413",
+      "storedAt": 1761426088530,
+      "meta": {
+        "storedAt": 1761426088,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "8413",
+        "imdbId": "tt0119081",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Batman and Robin 1997 2160p UHD BluRay REMUX DoVi HDR HEVC [Hindi DD 2.0 + English TrueHD.Atmos 7.1] FraMeSToR-wAgen\n66.63 GB",
+            "url": "https://fsl.anime4u.co/Batman%20and%20Robin%201997%202160p%20UHD%20BluRay%20REMUX%20DoVi%20HDR%20HEVC%20[Hindi%20DD%202.0%20+%20English%20TrueHD.Atmos%207.1]%20FraMeSToR-wAgen.mkv?token=1761426088",
+            "quality": "2160p",
+            "size": "66.63 GB",
+            "fileName": "Batman and Robin 1997 2160p UHD BluRay REMUX DoVi HDR HEVC [Hindi DD 2.0 + English TrueHD.Atmos 7.1] FraMeSToR-wAgen",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Batman and Robin 1997 2160p UHD BluRay HDR HEVC [Hindi DD 2.0 + English TrueHD.Atmos 7.1] CtrlHD-wAgen\n42.3 GB",
+            "url": "https://fsl.anime4u.co/Batman%20and%20Robin%201997%202160p%20UHD%20BluRay%20HDR%20HEVC%20[Hindi%20DD%202.0%20+%20English%20TrueHD.Atmos%207.1]%20CtrlHD-wAgen.mkv?token=1761426088",
+            "quality": "2160p",
+            "size": "42.3 GB",
+            "fileName": "Batman and Robin 1997 2160p UHD BluRay HDR HEVC [Hindi DD 2.0 + English TrueHD.Atmos 7.1] CtrlHD-wAgen",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Batman and Robin 1997 1080p BluRay REMUX AVC [Hindi DD 2.0 + English TrueHD.Atmos 7.1] x264 FraMeSToR-wAgen\n28.88 GB",
+            "url": "https://fsl.anime4u.co/Batman%20and%20Robin%201997%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DD%202.0%20+%20English%20TrueHD.Atmos%207.1]%20x264%20FraMeSToR-wAgen.mkv?token=1761426088",
+            "quality": "1080p",
+            "size": "28.88 GB",
+            "fileName": "Batman and Robin 1997 1080p BluRay REMUX AVC [Hindi DD 2.0 + English TrueHD.Atmos 7.1] x264 FraMeSToR-wAgen",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "UPWyLB5A\n15.14 GB",
+            "url": "https://pixeldrain.dev/api/file/UPWyLB5A?download",
+            "quality": "1080p",
+            "size": "15.14 GB",
+            "fileName": "UPWyLB5A",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Batman and Robin 1997 1080p BluRay [Hindi DD 2.0 + English DD 5.1] x264 CtrlHD-wAgen\n15.14 GB",
+            "url": "https://fsl.anime4u.co/Batman%20and%20Robin%201997%201080p%20BluRay%20[Hindi%20DD%202.0%20+%20English%20DD%205.1]%20x264%20CtrlHD-wAgen.mkv?token=1761426088",
+            "quality": "1080p",
+            "size": "15.14 GB",
+            "fileName": "Batman and Robin 1997 1080p BluRay [Hindi DD 2.0 + English DD 5.1] x264 CtrlHD-wAgen",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:8413",
+      "storedAt": 1761426088147,
+      "meta": {
+        "storedAt": 1761426088,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "8413",
+        "imdbId": "tt0119081",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies UHD Remux HEVC 10bit DV TrueHD DTS-HD MA 5 1-LEGi0N",
+            "url": "https://a.111477.xyz/movies/Event%20Horizon%20(1997)/Event.Horizon.1997.BluRay.2160p.UHD.Remux.HEVC.10bit.DV.TrueHD.DTS-HD.MA.5.1-LEGi0N.mkv",
+            "quality": "2160p | DV | REMUX",
+            "size": "57.38 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Event.Horizon.1997.BluRay.2160p.UHD.Remux.HEVC.10bit.DV.TrueHD.DTS-HD.MA.5.1-LEGi0N.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies TrueHD 5 1 DV HEVC REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/Event%20Horizon%20(1997)/Event.Horizon.1997.UHD.BluRay.2160p.TrueHD.5.1.DV.HEVC.REMUX-FraMeSToR.mkv",
+            "quality": "2160p | DV | REMUX",
+            "size": "55.43 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Event.Horizon.1997.UHD.BluRay.2160p.TrueHD.5.1.DV.HEVC.REMUX-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay Remux TrueHD 5 1",
+            "url": "https://a.111477.xyz/movies/Event%20Horizon%20(1997)/Event%20Horizon%201997%20Remastered%201080p%20BluRay%20Remux%20TrueHD%205%201.mkv",
+            "quality": "1080p | REMUX",
+            "size": "24.25 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Event Horizon 1997 Remastered 1080p BluRay Remux TrueHD 5 1.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay DTS X265 HEVC",
+            "url": "https://a.111477.xyz/movies/Event%20Horizon%20(1997)/Event.Horizon.(1997).1080p.BluRay.DTS.X265.HEVC.mkv",
+            "quality": "1080p",
+            "size": "2.84 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Event.Horizon.(1997).1080p.BluRay.DTS.X265.HEVC.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies UHD BluRay x264 DD 5 1-Pahe in",
+            "url": "https://a.111477.xyz/movies/Event%20Horizon%20(1997)/Event.Horizon.1997.1080p.UHD.BluRay.x264.DD.5.1-Pahe.in.mkv",
+            "quality": "1080p",
+            "size": "2.50 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Event.Horizon.1997.1080p.UHD.BluRay.x264.DD.5.1-Pahe.in.mkv"
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:moviesmod:movie:8413",
+      "storedAt": 1761426094078,
+      "meta": {
+        "storedAt": 1761426094,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "movie",
+        "tmdbId": "8413",
+        "imdbId": "tt0119081",
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "Event Horizon 1997 1080P Web-Dl Hindi English Msubs MoviesMod org\n2.03GB",
+            "url": "https://worker-shiny-sun-14b1.xesitif709.workers.dev/02350613d8f7ea7128e36f4ca4ad0622cf488151a4d6f19901b5c0f0dd085776902ce9512a9d6c572542bd50bc21f6b25f5a3de8365b42446de34712af2e989fb27ccf4db0789d93ae8028f67c9a58c5173eebb98b0bddbd4e52e71de283c240d32790e1287bf6c2c1382657b6d1286697fadbbff19683b74e594a3c83e776e606bf2046119988f10ff0d62f7f6809190546fef4a59f6b43203368e1f0e2b80d4835a05af9d60bcdde53b9ce35465462::48cf74df6f85c995c0a83b79566e4b4d/Event.Horizon.1997.1080P.Web-Dl.Hindi.English.Msubs.MoviesMod.org.mkv",
+            "quality": "1080p",
+            "size": "2.03GB",
+            "fileName": "Event.Horizon.1997.1080P.Web-Dl.Hindi.English.Msubs.MoviesMod.org.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:955",
+      "storedAt": 1761426326500,
+      "meta": {
+        "storedAt": 1761426326,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "955",
+        "imdbId": "tt0120755",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/207453?token=f1097f425eb25616033b111d5af886a3&expires=1766610326&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:112211:s1e8",
+      "storedAt": 1761426366875,
+      "meta": {
+        "storedAt": 1761426366,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "112211",
+        "imdbId": "tt13366604",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/217344?token=9c7a07df69e269f709ea3bc4a901a3f1&expires=1766610366&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1399:s4e1",
+      "storedAt": 1761425959744,
+      "meta": {
+        "storedAt": 1761425959,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 4,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/178798?token=5e9f0d028a1e9155d2dbbd37d8aa6529&expires=1766609959&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1408:s2e17",
+      "storedAt": 1761426268826,
+      "meta": {
+        "storedAt": 1761426268,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1408",
+        "imdbId": "tt0412142",
+        "season": 2,
+        "episode": 17,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/180849?token=a9ec09e39e09429dc2fdc9c35ba89fe8&expires=1766610268&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1416:s3e1",
+      "storedAt": 1761425910309,
+      "meta": {
+        "storedAt": 1761425910,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1416",
+        "imdbId": "tt0413573",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/192832?token=de3a7ded56625680a38eb1cd9e791791&expires=1766609910&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1421:s6e11",
+      "storedAt": 1761426209321,
+      "meta": {
+        "storedAt": 1761426209,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1421",
+        "imdbId": "tt1442437",
+        "season": 6,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/270793?token=52f58aec2b9db2fdb18dd4f227c586b6&expires=1766610209&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1622:s5e16",
+      "storedAt": 1761426188895,
+      "meta": {
+        "storedAt": 1761426188,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1622",
+        "imdbId": "tt0460681",
+        "season": 5,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/178910?token=bdf890b2ac4913e06d005383576fb6e6&expires=1766610188&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:239334:s2e7",
+      "storedAt": 1761426331708,
+      "meta": {
+        "storedAt": 1761426331,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "239334",
+        "imdbId": "tt30006118",
+        "season": 2,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/290292?token=4bda3e23e6da79b2f6527e02607a0b0f&expires=1766610331&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:253:s1e19",
+      "storedAt": 1761425910522,
+      "meta": {
+        "storedAt": 1761425910,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "253",
+        "imdbId": "tt0060028",
+        "season": 1,
+        "episode": 19,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/189638?token=0c1a2310a3a95347ddcf1ac2984e1601&expires=1766609907&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2673:s1e2",
+      "storedAt": 1761426257738,
+      "meta": {
+        "storedAt": 1761426257,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2673",
+        "imdbId": "tt0362359",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/182986?token=a53f84781b30afb518074f415a999c59&expires=1766610257&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:275724:s1e8",
+      "storedAt": 1761425972180,
+      "meta": {
+        "storedAt": 1761425972,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "275724",
+        "imdbId": "tt32252675",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/374121?token=ee8528c0569c40d0928c5644c2b6d418&expires=1766609972&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:4614:s11e20",
+      "storedAt": 1761425952812,
+      "meta": {
+        "storedAt": 1761425952,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4614",
+        "imdbId": "tt0364845",
+        "season": 11,
+        "episode": 20,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/197122?token=b9b12bf07e8dc215eec68dbf7653e26d&expires=1766609952&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:5920:s7e4",
+      "storedAt": 1761425917179,
+      "meta": {
+        "storedAt": 1761425917,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "5920",
+        "imdbId": "tt1196946",
+        "season": 7,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/315216?token=95a6bc62f190e9db66bc350373325d31&expires=1766609916&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:60802:s1e5",
+      "storedAt": 1761426178688,
+      "meta": {
+        "storedAt": 1761426178,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "60802",
+        "imdbId": "tt2402207",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/183638?token=e9273f3da752c2098b917fc28a160892&expires=1766610178&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:67178:s1e1",
+      "storedAt": 1761426358307,
+      "meta": {
+        "storedAt": 1761426358,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "67178",
+        "imdbId": "tt5675620",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "dKxbJW6E\n7.02 GB",
+            "url": "https://pixeldrain.net/api/file/dKxbJW6E",
+            "quality": "2160p",
+            "size": "7.02 GB",
+            "fileName": "dKxbJW6E",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Marvels.The.Punisher.S01E01.3.00.AM.2160p.JSTAR.WEB-DL.DDP5.1.H.265-4kHdHub.Com\n7.02 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Marvels.The.Punisher.S01E01.3.00.AM.2160p.JSTAR.WEB-DL.DDP5.1.H.265-4kHdHub.Com.mkv?token=1761426358",
+            "quality": "2160p",
+            "size": "7.02 GB",
+            "fileName": "Marvels.The.Punisher.S01E01.3.00.AM.2160p.JSTAR.WEB-DL.DDP5.1.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "JeRXCGGc\n5.04 GB",
+            "url": "https://pixeldrain.dev/api/file/JeRXCGGc?download",
+            "quality": "2160p",
+            "size": "5.04 GB",
+            "fileName": "JeRXCGGc",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The.Punisher.S01E01.2160p.DSNP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-4kHdHub.com \n5.04 GB",
+            "url": "https://fsl.anime4u.co/The.Punisher.S01E01.2160p.DSNP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-4kHdHub.com%20.mkv?token=1761426358",
+            "quality": "2160p",
+            "size": "5.04 GB",
+            "fileName": "The.Punisher.S01E01.2160p.DSNP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-4kHdHub.com ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "qYEkKMGD\n2.57 GB",
+            "url": "https://pixeldrain.dev/api/file/qYEkKMGD?download",
+            "quality": "1080p",
+            "size": "2.57 GB",
+            "fileName": "qYEkKMGD",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The.Punisher.S01E01.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-4kHdHub.com\n2.57 GB",
+            "url": "https://fsl.anime4u.co/The.Punisher.S01E01.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-4kHdHub.com.mkv?token=1761426358",
+            "quality": "1080p",
+            "size": "2.57 GB",
+            "fileName": "The.Punisher.S01E01.1080p.DSNP.WEB-DL.DDP5.1.Atmos.H.264-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:67178:s1e1",
+      "storedAt": 1761426357929,
+      "meta": {
+        "storedAt": 1761426357,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "67178",
+        "imdbId": "tt5675620",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][x264]-NTb",
+            "url": "https://a.111477.xyz/tvs/Marvel",
+            "quality": "1080p",
+            "size": "4.88 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Marvel&#x27;s The Punisher (2017) - S01E01 - 3AM [WEBDL-1080p][AC3 5.1][x264]-NTb.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][x264]-NTb",
+            "url": "https://a.111477.xyz/tvs/Marvel",
+            "quality": "1080p",
+            "size": "4.88 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Marvel&#x27;s The Punisher (2017) - S01E01 - 3AM [WEBRip-1080p][AC3 5.1][x264]-NTb.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:67178:s1e1",
+      "storedAt": 1761426358840,
+      "meta": {
+        "storedAt": 1761426358,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "67178",
+        "imdbId": "tt5675620",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Marvel's The Punisher S1E1 - 1. 3 AM",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/punisher/s1/The.Punisher.S01E01.720p.English.Eng.mkv",
+            "quality": "1080p",
+            "size": "52min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Marvel's The Punisher S1E1 - 1. 3 AM",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/punisher/s1/The.Punisher.S01E01.720p.English.Eng.mkv",
+            "quality": "1080p",
+            "size": "52min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:67178:s1e2",
+      "storedAt": 1761426390200,
+      "meta": {
+        "storedAt": 1761426390,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "67178",
+        "imdbId": "tt5675620",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][x264]-NTb",
+            "url": "https://a.111477.xyz/tvs/Marvel",
+            "quality": "1080p",
+            "size": "5.70 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Marvel&#x27;s The Punisher (2017) - S01E02 - Two Dead Men [WEBDL-1080p][AC3 5.1][x264]-NTb.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][x264]-NTb",
+            "url": "https://a.111477.xyz/tvs/Marvel",
+            "quality": "1080p",
+            "size": "5.70 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Marvel&#x27;s The Punisher (2017) - S01E02 - Two Dead Men [WEBRip-1080p][AC3 5.1][x264]-NTb.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:693:s6e1",
+      "storedAt": 1761425942087,
+      "meta": {
+        "storedAt": 1761425942,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "693",
+        "imdbId": "tt0410975",
+        "season": 6,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/201531?token=ccfb3d99126a7b9b534e8fdd705b6e05&expires=1766609941&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:71912:s3e2",
+      "storedAt": 1761426022276,
+      "meta": {
+        "storedAt": 1761426022,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "71912",
+        "imdbId": "tt5180504",
+        "season": 3,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/320753?token=9729c48d5323fbebe65f4ebb9fdf74a7&expires=1766610022&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-25T21:06:30.387Z",
+    "totalOriginalEntries": 25,
+    "newItemsInThisBatch": 25,
+    "format": "compact_v1"
+  }
+}
