@@ -1,0 +1,413 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:4226",
+      "storedAt": 1761369594556,
+      "meta": {
+        "storedAt": 1761369594,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "4226",
+        "imdbId": "tt0212235",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/284471?token=a8d72b338ce9c8182f23708e089cace3&expires=1766553594&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:18165:s1e12",
+      "storedAt": 1761369739372,
+      "meta": {
+        "storedAt": 1761369739,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "18165",
+        "imdbId": "tt1405406",
+        "season": 1,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/305259?token=689802a3efaf182d7d43f29de40f1265&expires=1766553739&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:194766:s1e1",
+      "storedAt": 1761369601905,
+      "meta": {
+        "storedAt": 1761369601,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "194766",
+        "imdbId": "tt14016500",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "DDqgo5Wo\n3.92 GB",
+            "url": "https://pixeldrain.net/api/file/DDqgo5Wo",
+            "quality": "2160p",
+            "size": "3.92 GB",
+            "fileName": "DDqgo5Wo",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The.Summer.I.Turned.Pretty.S01E01.Summer.House.2160p.AMZN.WEB-DL.DUAL.DDP5.1.HDR.H.265-4kHdHub.Com\n3.92 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Summer.I.Turned.Pretty.S01E01.Summer.House.2160p.AMZN.WEB-DL.DUAL.DDP5.1.HDR.H.265-4kHdHub.Com.mkv?token=1761369601",
+            "quality": "2160p",
+            "size": "3.92 GB",
+            "fileName": "The.Summer.I.Turned.Pretty.S01E01.Summer.House.2160p.AMZN.WEB-DL.DUAL.DDP5.1.HDR.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "2h7VWLAg\n4.91 GB",
+            "url": "https://pixeldrain.dev/api/file/2h7VWLAg?download",
+            "quality": "2160p",
+            "size": "4.91 GB",
+            "fileName": "2h7VWLAg",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The.Summer.I.Turned.Pretty.S01E01.Summer.House.2160p.AMZN.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com\n4.91 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Summer.I.Turned.Pretty.S01E01.Summer.House.2160p.AMZN.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv?token=1761369601",
+            "quality": "2160p",
+            "size": "4.91 GB",
+            "fileName": "The.Summer.I.Turned.Pretty.S01E01.Summer.House.2160p.AMZN.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "z1Y5tbNS\n3.06 GB",
+            "url": "https://pixeldrain.net/api/file/z1Y5tbNS",
+            "quality": "1080p",
+            "size": "3.06 GB",
+            "fileName": "z1Y5tbNS",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The.Summer.I.Turned.Pretty.S01E01.Summer.House.1080p.AMZN.WEB-DL.DUAL.DDP5.1.H.264-4kHdHub.Com\n3.06 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Summer.I.Turned.Pretty.S01E01.Summer.House.1080p.AMZN.WEB-DL.DUAL.DDP5.1.H.264-4kHdHub.Com.mkv?token=1761369601",
+            "quality": "1080p",
+            "size": "3.06 GB",
+            "fileName": "The.Summer.I.Turned.Pretty.S01E01.Summer.House.1080p.AMZN.WEB-DL.DUAL.DDP5.1.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "2XDsPvot\n1.21 GB",
+            "url": "https://pixeldrain.dev/api/file/2XDsPvot?download",
+            "quality": "1080p",
+            "size": "1.21 GB",
+            "fileName": "2XDsPvot",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The.Summer.I.Turned.Pretty.S01E01.Summer.House.1080p.AMZN.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com\n1.21 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Summer.I.Turned.Pretty.S01E01.Summer.House.1080p.AMZN.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv?token=1761369601",
+            "quality": "1080p",
+            "size": "1.21 GB",
+            "fileName": "The.Summer.I.Turned.Pretty.S01E01.Summer.House.1080p.AMZN.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:194766:s1e1",
+      "storedAt": 1761369619219,
+      "meta": {
+        "storedAt": 1761369619,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "194766",
+        "imdbId": "tt14016500",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies web h265-glhf",
+            "url": "https://a.111477.xyz/tvs/The%20Summer%20I%20Turned%20Pretty/Season%201/the.summer.i.turned.pretty.s01e01.hdr.2160p.web.h265-glhf.mkv",
+            "quality": "2160p | HDR",
+            "size": "4.67 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "the.summer.i.turned.pretty.s01e01.hdr.2160p.web.h265-glhf.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-CAKES",
+            "url": "https://a.111477.xyz/tvs/The%20Summer%20I%20Turned%20Pretty/Season%201/The%20Summer%20I%20Turned%20Pretty%20(2022)%20-%20S01E01%20-%20Summer%20House%20[WEBDL-1080p][EAC3%205.1][h264]-CAKES.mkv",
+            "quality": "1080p",
+            "size": "2.86 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Summer I Turned Pretty (2022) - S01E01 - Summer House [WEBDL-1080p][EAC3 5.1][h264]-CAKES.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/The%20Summer%20I%20Turned%20Pretty/Season%201/The%20Summer%20I%20Turned%20Pretty%20(2022)%20-%20S01E01%20-%20Summer%20House%20[WEBRip-1080p][EAC3%205.1][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": "664.96 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Summer I Turned Pretty (2022) - S01E01 - Summer House [WEBRip-1080p][EAC3 5.1][x265]-iVy.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:194766:s1e1",
+      "storedAt": 1761369602025,
+      "meta": {
+        "storedAt": 1761369602,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "194766",
+        "imdbId": "tt14016500",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Summer I Turned Pretty S1E1 - 1. Summer House",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/sumeriturnedpretty/s1/The.Summer.I.Turned.Pretty.S01E01.720p.WEB-HD.x264-Pahe.li.mkv",
+            "quality": "1080p",
+            "size": "45min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Summer I Turned Pretty S1E1 - 1. Summer House",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/sumeriturnedpretty/s1/The.Summer.I.Turned.Pretty.S01E01.720p.WEB-HD.x264-Pahe.li.mkv",
+            "quality": "1080p",
+            "size": "45min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:216445:s1e3",
+      "storedAt": 1761370050224,
+      "meta": {
+        "storedAt": 1761370050,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "216445",
+        "imdbId": "tt24532414",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/386081?token=e3901475e3d688a13d174804f4b8244d&expires=1766554050&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:4614:s9e23",
+      "storedAt": 1761369809084,
+      "meta": {
+        "storedAt": 1761369809,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4614",
+        "imdbId": "tt0364845",
+        "season": 9,
+        "episode": 23,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/196958?token=8e5c010a99d8fc37f2cc3f1ff81f7151&expires=1766553808&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:64572:s4e4",
+      "storedAt": 1761370050338,
+      "meta": {
+        "storedAt": 1761370050,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "64572",
+        "imdbId": "tt3496230",
+        "season": 4,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/241432?token=995cf9250d34eab7536eb91281ba128e&expires=1766554049&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:81144:s2e7",
+      "storedAt": 1761369593268,
+      "meta": {
+        "storedAt": 1761369593,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "81144",
+        "imdbId": "tt7942794",
+        "season": 2,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/270999?token=94bebcd10018b0e4c4b5c46e69e513b7&expires=1766553592&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-25T05:27:53.272Z",
+    "totalOriginalEntries": 9,
+    "newItemsInThisBatch": 9,
+    "format": "compact_v1"
+  }
+}
