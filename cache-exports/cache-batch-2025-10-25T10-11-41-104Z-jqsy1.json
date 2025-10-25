@@ -1,0 +1,841 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:410924",
+      "storedAt": 1761386657798,
+      "meta": {
+        "storedAt": 1761386657,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "410924",
+        "imdbId": "tt3203502",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/52435?token=0c5c0a29fe7d1d7d71087193f7ceecba&expires=1766570657&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:630",
+      "storedAt": 1761387011337,
+      "meta": {
+        "storedAt": 1761387011,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "630",
+        "imdbId": "tt0032138",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/254202?token=ea0dfa21bc4c05f182ac4c8754773da1&expires=1766571011&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:100757:s3e1",
+      "storedAt": 1761386630040,
+      "meta": {
+        "storedAt": 1761386630,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "100757",
+        "imdbId": "tt10293938",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "yQpbUDFT\n4.64 GB",
+            "url": "https://pixeldrain.net/api/file/yQpbUDFT",
+            "quality": "2160p",
+            "size": "4.64 GB",
+            "fileName": "yQpbUDFT",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "dSe9sjNm\n7.34 GB",
+            "url": "https://pixeldrain.dev/api/file/dSe9sjNm?download",
+            "quality": "2160p",
+            "size": "7.34 GB",
+            "fileName": "dSe9sjNm",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "C8ZaaQqE\n2.8 GB",
+            "url": "https://pixeldrain.dev/api/file/C8ZaaQqE?download",
+            "quality": "1080p",
+            "size": "2.8 GB",
+            "fileName": "C8ZaaQqE",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "whWF63jy\n3.82 GB",
+            "url": "https://pixeldrain.dev/api/file/whWF63jy?download",
+            "quality": "1080p",
+            "size": "3.82 GB",
+            "fileName": "whWF63jy",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Outer.Banks.S03E01.Poguelandia.1080p.NF.WEB-DL.DDP5.1.DV.HDR.H.265-4kHdHub.com\n3.82 GB",
+            "url": "https://fsl.anime4u.co/Outer.Banks.S03E01.Poguelandia.1080p.NF.WEB-DL.DDP5.1.DV.HDR.H.265-4kHdHub.com.mkv?token=1761386629",
+            "quality": "1080p",
+            "size": "3.82 GB",
+            "fileName": "Outer.Banks.S03E01.Poguelandia.1080p.NF.WEB-DL.DDP5.1.DV.HDR.H.265-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:100757:s3e1",
+      "storedAt": 1761386629618,
+      "meta": {
+        "storedAt": 1761386629,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "100757",
+        "imdbId": "tt10293938",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DV HDR10][EAC3 Atmos 5 1][h265]-HONE",
+            "url": "https://a.111477.xyz/tvs/Outer%20Banks/Season%203/Outer%20Banks%20(2020)%20-%20S03E01%20-%20Welcome%20to%20Poguelandia%20[WEBDL-2160p][DV%20HDR10][EAC3%20Atmos%205.1][h265]-HONE.mkv",
+            "quality": "2160p | DV | HDR",
+            "size": "7.11 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Outer Banks (2020) - S03E01 - Welcome to Poguelandia [WEBDL-2160p][DV HDR10][EAC3 Atmos 5.1][h265]-HONE.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][x264]-NTb",
+            "url": "https://a.111477.xyz/tvs/Outer%20Banks/Season%203/Outer%20Banks%20(2020)%20-%20S03E01%20-%20Welcome%20to%20Poguelandia%20[WEBDL-1080p][EAC3%20Atmos%205.1][x264]-NTb.mkv",
+            "quality": "1080p",
+            "size": "2.58 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Outer Banks (2020) - S03E01 - Welcome to Poguelandia [WEBDL-1080p][EAC3 Atmos 5.1][x264]-NTb.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:100757:s3e1",
+      "storedAt": 1761386633818,
+      "meta": {
+        "storedAt": 1761386633,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "100757",
+        "imdbId": "tt10293938",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Outer.Banks.S03E01.720p.WEB-DL.Hindi.AAC.5.1-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/odPVsLKz?download",
+            "quality": "720p",
+            "size": "467.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Outer.Banks.S03E01.720p.WEB-DL.Hindi.AAC.5.1-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://fsl.anime4u.co/Outer.Banks.S03E01.720p.WEB-DL.Hindi.AAC.5.1-English.ESub.x264-HDHub4u.Tv.mkv?token=1761386630",
+            "quality": "720p",
+            "size": "467.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Outer.Banks.S03E01.720p.WEB-DL.Hindi.AAC.5.1-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nmVH7iiqB-Omr1ELSxaWRVXp-IsGFcO1AggnIFBI50rRJcYfUC4WqopP5eLD5ZdGyXgKHcTiaoqhvH8EjMWZiV-Ce30QY9csbUq9z5uTCArECgu06tWXbau2PlcvxmprB-GuAAfSDxqY5knszse28Xxux4G2Q8LUcYlenW9GFbcXpgCYxpWZb-ieP-OxSaud28-4ipHFdO-9ifgjGsLbpt1JAjR9PtSccnVsmwFB-QVSKkg8iK8jhvXpR9BexeORmJKc7t",
+            "quality": "720p",
+            "size": "467.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:100757:s3e1",
+      "storedAt": 1761386632249,
+      "meta": {
+        "storedAt": 1761386632,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "100757",
+        "imdbId": "tt10293938",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Outer Banks S3E1 - 1. Poguelandia",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/outerbanks/s3/Outer Banks S03E01 Dual Audio {Hindi-English} 720p WEB-DL ESubs [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "51min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Outer Banks S3E1 - 1. Poguelandia",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/outerbanks/s3/Outer Banks S03E01 Dual Audio {Hindi-English} 720p WEB-DL ESubs [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "51min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:126308:s1e10",
+      "storedAt": 1761386757571,
+      "meta": {
+        "storedAt": 1761386757,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "126308",
+        "imdbId": "tt2788316",
+        "season": 1,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/223033?token=e577b0625a89ba5cba68adcbc191f87f&expires=1766570757&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1402:s8e3",
+      "storedAt": 1761386674819,
+      "meta": {
+        "storedAt": 1761386674,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1402",
+        "imdbId": "tt1520211",
+        "season": 8,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/191820?token=7370f642aed5373ff9da0af7791c66b6&expires=1766570674&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1402:s8e4",
+      "storedAt": 1761386780490,
+      "meta": {
+        "storedAt": 1761386780,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1402",
+        "imdbId": "tt1520211",
+        "season": 8,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/191821?token=1c510db93d9b6b193b566a4ea07a77e8&expires=1766570780&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1411:s1e21",
+      "storedAt": 1761386669017,
+      "meta": {
+        "storedAt": 1761386669,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1411",
+        "imdbId": "tt1839578",
+        "season": 1,
+        "episode": 21,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/278117?token=9a1a037a1c31fca239fea13805a4dc89&expires=1766570668&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1412:s4e1",
+      "storedAt": 1761386805993,
+      "meta": {
+        "storedAt": 1761386805,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1412",
+        "imdbId": "tt2193021",
+        "season": 4,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/317271?token=6caa085ef02be7c25394bd5bb68efca5&expires=1766570805&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1416:s16e2",
+      "storedAt": 1761386912384,
+      "meta": {
+        "storedAt": 1761386912,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1416",
+        "imdbId": "tt0413573",
+        "season": 16,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/193301?token=7cdf2d2af7769e649fad570407ca7ddd&expires=1766570912&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1433:s8e5",
+      "storedAt": 1761386986778,
+      "meta": {
+        "storedAt": 1761386986,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1433",
+        "imdbId": "tt0397306",
+        "season": 8,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/194111?token=9259ab6fe3e7fab4a06bc0fd36156217&expires=1766570986&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1433:s13e11",
+      "storedAt": 1761386914221,
+      "meta": {
+        "storedAt": 1761386914,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1433",
+        "imdbId": "tt0397306",
+        "season": 13,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/194253?token=b55e4ab6fd126efc737d5042fb90e72b&expires=1766570913&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1606:s1e3",
+      "storedAt": 1761386835049,
+      "meta": {
+        "storedAt": 1761386835,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1606",
+        "imdbId": "tt0460644",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/200445?token=164d13c6ab703e4d4e2e33a56e588733&expires=1766570834&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1920:s1e2",
+      "storedAt": 1761386777611,
+      "meta": {
+        "storedAt": 1761386777,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1920",
+        "imdbId": "tt0098936",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/168014?token=fa9626954c2540dd199f7fe1f98c863a&expires=1766570777&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:214945:s1e7",
+      "storedAt": 1761386712936,
+      "meta": {
+        "storedAt": 1761386712,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "214945",
+        "imdbId": "tt22776032",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/360638?token=73314fc425a6e85c43715d5bd704bdb4&expires=1766570712&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:387:s1e1",
+      "storedAt": 1761386951554,
+      "meta": {
+        "storedAt": 1761386951,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "387",
+        "imdbId": "tt0206512",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/172382?token=d6fac3567c2f5d8a371d0d4f68fbc814&expires=1766570951&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:40008:s3e3",
+      "storedAt": 1761386951755,
+      "meta": {
+        "storedAt": 1761386951,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "40008",
+        "imdbId": "tt2243973",
+        "season": 3,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/207166?token=2895d711398b18f8b3d00ce0bd95a206&expires=1766570951&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:55866:s5e7",
+      "storedAt": 1761386621101,
+      "meta": {
+        "storedAt": 1761386621,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "55866",
+        "imdbId": "tt2819924",
+        "season": 5,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/240388?token=c1d6e2b1542c67ec28b2d9df79069a3e&expires=1766570620&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:67117:s1e16",
+      "storedAt": 1761387011256,
+      "meta": {
+        "storedAt": 1761387011,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "67117",
+        "imdbId": "tt5396394",
+        "season": 1,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/201380?token=18fdb98423be035d96fe61655b079ac3&expires=1766571010&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:8592:s2e8",
+      "storedAt": 1761386945357,
+      "meta": {
+        "storedAt": 1761386945,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "8592",
+        "imdbId": "tt1266020",
+        "season": 2,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/274519?token=9cf03b9e3f049ffcd92c741406a6f6f5&expires=1766570945&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:8592:s5e15",
+      "storedAt": 1761386880762,
+      "meta": {
+        "storedAt": 1761386880,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "8592",
+        "imdbId": "tt1266020",
+        "season": 5,
+        "episode": 15,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/274588?token=475ba510f5802a409a95a0af0e7fc3fd&expires=1766570880&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-25T10:11:41.104Z",
+    "totalOriginalEntries": 23,
+    "newItemsInThisBatch": 23,
+    "format": "compact_v1"
+  }
+}
