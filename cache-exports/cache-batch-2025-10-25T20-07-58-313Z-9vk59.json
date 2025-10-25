@@ -1,0 +1,749 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:1093237",
+      "storedAt": 1761422852777,
+      "meta": {
+        "storedAt": 1761422852,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1093237",
+        "imdbId": "tt26927452",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/343865?token=638c914e56f12cdeb6046c1b17d8798b&expires=1766606852&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:1175942",
+      "storedAt": 1761422856937,
+      "meta": {
+        "storedAt": 1761422856,
+        "urlCount": 11,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1175942",
+        "imdbId": "tt30017619",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The Bad Guys 2 2025 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi DDP 5.1 + English TrueHD Atmos 7.1] x265-LUMiX\n64.89 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The%20Bad%20Guys%202%202025%202160p%20UHD%20BluRay%20REMUX%20DV%20HDR%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20TrueHD%20Atmos%207.1]%20x265-LUMiX.mkv?token=1761422856",
+            "quality": "2160p",
+            "size": "64.89 GB",
+            "fileName": "The Bad Guys 2 2025 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi DDP 5.1 + English TrueHD Atmos 7.1] x265-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Bad Guys 2 2025 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English TrueHD Atmos 7.1] x264-LUMiX\n24.19 GB",
+            "url": "https://fsl.anime4u.co/The%20Bad%20Guys%202%202025%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%205.1%20+%20English%20TrueHD%20Atmos%207.1]%20x264-LUMiX.mkv?token=1761422856",
+            "quality": "1080p",
+            "size": "24.19 GB",
+            "fileName": "The Bad Guys 2 2025 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English TrueHD Atmos 7.1] x264-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The Bad Guys 2 2025 2160p BluRay DV HDR 10bit HEVC [Hindi DDP 5.1 + English TrueHD Atmos 7.1] x265 B0MBARDiERS-LUMiX\n21.55 GB",
+            "url": "https://fsl.anime4u.co/The%20Bad%20Guys%202%202025%202160p%20BluRay%20DV%20HDR%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20B0MBARDiERS-LUMiX.mkv?token=1761422856",
+            "quality": "2160p",
+            "size": "21.55 GB",
+            "fileName": "The Bad Guys 2 2025 2160p BluRay DV HDR 10bit HEVC [Hindi DDP 5.1 + English TrueHD Atmos 7.1] x265 B0MBARDiERS-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The Bad Guys 2 2025 2160p MA WEB-DL 10bit HEVC [Hindi DDP 5.1 + English TrueHD Atmos 7.1] x265 HONE-LUMiX\n21.06 GB",
+            "url": "https://fsl.anime4u.co/The%20Bad%20Guys%202%202025%202160p%20MA%20WEB-DL%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20HONE-LUMiX.mkv?token=1761422856",
+            "quality": "2160p",
+            "size": "21.06 GB",
+            "fileName": "The Bad Guys 2 2025 2160p MA WEB-DL 10bit HEVC [Hindi DDP 5.1 + English TrueHD Atmos 7.1] x265 HONE-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "rDwMLByE\n15.44 GB",
+            "url": "https://pixeldrain.dev/api/file/rDwMLByE?download",
+            "quality": "1080p",
+            "size": "15.44 GB",
+            "fileName": "rDwMLByE",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Bad Guys 2 2025 1080p BluRay [Hindi DDP 5.1 + English DDP 7.1] x264 ZoroSenpai-LUMiX\n15.44 GB",
+            "url": "https://fsl.anime4u.co/The%20Bad%20Guys%202%202025%201080p%20BluRay%20[Hindi%20DDP%205.1%20+%20English%20DDP%207.1]%20x264%20ZoroSenpai-LUMiX.mkv?token=1761422856",
+            "quality": "1080p",
+            "size": "15.44 GB",
+            "fileName": "The Bad Guys 2 2025 1080p BluRay [Hindi DDP 5.1 + English DDP 7.1] x264 ZoroSenpai-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "cSJypqzb\n12.2 GB",
+            "url": "https://pixeldrain.dev/api/file/cSJypqzb?download",
+            "quality": "1080p",
+            "size": "12.2 GB",
+            "fileName": "cSJypqzb",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Bad Guys 2 2025 1080p UHD BluRay DV HDR 10bit HEVC [Hindi DDP 5.1 + English DDP 7.1] x265 REBORN-LUMiX\n12.2 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The%20Bad%20Guys%202%202025%201080p%20UHD%20BluRay%20DV%20HDR%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DDP%207.1]%20x265%20REBORN-LUMiX.mkv?token=1761422856",
+            "quality": "1080p",
+            "size": "12.2 GB",
+            "fileName": "The Bad Guys 2 2025 1080p UHD BluRay DV HDR 10bit HEVC [Hindi DDP 5.1 + English DDP 7.1] x265 REBORN-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "8JWhgBN3\n7.38 GB",
+            "url": "https://pixeldrain.dev/api/file/8JWhgBN3?download",
+            "quality": "1080p",
+            "size": "7.38 GB",
+            "fileName": "8JWhgBN3",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Bad Guys 2 2025 1080p BluRay 10bit HEVC [Hindi DDP 5.1 + English DDP 5.1] x265 StOiC-LUMiX\n7.38 GB",
+            "url": "https://fsl.anime4u.co/The%20Bad%20Guys%202%202025%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DDP%205.1]%20x265%20StOiC-LUMiX.mkv?token=1761422856",
+            "quality": "1080p",
+            "size": "7.38 GB",
+            "fileName": "The Bad Guys 2 2025 1080p BluRay 10bit HEVC [Hindi DDP 5.1 + English DDP 5.1] x265 StOiC-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n7.38 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=DEgcX9pF0BSJ&n=u9hVSLCJ&fn=The%20Bad%20Guys%202%20(2025)%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DDP%205.1]%20x265%20(StOiC-LUMiX).mkv",
+            "quality": "1080p",
+            "size": "7.38 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 11
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:1175942",
+      "storedAt": 1761422855874,
+      "meta": {
+        "storedAt": 1761422855,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "1175942",
+        "imdbId": "tt30017619",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies 10bit WEBRip 6CH x265 HEVC-PSA",
+            "url": "https://a.111477.xyz/movies/The%20Bad%20Guys%202%20(2025)/The.Bad.Guys.2.2025.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
+            "quality": "1080p",
+            "size": "1.67 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Bad.Guys.2.2025.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:1175942",
+      "storedAt": 1761422859005,
+      "meta": {
+        "storedAt": 1761422859,
+        "urlCount": 16,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "1175942",
+        "imdbId": "tt30017619",
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Bad.Guys.2.2025.4K-2160p.10Bit.SDR.WEB-DL.Hindi.DDP5.1-English.DDPA5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/U7CruFYU?download",
+            "quality": "4K",
+            "size": "5.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Bad.Guys.2.2025.4K-2160p.10Bit.SDR.WEB-DL.Hindi.DDP5.1-English.DDPA5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Bad.Guys.2.2025.4K-2160p.10Bit.SDR.WEB-DL.Hindi.DDP5.1-English.DDPA5.1.HEVC.x265-HDHub4u.Ms.mkv?token=1761417905",
+            "quality": "4K",
+            "size": "5.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Bad.Guys.2.2025.4K-2160p.10Bit.SDR.WEB-DL.Hindi.DDP5.1-English.DDPA5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nkWz9b42tNCOuqNXbbWc0Al060JY07MoTT0O9VtljU41SPLDGw84ZvsPtFdMS2jZCGxPFJMwWv1Il7VZpV2S6Z2XqV9xaTWHlxHEhGupMV6q9zA9qdG04BUKLJDjtUqraHUNao8hSxSbWZ2G3rS0gEsin-tjx89h1dnMxZMjN9XBDtQ4av-8KZUiAvncz1qK0VL2W28FpT2jqH2IDkT7UoaTBycZQKCjTjk7VY5OFilhGG14LKJYKSIROND0ZQIqLzU9Mq",
+            "quality": "4K",
+            "size": "5.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Bad.Guys.2.2025.1080p.10Bit.HEVC.DS4K.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/zG5iKtK2?download",
+            "quality": "1080p",
+            "size": "1.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Bad.Guys.2.2025.1080p.10Bit.HEVC.DS4K.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Ms.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Bad.Guys.2.2025.1080p.10Bit.HEVC.DS4K.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Ms.mkv?token=1761416803",
+            "quality": "1080p",
+            "size": "1.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Bad.Guys.2.2025.1080p.10Bit.HEVC.DS4K.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kMmkNNXs9swD4NvNUvLhrF98-r4R0vIFNbY2ldR0IK0U8vDjGGQZR51qa0EP5xNSnSwoMmPUeztKM100guX67KcT2jwuhF43H6n7xbe-9G2hEOrsXG7rHWVUekdOPPGdtTjfKnRjd42HFchfwcB5pxCEauZPpYP-mFvXPO_SEoZtq6GKBbtJhyYZn_rhy0j6ntWFtdIqUhktDF5dNYT09BDOYbgYamQkja1cXb_itzHTJ0S-Q",
+            "quality": "1080p",
+            "size": "1.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Bad.Guys.2.2025.1080p.DS4K.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/7sXLV7eS?download",
+            "quality": "1080p",
+            "size": "2.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Bad.Guys.2.2025.1080p.DS4K.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Bad.Guys.2.2025.1080p.DS4K.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv?token=1761422857",
+            "quality": "1080p",
+            "size": "2.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Bad.Guys.2.2025.1080p.DS4K.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nnmgm0yMQUCCkWefYye03Peq7lzoCGaNYEWcJ2uJwntrfp1MyqfgUv88PLe6iPS9K3cS9StsWo5zKH7NuEBDwmLeAtPoOGlTheRiD--LcqgnpHdg5kgXcbA_Ene1-7EiPyN_lyyHRe6xBd1bAwtgkjVdodrxrm0QWCR8VSHm0a3MsXCApf96jCIvwyge0K1mVbCjKfgSJQlLem0UmWuPnYs9FJD6So4ym3uhyKn3cydOp05fo",
+            "quality": "1080p",
+            "size": "2.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Bad.Guys.2.2025.720p.10Bit.HEVC.DS4K.WEB-DL.Hindi.5.1-English.ESub.x265-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/TKuLCd5o?download",
+            "quality": "720p",
+            "size": "727.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Bad.Guys.2.2025.720p.10Bit.HEVC.DS4K.WEB-DL.Hindi.5.1-English.ESub.x265-HDHub4u.Ms.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Bad.Guys.2.2025.720p.10Bit.HEVC.DS4K.WEB-DL.Hindi.5.1-English.ESub.x265-HDHub4u.Ms.mkv?token=1761422857",
+            "quality": "720p",
+            "size": "727.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u S3 Server ",
+            "title": "The.Bad.Guys.2.2025.720p.10Bit.HEVC.DS4K.WEB-DL.Hindi.5.1-English.ESub.x265-HDHub4u.Ms.mkv",
+            "quality": "720p",
+            "size": "727.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Bad.Guys.2.2025.720p.10Bit.HEVC.DS4K.WEB-DL.Hindi.5.1-English.ESub.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kCh3hOG26ohPXC3UfOkAe0SarsDQLxm7ATpa5oqIleqOnw8JhtNkwN9p3yYK9QRkZlM2v-NdatreAAmPM4YtTL6sA-dHBkTGoQ8icWQvoAniCbVOMtYPRjDu_y0piCfFLh_1ml-8WpvkFNkFXWMBlDwjsF3XBBU90G0qfUWYSqDJPb0bDmedgXUdCYBAYdmU1YjVGK0P-kfBMRaiIS0jjzA5C-YfwnEUxH6ULtfuSEJGonAPI3yJl5oEm1FsdZHwYPkvbu",
+            "quality": "720p",
+            "size": "727.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Bad.Guys.2.2025.720p.10Bit.HEVC.DS4K.WEB-DL.Hindi.5.1-English.ESub.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lG8GN0GrOK2wVz2DkcFfHv2iFH7TVWR7j4eTNGFbyZZTBeGtPC3N7-xa_7WGk54lQfsz5w2cI4oRx3bKy7F0X6KXZhjKe5j1_F5SBFyU9BuFzw6jMdKnBJyGgwV7FzHOS6ST81cBK2oZc33kBnPzASn_1EVI7kJzXHy5c2C24Uy0dAoZ9KJeb7O8QNwqPByPM2LpToX0OmqcdXPYUA5X2d1xMJtuVdf17cAqDF9D3QpwIzPv1wHhK1XEDPx89OfINX7-E-",
+            "quality": "720p",
+            "size": "727.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Bad.Guys.2.2025.720p.DS4K.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/oJ68ThwJ?download",
+            "quality": "720p",
+            "size": "1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Bad.Guys.2.2025.720p.DS4K.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Bad.Guys.2.2025.720p.DS4K.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv?token=1761416465",
+            "quality": "720p",
+            "size": "1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Bad.Guys.2.2025.720p.DS4K.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2n-gLd8wqBfzf_mfLJNRnl_C4mN4QAfr2kw_05X7bZfOy29WeeKsQUN__5tZ_XeoInaLLKZDzf-Wkgh1WDABB0HD2Ir4fc53UK-VriudSYzdxtBE8k5bZpB0nFdk3nME_dTSjawE-W-OEyLOl2Xc24fIHeu1zrkzALLry9gb-pDUOC2qFEGni5qfzrj3-rip8gVhylQYpwTU8FouvvkmS3vcbsLtFEndRhkzvafjPkaNA5AQBY",
+            "quality": "720p",
+            "size": "1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 17
+      }
+    },
+    {
+      "key": "prov:moviesmod:movie:1175942",
+      "storedAt": 1761422860086,
+      "meta": {
+        "storedAt": 1761422860,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "movie",
+        "tmdbId": "1175942",
+        "imdbId": "tt30017619",
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "The Bad Guys 2 2025 1080p WEB-DL Hindi English ESubs MoviesMod cafe\n2.4GB",
+            "url": "https://worker-dark-dream-b0b2.tepeh90861.workers.dev/6c6a214515c7395588c1f4624248ffd323b8952771aafe000295b1fd1be39b5c11f6f4b01fa197c5a3f8f5ddbd0d31814e32cfec06f2756a197c4567f9187585ca51291fa2c7f56a82801815ec91e11dc4317c69ee95241c35ed43973f9c007681e5b9a5938f52dcfa514ce3ae48db2bd0ece7f6260a04c60cdd96966ec078c3222ef2b86616299304e0504537cc69a104f459155323ab367c6c0d9f2fa0a2940948f56c14bb1440aca46370d2d89ab7::85a17cb81f5037afed20d2cab8cff60b/The.Bad.Guys.2.2025.1080p.WEB-DL.Hindi.English.ESubs.MoviesMod.cafe.mkv",
+            "quality": "1080p",
+            "size": "2.4GB",
+            "fileName": "The.Bad.Guys.2.2025.1080p.WEB-DL.Hindi.English.ESubs.MoviesMod.cafe.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:1175942",
+      "storedAt": 1761422857901,
+      "meta": {
+        "storedAt": 1761422857,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "1175942",
+        "imdbId": "tt30017619",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Bad Guys 2 - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2025/TheBadGuys2.mkv",
+            "quality": "1080p",
+            "size": "1h 44m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Bad Guys 2 - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2025/TheBadGuys2.mkv",
+            "quality": "1080p",
+            "size": "1h 44m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Bad Guys 2 - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2025/TheBadGuys2.mkv",
+            "quality": "720p",
+            "size": "1h 44m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Bad Guys 2 - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2025/TheBadGuys2.mkv",
+            "quality": "720p",
+            "size": "1h 44m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:1175942",
+      "storedAt": 1761422864639,
+      "meta": {
+        "storedAt": 1761422864,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "1175942",
+        "imdbId": "tt30017619",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "The Bad Guys 2 (2025) 2160p MA WEB-DL DV HDR 10bit HEVC [Himdi DDP 5 1 + English DDP 5 1] x265 (HONE-UHDMovies)\n19.11GB",
+            "url": "https://worker-lingering-mountain-3973.hisobal231.workers.dev/a9559ee1ec77054cf9c0a821806f945a052eef906c8cbd7928edfb1d048e9e1f0824fe12948a18b476da2b54d05f2e75fe9490db71d409dc8a99cb6b971bc776b61fb8e5232cf5e60326678c507919247f8df5d4f1d1c2c71adb15988e4f8918092fa4c1145235fabcffb5a3c31b271c90e7fa9f3be4ee096aeaa8cae03dad8c3abd3b9c55afe027ef4bbc1a9e6aefa185c485c305e75ee6b9dfe75c35d3dee8a32137c719d378ad03ba99181e7e5822::ee19dd7c323690e8d2ab4aab7aacd13a/The Bad Guys 2 (2025) 2160p MA WEB-DL DV HDR 10bit HEVC [Himdi DDP 5.1  English DDP 5.1] x265 (HONE-UHDMovies).mkv",
+            "quality": "4K | HDR | DV",
+            "size": "19.11GB",
+            "fileName": "The Bad Guys 2 (2025) 2160p MA WEB-DL DV HDR 10bit HEVC [Himdi DDP 5.1 + English DDP 5.1] x265 (HONE-UHDMovies).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "The Bad Guys 2 (2025) 1080p WEB-DL 10bit HEVC [Himdi DDP 5 1 + English AAC 5 1] x265 (PSA-UHDMovies)\n2.14GB",
+            "url": "https://worker-rapid-dew-b9dc.jonovo1574.workers.dev/99da9bae427df847a616bd7443906756779d72db7b1a925aa352a76b82474426412e5098a17223e09e2b886fc2ada0ce8f74d278615fe37556f250869f2686ea77476b875b8cb120d585a4c03b14de28e351224ab8cc3b78e3d0b809820a5ab1a9d70b76237971af00b091a466c5ceff7c97e262c68530cac5dd0d8ccb0e37c8fb353f83dead39da1ce53b17d3465d70ac1986d4901eec929dc02ebb8550c5b89f4ca126d69562bf2f1cf3d6c4f0b7fd::b8c806c5db9948b17f1ac898d88a0910/The Bad Guys 2 (2025) 1080p WEB-DL 10bit HEVC [Himdi DDP 5.1  English AAC 5.1] x265 (PSA-UHDMovies).mkv",
+            "quality": "1080p",
+            "size": "2.14GB",
+            "fileName": "The Bad Guys 2 (2025) 1080p WEB-DL 10bit HEVC [Himdi DDP 5.1 + English AAC 5.1] x265 (PSA-UHDMovies).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:1637",
+      "storedAt": 1761422868763,
+      "meta": {
+        "storedAt": 1761422868,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1637",
+        "imdbId": "tt0111257",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/284042?token=6fc30f0139e4aaa179e7ee5b1e192d3f&expires=1766606868&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1668:s9e19",
+      "storedAt": 1761422868022,
+      "meta": {
+        "storedAt": 1761422868,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1668",
+        "imdbId": "tt0108778",
+        "season": 9,
+        "episode": 19,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DV HDR10][10bit][x265][DTS-HD MA 5 1]-SEGMENT",
+            "url": "https://a.111477.xyz/tvs/Friends/Season%209/Friends%20(1994)%20-%20S09E19%20-%20The%20One%20with%20Rachels%20Dream%20[Bluray-2160p][DV%20HDR10][10bit][x265][DTS-HD%20MA%205.1]-SEGMENT.mkv",
+            "quality": "2160p | DV | HDR",
+            "size": "6.10 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Friends (1994) - S09E19 - The One with Rachels Dream [Bluray-2160p][DV HDR10][10bit][x265][DTS-HD MA 5.1]-SEGMENT.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Bluray REMUX AVC DD 5 1-4K4U",
+            "url": "https://a.111477.xyz/tvs/Friends/Season%209/Friends.S09E19.The.One.With.Rachel",
+            "quality": "1080p | REMUX",
+            "size": "2.74 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Friends.S09E19.The.One.With.Rachel&#x27;s.Dream.1080p.Bluray.REMUX.AVC.DD.5.1-4K4U.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Friends (1994) - S09E19 - The One with Rachels Dream [DVD][MP3 2.0][XviD]-Saints.avi",
+            "url": "https://a.111477.xyz/tvs/Friends/Season%209/Friends%20(1994)%20-%20S09E19%20-%20The%20One%20with%20Rachels%20Dream%20[DVD][MP3%202.0][XviD]-Saints.avi",
+            "quality": "Unknown | DV",
+            "size": "233.04 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Friends (1994) - S09E19 - The One with Rachels Dream [DVD][MP3 2.0][XviD]-Saints.avi"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1668:s9e19",
+      "storedAt": 1761422871672,
+      "meta": {
+        "storedAt": 1761422871,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1668",
+        "imdbId": "tt0108778",
+        "season": 9,
+        "episode": 19,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Friends S9E19 - 19. The One with Rachel's Dream",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/friends/s9/Friends S09E19.720p.BluRay.2CH.x265LK.HEVC.mkv",
+            "quality": "1080p",
+            "size": "25min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Friends S9E19 - 19. The One with Rachel's Dream",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/friends/s9/Friends S09E19.720p.BluRay.2CH.x265LK.HEVC.mkv",
+            "quality": "1080p",
+            "size": "25min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:269:s7e10",
+      "storedAt": 1761422845115,
+      "meta": {
+        "storedAt": 1761422845,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "269",
+        "imdbId": "tt0368530",
+        "season": 7,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/322067?token=70e1fb112090ebd8d5d4101d4ecedc8e&expires=1766606844&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-25T20:07:58.314Z",
+    "totalOriginalEntries": 11,
+    "newItemsInThisBatch": 11,
+    "format": "compact_v1"
+  }
+}
