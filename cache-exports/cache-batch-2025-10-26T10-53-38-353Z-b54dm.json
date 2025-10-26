@@ -1,0 +1,489 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:298618",
+      "storedAt": 1761475648754,
+      "meta": {
+        "storedAt": 1761475648,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "298618",
+        "imdbId": "tt0439572",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/164477?token=26aed577b67838023bd36ce4558e391f&expires=1766659648&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1396:s5e12",
+      "storedAt": 1761475959922,
+      "meta": {
+        "storedAt": 1761475959,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 5,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/278744?token=6e7769d486c0998c093a0665e031bef4&expires=1766659959&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:1398:s6e3",
+      "storedAt": 1761475565858,
+      "meta": {
+        "storedAt": 1761475565,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "1398",
+        "imdbId": "tt0141842",
+        "season": 6,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "NYQtLKsz\n6 GB",
+            "url": "https://pixeldrain.net/api/file/NYQtLKsz",
+            "quality": "1080p",
+            "size": "6 GB",
+            "fileName": "NYQtLKsz",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "FaupWk5A\n11.65 GB",
+            "url": "https://pixeldrain.net/api/file/FaupWk5A",
+            "quality": "1080p",
+            "size": "11.65 GB",
+            "fileName": "FaupWk5A",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1398:s6e3",
+      "storedAt": 1761475565258,
+      "meta": {
+        "storedAt": 1761475565,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1398",
+        "imdbId": "tt0141842",
+        "season": 6,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 5 1][x265]",
+            "url": "https://a.111477.xyz/tvs/The%20Sopranos/Season%206/The%20Sopranos%20(1999)%20-%20S06E03%20-%20Mayham%20[Bluray-1080p][AAC%205.1][x265].mp4",
+            "quality": "1080p",
+            "size": "895.83 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Sopranos (1999) - S06E03 - Mayham [Bluray-1080p][AAC 5.1][x265].mp4"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DTS-HD MA 5 1][HEVC]-d3g",
+            "url": "https://a.111477.xyz/tvs/The%20Sopranos/Season%206/The%20Sopranos%20(1999)%20-%20S06E03%20-%20Mayham%20[Bluray-1080p][DTS-HD%20MA%205.1][HEVC]-d3g.mkv",
+            "quality": "1080p",
+            "size": "5.81 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Sopranos (1999) - S06E03 - Mayham [Bluray-1080p][DTS-HD MA 5.1][HEVC]-d3g.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1398:s6e3",
+      "storedAt": 1761475568519,
+      "meta": {
+        "storedAt": 1761475568,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1398",
+        "imdbId": "tt0141842",
+        "season": 6,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Sopranos S6E3 - 3. Mayham",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/sopranos/s6/Sopranos.S06E03.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "56min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Sopranos S6E3 - 3. Mayham",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/sopranos/s6/Sopranos.S06E03.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "56min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:1398:s6e3",
+      "storedAt": 1761475569340,
+      "meta": {
+        "storedAt": 1761475569,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "1398",
+        "imdbId": "tt0141842",
+        "season": 6,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "The Sopranos (1999) - S06E03 - Mayham (1080p BluRay x265 ImE)\n2.03GB",
+            "url": "https://worker-fancy-flower-bfe1.daxop18442.workers.dev/a3e1f326898b178bcd9011eb2733c03f850af0afae60b18898f33c25adf209e1cf5838a5d5005bd2bea49060489601314ce13b6049c0978cf728f72fb832a6f175806715a60f43b84f2b7a7021e73c706730a26ddff0fcde4cbef967cc6d0b6f949e481f6ba52fed77d722cf66c20d294ba8a15f3eb544efbf3df7ec7325aa80fd2906285d9ed3226d19faa753a37ba8d34f59e225155eeff7961078b2625b3864a9572a2eaa40c2bc38cdc6a4a7ee73::d9ca7e9e3f9f767796b298d5d3ef3418/The Sopranos (1999) - S06E03 - Mayham (1080p BluRay x265 ImE).mkv",
+            "quality": "Unknown Quality",
+            "size": "2.03GB",
+            "fileName": "The Sopranos (1999) - S06E03 - Mayham (1080p BluRay x265 ImE).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1416:s6e2",
+      "storedAt": 1761475631342,
+      "meta": {
+        "storedAt": 1761475631,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1416",
+        "imdbId": "tt0413573",
+        "season": 6,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/192903?token=b83faed4ba3bc7630de83fd4292e1806&expires=1766659631&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2004:s6e17",
+      "storedAt": 1761475601082,
+      "meta": {
+        "storedAt": 1761475601,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2004",
+        "imdbId": "tt0212671",
+        "season": 6,
+        "episode": 17,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/194486?token=e11f658b59fe7d6e6923e751ce7bcc33&expires=1766659600&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:219543:s1e3",
+      "storedAt": 1761475707646,
+      "meta": {
+        "storedAt": 1761475707,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "219543",
+        "imdbId": "tt26545355",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/353652?token=bb88ee7282a1ef864d29f4a29e5b94e5&expires=1766659707&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:46896:s4e10",
+      "storedAt": 1761475993677,
+      "meta": {
+        "storedAt": 1761475993,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "46896",
+        "imdbId": "tt2632424",
+        "season": 4,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/171988?token=db9734169966fb4f0f2a9be1010256d0&expires=1766659993&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:55866:s1e3",
+      "storedAt": 1761475777629,
+      "meta": {
+        "storedAt": 1761475777,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "55866",
+        "imdbId": "tt2819924",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/240314?token=540c11fc070f188d8df0fcf9035281bd&expires=1766659777&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61692:s1e9",
+      "storedAt": 1761475892344,
+      "meta": {
+        "storedAt": 1761475892,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61692",
+        "imdbId": "tt3551096",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/272273?token=a5aac9ab44bc34d52f65dee40d47367e&expires=1766659892&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:66558:s2e5",
+      "storedAt": 1761475706286,
+      "meta": {
+        "storedAt": 1761475706,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "66558",
+        "imdbId": "tt5580664",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/310067?token=f1315ba88b3f9df097a7a4cd8b886ed0&expires=1766659705&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:81144:s3e13",
+      "storedAt": 1761475996935,
+      "meta": {
+        "storedAt": 1761475996,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "81144",
+        "imdbId": "tt7942794",
+        "season": 3,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/271027?token=d8e5d2b9b4d5ba475fea1679d8aaecc7&expires=1766659996&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-26T10:53:38.354Z",
+    "totalOriginalEntries": 14,
+    "newItemsInThisBatch": 14,
+    "format": "compact_v1"
+  }
+}
