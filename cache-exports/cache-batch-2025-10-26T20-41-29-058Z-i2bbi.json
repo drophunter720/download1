@@ -1,0 +1,944 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:13159",
+      "storedAt": 1761510861148,
+      "meta": {
+        "storedAt": 1761510861,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "13159",
+        "imdbId": "tt0791304",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/60105?token=21c871b93c58385ad8c121e4fbd0dbef&expires=1766694860&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:1380895",
+      "storedAt": 1761510835792,
+      "meta": {
+        "storedAt": 1761510835,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1380895",
+        "imdbId": "tt31988779",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "vR4qi9JD\n17.3 GB",
+            "url": "https://pixeldrain.dev/api/file/vR4qi9JD?download",
+            "quality": "1080p",
+            "size": "17.3 GB",
+            "fileName": "vR4qi9JD",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "WWE.Evolution.2025.1080p.NF.WEB-DL.DUAL.AAC2.0.HFR.H.265-4kHdHub.Com\n17.3 GB",
+            "url": "https://fsl.anime4u.co/WWE.Evolution.2025.1080p.NF.WEB-DL.DUAL.AAC2.0.HFR.H.265-4kHdHub.Com.mkv?token=1761510835",
+            "quality": "1080p",
+            "size": "17.3 GB",
+            "fileName": "WWE.Evolution.2025.1080p.NF.WEB-DL.DUAL.AAC2.0.HFR.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "9Rk15kJH\n14.47 GB",
+            "url": "https://pixeldrain.dev/api/file/9Rk15kJH?download",
+            "quality": "1080p",
+            "size": "14.47 GB",
+            "fileName": "9Rk15kJH",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "WWE.Evolution.2025.1080p.NF.WEB-DL.DUAL.AAC2.0.H.264-4kHdHub.Com\n14.47 GB",
+            "url": "https://fsl.anime4u.co/WWE.Evolution.2025.1080p.NF.WEB-DL.DUAL.AAC2.0.H.264-4kHdHub.Com.mkv?token=1761510835",
+            "quality": "1080p",
+            "size": "14.47 GB",
+            "fileName": "WWE.Evolution.2025.1080p.NF.WEB-DL.DUAL.AAC2.0.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:1380895",
+      "storedAt": 1761510837239,
+      "meta": {
+        "storedAt": 1761510837,
+        "urlCount": 12,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "1380895",
+        "imdbId": "tt31988779",
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Sweet.River.2020.1080p.Web-DL.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/api/file/xtRJVyJV?download",
+            "quality": "1080p",
+            "size": "1.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Sweet.River.2020.1080p.Web-DL.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://fsl.anime4u.co/Sweet.River.2020.1080p.Web-DL.Hindi.English.DD2.0.x264.ESubs.mkv?token=1761506882",
+            "quality": "1080p",
+            "size": "1.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Sweet.River.2020.1080p.Web-DL.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2m4_vJ2V7IcYFISrS52mwNF5FgWXRxnNaMdb2qQJnY_h4cMRH_twKOeZPPwBBLfHwgXdx34A7PeBgnPQ3Wkx34beNPeg6pfCiEu7zI_UpqWSXMR17ZJiEWaCCsZpqyYoAGKQvbmmrMAzphoJqJrH_7iAKJMLCZ10WwA19i-9faNhLxSW76wvcGODhgqeKvY7kItV8BHamtgjYfew2Au911oA0P5gs-v_ahmRMSZDjR1mHLaNyomZvgEVben9rKdYz9AmlUD",
+            "quality": "1080p",
+            "size": "1.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Sweet.River.2020.1080p.Web-DL.Hindi.English.DD2.0.x264.ESubs.Untouch.mkv",
+            "url": "https://pixeldrain.dev/api/file/5apu4BCZ?download",
+            "quality": "1080p",
+            "size": "6.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Sweet.River.2020.1080p.Web-DL.Hindi.English.DD2.0.x264.ESubs.Untouch.mkv",
+            "url": "https://fsl.anime4u.co/Sweet.River.2020.1080p.Web-DL.Hindi.English.DD2.0.x264.ESubs.Untouch.mkv?token=1761510835",
+            "quality": "1080p",
+            "size": "6.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Sweet.River.2020.1080p.Web-DL.Hindi.English.DD2.0.x264.ESubs.Untouch.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kdRZ371kzFyGlqNErdZCveFtH7urZAOt-OIm1C8g8Nhxisp_Vt6jHgdlQS51O9u7wpR7CKWuCXzDzbHwzXnkW9ooqNAYfaQVxwvN_RAmQg4MSl_oEDDrenk5nJhWLbjGrpfwZHZEVjPejyEPZ_UJCgmHIgI5FRAP8_u-WHwY_TLvxXf0brANZQfdlZDRZjrGm2TTzNg2Z6dDyvrLY9tCY9bI9oxpWK93gTtgaPyr6aR5cAmGcSqjrugQR8L1QdaTJQpRte",
+            "quality": "1080p",
+            "size": "6.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Sweet.River.2020.720p.Web-DL.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/api/file/B9S91JpA?download",
+            "quality": "720p",
+            "size": "1007.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Sweet.River.2020.720p.Web-DL.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://fsl.anime4u.co/Sweet.River.2020.720p.Web-DL.Hindi.English.DD2.0.x264.ESubs.mkv?token=1761504217",
+            "quality": "720p",
+            "size": "1007.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Sweet.River.2020.720p.Web-DL.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nAWCc16BOv0fAD2OW4JCbAcM7LVaAV0QSrVUu3eFC5YZsxLE3tuCKW3wqHddVNSIUQ6ISn8HLGEUH_Kfvw2gHvKmy1fkSEtRWLYcGtw20tdSFfB-Shz2lQCgHJX5hpQ2GuyABshqaXFwnpXAHXjzLWs7SniklSeInUZdtZ1GuNIejzAhWQbSsLzJrg1eHqPMhCiMOKxlJuPc-aqe75YyicZQfnm898ua5rOzIa3fdrIrgTCzgiOSU1FtmvwySAxPlXJm4i",
+            "quality": "720p",
+            "size": "1007.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Sweet.River.2020.480p.Web-DL.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/api/file/E7QYHLyc?download",
+            "quality": "480p",
+            "size": "451.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Sweet.River.2020.480p.Web-DL.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://fsl.anime4u.co/Sweet.River.2020.480p.Web-DL.Hindi.English.DD2.0.x264.ESubs.mkv?token=1761510836",
+            "quality": "480p",
+            "size": "451.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u S3 Server ",
+            "title": "Sweet.River.2020.480p.Web-DL.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "quality": "480p",
+            "size": "451.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Sweet.River.2020.480p.Web-DL.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kASdruiMcLDunMtHfMdytkVrjyxoCNyp5shcrOWNFECBzr6EfOkyI-flgd7I0X5hLY-xPGdbyW0xaFM5A6D9M4ZqNp3trBxaZsV_dccFX81YT6onjZ-x2pAHmZ2NoaovA0xZkF71Dx8FuvUIMDy4AxydvDlXz_r-6sTVz8lOSj70T_bk166g6z6zWCo359qHIkyunqalSPH1at6fu4F586z9KSlN4GNBwM0NFpTCqrs7x4WuWhYH_jlWMQD5mwX_FAF-h0",
+            "quality": "480p",
+            "size": "451.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 13
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:801335",
+      "storedAt": 1761510809056,
+      "meta": {
+        "storedAt": 1761510809,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "801335",
+        "imdbId": "tt13269536",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/442220?token=a386f00d9018ca36c181d9167679be19&expires=1766694808&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:125935:s4e14",
+      "storedAt": 1761511008646,
+      "meta": {
+        "storedAt": 1761511008,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "125935",
+        "imdbId": "tt14218830",
+        "season": 4,
+        "episode": 14,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/306741?token=35f6dfca1e910be932cb2737e6f6202b&expires=1766695008&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:157741:s1e9",
+      "storedAt": 1761511250685,
+      "meta": {
+        "storedAt": 1761511250,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "157741",
+        "imdbId": "tt14186672",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/278263?token=01b850d54590bfaf9095d7d0f569f8f5&expires=1766695250&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1622:s9e11",
+      "storedAt": 1761511245005,
+      "meta": {
+        "storedAt": 1761511244,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1622",
+        "imdbId": "tt0460681",
+        "season": 9,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265-KONTRAST",
+            "url": "https://a.111477.xyz/tvs/Supernatural/Season%209/Supernatural.S09E11.1080p.BluRay.x265-KONTRAST.mp4",
+            "quality": "1080p",
+            "size": "685.66 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Supernatural.S09E11.1080p.BluRay.x265-KONTRAST.mp4"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1622:s9e11",
+      "storedAt": 1761511250541,
+      "meta": {
+        "storedAt": 1761511250,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1622",
+        "imdbId": "tt0460681",
+        "season": 9,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Supernatural S9E11 - 11. First Born",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/supernatural/s9/Supernatural.S09.E11.BluRay.720p.English.AAC.5.1.x264.ESub.mkv",
+            "quality": "1080p",
+            "size": "42min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Supernatural S9E11 - 11. First Born",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/supernatural/s9/Supernatural.S09.E11.BluRay.720p.English.AAC.5.1.x264.ESub.mkv",
+            "quality": "1080p",
+            "size": "42min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1668:s1e11",
+      "storedAt": 1761511206604,
+      "meta": {
+        "storedAt": 1761511206,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1668",
+        "imdbId": "tt0108778",
+        "season": 1,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/176259?token=2e0a2a953fdbbfb847edebdb1814da16&expires=1766695206&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:211698:s1e1",
+      "storedAt": 1761511000240,
+      "meta": {
+        "storedAt": 1761511000,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "211698",
+        "imdbId": "tt11714672",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/223678?token=2ceb801b0250d8b0cfdeb408f5361a52&expires=1766694999&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2288:s2e14",
+      "storedAt": 1761511206957,
+      "meta": {
+        "storedAt": 1761511206,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2288",
+        "imdbId": "tt0455275",
+        "season": 2,
+        "episode": 14,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/314956?token=23799f82ba11f504d989e7827d340eb7&expires=1766695206&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:43856:s2e7",
+      "storedAt": 1761511230577,
+      "meta": {
+        "storedAt": 1761511230,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "43856",
+        "imdbId": "tt2295809",
+        "season": 2,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/250346?token=74134c47957afda5733a518b1e687c73&expires=1766695230&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:46533:s1e7",
+      "storedAt": 1761511143675,
+      "meta": {
+        "storedAt": 1761511143,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "46533",
+        "imdbId": "tt2149175",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/229408?token=753fa00a446dc21920fc5b02e2a02664&expires=1766695143&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:5920:s5e11",
+      "storedAt": 1761510979370,
+      "meta": {
+        "storedAt": 1761510979,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "5920",
+        "imdbId": "tt1196946",
+        "season": 5,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/315179?token=19d8ce8a0150756fe001daf1ed0e0a07&expires=1766694979&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:615:s10e4",
+      "storedAt": 1761511106253,
+      "meta": {
+        "storedAt": 1761511106,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "615",
+        "imdbId": "tt0149460",
+        "season": 10,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/192714?token=dd1a65da9530425785b5eb7204a6fcf2&expires=1766695106&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:655:s6e1",
+      "storedAt": 1761511000075,
+      "meta": {
+        "storedAt": 1761511000,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "655",
+        "imdbId": "tt0092455",
+        "season": 6,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/258847?token=06fbb45b47d397d126e6445967070906&expires=1766694999&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:655:s6e2",
+      "storedAt": 1761511221318,
+      "meta": {
+        "storedAt": 1761511221,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "655",
+        "imdbId": "tt0092455",
+        "season": 6,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/258848?token=2b257db34e6f9212e51b398d8baf072a&expires=1766695221&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:68073:s6e15",
+      "storedAt": 1761511246431,
+      "meta": {
+        "storedAt": 1761511246,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "68073",
+        "imdbId": "tt4859164",
+        "season": 6,
+        "episode": 15,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/324848?token=45e90df5d3d8926cc13cc1a81b805382&expires=1766695246&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:693:s2e16",
+      "storedAt": 1761510983187,
+      "meta": {
+        "storedAt": 1761510983,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "693",
+        "imdbId": "tt0410975",
+        "season": 2,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/201208?token=f40cbd162e262da0b04887cabd31b381&expires=1766694982&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:71446:s1e12",
+      "storedAt": 1761510851492,
+      "meta": {
+        "storedAt": 1761510851,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "71446",
+        "imdbId": "tt6468322",
+        "season": 1,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/278801?token=5b5aa43c38544ded136823105d99b9ef&expires=1766694851&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:73544:s1e6",
+      "storedAt": 1761511273624,
+      "meta": {
+        "storedAt": 1761511273,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "73544",
+        "imdbId": "tt5743796",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/269637?token=6a666bb51686ece294ac27d6abd1b928&expires=1766695273&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:95171:s2e1",
+      "storedAt": 1761511215061,
+      "meta": {
+        "storedAt": 1761511215,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "95171",
+        "imdbId": "tt10324164",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/227151?token=b72433e38aa456ab050d6a3cbed8231f&expires=1766695214&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:95:s2e8",
+      "storedAt": 1761511145602,
+      "meta": {
+        "storedAt": 1761511145,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "95",
+        "imdbId": "tt0118276",
+        "season": 2,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/116526?token=d49757a81f3235ffd6333b650b07d69b&expires=1766695145&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-26T20:41:29.059Z",
+    "totalOriginalEntries": 23,
+    "newItemsInThisBatch": 23,
+    "format": "compact_v1"
+  }
+}
