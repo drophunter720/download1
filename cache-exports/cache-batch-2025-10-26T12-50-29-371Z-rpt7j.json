@@ -1,0 +1,692 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:10330",
+      "storedAt": 1761482967907,
+      "meta": {
+        "storedAt": 1761482967,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "10330",
+        "imdbId": "tt0322330",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/333166?token=464c935d58951e517bf3d7d4ce126227&expires=1766666967&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:360814",
+      "storedAt": 1761482899148,
+      "meta": {
+        "storedAt": 1761482899,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "360814",
+        "imdbId": "tt5074352",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Passengers 2016 2160p 10bit HDR BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English TrueHD Atmos 7.1] ESub-W4NK3R-4kHdHub\n31.3 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Passengers%202016%202160p%2010bit%20HDR%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20TrueHD%20Atmos%207.1]%20ESub-W4NK3R-4kHdHub.mkv?token=1761482898",
+            "quality": "2160p",
+            "size": "31.3 GB",
+            "fileName": "Passengers 2016 2160p 10bit HDR BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English TrueHD Atmos 7.1] ESub-W4NK3R-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Passengers 2016 2160p 10bit MA WEB-DL HEVC x265 [Hindi NF DDP 5.1 640kbps + English TrueHD Atmos 7.1] ESub-Tyrell-4kHdHub\n24.14 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Passengers%202016%202160p%2010bit%20MA%20WEB-DL%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20TrueHD%20Atmos%207.1]%20ESub-Tyrell-4kHdHub.mkv?token=1761482898",
+            "quality": "2160p",
+            "size": "24.14 GB",
+            "fileName": "Passengers 2016 2160p 10bit MA WEB-DL HEVC x265 [Hindi NF DDP 5.1 640kbps + English TrueHD Atmos 7.1] ESub-Tyrell-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Q1daUMYu\n13.95 GB",
+            "url": "https://pixeldrain.dev/api/file/Q1daUMYu?download",
+            "quality": "1080p",
+            "size": "13.95 GB",
+            "fileName": "Q1daUMYu",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Passengers 2016 DS4K 1080p MA WEBRip x264 [Hindi NF DDP 5.1 640kbps + English DDP 7.1] ESub-ZoroSenpai-4kHdHub\n13.95 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Passengers%202016%20DS4K%201080p%20MA%20WEBRip%20x264%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DDP%207.1]%20ESub-ZoroSenpai-4kHdHub.mkv?token=1761482899",
+            "quality": "1080p",
+            "size": "13.95 GB",
+            "fileName": "Passengers 2016 DS4K 1080p MA WEBRip x264 [Hindi NF DDP 5.1 640kbps + English DDP 7.1] ESub-ZoroSenpai-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "yeLM5dkX\n11.04 GB",
+            "url": "https://pixeldrain.dev/api/file/yeLM5dkX?download",
+            "quality": "1080p",
+            "size": "11.04 GB",
+            "fileName": "yeLM5dkX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Passengers 2016 UHD 1080p 10bit HDR BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English DDP 7.1] ESub-DON-4kHdHub\n11.04 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Passengers%202016%20UHD%201080p%2010bit%20HDR%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DDP%207.1]%20ESub-DON-4kHdHub.mkv?token=1761482898",
+            "quality": "1080p",
+            "size": "11.04 GB",
+            "fileName": "Passengers 2016 UHD 1080p 10bit HDR BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English DDP 7.1] ESub-DON-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "qASR4NQn\n4.28 GB",
+            "url": "https://pixeldrain.dev/api/file/qASR4NQn?download",
+            "quality": "1080p",
+            "size": "4.28 GB",
+            "fileName": "qASR4NQn",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Passengers 2016 1080p BluRay 10Bit HEVC x265 [Hindi DDP 5.1  English DD 5.1] ESub-imSamirOFFICIAL-4kHdHub\n4.28 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Passengers%202016%201080p%20BluRay%2010Bit%20HEVC%20x265%20[Hindi%20DDP%205.1%20%20English%20DD%205.1]%20ESub-imSamirOFFICIAL-4kHdHub.mkv?token=1761482899",
+            "quality": "1080p",
+            "size": "4.28 GB",
+            "fileName": "Passengers 2016 1080p BluRay 10Bit HEVC x265 [Hindi DDP 5.1  English DD 5.1] ESub-imSamirOFFICIAL-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:360814",
+      "storedAt": 1761482898718,
+      "meta": {
+        "storedAt": 1761482898,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "360814",
+        "imdbId": "tt5074352",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DTS x264-PRoDJi",
+            "url": "https://a.111477.xyz/movies/Dangal%20(2016)/Dangal.2016.BluRay.1080p.DTS.x264-PRoDJi.mkv",
+            "quality": "1080p",
+            "size": "10.78 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Dangal.2016.BluRay.1080p.DTS.x264-PRoDJi.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:360814",
+      "storedAt": 1761482900882,
+      "meta": {
+        "storedAt": 1761482900,
+        "urlCount": 12,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "360814",
+        "imdbId": "tt5074352",
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Dangal.2016.1080p.HEVC.Hindi.BluRay.5.1.ESub.x265-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/4XWEhEz7?download",
+            "quality": "1080p",
+            "size": "2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Dangal.2016.1080p.HEVC.Hindi.BluRay.5.1.ESub.x265-HDHub4u.Ms.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Dangal.2016.1080p.HEVC.Hindi.BluRay.5.1.ESub.x265-HDHub4u.Ms.mkv?token=1761477760",
+            "quality": "1080p",
+            "size": "2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Dangal.2016.1080p.HEVC.Hindi.BluRay.5.1.ESub.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lB36kZO1WxIqzmtkZ_OTug-Tg65rCzTZP1sLByU-IrjZgexl2diys33ZpCZA8lubQ1kpEY1xYvQpOXkktdmxB_ZLls9zpAIX4xh7g_Rfay5jJyYmNUCDZmXyV57MfPEBgx76QelpjO2xUSG4EBODYIx1Sv87UREo5DAgCwjts44oD8WsdY_yBdOeEuzeYqTRnWJPhJhcM5vyH-ncmKAfsRypeMDl7QJdGAjPgX1V5Y9uonj5LvitEJZ28ynkqctCbfaEqj",
+            "quality": "1080p",
+            "size": "2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Dangal.2016.1080p.Hindi.BluRay.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/Z2bmngsi?download",
+            "quality": "1080p",
+            "size": "3.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Dangal.2016.1080p.Hindi.BluRay.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Dangal.2016.1080p.Hindi.BluRay.5.1.ESub.x264-HDHub4u.Ms.mkv?token=1761480706",
+            "quality": "1080p",
+            "size": "3.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Dangal.2016.1080p.Hindi.BluRay.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mduTZ6WcPpRWZKiqM_yP9qAGa3PHUjC4FkVhz7AxoUpZ8KHZTvfhkrHpqG0f5SNKi5FDGNlcxTUSLIRdJ5rZA0gR7VPdfzB40UV7R1Nkxg84JIvSEG_VOfovIb0dvug9xN40ETqs-8F2UplGArc2OQ9Ug92GFiZH_54VaQhN5a50VOFxucmHHdYmMsGQTexwkCHg6ch8cWKu6u8ic5CWrswZmuikKury4bcEosbe8g8lQNQe0",
+            "quality": "1080p",
+            "size": "3.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Dangal.2016.1080p.Hindi.BluRay.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lKHCtr0O3vHCXewkakpp8uIVwMHPf3FYHMGfVkeSLNQzzM0HZtFVTuvO67yFvdnlymIUQPmeZijTXyVHrArKdl3eWlvoHAad9xrCL-b_bHWmdObCLg_j-9RGLNg7h5yzCVRW0WZ_W_1y1fHfroKr3W0BK2ew0l8Zj0pWCOxmI1-BOgQXbeECy7h3h7IlLY4Q08-rH8RZ0lBMZILUTRvHHBnp4FWxclccz5oq-dTlsI9X5Lm4M",
+            "quality": "1080p",
+            "size": "3.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Dangal.2016.720p.HEVC.Hindi.BluRay.5.1.ESub.x265-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/uzkj3SuM?download",
+            "quality": "720p",
+            "size": "961.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Dangal.2016.720p.HEVC.Hindi.BluRay.5.1.ESub.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kGXCR_Mhmudkvqd-zm0q5KlsnjLqT7NSISBM9KhU-El8_uVnId576t5azvUrHihGdoKR9OODQkx-XdphhpgAzhcM5PodunF-StGrJjHCcHhibxT-w9M6EpOMw5-uHl9WeEXordJvGuR1BsvOBMr1ITGSxcE7cu_KXLAw7KKPBgTpuBjKAAKTC6KOsD6LJ9GA1K1nDWg7KRH0x_0cvBYZZbGbgJV9Gx3rMbkATwHI_m98vfTCgIIXKGELh5dFyyETWOMKU_",
+            "quality": "720p",
+            "size": "961.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Dangal.2016.720p.Hindi.BluRay.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/XKBnHjWr?download",
+            "quality": "720p",
+            "size": "1.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Dangal.2016.720p.Hindi.BluRay.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Dangal.2016.720p.Hindi.BluRay.5.1.ESub.x264-HDHub4u.Ms.mkv?token=1761479823",
+            "quality": "720p",
+            "size": "1.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u S3 Server ",
+            "title": "Dangal.2016.720p.Hindi.BluRay.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "quality": "720p",
+            "size": "1.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Dangal.2016.720p.Hindi.BluRay.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nPmKUgRaWIUvUDdtBORkc4wuT7SI2KimgIaCxMWOZraXQIhNwSydIGr_CA5ep9kjA4N6dcI_bxstkDoG6fhhhDy6yKuu2pm1-maTgGwfRQm75tyWceeeyzppwemaoiv3UStOegzBXxWRK_5-c0dVUCpHtoflsGJQ4ZUAi-DDQ-b6aYJv84Qq5MqJPaNtLTfYofkbPAYTbkBVOnMjG1rRxLCq3YFM1NbkrUlxCzJwISja7vR6T1t03mTeEJN1GyL51thBct",
+            "quality": "720p",
+            "size": "1.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 13
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:360814",
+      "storedAt": 1761482898428,
+      "meta": {
+        "storedAt": 1761482898,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "360814",
+        "imdbId": "tt5074352",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Dangal - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2016/dangal.mkv",
+            "quality": "1080p",
+            "size": "2h 41m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Dangal - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2016/dangal.mkv",
+            "quality": "1080p",
+            "size": "2h 41m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Dangal - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2016/dangal.mkv",
+            "quality": "720p",
+            "size": "2h 41m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Dangal - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2016/dangal.mkv",
+            "quality": "720p",
+            "size": "2h 41m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:4105",
+      "storedAt": 1761483024291,
+      "meta": {
+        "storedAt": 1761483024,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "4105",
+        "imdbId": "tt0096933",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/325035?token=c580cf3c60633338f98b823720b996a7&expires=1766667023&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1412:s1e10",
+      "storedAt": 1761482681865,
+      "meta": {
+        "storedAt": 1761482681,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1412",
+        "imdbId": "tt2193021",
+        "season": 1,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/317211?token=b3a75915b89510d9300ace0fb4b8d501&expires=1766666681&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:15260:s6e13",
+      "storedAt": 1761482737671,
+      "meta": {
+        "storedAt": 1761482737,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "15260",
+        "imdbId": "tt1305826",
+        "season": 6,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/132605?token=e3b323fdba4a99cc3cea35b38cfc5f70&expires=1766666737&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2316:s6e4",
+      "storedAt": 1761482849705,
+      "meta": {
+        "storedAt": 1761482849,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2316",
+        "imdbId": "tt0386676",
+        "season": 6,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/186504?token=53b5d6d57dc6906208fc2ccdb9c8adcd&expires=1766666849&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2734:s2e14",
+      "storedAt": 1761482889906,
+      "meta": {
+        "storedAt": 1761482889,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2734",
+        "imdbId": "tt0203259",
+        "season": 2,
+        "episode": 14,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/228748?token=4cb00d0b171e176ccd273210d86b175c&expires=1766666889&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:3172:s4e6",
+      "storedAt": 1761482844855,
+      "meta": {
+        "storedAt": 1761482844,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "3172",
+        "imdbId": "tt0972412",
+        "season": 4,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/197046?token=8116b84a2ae1c8985afa5f81cf0bef5b&expires=1766666844&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:39340:s2e18",
+      "storedAt": 1761482780532,
+      "meta": {
+        "storedAt": 1761482780,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "39340",
+        "imdbId": "tt1845307",
+        "season": 2,
+        "episode": 18,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/249920?token=ec66b01a12e98218ef76d6b6f39eaef8&expires=1766666780&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61692:s3e13",
+      "storedAt": 1761482549369,
+      "meta": {
+        "storedAt": 1761482549,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61692",
+        "imdbId": "tt3551096",
+        "season": 3,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/272396?token=a169327a51c41ee57de56ce78eefef23&expires=1766666549&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-26T12:50:29.371Z",
+    "totalOriginalEntries": 13,
+    "newItemsInThisBatch": 13,
+    "format": "compact_v1"
+  }
+}
