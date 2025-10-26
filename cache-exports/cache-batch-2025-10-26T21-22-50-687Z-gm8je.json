@@ -1,0 +1,575 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:1071715",
+      "storedAt": 1761513315548,
+      "meta": {
+        "storedAt": 1761513315,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1071715",
+        "imdbId": "tt16982622",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/393394?token=42c37d4d83dbffad1fb95213250ffa3a&expires=1766697314&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:133174:s3e5",
+      "storedAt": 1761513290682,
+      "meta": {
+        "storedAt": 1761513290,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "133174",
+        "imdbId": "tt14321632",
+        "season": 3,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/431987?token=a2fdd65bee0e0af567ae1c18b2adaf66&expires=1766697290&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1416:s2e3",
+      "storedAt": 1761513691996,
+      "meta": {
+        "storedAt": 1761513691,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1416",
+        "imdbId": "tt0413573",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/192807?token=d9a9abb0f73220d083a07df31c38a346&expires=1766697691&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1416:s9e11",
+      "storedAt": 1761513419532,
+      "meta": {
+        "storedAt": 1761513419,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1416",
+        "imdbId": "tt0413573",
+        "season": 9,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/192982?token=63b865a37800886a239e96f1591db52c&expires=1766697419&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:225180:s1e1",
+      "storedAt": 1761513475436,
+      "meta": {
+        "storedAt": 1761513475,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "225180",
+        "imdbId": "tt13309742",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "EG26BTLi\n2.74 GB",
+            "url": "https://pixeldrain.dev/api/file/EG26BTLi?download",
+            "quality": "1080p",
+            "size": "2.74 GB",
+            "fileName": "EG26BTLi",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "BLUE.EYE.SAMURAI.S01E01.Hammerscale.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.264-4kHdHub.Com\n2.74 GB",
+            "url": "https://fsl.anime4u.co/BLUE.EYE.SAMURAI.S01E01.Hammerscale.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv?token=1761513475",
+            "quality": "1080p",
+            "size": "2.74 GB",
+            "fileName": "BLUE.EYE.SAMURAI.S01E01.Hammerscale.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:225180:s1e1",
+      "storedAt": 1761513475242,
+      "meta": {
+        "storedAt": 1761513475,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "225180",
+        "imdbId": "tt13309742",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x264]-d4kid",
+            "url": "https://a.111477.xyz/tvs/BLUE%20EYE%20SAMURAI/Season%201/BLUE%20EYE%20SAMURAI%20(2023)%20-%20S01E01%20-%20Hammerscale%20[WEBDL-1080p][EAC3%205.1][x264]-d4kid.mkv",
+            "quality": "1080p",
+            "size": "2.73 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "BLUE EYE SAMURAI (2023) - S01E01 - Hammerscale [WEBDL-1080p][EAC3 5.1][x264]-d4kid.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:225180:s1e1",
+      "storedAt": 1761513476091,
+      "meta": {
+        "storedAt": 1761513476,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "225180",
+        "imdbId": "tt13309742",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "BLUE EYE SAMURAI S1E1 - 1. Hammerscale",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/blueyesamurai/s1/Blue Eye Samurai S01E01 {Hindi-English} 720p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "63min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "BLUE EYE SAMURAI S1E1 - 1. Hammerscale",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/blueyesamurai/s1/Blue Eye Samurai S01E01 {Hindi-English} 720p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "63min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:225180:s1e1",
+      "storedAt": 1761513479797,
+      "meta": {
+        "storedAt": 1761513479,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "225180",
+        "imdbId": "tt13309742",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "BLUE EYE SAMURAI S01E01 Hammerscale 1080p NF WEB-DL DUAL DDP5 1 Atmos H 264-ShiNobi\n2.74GB",
+            "url": "https://worker-dark-dream-b0b2.tepeh90861.workers.dev/7f46fbb4065d51276b8b6a90a6fe3c55487f95cb54ab197f73a285a58951d780ecbc7d31f2a0d75d46a1690e9769ed0fcd889dfc729f71cc668ad73fae5a2310582b3ebd8dbc09c763bcfb300ae2deac03d7d371e21c6361519437f10f26289b3cba9a0c587cab79057c50b27943546387960846a557997e544c52e53b495fef251eee8b0123d6f0f8567e6d417ca97420c4ba4f7b802e4f464d8532be3b9477b33abde8e239f896e3a438b90ba2ff6e::c789128db6a6cc83e445c39a568887d9/BLUE.EYE.SAMURAI.S01E01.Hammerscale.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-ShiNobi.mkv",
+            "quality": "1080p",
+            "size": "2.74GB",
+            "fileName": "BLUE.EYE.SAMURAI.S01E01.Hammerscale.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-ShiNobi.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:225634:s1e9",
+      "storedAt": 1761513419645,
+      "meta": {
+        "storedAt": 1761513419,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "225634",
+        "imdbId": null,
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/261599?token=3a9d601babd4bfa75a575d5baa074fc7&expires=1766697419&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:387:s6e20",
+      "storedAt": 1761513428645,
+      "meta": {
+        "storedAt": 1761513428,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "387",
+        "imdbId": "tt0206512",
+        "season": 6,
+        "episode": 20,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/172522?token=c24c9bd1caff3d1dd4aca1ba9d8bc480&expires=1766697428&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:4614:s12e3",
+      "storedAt": 1761513496057,
+      "meta": {
+        "storedAt": 1761513496,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4614",
+        "imdbId": "tt0364845",
+        "season": 12,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/197129?token=eada6869c98f0fa70f145b48cc4b0e4d&expires=1766697495&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:46952:s3e10",
+      "storedAt": 1761513639108,
+      "meta": {
+        "storedAt": 1761513639,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "46952",
+        "imdbId": "tt2741602",
+        "season": 3,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/204230?token=7aa63f50ec402c68fc3741e9b2118907&expires=1766697638&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:48891:s5e15",
+      "storedAt": 1761513398030,
+      "meta": {
+        "storedAt": 1761513398,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "48891",
+        "imdbId": "tt2467372",
+        "season": 5,
+        "episode": 15,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/320501?token=095758d495e5ec22f12bd51474b582cc&expires=1766697397&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:60622:s2e2",
+      "storedAt": 1761513295006,
+      "meta": {
+        "storedAt": 1761513295,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "60622",
+        "imdbId": "tt2802850",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/315616?token=b2601582a4226cdc4fcab2591e86259f&expires=1766697294&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61662:s2e8",
+      "storedAt": 1761513563409,
+      "meta": {
+        "storedAt": 1761513563,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61662",
+        "imdbId": "tt3526078",
+        "season": 2,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/181524?token=9a3faedc7a3d7c1eb41c52b44b5afa1f&expires=1766697563&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:62455:s2e2",
+      "storedAt": 1761513631680,
+      "meta": {
+        "storedAt": 1761513631,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "62455",
+        "imdbId": "tt4524056",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/176543?token=44c4bdbe3a03e98b8312a41c7630ca58&expires=1766697631&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:73544:s1e8",
+      "storedAt": 1761513625294,
+      "meta": {
+        "storedAt": 1761513625,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "73544",
+        "imdbId": "tt5743796",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/269639?token=722a367d7f120264ca42a1967e9e6fac&expires=1766697625&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-26T21:22:50.688Z",
+    "totalOriginalEntries": 17,
+    "newItemsInThisBatch": 17,
+    "format": "compact_v1"
+  }
+}
