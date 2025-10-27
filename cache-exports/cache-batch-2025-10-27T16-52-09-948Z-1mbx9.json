@@ -1,0 +1,957 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:8337",
+      "storedAt": 1761583525090,
+      "meta": {
+        "storedAt": 1761583525,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "8337",
+        "imdbId": "tt0096256",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/326101?token=b1b6bbafc62ef45825120044fa8ac6d6&expires=1766767524&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:960876",
+      "storedAt": 1761583714456,
+      "meta": {
+        "storedAt": 1761583714,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "960876",
+        "imdbId": "tt15428134",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies NF WEB-DL DDP5 1 H 265-TellyCantDoiT",
+            "url": "https://a.111477.xyz/movies/Dunki%20(2023)/Dunki.2023.2160p.NF.WEB-DL.DDP5.1.H.265-TellyCantDoiT.mkv",
+            "quality": "2160p",
+            "size": "14.15 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Dunki.2023.2160p.NF.WEB-DL.DDP5.1.H.265-TellyCantDoiT.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DS4K NF WEBRip AV1 Opus 5 1-Retr0",
+            "url": "https://a.111477.xyz/movies/Dunki%20(2023)/Dunki.2023.Hindi.1080p.DS4K.NF.WEBRip.AV1.Opus.5.1-Retr0.mkv",
+            "quality": "1080p",
+            "size": "2.57 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Dunki.2023.Hindi.1080p.DS4K.NF.WEBRip.AV1.Opus.5.1-Retr0.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:960876",
+      "storedAt": 1761583718628,
+      "meta": {
+        "storedAt": 1761583718,
+        "urlCount": 18,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "960876",
+        "imdbId": "tt15428134",
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Dunki.2023.1080p.10Bit.Hindi.WEB-DL.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/EZPVmo2g?download",
+            "quality": "1080p",
+            "size": "2.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Dunki.2023.1080p.10Bit.Hindi.WEB-DL.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://fsl.anime4u.co/Dunki.2023.1080p.10Bit.Hindi.WEB-DL.5.1.HEVC.x265-HDHub4u.Tv.mkv?token=1761583716",
+            "quality": "1080p",
+            "size": "2.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Dunki.2023.1080p.10Bit.Hindi.WEB-DL.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mBd8OnqXH75XCHno8soryqIscs5XgPtjBTKLj23_1yLMrHat2hsrQvv5gymhBOQaZNtPsCDo3la65CFrOG4ZjHrMhr_XgfYXkN1yY6AxkSNwhxbub_eWS4INxcGgPKmy_DuVAdX54OOtfdI-rvG40IjaMZi353Sou-FS-ZhyPTTjo0qFJpiACOhTVyCM3fwWA2VROC_qHl_Wb2KphMzg8B9vCApF5ej8RglDqKtqm489OSmrg",
+            "quality": "1080p",
+            "size": "2.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Dunki.2023.1080p.10Bit.Hindi.WEB-DL.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mQwN3vT-U_vN1yowCr_1VAWC4Eivc_f8dAOBnYpyA6Vcx5tJOv38-gKRxs3YdrOKCXE-0UJrBUBGkJpaiuyfGR7webFJiUNDSzH_SrJe66VKBC6ievUw8kriCCRfTyRBqIO6UeiT1jt1Q21v9ZdHszUU98h87XOA_4mrNZbdGfPOnHVuUDSzx4VBUgDeT0P9eDPyQlhGfoWBj2jeRlq0Y_PStvmRCmeU16ap8-FO4lyHS52OmPpNxzAlLT1K_YMyYAknO8",
+            "quality": "1080p",
+            "size": "2.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Dunki.2023.1080p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/mL15h364?download",
+            "quality": "1080p",
+            "size": "3.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Dunki.2023.1080p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://fsl.anime4u.co/Dunki.2023.1080p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Tv.mkv?token=1761581553",
+            "quality": "1080p",
+            "size": "3.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Dunki.2023.1080p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mmx072kot6wBgBAQ2nxfnG9Pw7CJgMB4cAU-Afw6-tmUTiyuQ_pn-sg_cCmdkW7FR7f7QcfO6VSSPjlZsDVzcsVW4KXahSkx4Q_XNQqdezmXxAvCREpkD6LV2Ec8dxonkZHzU-IcPD2g3GIiMk0-_vwFAtUQdk7u8zPN_yUSDhkLY6T28HoX55zfDK-uDoD9guAVmizg4MimYL90GU7kDTcOxK0PxmNLjdYd2j8tHCht-5X_n5zhjGH5XRS5rG5X3nxdJ7",
+            "quality": "1080p",
+            "size": "3.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Dunki.2023.720p.10Bit.Hindi.WEB-DL.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/6RBGvbYo?download",
+            "quality": "720p",
+            "size": "1010.2 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Dunki.2023.720p.10Bit.Hindi.WEB-DL.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2n3H-05RO5lKEH7eD5hukZsunns4mIZri8It21zDZRQ535YFfruDL_gYI5ECUlbMgAxBrliNukccXDgkrRg8L7Xyoyq7_BGQSMKEsc8JknQUk12DJZ7FfOSeBozmrufPQfe-9ByNTTI5oLpDPgO8vX_V095yJOZW8J2FizYcr3enxTsjHZhKEZVJNSViyYVTP-McTZKDNXG4Rgz7Szod9gNQRTifqNItDET9B-B7tzcrACyMadTrN_J2WdpRW5MomMKcAq-",
+            "quality": "720p",
+            "size": "1010.2 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Dunki.2023.720p.10Bit.Hindi.WEB-DL.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kEQ5AB7WDBG6CWMBmp01LYW_0uJLX9CCjWeAzxzUJ3CngqqOMTt7Y4KAmG0ciUkt_iE4CfxsBaFShibnMmDwu0VLVym8StQaRiebH8L9i5bt8IA341X4fhH0ZdWM808cFZTeI45wW-qXgJPG4nVcGOkuGkez3bW9kD8eDSOkSRPoU67EdlheV4V03W1e8ShJ1B8E1FIgCFhSK6gpMRofsBCwFJOdk6PGisqWRBaxelRbN7E9s",
+            "quality": "720p",
+            "size": "1010.2 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Dunki.2023.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/TJdUspWU?download",
+            "quality": "720p",
+            "size": "1.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Dunki.2023.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://fsl.anime4u.co/Dunki.2023.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Tv.mkv?token=1761580066",
+            "quality": "720p",
+            "size": "1.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Dunki.2023.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kFjQDKZpQEGGX3mhG7oH5WEzEUA3MVxxQJ3lgmFa95B221Lk4h5I9HRQ_Sk60fg3v_sHV1l2CFJZqW3PFSMBJZknubVp0J22_56Bt3UKttj81H7W5Di_c-YcCpisz1bfkCMXMLWMRPxtwWBvDoBQyj64-GFQGbLxrptZJqnzzJep4YPczaNV3Trr3JZx7t-hiELQvb-ivBYEJfoPcpnxxYP9XkyfAcN8QdILPlCwqtu1x3CW1qTexdmRDvLs-0nde5abxo",
+            "quality": "720p",
+            "size": "1.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Dunki.2023.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mV0TfvAD2BVmxDrH_pfDjBOKAAY0Mg3-k36HHjrgpjGdkLjJF0Xm0KVa8N4Uqs7ib_L2TcsBlXVPD2UAyJyAQbCK1_FJHP6KDcEUInsRCa3HA1uv-0AwRC1BHdTM4iyd6-2Fl2Y38z1nAO-bziUOR-KyTjMgoHDLaukM3j7pZSU0jhFyxMNVxX0Kn7IctJnwajD2spc3jPNuA-3RdpRKJ9NHVrLQY7w4SQDp9ZEexLzMOIUp4",
+            "quality": "720p",
+            "size": "1.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Dunki.2023.480p.Hindi.ORG.WEB-DL.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/eMRv6ETG?download",
+            "quality": "480p",
+            "size": "516.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Dunki.2023.480p.Hindi.ORG.WEB-DL.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Dunki.2023.480p.Hindi.ORG.WEB-DL.ESub.x264-HDHub4u.Tv.mkv?token=1761583716",
+            "quality": "480p",
+            "size": "516.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Dunki.2023.480p.Hindi.ORG.WEB-DL.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kOQcEtTSyoNfAuyW1D0iiMJq-y6TCXsx75neCUkmr7w60GrCyexFcVyeKX46_JCKES3PNpvgHQSIFGjGx1y3z1ZeMr3UdOFkeuYpAXlr_to3Dw3KZ3hsS5VAjCyXQbmHW1Ply0n0ntqwNHGAIInOAA6RRwe5x_MATbptWjIHmoEGZsJWNHkNEG4K0Et04_02oOnPLJ32DQgnrMUFqAELFSRFk-reFx2tX_y75O6i4VLLhQ1hGgdnwCBAfLaqpuJNse5p50",
+            "quality": "480p",
+            "size": "516.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Dunki.2023.480p.Hindi.ORG.WEB-DL.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kKX5rXrO7YZ5bmPzoz_FkkO5bY6w_r_MLpduXxMyMDJIfPBMBjtjynDlWz8EE46U8qjwQ3zt8Rn_VZuc_cOw6eCEhgmpqScvy_cfpdKQfMRJpxjrXpXZnqlhiJTDFI0W_zUiDqIyTGeEshbuQEWSoDbGefWpUHYCt3IrF-rp4rlMIG3_Ds1ZA5hcNK6ed5fWC7a3IfHdkfH7VDch2_OgPIQoQ_oYyFJcwmds35gUCqDC9skJY",
+            "quality": "480p",
+            "size": "516.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 18
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:960876",
+      "storedAt": 1761583721189,
+      "meta": {
+        "storedAt": 1761583721,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "960876",
+        "imdbId": "tt15428134",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Dunkirk 2017 IMAX 2160p UHD BluRay REMUX DV HDR10Plus HEVC TrueHD 7 1 96K-WiLDCAT\n51.31GB",
+            "url": "https://worker-blue-tree-a2d3.degifec113.workers.dev/227b03606d0f335c462406c48a42b8842513e6378b5c33f0222890b7b8c7c9e2dd1ff7d56c7f23037aaed4c41cbf9526135358b42144031cea38471fc7de9474fe8c1368f04d542c7b407ea4704a3362290e7359600c0b7ef6277be157cf4aaa8f66520ade4a6614da20feeb647f8eeb7a410efb49ac6a0ae0738ddfed1377ed3b29b7dd2e7355d61b21d5b71df9ff4e962224fa83b7e400c35e700ec45a430cdf10e6b816a887233340d8cbb1ecee2f::d7cdd2d86d3491f58bc3dce2ca496336/Dunkirk.2017.IMAX.2160p.UHD.BluRay.REMUX.DV.HDR10Plus.HEVC.TrueHD.7.1.96K-WiLDCAT.mkv",
+            "quality": "4K | HDR | DV | IMAX | BluRay",
+            "size": "51.31GB",
+            "fileName": "Dunkirk.2017.IMAX.2160p.UHD.BluRay.REMUX.DV.HDR10Plus.HEVC.TrueHD.7.1.96K-WiLDCAT.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Dunkirk 2017 1080p UHD BluRay DD+5 1 x264-LoRD\n15.79GB",
+            "url": "https://worker-mute-sky-f705.titip35706.workers.dev/c47a3a7d8b09cddd158a1501c1572ed6dc2c8c9a36e23a27baf5d81acedf4adcb87a49054ca07ecf4134f06b38f7f9cdef4795495584d30a445350d6eb7ab6d59585658875de73f65eb89418751ed7bc25135cae410b3bac9f15a6c44b9c1fab4bc87849ba51740d593b655b24a627a0166fc7aaf6240ad1441f3cb3df188055104e5b1f585438a56541898299b233a7e8fc25f89992d4c4b7ad3437702e336266ca04a48b682de65ab941864a2c11c7::c392fb33d98d7b7e4b23602c1c7dc3bf/Dunkirk.2017.1080p.UHD.BluRay.DD5.1.x264-LoRD.mkv",
+            "quality": "1080p | BluRay",
+            "size": "15.79GB",
+            "fileName": "Dunkirk.2017.1080p.UHD.BluRay.DD+5.1.x264-LoRD.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:115773:s4e7",
+      "storedAt": 1761583565343,
+      "meta": {
+        "storedAt": 1761583565,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "115773",
+        "imdbId": "tt13634306",
+        "season": 4,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/445468?token=d54f55fa92c4a660f2349d3c64708e72&expires=1766767565&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1398:s6e8",
+      "storedAt": 1761583562502,
+      "meta": {
+        "storedAt": 1761583562,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1398",
+        "imdbId": "tt0141842",
+        "season": 6,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/280339?token=9d384220e0218fbc745bc0fe573ebaba&expires=1766767562&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1416:s4e2",
+      "storedAt": 1761583863177,
+      "meta": {
+        "storedAt": 1761583863,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1416",
+        "imdbId": "tt0413573",
+        "season": 4,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/192862?token=0d8456a448bf80d70de221a314b37b34&expires=1766767862&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1416:s11e21",
+      "storedAt": 1761583741802,
+      "meta": {
+        "storedAt": 1761583741,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1416",
+        "imdbId": "tt0413573",
+        "season": 11,
+        "episode": 21,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/193198?token=8ca3a3aa49e0e2c75a5892c5a8354203&expires=1766767741&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1434:s3e11",
+      "storedAt": 1761583641855,
+      "meta": {
+        "storedAt": 1761583641,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1434",
+        "imdbId": "tt0182576",
+        "season": 3,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/198074?token=9a16f0423d115a623c6938cfecd18bcb&expires=1766767641&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1447:s3e1",
+      "storedAt": 1761583628715,
+      "meta": {
+        "storedAt": 1761583628,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1447",
+        "imdbId": "tt0491738",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/125036?token=8336148b0350c816f3b01dbd592d91ba&expires=1766767628&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2673:s1e17",
+      "storedAt": 1761583908073,
+      "meta": {
+        "storedAt": 1761583908,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2673",
+        "imdbId": "tt0362359",
+        "season": 1,
+        "episode": 17,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/183002?token=0ecc62448a7f54fdb60b19bde6a9a01e&expires=1766767907&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:33091:s3e4",
+      "storedAt": 1761583918523,
+      "meta": {
+        "storedAt": 1761583918,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "33091",
+        "imdbId": "tt1552112",
+        "season": 3,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/194816?token=e440a1e9b5ac999e872c3aaa341afcb0&expires=1766767918&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:60735:s3e10",
+      "storedAt": 1761583606807,
+      "meta": {
+        "storedAt": 1761583606,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "60735",
+        "imdbId": "tt3107288",
+        "season": 3,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/205203?token=e0a1da46e84340122f17133c78b3882a&expires=1766767606&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61381:s6e20",
+      "storedAt": 1761583633039,
+      "meta": {
+        "storedAt": 1761583633,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61381",
+        "imdbId": "tt3487356",
+        "season": 6,
+        "episode": 20,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/199002?token=ec1ce56df4f9d6c240008ea2cc78a338&expires=1766767632&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61851:s1e1",
+      "storedAt": 1761583479481,
+      "meta": {
+        "storedAt": 1761583479,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61851",
+        "imdbId": "tt2886428",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/219454?token=cf8840b17bc4d5e1bf6edb0474361297&expires=1766767479&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61915:s2e13",
+      "storedAt": 1761583640153,
+      "meta": {
+        "storedAt": 1761583640,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61915",
+        "imdbId": "tt3598030",
+        "season": 2,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/201325?token=c561ba6f4cce419add7bae3057f4f147&expires=1766767639&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:62455:s2e6",
+      "storedAt": 1761583736271,
+      "meta": {
+        "storedAt": 1761583736,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "62455",
+        "imdbId": "tt4524056",
+        "season": 2,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/176547?token=7eb7be0a812cc952288f6f94380a6464&expires=1766767735&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:71712:s1e1",
+      "storedAt": 1761583713623,
+      "meta": {
+        "storedAt": 1761583713,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "71712",
+        "imdbId": "tt6470478",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Proper][EAC3 5 1][h264]-FLUX",
+            "url": "https://a.111477.xyz/tvs/The%20Good%20Doctor/Season%201/The%20Good%20Doctor%20(2017)%20-%20S01E01%20-%20Burnt%20Food%20[WEBDL-1080p%20Proper][EAC3%205.1][h264]-FLUX.mkv",
+            "quality": "1080p",
+            "size": "2.13 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Good Doctor (2017) - S01E01 - Burnt Food [WEBDL-1080p Proper][EAC3 5.1][h264]-FLUX.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:71712:s1e1",
+      "storedAt": 1761583715013,
+      "meta": {
+        "storedAt": 1761583714,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "71712",
+        "imdbId": "tt6470478",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Good Doctor S1E1 - 1. Burnt Food",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/gooddoctor/s1/The.Good.Doctor.S01E01.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "44min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Good Doctor S1E1 - 1. Burnt Food",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/gooddoctor/s1/The.Good.Doctor.S01E01.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "44min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:76331:s2e4",
+      "storedAt": 1761583790736,
+      "meta": {
+        "storedAt": 1761583790,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "76331",
+        "imdbId": "tt7660850",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/225702?token=f7a9143d486adf91f1942e78c3713f02&expires=1766767790&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:91239:s3e6",
+      "storedAt": 1761583900759,
+      "meta": {
+        "storedAt": 1761583900,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "91239",
+        "imdbId": "tt8740790",
+        "season": 3,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/236024?token=bbcefe72519a8e7234fcb75b0d06dd1f&expires=1766767900&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:97173:s1e6",
+      "storedAt": 1761583550355,
+      "meta": {
+        "storedAt": 1761583550,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "97173",
+        "imdbId": "tt9698442",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/236156?token=84ce5b7a74350525212a8650909b35fb&expires=1766767549&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-27T16:52:09.948Z",
+    "totalOriginalEntries": 22,
+    "newItemsInThisBatch": 22,
+    "format": "compact_v1"
+  }
+}
