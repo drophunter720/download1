@@ -1,0 +1,590 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:331482",
+      "storedAt": 1761554398455,
+      "meta": {
+        "storedAt": 1761554398,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "331482",
+        "imdbId": "tt3281548",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/65205?token=7d143b28fc03da35d5495cd69740d9ef&expires=1766738397&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:52520",
+      "storedAt": 1761554309817,
+      "meta": {
+        "storedAt": 1761554309,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "52520",
+        "imdbId": "tt1496025",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/263940?token=0ee4a23b8a38bca92f4c9d29f72add4a&expires=1766738309&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:113962:s1e2",
+      "storedAt": 1761554098197,
+      "meta": {
+        "storedAt": 1761554098,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "113962",
+        "imdbId": "tt13111078",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/165075?token=6e151bb961451c49439e3d3995126aa7&expires=1766738097&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:1396:s1e1",
+      "storedAt": 1761554312877,
+      "meta": {
+        "storedAt": 1761554312,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "bbE7oSR9\n11.4 GB",
+            "url": "https://pixeldrain.dev/api/file/bbE7oSR9?download",
+            "quality": "1080p",
+            "size": "11.4 GB",
+            "fileName": "bbE7oSR9",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Breaking Bad S01E01 1080p BluRay REMUX AVC [Hindi DD 2.0 + English DTS-HD.MA 5.1] x264 FraMeSToR-4kHdHub.com\n11.4 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Breaking%20Bad%20S01E01%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DD%202.0%20+%20English%20DTS-HD.MA%205.1]%20x264%20FraMeSToR-4kHdHub.com.mkv?token=1761551371",
+            "quality": "1080p",
+            "size": "11.4 GB",
+            "fileName": "Breaking Bad S01E01 1080p BluRay REMUX AVC [Hindi DD 2.0 + English DTS-HD.MA 5.1] x264 FraMeSToR-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "g85pxFgT\n8.94 GB",
+            "url": "https://pixeldrain.dev/api/file/g85pxFgT?download",
+            "quality": "1080p",
+            "size": "8.94 GB",
+            "fileName": "g85pxFgT",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Breaking Bad S01E01 1080p BluRay [Hindi DD 2.0 + English DTS 5.1] x264 CJ-4kHdHub.com\n8.94 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Breaking%20Bad%20S01E01%201080p%20BluRay%20[Hindi%20DD%202.0%20+%20English%20DTS%205.1]%20x264%20CJ-4kHdHub.com.mkv?token=1761551371",
+            "quality": "1080p",
+            "size": "8.94 GB",
+            "fileName": "Breaking Bad S01E01 1080p BluRay [Hindi DD 2.0 + English DTS 5.1] x264 CJ-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "5ApYLXzB\n2.25 GB",
+            "url": "https://pixeldrain.dev/api/file/5ApYLXzB?download",
+            "quality": "1080p",
+            "size": "2.25 GB",
+            "fileName": "5ApYLXzB",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Breaking Bad S01E01 1080p 10bit BluRay HEVC [Hindi DD 2.0 + English AAC 5.1] H.265 QxR-4kHdHub.com\n2.25 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Breaking%20Bad%20S01E01%201080p%2010bit%20BluRay%20HEVC%20[Hindi%20DD%202.0%20+%20English%20AAC%205.1]%20H.265%20QxR-4kHdHub.com.mkv?token=1761551085",
+            "quality": "1080p",
+            "size": "2.25 GB",
+            "fileName": "Breaking Bad S01E01 1080p 10bit BluRay HEVC [Hindi DD 2.0 + English AAC 5.1] H.265 QxR-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1396:s1e1",
+      "storedAt": 1761554311702,
+      "meta": {
+        "storedAt": 1761554311,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies NF WEB-DL DTS-HD MA 5 1 HEVC-CRFW",
+            "url": "https://a.111477.xyz/tvs/Breaking%20Bad/Season%201/Breaking.Bad.S01E01.2160p.NF.WEB-DL.DTS-HD.MA.5.1.HEVC-CRFW.mkv",
+            "quality": "2160p",
+            "size": "5.84 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Breaking.Bad.S01E01.2160p.NF.WEB-DL.DTS-HD.MA.5.1.HEVC-CRFW.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-FraMeSToR",
+            "url": "https://a.111477.xyz/tvs/Breaking%20Bad/Season%201/Breaking%20Bad%20(2008)%20-%20S01E01%20-%20Pilot%20[Bluray-1080p%20Remux][DTS-HD%20MA%205.1][AVC]-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": "11.41 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Breaking Bad (2008) - S01E01 - Pilot [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][x264]-OFT",
+            "url": "https://a.111477.xyz/tvs/Breaking%20Bad/Season%201/Breaking%20Bad%20(2008)%20-%20S01E01%20-%20Pilot%20[Bluray-1080p][AC3%205.1][x264]-OFT.mkv",
+            "quality": "1080p",
+            "size": "2.60 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Breaking Bad (2008) - S01E01 - Pilot [Bluray-1080p][AC3 5.1][x264]-OFT.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS-HD MA 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Breaking%20Bad/Season%201/Breaking.Bad.S01E01.Pilot.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "11.54 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Breaking.Bad.S01E01.Pilot.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:1396:s1e1",
+      "storedAt": 1761554316440,
+      "meta": {
+        "storedAt": 1761554316,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Breaking.Bad.S01.E01.1080p.BluRay.Hindi.DD2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/fAZctBhv?download",
+            "quality": "1080p",
+            "size": "1.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Breaking.Bad.S01.E01.1080p.BluRay.Hindi.DD2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Breaking.Bad.S01.E01.1080p.BluRay.Hindi.DD2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv?token=1761554314",
+            "quality": "1080p",
+            "size": "1.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Breaking.Bad.S01.E01.1080p.BluRay.Hindi.DD2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2m7LbqurmEppIxMQ5oXXSTynSQXTzSTxxiF1G3uVdS-k0LeV-WP-vRJ2rina3CZGT3fcelvD3-fnH8GdNWnymHYP1k7fdHoZ3eX_bybXimdYQzX0s713r69_kAQ-o86SWqbETEr9V3iop-bVVajeB8OUkuZH7EgSk05p1IJPxOFofmfHHxtzzRKM-jZlJAnH6DpuqwyZKZqCPc2rXfAEF2UXCSSP_qEunb1HsbKlYBCBEEVCPaWCzC51dYPd4N-PPnnKZcF",
+            "quality": "1080p",
+            "size": "1.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Breaking.Bad.S01.E01.720p.BluRay.Hindi.ORG2.0-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/ZUUPe6Vp?download",
+            "quality": "720p",
+            "size": "453.7 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Breaking.Bad.S01.E01.720p.BluRay.Hindi.ORG2.0-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://fsl.anime4u.co/Breaking.Bad.S01.E01.720p.BluRay.Hindi.ORG2.0-English.ESub.x264-HDHub4u.Tv.mkv?token=1761554314",
+            "quality": "720p",
+            "size": "453.7 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Breaking.Bad.S01.E01.720p.BluRay.Hindi.ORG2.0-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2n-cgQvQre-4klVrrNLQLyKXHeHSKTtkxNxRhEYchDWWKr-C-3-Jk-sYPY_1tQ-PaZ_qKjB9gwI2VGCopkIObz9NKrh00KpKYU6RxkIca-9QK_pUsGWLnJ8YHnjxhod1Fwty5hS04w5S5BaxM0byeoSARpnHb7OM7eQcf0NIYAjxEZ8_0LhC2z4PfRAbqAvrI3LyPxrmvZg-qmoTyfcz01YUWApOrkp_JexLRUvIhK6BiXpsHVI_z8CRsAg8E3g9dqial0z",
+            "quality": "720p",
+            "size": "453.7 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1396:s1e1",
+      "storedAt": 1761554316919,
+      "meta": {
+        "storedAt": 1761554316,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Breaking Bad S1E1 - 1. Pilot",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/breakingbad/s1/BrBa.S01E01.720p.BrRip.x264.400MB-Pahe.in.mkv",
+            "quality": "1080p",
+            "size": "58min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Breaking Bad S1E1 - 1. Pilot",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/breakingbad/s1/BrBa.S01E01.720p.BrRip.x264.400MB-Pahe.in.mkv",
+            "quality": "1080p",
+            "size": "58min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:1396:s1e1",
+      "storedAt": 1761554317814,
+      "meta": {
+        "storedAt": 1761554317,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Breaking Bad S01E01 1080p 10bit BluRay x265 HEVC [Org TV-DL Hindi DD 2 0 ~ 224Kbps + English AAC 5 1] ESubs ~ (ARRØW) Silence [QxR]\n2.25GB",
+            "url": "https://worker-noisy-union-a944.rorahe7344.workers.dev/44d500caa95578dd964a08a6fb27df12bfa03524d5b33f63fe4056d455c5b275886932ad5f75c772707385bd9c89a59db5379eca16cbf34458be4294d8a500e442980783bb4cf166d8ff941fe3b7350424e4b9d1c9badea15ad2d4ba2d6807cfbca16ad178350d2bd3056f1347036777c5a9ad21f224acaab676128ec18a659876c6705081b21e39ccc6aeaedd2fda2073a1c8b469dc58bac0525e648e41f5aacd9419738854b52fa3ef479eda3d8b9a::e7d0cfd9b3b355771eda419e7ecd0c5c/Breaking Bad S01E01 1080p 10bit BluRay x265 HEVC [Org TV-DL Hindi DD 2.0  224Kbps  English AAC 5.1] ESubs  (ARRØW) Silence [QxR].mkv",
+            "quality": "1080p | BluRay",
+            "size": "2.25GB",
+            "fileName": "Breaking Bad S01E01 1080p 10bit BluRay x265 HEVC [Org TV-DL Hindi DD 2.0 ~ 224Kbps + English AAC 5.1] ESubs ~ (ARRØW) Silence [QxR].mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1398:s6e6",
+      "storedAt": 1761554153892,
+      "meta": {
+        "storedAt": 1761554153,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1398",
+        "imdbId": "tt0141842",
+        "season": 6,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/280337?token=b967a5018e6ea784247417c730689507&expires=1766738153&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1402:s5e7",
+      "storedAt": 1761554100239,
+      "meta": {
+        "storedAt": 1761554100,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1402",
+        "imdbId": "tt1520211",
+        "season": 5,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/191776?token=67b6599f80ae6d76fb0c09296719ef1d&expires=1766738100&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2673:s1e15",
+      "storedAt": 1761554171600,
+      "meta": {
+        "storedAt": 1761554171,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2673",
+        "imdbId": "tt0362359",
+        "season": 1,
+        "episode": 15,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/183000?token=002505d213c19efbd9aa45c517ef204a&expires=1766738171&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:4604:s2e19",
+      "storedAt": 1761554071995,
+      "meta": {
+        "storedAt": 1761554071,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4604",
+        "imdbId": "tt0279600",
+        "season": 2,
+        "episode": 19,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/318756?token=9786ae29fea168ad3f9bf793e2170128&expires=1766738071&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:64264:s3e1",
+      "storedAt": 1761554063607,
+      "meta": {
+        "storedAt": 1761554063,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "64264",
+        "imdbId": "tt4711184",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/138833?token=4c2d17b54a5681062cfa3be4be594a18&expires=1766738063&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-27T08:42:23.608Z",
+    "totalOriginalEntries": 13,
+    "newItemsInThisBatch": 13,
+    "format": "compact_v1"
+  }
+}
