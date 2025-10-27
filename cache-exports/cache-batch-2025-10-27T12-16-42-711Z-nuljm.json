@@ -1,0 +1,401 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:1261555",
+      "storedAt": 1761567238252,
+      "meta": {
+        "storedAt": 1761567238,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1261555",
+        "imdbId": "tt31107212",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/347456?token=d023dcc3cf7b7cb74b668e81e41700ea&expires=1766751237&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:137180",
+      "storedAt": 1761567339753,
+      "meta": {
+        "storedAt": 1761567339,
+        "urlCount": 10,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "137180",
+        "imdbId": "tt2255934",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "ParaNorman 2012 1080p BluRay REMUX AVC x264 [Hindi BD DTS 5.1 768kbps + English DTS-HD MA 5.1] ESub-playBD-4kHdHub\n23.42 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/ParaNorman%202012%201080p%20BluRay%20REMUX%20AVC%20x264%20[Hindi%20BD%20DTS%205.1%20768kbps%20+%20English%20DTS-HD%20MA%205.1]%20ESub-playBD-4kHdHub.mkv?token=1761567339",
+            "quality": "1080p",
+            "size": "23.42 GB",
+            "fileName": "ParaNorman 2012 1080p BluRay REMUX AVC x264 [Hindi BD DTS 5.1 768kbps + English DTS-HD MA 5.1] ESub-playBD-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "4ysg7SoR\n16.65 GB",
+            "url": "https://pixeldrain.dev/api/file/4ysg7SoR?download",
+            "quality": "2160p",
+            "size": "16.65 GB",
+            "fileName": "4ysg7SoR",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "ParaNorman 2012 2160p 10bit HDR DV BluRay HEVC x265 [Hindi BD DDP 5.1 768kbps + English TrueHD Atmos 7.1] ESub-BiTOR-4kHdHub\n16.65 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/ParaNorman%202012%202160p%2010bit%20HDR%20DV%20BluRay%20HEVC%20x265%20[Hindi%20BD%20DDP%205.1%20768kbps%20+%20English%20TrueHD%20Atmos%207.1]%20ESub-BiTOR-4kHdHub.mkv?token=1761567339",
+            "quality": "2160p",
+            "size": "16.65 GB",
+            "fileName": "ParaNorman 2012 2160p 10bit HDR DV BluRay HEVC x265 [Hindi BD DDP 5.1 768kbps + English TrueHD Atmos 7.1] ESub-BiTOR-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "g\n16.65 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=yaudHV8lHbLZ&n=yN01hDrY&fn=ParaNorman%20(2012)%202160p%2010bit%20HDR%20DV%20BluRay%20HEVC%20x265%20[Hindi%20BD%20DDP%205.1%20768kbps%20+%20English%20TrueHD%20Atmos%207.1]%20ESub-(BiTOR-4kHdHub).mkv",
+            "quality": "2160p",
+            "size": "16.65 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Fnoxwswc\n5.96 GB",
+            "url": "https://pixeldrain.dev/api/file/Fnoxwswc?download",
+            "quality": "1080p",
+            "size": "5.96 GB",
+            "fileName": "Fnoxwswc",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "ParaNorman 2012 1080p BluRay x264 [Hindi BD DTS 5.1 768kbps + English DTS 5.1] ESub-EbP-4kHdHub\n5.96 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/ParaNorman%202012%201080p%20BluRay%20x264%20[Hindi%20BD%20DTS%205.1%20768kbps%20+%20English%20DTS%205.1]%20ESub-EbP-4kHdHub.mkv?token=1761567339",
+            "quality": "1080p",
+            "size": "5.96 GB",
+            "fileName": "ParaNorman 2012 1080p BluRay x264 [Hindi BD DTS 5.1 768kbps + English DTS 5.1] ESub-EbP-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "77kadp3B\n5.32 GB",
+            "url": "https://pixeldrain.dev/api/file/77kadp3B?download",
+            "quality": "1080p",
+            "size": "5.32 GB",
+            "fileName": "77kadp3B",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "ParaNorman 2012 UHD 1080p 10bit HDR DV BluRay HEVC x265 [Hindi BD DDP 5.1 768kbps + English DDP 7.1] ESub-GALAXY-4kHdHub\n5.32 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/ParaNorman%202012%20UHD%201080p%2010bit%20HDR%20DV%20BluRay%20HEVC%20x265%20[Hindi%20BD%20DDP%205.1%20768kbps%20+%20English%20DDP%207.1]%20ESub-GALAXY-4kHdHub.mkv?token=1761567339",
+            "quality": "1080p",
+            "size": "5.32 GB",
+            "fileName": "ParaNorman 2012 UHD 1080p 10bit HDR DV BluRay HEVC x265 [Hindi BD DDP 5.1 768kbps + English DDP 7.1] ESub-GALAXY-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "4pW5Ydu3\n2.99 GB",
+            "url": "https://pixeldrain.dev/api/file/4pW5Ydu3?download",
+            "quality": "1080p",
+            "size": "2.99 GB",
+            "fileName": "4pW5Ydu3",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "ParaNorman 2012 1080p 10bit BluRay HEVC x265 [Hindi BD DTS 5.1 768kbps + English AAC 5.1] ESub-Silence-4kHdHub\n2.99 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/ParaNorman%202012%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20BD%20DTS%205.1%20768kbps%20+%20English%20AAC%205.1]%20ESub-Silence-4kHdHub.mkv?token=1761567339",
+            "quality": "1080p",
+            "size": "2.99 GB",
+            "fileName": "ParaNorman 2012 1080p 10bit BluRay HEVC x265 [Hindi BD DTS 5.1 768kbps + English AAC 5.1] ESub-Silence-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 10
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:1399:s1e3",
+      "storedAt": 1761567203693,
+      "meta": {
+        "storedAt": 1761567203,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Game of Thrones (2011) S01E03 1080p BluRay [Hindi DD 2 0 + English DTS 5 1] x264-LiNG[AK47]\n4.5GB",
+            "url": "https://worker-little-star-7f02.gecobi8468.workers.dev/5d0c2d05780f71c6598cce86edc975e622a8de51966d29447e55cf1c9b32e6c117e3148ff3a0317081d7501900664f70199711e61b9d1d7b28b5f55a1d01a9970953cfd530a2bc777c7832c46e46c293d51e211d4ed7cbbf2d553ad344db5082b02d832578ba9bf52f1238c959c7d16ce1ae439275c9128ece8e6f9c2ddd32f54dd5bd85915838c6d2c4e44441f84923537cc343f5cdbcf27a2521a57dc345e2111f930f00398238b17a329cada82b33::7dadaaf1932a812cd8b192b1dfd9c6ee/Game of Thrones (2011) S01E03 1080p BluRay [Hindi DD 2.0  English DTS 5.1] x264-LiNG[AK47].mkv",
+            "quality": "1080p | BluRay",
+            "size": "4.5GB",
+            "fileName": "Game of Thrones (2011) S01E03 1080p BluRay [Hindi DD 2.0 + English DTS 5.1] x264-LiNG[AK47].mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1399:s2e8",
+      "storedAt": 1761567159306,
+      "meta": {
+        "storedAt": 1761567159,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 2,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/174188?token=ddda3166c716bc35368918c03ca66fc5&expires=1766751159&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:204031:s1e4",
+      "storedAt": 1761567190768,
+      "meta": {
+        "storedAt": 1761567190,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "204031",
+        "imdbId": "tt21047514",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/405856?token=7652d1615b32c6a85d7ab4cc63d07a54&expires=1766751190&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:62286:s7e15",
+      "storedAt": 1761567070610,
+      "meta": {
+        "storedAt": 1761567070,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "62286",
+        "imdbId": "tt3743822",
+        "season": 7,
+        "episode": 15,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/315571?token=71047a96a2db93cf439491d05d3dcc77&expires=1766751070&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:63174:s5e4",
+      "storedAt": 1761566927093,
+      "meta": {
+        "storedAt": 1761566927,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "63174",
+        "imdbId": "tt4052886",
+        "season": 5,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/215820?token=e8e4bf2866775ffe052aaa4ff76dcf7a&expires=1766750926&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:66786:s2e10",
+      "storedAt": 1761567351891,
+      "meta": {
+        "storedAt": 1761567351,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "66786",
+        "imdbId": "tt5511582",
+        "season": 2,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/298323?token=c7ed284bd639710b580a949c90821b9d&expires=1766751351&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:82596:s4e7",
+      "storedAt": 1761567184186,
+      "meta": {
+        "storedAt": 1761567184,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "82596",
+        "imdbId": "tt8962124",
+        "season": 4,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/260194?token=3b8578acadcf12d7b3adae3f987c637d&expires=1766751184&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-27T12:16:42.712Z",
+    "totalOriginalEntries": 9,
+    "newItemsInThisBatch": 9,
+    "format": "compact_v1"
+  }
+}
