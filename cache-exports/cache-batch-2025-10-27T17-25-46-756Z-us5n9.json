@@ -1,0 +1,859 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:11770",
+      "storedAt": 1761585661256,
+      "meta": {
+        "storedAt": 1761585661,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "11770",
+        "imdbId": "tt0286112",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/309844?token=b1d00a1e76134efdcaeb6a09ff572b02&expires=1766769660&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:333354",
+      "storedAt": 1761585565413,
+      "meta": {
+        "storedAt": 1761585565,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "333354",
+        "imdbId": "tt2957760",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/191081?token=472a6ae89dce80f5b0e8219a9ae7f90a&expires=1766769565&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:539731",
+      "storedAt": 1761585804605,
+      "meta": {
+        "storedAt": 1761585804,
+        "urlCount": 7,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "539731",
+        "imdbId": "tt4882700",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Home 2015 1080p BluRay REMUX AVC x264 [Hindi NF DDP 5.1 640kbps + English DTS-HD MA 7.1] ESub-BMF-4kHdHub\n21.65 GB",
+            "url": "https://fsl.anime4u.co/Home%202015%201080p%20BluRay%20REMUX%20AVC%20x264%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DTS-HD%20MA%207.1]%20ESub-BMF-4kHdHub.mkv?token=1761585804",
+            "quality": "1080p",
+            "size": "21.65 GB",
+            "fileName": "Home 2015 1080p BluRay REMUX AVC x264 [Hindi NF DDP 5.1 640kbps + English DTS-HD MA 7.1] ESub-BMF-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "p9Q3xfcW\n11.68 GB",
+            "url": "https://pixeldrain.dev/api/file/p9Q3xfcW?download",
+            "quality": "1080p",
+            "size": "11.68 GB",
+            "fileName": "p9Q3xfcW",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Home 2015 1080p BluRay x264 [Hindi NF DDP 5.1 640kbps + English DDP 7.1] ESub-playHD-4kHdHub\n11.68 GB",
+            "url": "https://fsl.anime4u.co/Home%202015%201080p%20BluRay%20x264%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DDP%207.1]%20ESub-playHD-4kHdHub.mkv?token=1761585804",
+            "quality": "1080p",
+            "size": "11.68 GB",
+            "fileName": "Home 2015 1080p BluRay x264 [Hindi NF DDP 5.1 640kbps + English DDP 7.1] ESub-playHD-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "UKXT64V7\n3.96 GB",
+            "url": "https://pixeldrain.dev/api/file/UKXT64V7?download",
+            "quality": "1080p",
+            "size": "3.96 GB",
+            "fileName": "UKXT64V7",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Home 2015 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English DDP 7.1] ESub-Tigole-4kHdHub\n3.96 GB",
+            "url": "https://fsl.anime4u.co/Home%202015%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DDP%207.1]%20ESub-Tigole-4kHdHub.mkv?token=1761585804",
+            "quality": "1080p",
+            "size": "3.96 GB",
+            "fileName": "Home 2015 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English DDP 7.1] ESub-Tigole-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "G5Ntu7C7\n2.08 GB",
+            "url": "https://pixeldrain.dev/api/file/G5Ntu7C7?download",
+            "quality": "1080p",
+            "size": "2.08 GB",
+            "fileName": "G5Ntu7C7",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Home 2015 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English DDP 7.1] ESub-Pahe-4kHdHub\n2.08 GB",
+            "url": "https://fsl.anime4u.co/Home%202015%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DDP%207.1]%20ESub-Pahe-4kHdHub.mkv?token=1761585804",
+            "quality": "1080p",
+            "size": "2.08 GB",
+            "fileName": "Home 2015 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English DDP 7.1] ESub-Pahe-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 7
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:975225",
+      "storedAt": 1761585685540,
+      "meta": {
+        "storedAt": 1761585685,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "975225",
+        "imdbId": "tt20222166",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/341988?token=306f1967e1d00a35de5c289e60dafb7e&expires=1766769684&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:108978:s3e5",
+      "storedAt": 1761585627630,
+      "meta": {
+        "storedAt": 1761585627,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "108978",
+        "imdbId": "tt9288030",
+        "season": 3,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/291756?token=77d4977e0e8c97cf3fe593affb5c524a&expires=1766769627&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1399:s3e4",
+      "storedAt": 1761585809974,
+      "meta": {
+        "storedAt": 1761585809,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 3,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/178009?token=361873c2c35fa1a30616f4f0a0279ab2&expires=1766769809&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1403:s1e3",
+      "storedAt": 1761585623339,
+      "meta": {
+        "storedAt": 1761585623,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1403",
+        "imdbId": "tt2364582",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/194603?token=86f2700e159df0e65e177577dada8502&expires=1766769623&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1408:s1e7",
+      "storedAt": 1761585605012,
+      "meta": {
+        "storedAt": 1761585605,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1408",
+        "imdbId": "tt0412142",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/180817?token=9867dc4e2e0f456546e7a2b7ba659f66&expires=1766769604&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1418:s11e22",
+      "storedAt": 1761585666544,
+      "meta": {
+        "storedAt": 1761585666,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1418",
+        "imdbId": "tt0898266",
+        "season": 11,
+        "episode": 22,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/268439?token=28dd1b608ec8d7c762d5f89df94ea5a0&expires=1766769666&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1433:s18e13",
+      "storedAt": 1761585718694,
+      "meta": {
+        "storedAt": 1761585718,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1433",
+        "imdbId": "tt0397306",
+        "season": 18,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/223093?token=1e0c715c76d438f9992548f1b45d91b9&expires=1766769718&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2734:s13e1",
+      "storedAt": 1761585691337,
+      "meta": {
+        "storedAt": 1761585691,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2734",
+        "imdbId": "tt0203259",
+        "season": 13,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/231318?token=644241570778b241c6cde953b064c456&expires=1766769691&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:44217:s6e19",
+      "storedAt": 1761585881653,
+      "meta": {
+        "storedAt": 1761585881,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "44217",
+        "imdbId": "tt2306299",
+        "season": 6,
+        "episode": 19,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/309433?token=ce662a89aaf50c424c2ea97e37793d97&expires=1766769881&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:4604:s7e9",
+      "storedAt": 1761585821076,
+      "meta": {
+        "storedAt": 1761585821,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4604",
+        "imdbId": "tt0279600",
+        "season": 7,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/318857?token=1ce9b675b9a5e278f122a09f39c98e70&expires=1766769820&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:55866:s7e1",
+      "storedAt": 1761585557456,
+      "meta": {
+        "storedAt": 1761585557,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "55866",
+        "imdbId": "tt2819924",
+        "season": 7,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/240445?token=f6695117630783b10c727895366389e4&expires=1766769557&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:71712:s1e7",
+      "storedAt": 1761585482647,
+      "meta": {
+        "storedAt": 1761585482,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "71712",
+        "imdbId": "tt6470478",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Proper][EAC3 5 1][h264]-FLUX",
+            "url": "https://a.111477.xyz/tvs/The%20Good%20Doctor/Season%201/The%20Good%20Doctor%20(2017)%20-%20S01E07%20-%2022%20Steps%20[WEBDL-1080p%20Proper][EAC3%205.1][h264]-FLUX.mkv",
+            "quality": "1080p",
+            "size": "2.05 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Good Doctor (2017) - S01E07 - 22 Steps [WEBDL-1080p Proper][EAC3 5.1][h264]-FLUX.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:71712:s1e7",
+      "storedAt": 1761585485256,
+      "meta": {
+        "storedAt": 1761585485,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "71712",
+        "imdbId": "tt6470478",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Good Doctor S1E7 - 7. 22 Steps",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/gooddoctor/s1/The.Good.Doctor.S01E07.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "43min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Good Doctor S1E7 - 7. 22 Steps",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/gooddoctor/s1/The.Good.Doctor.S01E07.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "43min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:71712:s1e8",
+      "storedAt": 1761585511140,
+      "meta": {
+        "storedAt": 1761585511,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "71712",
+        "imdbId": "tt6470478",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Proper][EAC3 5 1][h264]-FLUX",
+            "url": "https://a.111477.xyz/tvs/The%20Good%20Doctor/Season%201/The%20Good%20Doctor%20(2017)%20-%20S01E08%20-%20Apple%20[WEBDL-1080p%20Proper][EAC3%205.1][h264]-FLUX.mkv",
+            "quality": "1080p",
+            "size": "2.05 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Good Doctor (2017) - S01E08 - Apple [WEBDL-1080p Proper][EAC3 5.1][h264]-FLUX.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:71712:s1e8",
+      "storedAt": 1761585513369,
+      "meta": {
+        "storedAt": 1761585513,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "71712",
+        "imdbId": "tt6470478",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Good Doctor S1E8 - 8. Apple",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/gooddoctor/s1/The.Good.Doctor.S01E08.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "43min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Good Doctor S1E8 - 8. Apple",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/gooddoctor/s1/The.Good.Doctor.S01E08.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "43min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:71712:s1e9",
+      "storedAt": 1761585528289,
+      "meta": {
+        "storedAt": 1761585528,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "71712",
+        "imdbId": "tt6470478",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Proper][EAC3 5 1][h264]-FLUX",
+            "url": "https://a.111477.xyz/tvs/The%20Good%20Doctor/Season%201/The%20Good%20Doctor%20(2017)%20-%20S01E09%20-%20Intangibles%20[WEBDL-1080p%20Proper][EAC3%205.1][h264]-FLUX.mkv",
+            "quality": "1080p",
+            "size": "2.10 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Good Doctor (2017) - S01E09 - Intangibles [WEBDL-1080p Proper][EAC3 5.1][h264]-FLUX.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:71712:s1e9",
+      "storedAt": 1761585530490,
+      "meta": {
+        "storedAt": 1761585530,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "71712",
+        "imdbId": "tt6470478",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Good Doctor S1E9 - 9. Intangibles",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/gooddoctor/s1/The.Good.Doctor.S01E09.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "43min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Good Doctor S1E9 - 9. Intangibles",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/gooddoctor/s1/The.Good.Doctor.S01E09.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "43min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:71712:s1e10",
+      "storedAt": 1761585939513,
+      "meta": {
+        "storedAt": 1761585939,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "71712",
+        "imdbId": "tt6470478",
+        "season": 1,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Proper][EAC3 5 1][h264]-FLUX",
+            "url": "https://a.111477.xyz/tvs/The%20Good%20Doctor/Season%201/The%20Good%20Doctor%20(2017)%20-%20S01E10%20-%20Sacrifice%20[WEBDL-1080p%20Proper][EAC3%205.1][h264]-FLUX.mkv",
+            "quality": "1080p",
+            "size": "2.10 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Good Doctor (2017) - S01E10 - Sacrifice [WEBDL-1080p Proper][EAC3 5.1][h264]-FLUX.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:71712:s1e10",
+      "storedAt": 1761585941745,
+      "meta": {
+        "storedAt": 1761585941,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "71712",
+        "imdbId": "tt6470478",
+        "season": 1,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Good Doctor S1E10 - 10. Sacrifice",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/gooddoctor/s1/The.Good.Doctor.S01E10.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "43min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Good Doctor S1E10 - 10. Sacrifice",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/gooddoctor/s1/The.Good.Doctor.S01E10.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "43min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:888:s1e3",
+      "storedAt": 1761585662925,
+      "meta": {
+        "storedAt": 1761585662,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "888",
+        "imdbId": "tt0112175",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/93418?token=59f4edc7de380c10a5d5eb3236a14b56&expires=1766769662&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-27T17:25:46.757Z",
+    "totalOriginalEntries": 23,
+    "newItemsInThisBatch": 23,
+    "format": "compact_v1"
+  }
+}
