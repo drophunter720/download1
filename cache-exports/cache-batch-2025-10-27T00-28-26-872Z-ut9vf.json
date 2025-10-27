@@ -1,0 +1,551 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:10229",
+      "storedAt": 1761524560082,
+      "meta": {
+        "storedAt": 1761524560,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "10229",
+        "imdbId": "tt0281358",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/56650?token=7bf6635e4dbaeb653f262b835b3851a3&expires=1766708559&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:19819",
+      "storedAt": 1761524477271,
+      "meta": {
+        "storedAt": 1761524477,
+        "urlCount": 9,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "19819",
+        "imdbId": "tt0109305",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Timecop 1994 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi DDP 2.0 + English DTS-HD MA 5.1] x265 CiNEPHiLES-Ionicboy\n58.54 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Timecop%201994%202160p%20UHD%20BluRay%20REMUX%20DV%20HDR%2010bit%20HEVC%20[Hindi%20DDP%202.0%20+%20English%20DTS-HD%20MA%205.1]%20x265%20CiNEPHiLES-Ionicboy.mkv?token=1761524476",
+            "quality": "2160p",
+            "size": "58.54 GB",
+            "fileName": "Timecop 1994 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi DDP 2.0 + English DTS-HD MA 5.1] x265 CiNEPHiLES-Ionicboy",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Timecop 1994 1080p BluRay REMUX AVC [Hindi DDP 2.0 + English DTS-HD MA 5.1] CiNEPHiLES-Ionicboy\n26.77 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Timecop%201994%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%202.0%20+%20English%20DTS-HD%20MA%205.1]%20CiNEPHiLES-Ionicboy.mkv?token=1761524476",
+            "quality": "1080p",
+            "size": "26.77 GB",
+            "fileName": "Timecop 1994 1080p BluRay REMUX AVC [Hindi DDP 2.0 + English DTS-HD MA 5.1] CiNEPHiLES-Ionicboy",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Timecop 1994 2160p UHD BluRay DV HDR 10bit HEVC [Hindi DDP 2.0 + English DTS-HD MA 5.1] x265 HONE-Ionicboy\n18.56 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Timecop%201994%202160p%20UHD%20BluRay%20DV%20HDR%2010bit%20HEVC%20[Hindi%20DDP%202.0%20+%20English%20DTS-HD%20MA%205.1]%20x265%20HONE-Ionicboy.mkv?token=1761524476",
+            "quality": "2160p",
+            "size": "18.56 GB",
+            "fileName": "Timecop 1994 2160p UHD BluRay DV HDR 10bit HEVC [Hindi DDP 2.0 + English DTS-HD MA 5.1] x265 HONE-Ionicboy",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "SpYWxNh5\n15.99 GB",
+            "url": "https://pixeldrain.net/api/file/SpYWxNh5",
+            "quality": "1080p",
+            "size": "15.99 GB",
+            "fileName": "SpYWxNh5",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Timecop 1994 1080p BluRay [Hindi DDP 2.0 + English DDP 5.1] x264 playHD-Ionicboy\n15.99 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Timecop%201994%201080p%20BluRay%20[Hindi%20DDP%202.0%20+%20English%20DDP%205.1]%20x264%20playHD-Ionicboy.mkv?token=1761524476",
+            "quality": "1080p",
+            "size": "15.99 GB",
+            "fileName": "Timecop 1994 1080p BluRay [Hindi DDP 2.0 + English DDP 5.1] x264 playHD-Ionicboy",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "x39ZYyAp\n9.09 GB",
+            "url": "https://pixeldrain.dev/api/file/x39ZYyAp?download",
+            "quality": "1080p",
+            "size": "9.09 GB",
+            "fileName": "x39ZYyAp",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Timecop 1994 1080p 10bit UHD BluRay DoVi HDR HEVC [Hindi DDP 2.0 + English DDP 5.1] x265 SQS-Ionicboy\n9.09 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Timecop%201994%201080p%2010bit%20UHD%20BluRay%20DoVi%20HDR%20HEVC%20[Hindi%20DDP%202.0%20+%20English%20DDP%205.1]%20x265%20SQS-Ionicboy.mkv?token=1761524476",
+            "quality": "1080p",
+            "size": "9.09 GB",
+            "fileName": "Timecop 1994 1080p 10bit UHD BluRay DoVi HDR HEVC [Hindi DDP 2.0 + English DDP 5.1] x265 SQS-Ionicboy",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "zNzecQzu\n5.38 GB",
+            "url": "https://pixeldrain.dev/api/file/zNzecQzu?download",
+            "quality": "1080p",
+            "size": "5.38 GB",
+            "fileName": "zNzecQzu",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Timecop 1994 1080p 10bit BluRay HEVC [Hindi DDP 2.0 + English DDP 5.1] x265 ADE-Ionicboy\n5.38 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Timecop%201994%201080p%2010bit%20BluRay%20HEVC%20[Hindi%20DDP%202.0%20+%20English%20DDP%205.1]%20x265%20ADE-Ionicboy.mkv?token=1761524476",
+            "quality": "1080p",
+            "size": "5.38 GB",
+            "fileName": "Timecop 1994 1080p 10bit BluRay HEVC [Hindi DDP 2.0 + English DDP 5.1] x265 ADE-Ionicboy",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 9
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:115465:s3e1",
+      "storedAt": 1761524456318,
+      "meta": {
+        "storedAt": 1761524456,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "115465",
+        "imdbId": "tt13610512",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/445401?token=fb8fbe9619e1aa73ee79d08d14696a18&expires=1766708455&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:124578:s1e1",
+      "storedAt": 1761524690754,
+      "meta": {
+        "storedAt": 1761524690,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "124578",
+        "imdbId": "tt15381716",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/427087?token=98427960e80a632b541c79fee8f8e61b&expires=1766708690&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:14814:s14e5",
+      "storedAt": 1761524426869,
+      "meta": {
+        "storedAt": 1761524426,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "14814",
+        "imdbId": "tt1086761",
+        "season": 14,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/243512?token=b27063dac7841de1ed86c71b14263b6e&expires=1766708426&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:42282:s4e5",
+      "storedAt": 1761524748514,
+      "meta": {
+        "storedAt": 1761524748,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "42282",
+        "imdbId": "tt1723816",
+        "season": 4,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/249850?token=0aa6d544a5fb8a1ade9196540d591a67&expires=1766708748&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:48866:s2e4",
+      "storedAt": 1761524730557,
+      "meta": {
+        "storedAt": 1761524730,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "48866",
+        "imdbId": "tt2661044",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/272762?token=5a8ce668fab882fff1b818d6356b1243&expires=1766708730&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61068:s1e11",
+      "storedAt": 1761524639935,
+      "meta": {
+        "storedAt": 1761524639,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61068",
+        "imdbId": "tt2049116",
+        "season": 1,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/274974?token=e04dc16bf78486d71871f97f13ae79ab&expires=1766708639&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:615:s5e12",
+      "storedAt": 1761524645520,
+      "meta": {
+        "storedAt": 1761524645,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "615",
+        "imdbId": "tt0149460",
+        "season": 5,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/192589?token=cb4eb3c826af5ff2b6bb133a2732e6c2&expires=1766708645&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61852:s5e23",
+      "storedAt": 1761524739081,
+      "meta": {
+        "storedAt": 1761524739,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61852",
+        "imdbId": "tt3596174",
+        "season": 5,
+        "episode": 23,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/163436?token=f9cfbff6e8f9e01ac7fc804c08597b49&expires=1766708738&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:77606:s1e2",
+      "storedAt": 1761524627862,
+      "meta": {
+        "storedAt": 1761524627,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "77606",
+        "imdbId": "tt7741824",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/243815?token=198f31e99a72325e123d09496fdd3d6a&expires=1766708627&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:79744:s1e16",
+      "storedAt": 1761524521785,
+      "meta": {
+        "storedAt": 1761524521,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "79744",
+        "imdbId": "tt7587890",
+        "season": 1,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/314471?token=ec9ac93c0bef099700ddc81e89e87df2&expires=1766708521&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:79744:s2e15",
+      "storedAt": 1761524582821,
+      "meta": {
+        "storedAt": 1761524582,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "79744",
+        "imdbId": "tt7587890",
+        "season": 2,
+        "episode": 15,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/314490?token=14ce331bd43cbf3a1ea0575a4c2b1b22&expires=1766708582&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:84773:s2e4",
+      "storedAt": 1761524555186,
+      "meta": {
+        "storedAt": 1761524555,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "84773",
+        "imdbId": "tt7631058",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/259141?token=8083eb011b2c5f6ac54b19f3ee8cb7af&expires=1766708555&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-27T00:28:26.873Z",
+    "totalOriginalEntries": 14,
+    "newItemsInThisBatch": 14,
+    "format": "compact_v1"
+  }
+}
