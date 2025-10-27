@@ -1,0 +1,858 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:420817",
+      "storedAt": 1761545661091,
+      "meta": {
+        "storedAt": 1761545661,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "420817",
+        "imdbId": "tt6139732",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/214317?token=a5884986cd3f889262e54aa3c5d67b78&expires=1766729660&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:72545",
+      "storedAt": 1761546015738,
+      "meta": {
+        "storedAt": 1761546015,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "72545",
+        "imdbId": "tt1397514",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/245173?token=71cd2350f14acb402312007082b45fbf&expires=1766730015&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:9674",
+      "storedAt": 1761545664405,
+      "meta": {
+        "storedAt": 1761545664,
+        "urlCount": 10,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "9674",
+        "imdbId": "tt0235712",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The Lord of the Rings - The Fellowship of the Ring 2001 Extended 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi NF DDP 5.1 640 kbps - DVD DD 2.0 448 kbps + English TrueHD Atmos 7.1] x265 FraMeSToR-LUMiX\n115.7 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The%20Lord%20of%20the%20Rings%20-%20The%20Fellowship%20of%20the%20Ring%202001%20Extended%202160p%20UHD%20BluRay%20REMUX%20DV%20HDR%2010bit%20HEVC%20[Hindi%20NF%20DDP%205.1%20640%20kbps%20-%20DVD%20DD%202.0%20448%20kbps%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20FraMeSToR-LUMiX.mkv?token=1761541696",
+            "quality": "2160p",
+            "size": "115.7 GB",
+            "fileName": "The Lord of the Rings - The Fellowship of the Ring 2001 Extended 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi NF DDP 5.1 640 kbps - DVD DD 2.0 448 kbps + English TrueHD Atmos 7.1] x265 FraMeSToR-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Lord of the Rings - The Fellowship of the Ring 2001 Extended 1080p BluRay REMUX AVC [Hindi NF DDP 5.1 640 kbps - DVD DD 2.0 448 kbps + English TrueHD Atmos 7.1] x264 ARTiCUN0-LUMiX\n60.59 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The%20Lord%20of%20the%20Rings%20-%20The%20Fellowship%20of%20the%20Ring%202001%20Extended%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20NF%20DDP%205.1%20640%20kbps%20-%20DVD%20DD%202.0%20448%20kbps%20+%20English%20TrueHD%20Atmos%207.1]%20x264%20ARTiCUN0-LUMiX.mkv?token=1761545663",
+            "quality": "1080p",
+            "size": "60.59 GB",
+            "fileName": "The Lord of the Rings - The Fellowship of the Ring 2001 Extended 1080p BluRay REMUX AVC [Hindi NF DDP 5.1 640 kbps - DVD DD 2.0 448 kbps + English TrueHD Atmos 7.1] x264 ARTiCUN0-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The Lord of the Rings - The Fellowship of the Ring 2001 Extended 2160p MA WEB-DL SDR 10bit HEVC [Hindi NF DDP 5.1 640 kbps - DVD DD 2.0 448 kbps + English TrueHD Atmos 7.1] x265 FLUX-LUMiX\n46.38 GB",
+            "url": "https://fsl.anime4u.co/The%20Lord%20of%20the%20Rings%20-%20The%20Fellowship%20of%20the%20Ring%202001%20Extended%202160p%20MA%20WEB-DL%20SDR%2010bit%20HEVC%20[Hindi%20NF%20DDP%205.1%20640%20kbps%20-%20DVD%20DD%202.0%20448%20kbps%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20FLUX-LUMiX.mkv?token=1761545663",
+            "quality": "2160p",
+            "size": "46.38 GB",
+            "fileName": "The Lord of the Rings - The Fellowship of the Ring 2001 Extended 2160p MA WEB-DL SDR 10bit HEVC [Hindi NF DDP 5.1 640 kbps - DVD DD 2.0 448 kbps + English TrueHD Atmos 7.1] x265 FLUX-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The Lord of the Rings - The Fellowship of the Ring 2001 Extended 2160p UHD BluRay DV HDR 10bit HEVC [Hindi NF DDP 5.1 640 kbps - DVD DD 2.0 448 kbps + English TrueHD Atmos 7.1] x265 DON-LUMiX\n41.15 GB",
+            "url": "https://fsl.anime4u.co/The%20Lord%20of%20the%20Rings%20-%20The%20Fellowship%20of%20the%20Ring%202001%20Extended%202160p%20UHD%20BluRay%20DV%20HDR%2010bit%20HEVC%20[Hindi%20NF%20DDP%205.1%20640%20kbps%20-%20DVD%20DD%202.0%20448%20kbps%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20DON-LUMiX.mkv?token=1761545663",
+            "quality": "2160p",
+            "size": "41.15 GB",
+            "fileName": "The Lord of the Rings - The Fellowship of the Ring 2001 Extended 2160p UHD BluRay DV HDR 10bit HEVC [Hindi NF DDP 5.1 640 kbps - DVD DD 2.0 448 kbps + English TrueHD Atmos 7.1] x265 DON-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Lord of the Rings - The Fellowship of the Ring 2001 Extended 1080p UHD BluRay DV HDR 10bit HEVC [Hindi NF DDP 5.1 640 kbps - DVD DD 2.0 448 kbps + English DDP 7.1] x265 NCmt-LUMiX\n29.01 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The%20Lord%20of%20the%20Rings%20-%20The%20Fellowship%20of%20the%20Ring%202001%20Extended%201080p%20UHD%20BluRay%20DV%20HDR%2010bit%20HEVC%20[Hindi%20NF%20DDP%205.1%20640%20kbps%20-%20DVD%20DD%202.0%20448%20kbps%20+%20English%20DDP%207.1]%20x265%20NCmt-LUMiX.mkv?token=1761545663",
+            "quality": "1080p",
+            "size": "29.01 GB",
+            "fileName": "The Lord of the Rings - The Fellowship of the Ring 2001 Extended 1080p UHD BluRay DV HDR 10bit HEVC [Hindi NF DDP 5.1 640 kbps - DVD DD 2.0 448 kbps + English DDP 7.1] x265 NCmt-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Lord of the Rings - The Fellowship of the Ring 2001 Extended 1080p BluRay [Hindi NF DDP 5.1 640 kbps - DVD DD 2.0 448 kbps + English DDP 7.1] x264 playHD-LUMiX\n28.49 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The%20Lord%20of%20the%20Rings%20-%20The%20Fellowship%20of%20the%20Ring%202001%20Extended%201080p%20BluRay%20[Hindi%20NF%20DDP%205.1%20640%20kbps%20-%20DVD%20DD%202.0%20448%20kbps%20+%20English%20DDP%207.1]%20x264%20playHD-LUMiX.mkv?token=1761545663",
+            "quality": "1080p",
+            "size": "28.49 GB",
+            "fileName": "The Lord of the Rings - The Fellowship of the Ring 2001 Extended 1080p BluRay [Hindi NF DDP 5.1 640 kbps - DVD DD 2.0 448 kbps + English DDP 7.1] x264 playHD-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "zqPGbz9D\n14.32 GB",
+            "url": "https://pixeldrain.dev/api/file/zqPGbz9D?download",
+            "quality": "1080p",
+            "size": "14.32 GB",
+            "fileName": "zqPGbz9D",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Lord of the Rings - The Fellowship of the Ring 2001 Extended 1080p BluRay 10bit HEVC [Hindi NF DDP 5.1 640 kbps - DVD DD 2.0 448 kbps + English DDP 7.1] x265 ARTiCUN0-LUMiX\n14.32 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The%20Lord%20of%20the%20Rings%20-%20The%20Fellowship%20of%20the%20Ring%202001%20Extended%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20NF%20DDP%205.1%20640%20kbps%20-%20DVD%20DD%202.0%20448%20kbps%20+%20English%20DDP%207.1]%20x265%20ARTiCUN0-LUMiX.mkv?token=1761545663",
+            "quality": "1080p",
+            "size": "14.32 GB",
+            "fileName": "The Lord of the Rings - The Fellowship of the Ring 2001 Extended 1080p BluRay 10bit HEVC [Hindi NF DDP 5.1 640 kbps - DVD DD 2.0 448 kbps + English DDP 7.1] x265 ARTiCUN0-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "gTpnJdgT\n5.33 GB",
+            "url": "https://pixeldrain.dev/api/file/gTpnJdgT?download",
+            "quality": "1080p",
+            "size": "5.33 GB",
+            "fileName": "gTpnJdgT",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Lord of the Rings - The Fellowship of the Ring 2001 Extended 1080p BluRay 10bit HEVC [Hindi NF DDP 5.1 640 kbps - DVD DD 2.0 448 kbps + English AAC 5.1] x265 PSA-LUMiX\n5.33 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The%20Lord%20of%20the%20Rings%20-%20The%20Fellowship%20of%20the%20Ring%202001%20Extended%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20NF%20DDP%205.1%20640%20kbps%20-%20DVD%20DD%202.0%20448%20kbps%20+%20English%20AAC%205.1]%20x265%20PSA-LUMiX.mkv?token=1761545663",
+            "quality": "1080p",
+            "size": "5.33 GB",
+            "fileName": "The Lord of the Rings - The Fellowship of the Ring 2001 Extended 1080p BluRay 10bit HEVC [Hindi NF DDP 5.1 640 kbps - DVD DD 2.0 448 kbps + English AAC 5.1] x265 PSA-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 10
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:9674",
+      "storedAt": 1761545666023,
+      "meta": {
+        "storedAt": 1761545666,
+        "urlCount": 12,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "9674",
+        "imdbId": "tt0235712",
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Ring.2002.8072p.BluRay.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/api/file/L4NJY8T4?download",
+            "quality": "4K",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Ring.2002.8072p.BluRay.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Ring.2002.8072p.BluRay.Hindi.English.DD5.1.x264.ESubs.mkv?token=1761545664",
+            "quality": "4K",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Ring.2002.8072p.BluRay.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kN-KxzPq9YIdSLTrzCmVlNC4uXaV1dnqXJyaOzUUVb3UfO-CU_yUduEPm4isxScUTSGcbacTLNqYTfeUDWOZy_-qwHxYJtVuE1fTxqdd3v-gqVFzyngj3WcL0rJH5DZ_L_sOm3XCJAHULTAcVz4ai3Z3W4CN4QQT7_09wc7wc0p1phjf5UvH3-0QwcxyA5vd3rRgVT_t8-CCkH4lUwmX3WT6Uwdht_1AQxqzCzz2Z-Py-m3lhOUyykuntrf6IBkk1Y7-rg",
+            "quality": "4K",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Ring.2002.1080p.BluRay.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/api/file/4QXBrqct?download",
+            "quality": "1080p",
+            "size": "2.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Ring.2002.1080p.BluRay.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Ring.2002.1080p.BluRay.Hindi.English.DD5.1.x264.ESubs.mkv?token=1761545664",
+            "quality": "1080p",
+            "size": "2.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Ring.2002.1080p.BluRay.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nZZCi9rFA_ATQX6-4HFkKSI0rYOoFzhTR4maE5wJoZgAKNgT_Kdojbd5Xfpb5vfZz4nk8qMWcE4uAO0q3Li-cq_cF1xLsukk1IIv6blDSoLPiGyWzUZaWeNtB93wR5v8D95taUJJusxFY8MQAAJhiRt__WemJZaYGgchUnMzowTkFV4PDJdmf618XlU_naJI4pw-t4EY-uA8c_bP9rD8pv6i62iX057irYu_KH0V2a21AMZw1zjNn1ryebeUgK8SfmLkOx",
+            "quality": "1080p",
+            "size": "2.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Ring.2002.1080p.BluRay.Hindi.English.DD5.1.x264.ESubs.Untouch.mkv",
+            "url": "https://pixeldrain.dev/api/file/Q59q58f1?download",
+            "quality": "1080p",
+            "size": "3.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Ring.2002.1080p.BluRay.Hindi.English.DD5.1.x264.ESubs.Untouch.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Ring.2002.1080p.BluRay.Hindi.English.DD5.1.x264.ESubs.Untouch.mkv?token=1761545664",
+            "quality": "1080p",
+            "size": "3.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u S3 Server ",
+            "title": "The.Ring.2002.1080p.BluRay.Hindi.English.DD5.1.x264.ESubs.Untouch.mkv",
+            "quality": "1080p",
+            "size": "3.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Ring.2002.1080p.BluRay.Hindi.English.DD5.1.x264.ESubs.Untouch.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2k_sc23I38XIK7YHMm9VdIxkgmtN6l3BKyF7K5JZofn8Sy88JzIHeBIxbnbihrzM5tObWWE5XFPg81k0ytUPFueW2NYvB4bg336s6pSlqpAvalNeYqRQS71bVcd_37NWVf4XpqKY-2bTSLmWnYpGyQggw_pNYoQrvJfBWa_jO9LzkdUbpSAOLanAlih_IVCvRUR6r6OfLTgDL3G9A0RoCWL4B8e9UQY_h4Z6yYQ_8mwU9kXLXkQ3yaHI3jfiThp23_2vcjJ",
+            "quality": "1080p",
+            "size": "3.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Ring.2002.480p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/api/file/ys1HLViX?download",
+            "quality": "480p",
+            "size": "434.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Ring.2002.480p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Ring.2002.480p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv?token=1761545664",
+            "quality": "480p",
+            "size": "434.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Ring.2002.480p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nPgw5VpbjQH1pc6havSb0drfpjYIkw-ypr0V4xwg6Iuar7cScJQdhdzAsNqSK-Oo-9AVJRCzqwbYW4M-wKMD6_FI5NFo8MlMEu6l9lv2Q9St6dvzapwRLlNXcSRAC9Osocc4RJZhP70hU06bxmrioHAzED02n_jYtWokXSvxyzfvAITSb2Y4aZz1Z3Aw3kmnCQ6pPWt0jky78bY6p8j93E8OBNSJkWonUDcRWNCFyJPLuGqTwiq12hlYuu_-oAEVNFF4tK",
+            "quality": "480p",
+            "size": "434.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 13
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:9674",
+      "storedAt": 1761545666332,
+      "meta": {
+        "storedAt": 1761545666,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "9674",
+        "imdbId": "tt0235712",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "The Conjuring - The Last Rites (2025) 2160p AMZN WEB-DL HDR 10bit HEVC [Hindi DDP 5 1 + English DDP 5 1] x265 (RG-UHDMovies)\n15.11GB",
+            "url": "https://worker-lingering-fire-39c5.biyeb80871.workers.dev/a0e2c0b448ca234fb2091b787fd9cb9791b1d64a177c56e1a8f3c1d9db888c3e2eddfd0c22e5c03678463289b754085e591d9ec92d3a54422017c46ce815c0f281b28dd49001ef80e99fc6762765ec00cb190b8c7122d7e22ec3d205bd4dee0da1a4f8eb92ac2e60a1c390e423081e94c6d7dd32c62cdafd0dd9cf536b001a69ff2e94862853e408d9956a2cc4ff26f64ab53f59522f88d369b88dddd74b8831ed27fdad06325c7ecaebacdf776d5c1f::5eba9c9a69fd1b8e37f9ee27029bebda/The Conjuring - The Last Rites (2025) 2160p AMZN WEB-DL HDR 10bit HEVC [Hindi DDP 5.1  English DDP 5.1] x265 (RG-UHDMovies).mkv",
+            "quality": "4K | HDR",
+            "size": "15.11GB",
+            "fileName": "The Conjuring - The Last Rites (2025) 2160p AMZN WEB-DL HDR 10bit HEVC [Hindi DDP 5.1 + English DDP 5.1] x265 (RG-UHDMovies).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "The Conjuring - The Last Rites (2025) 2160p AMZN WEB-DL SDR 10bit HEVC [Hindi DDP 5 1 + English DDP 5 1] x265 (RG-UHDMovies)\n10.57GB",
+            "url": "https://worker-blue-tree-a2d3.degifec113.workers.dev/699abd082f2a012888b409f299a63d6d05d53188d537e9eec6ed30d747af818930bac383213bad8e1fe4f8b3551c659f1c5a8fbec890c2464cda66b94c9161d3fe2b11cfd2fa2cf8842c311b72e9df508e156718121f4e538dce16cec6a6f1ac4b8aadf705cb8685b2f3b651cf871205f5808036cd9e78d320080d34b0a293c30773e27d804e02cdcab584ce48daa011f7d7135f258b0a789c9e77bacb75506ec39d051317ea5db82053eee0c13c47bf::ddc0356c686915e0fef154c82c089b9c/The Conjuring - The Last Rites (2025) 2160p AMZN WEB-DL SDR 10bit HEVC [Hindi DDP 5.1  English DDP 5.1] x265 (RG-UHDMovies).mkv",
+            "quality": "4K",
+            "size": "10.57GB",
+            "fileName": "The Conjuring - The Last Rites (2025) 2160p AMZN WEB-DL SDR 10bit HEVC [Hindi DDP 5.1 + English DDP 5.1] x265 (RG-UHDMovies).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "The Conjuring - The Last Rites (2025) 1080p AMZN WEB-DL [Hindi DDP 5 1 + English DDP 5 1] x264 (KyoGo-UHDMovies)\n7.95GB",
+            "url": "https://worker-twilight-mode-e30b.risob94105.workers.dev/1835e850c1e1f51d1da24ece9b80877c6bc704b9e25309713f23f42dc66ffb0255d4585ec6562014d57cc8a96da47284799ff4258847a1c56089b561f352d777343ba6de4e4814dc6c75637d4429592ca9905ce6d983c4f213f6617479dda0ea9d4e4b73046f6d0768cf1115b950da5aa1244e44d54740d3933234779559e3895a5f2652438977f45d57ce0ceac38a0f03500ed92e2b97c73aa0d5a66d00e0a1b0035fc7f6484b5d648ce98403a9007b::503096670cbc648be5e82194a91c8af5/The Conjuring - The Last Rites (2025) 1080p AMZN WEB-DL [Hindi DDP 5.1  English DDP 5.1] x264 (KyoGo-UHDMovies).mkv",
+            "quality": "1080p",
+            "size": "7.95GB",
+            "fileName": "The Conjuring - The Last Rites (2025) 1080p AMZN WEB-DL [Hindi DDP 5.1 + English DDP 5.1] x264 (KyoGo-UHDMovies).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1402:s9e14",
+      "storedAt": 1761545655279,
+      "meta": {
+        "storedAt": 1761545655,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1402",
+        "imdbId": "tt1520211",
+        "season": 9,
+        "episode": 14,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/191847?token=368ad2479659622bf752de103a65832d&expires=1766729655&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1622:s1e13",
+      "storedAt": 1761545671767,
+      "meta": {
+        "storedAt": 1761545671,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1622",
+        "imdbId": "tt0460681",
+        "season": 1,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/178825?token=1885d1fc3f088e08bdab47075d2d1acc&expires=1766729671&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2290:s4e13",
+      "storedAt": 1761545644456,
+      "meta": {
+        "storedAt": 1761545644,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2290",
+        "imdbId": "tt0374455",
+        "season": 4,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/233732?token=52590c9eb8d70d7a0410aee113587a0b&expires=1766729644&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:299483:s1e1",
+      "storedAt": 1761546016660,
+      "meta": {
+        "storedAt": 1761546016,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "299483",
+        "imdbId": "tt37786409",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/391307?token=e25fa00c6dc433358a858904d08adae0&expires=1766730016&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:5920:s3e2",
+      "storedAt": 1761545731129,
+      "meta": {
+        "storedAt": 1761545731,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "5920",
+        "imdbId": "tt1196946",
+        "season": 3,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/315122?token=837a626c286ad7ca3a169e9eaf33debd&expires=1766729730&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:60797:s1e2",
+      "storedAt": 1761545878257,
+      "meta": {
+        "storedAt": 1761545878,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "60797",
+        "imdbId": "tt3514324",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/93666?token=0817c026824461ba7089d30b731c8e49&expires=1766729878&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61692:s1e3",
+      "storedAt": 1761545798493,
+      "meta": {
+        "storedAt": 1761545798,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61692",
+        "imdbId": "tt3551096",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/272267?token=e6742a18cd358c4b8e87c70e0bc1d36f&expires=1766729798&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:66219:s1e6",
+      "storedAt": 1761545798742,
+      "meta": {
+        "storedAt": 1761545798,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "66219",
+        "imdbId": "tt5659248",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/109948?token=f291b3e2977a18d5c20b39685d6d787c&expires=1766729798&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:66219:s2e3",
+      "storedAt": 1761545718830,
+      "meta": {
+        "storedAt": 1761545718,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "66219",
+        "imdbId": "tt5659248",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/109971?token=9c64c57d91b69ef627550ffd949bc49a&expires=1766729718&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:71694:s6e2",
+      "storedAt": 1761545823777,
+      "meta": {
+        "storedAt": 1761545823,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "71694",
+        "imdbId": "tt6439752",
+        "season": 6,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/215113?token=33438e7ea7747cdb6806107b55af197a&expires=1766729823&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:71790:s5e6",
+      "storedAt": 1761545671358,
+      "meta": {
+        "storedAt": 1761545671,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "71790",
+        "imdbId": "tt6111130",
+        "season": 5,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/150066?token=14b00285da36382a26f8bdd7ed957379&expires=1766729671&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:82596:s2e9",
+      "storedAt": 1761545999637,
+      "meta": {
+        "storedAt": 1761545999,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "82596",
+        "imdbId": "tt8962124",
+        "season": 2,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/255242?token=95d65c6cf9ba9e3f0b60af31474c66ea&expires=1766729999&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:8358:s1e13",
+      "storedAt": 1761545685750,
+      "meta": {
+        "storedAt": 1761545685,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "8358",
+        "imdbId": "tt1235099",
+        "season": 1,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/207946?token=6b5a8b6dfeba9936190f586b5119f31a&expires=1766729685&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-27T06:22:04.460Z",
+    "totalOriginalEntries": 18,
+    "newItemsInThisBatch": 18,
+    "format": "compact_v1"
+  }
+}
