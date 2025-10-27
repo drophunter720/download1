@@ -1,0 +1,646 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:298312",
+      "storedAt": 1761575453699,
+      "meta": {
+        "storedAt": 1761575453,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "298312",
+        "imdbId": "tt3567288",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/266807?token=9100ab0272b8681e745adc6348bb2157&expires=1766759453&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:492414",
+      "storedAt": 1761575736514,
+      "meta": {
+        "storedAt": 1761575736,
+        "urlCount": 12,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "492414",
+        "imdbId": "tt7611352",
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "No.One.Gets.Out.Alive.2021.1080p.Web-DL.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/api/file/j6LsFZXT?download",
+            "quality": "1080p",
+            "size": "1.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "No.One.Gets.Out.Alive.2021.1080p.Web-DL.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/No.One.Gets.Out.Alive.2021.1080p.Web-DL.Hindi.English.DD5.1.x264.ESubs.mkv?token=1761575735",
+            "quality": "1080p",
+            "size": "1.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "No.One.Gets.Out.Alive.2021.1080p.Web-DL.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nbgdAOh1g36kSaJXi5axVGj9bhN21i6ZJDRrfGsM4dDB1izTEDI_x2EoaiUiY7P6VpNwUzLHK3okixGPy21c5wggSjO0NV_cQD3WdqAMk5mFn3b9EMw8DUjGcIJboj8BhDOHIQC6uYj3ZpL-4l4pskClRBQkrggGFeR3VjpRLcwsw48dvdLXIDPWhF0C6ytVi2OZ0RMLuGxrhqW7UGmmpAKZtOp-lNnZze5Goy-oA6XT1N1dGPJofxhrOB9V1DXdda2w-p",
+            "quality": "1080p",
+            "size": "1.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "No.One.Gets.Out.Alive.2021.1080p.Web-DL.Hindi.English.DD5.1.x264.ESubs.Untouch.mkv",
+            "url": "https://pixeldrain.dev/api/file/Qnr6ghDh?download",
+            "quality": "1080p",
+            "size": "4.9 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "No.One.Gets.Out.Alive.2021.1080p.Web-DL.Hindi.English.DD5.1.x264.ESubs.Untouch.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/No.One.Gets.Out.Alive.2021.1080p.Web-DL.Hindi.English.DD5.1.x264.ESubs.Untouch.mkv?token=1761572272",
+            "quality": "1080p",
+            "size": "4.9 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u S3 Server ",
+            "title": "No.One.Gets.Out.Alive.2021.1080p.Web-DL.Hindi.English.DD5.1.x264.ESubs.Untouch.mkv",
+            "quality": "1080p",
+            "size": "4.9 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "No.One.Gets.Out.Alive.2021.1080p.Web-DL.Hindi.English.DD5.1.x264.ESubs.Untouch.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2k7sfi_ElNKByarMAYTnEgTYPrLBdFRbXfgPfpYX8hNGVUG99HO0DyEZPN_WNDGHjDrTYKNG7PKRjggeAUrNTE0h1FX3dIYZQ4ouCnffOd_UWKgwfvxnkJKMiJH3Gc47qDjVE2RckkuCmP0wqf4M5TawijC98pORZa2saQClNrvry4IzvE1-5V66k2pP5gpyW3kZ-p0a5GAZ8RQH_jx5gJvhqT2tRyraH2mEey3ZVqgGDJNcONMENRFxchjmhSQ-TEi-ex2",
+            "quality": "1080p",
+            "size": "4.9 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "No.One.Gets.Out.Alive.2021.720p.Web-DL.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/api/file/DzeHwo9w?download",
+            "quality": "720p",
+            "size": "882.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "No.One.Gets.Out.Alive.2021.720p.Web-DL.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/No.One.Gets.Out.Alive.2021.720p.Web-DL.Hindi.English.DD5.1.x264.ESubs.mkv?token=1761575734",
+            "quality": "720p",
+            "size": "882.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "No.One.Gets.Out.Alive.2021.720p.Web-DL.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lZXXYjhj4nu2mzE_yf17CTOZVutbVntHazKOkwjqWtpH-fQ9UxBE5sTVGSNJBJEDH_uv5nv5UMR0B86wF6-e50cMHiQrlH_0ph93EVjZNxu5i6v0-xoD1wdqbGSLpCN4QWAobXmHlxPQR4j3d2MF_jvApEXplkPMFaB6MgOgAPANwBBGPlGdDioouBeuuChjYcwEpEkoeims1BaXIlplg49Gfnhwuew6y3z6qZBUqDjRD0ldbgiupuQQpcKeRT3rKTJYMu",
+            "quality": "720p",
+            "size": "882.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "No.One.Gets.Out.Alive.2021.480p.Web-DL.Hindi.English.DD2.0.x264.ESub.mkv",
+            "url": "https://pixeldrain.dev/api/file/9jZmrJM4?download",
+            "quality": "480p",
+            "size": "303.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "No.One.Gets.Out.Alive.2021.480p.Web-DL.Hindi.English.DD2.0.x264.ESub.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/No.One.Gets.Out.Alive.2021.480p.Web-DL.Hindi.English.DD2.0.x264.ESub.mkv?token=1761575507",
+            "quality": "480p",
+            "size": "303.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "No.One.Gets.Out.Alive.2021.480p.Web-DL.Hindi.English.DD2.0.x264.ESub.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2m6kI89YSASFCOgVW8Bt4ZEtokqN0A-t5pGXDG5fmbNYl3Fk15osRPpIxIJCNAdH5ykvpX1QSXBHhq9O0obHNK4lnXAMefxCQv45cLjKxySS_m6yY6xEw_N4iHhmd7PsNZFkPbkEsOwiMPD1BKl49QvlErz4vKaHMRp7ng74_QyRkd-h7k0SaS0oFIqP1hPAiBMfupz81kiWqGXumFb35Yi0i_ZcVr6--21RfqurNzLZ1N-TCRm4tpIPAokYQGZky_J5_Ge",
+            "quality": "480p",
+            "size": "303.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 13
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:492414",
+      "storedAt": 1761575735238,
+      "meta": {
+        "storedAt": 1761575735,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "492414",
+        "imdbId": "tt7611352",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Luckiest Girl Alive - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2022/lickestgirlalive.mkv",
+            "quality": "1080p",
+            "size": "1h 53m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Luckiest Girl Alive - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2022/lickestgirlalive.mkv",
+            "quality": "1080p",
+            "size": "1h 53m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Luckiest Girl Alive - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2022/lickestgirlalive.mkv",
+            "quality": "720p",
+            "size": "1h 53m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Luckiest Girl Alive - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2022/lickestgirlalive.mkv",
+            "quality": "720p",
+            "size": "1h 53m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:107484:s3e3",
+      "storedAt": 1761575487544,
+      "meta": {
+        "storedAt": 1761575487,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "107484",
+        "imdbId": "tt10692232",
+        "season": 3,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/453064?token=2d9e60d5b372dd1f6988342fdf28cc26&expires=1766759487&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1408:s7e14",
+      "storedAt": 1761575641152,
+      "meta": {
+        "storedAt": 1761575641,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1408",
+        "imdbId": "tt0412142",
+        "season": 7,
+        "episode": 14,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/180956?token=eaeed113a124e77aeed2d784a67e9d53&expires=1766759640&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1433:s18e5",
+      "storedAt": 1761575523998,
+      "meta": {
+        "storedAt": 1761575523,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1433",
+        "imdbId": "tt0397306",
+        "season": 18,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/223085?token=07b4ed974627d86bbc0b0ee539510609&expires=1766759523&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:15260:s3e12",
+      "storedAt": 1761575316198,
+      "meta": {
+        "storedAt": 1761575316,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "15260",
+        "imdbId": "tt1305826",
+        "season": 3,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/132383?token=21144f2e13c3c6c0af12721e1bd7ecef&expires=1766759316&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1911:s1e7",
+      "storedAt": 1761575336679,
+      "meta": {
+        "storedAt": 1761575336,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/191904?token=f18676c1b177eddce906a65e197cc8f6&expires=1766759336&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:387:s2e8",
+      "storedAt": 1761575301067,
+      "meta": {
+        "storedAt": 1761575301,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "387",
+        "imdbId": "tt0206512",
+        "season": 2,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/172417?token=037a036aaa5b655a879b749507991a25&expires=1766759300&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:387:s2e16",
+      "storedAt": 1761575560224,
+      "meta": {
+        "storedAt": 1761575560,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "387",
+        "imdbId": "tt0206512",
+        "season": 2,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/172425?token=fa958e9d3817c1e4faf09742b1c4f935&expires=1766759559&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:387:s11e4",
+      "storedAt": 1761575350047,
+      "meta": {
+        "storedAt": 1761575350,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "387",
+        "imdbId": "tt0206512",
+        "season": 11,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/173132?token=4e60d902a80ecb3f13455b2d868f0179&expires=1766759349&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:39340:s5e3",
+      "storedAt": 1761575571780,
+      "meta": {
+        "storedAt": 1761575571,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "39340",
+        "imdbId": "tt1845307",
+        "season": 5,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/249983?token=20b6eaec542673ea26c612cce231d58c&expires=1766759571&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:48891:s4e8",
+      "storedAt": 1761575307318,
+      "meta": {
+        "storedAt": 1761575307,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "48891",
+        "imdbId": "tt2467372",
+        "season": 4,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/320472?token=0339fea130a1786ca42f95155e7e5c10&expires=1766759306&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:62455:s2e5",
+      "storedAt": 1761575621600,
+      "meta": {
+        "storedAt": 1761575621,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "62455",
+        "imdbId": "tt4524056",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/176546?token=3082fff966beb8dc24bb0b4151ce1496&expires=1766759618&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-27T14:36:21.071Z",
+    "totalOriginalEntries": 14,
+    "newItemsInThisBatch": 14,
+    "format": "compact_v1"
+  }
+}
