@@ -1,0 +1,934 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:10781",
+      "storedAt": 1761563390831,
+      "meta": {
+        "storedAt": 1761563390,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "10781",
+        "imdbId": "tt0420294",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/305558?token=1df61681f0c68977c05a737407d720f1&expires=1766747390&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:528422",
+      "storedAt": 1761563425445,
+      "meta": {
+        "storedAt": 1761563425,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "528422",
+        "imdbId": "tt1399178",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "sTbyKH33\n8.71 GB",
+            "url": "https://pixeldrain.dev/api/file/sTbyKH33?download",
+            "quality": "1080p",
+            "size": "8.71 GB",
+            "fileName": "sTbyKH33",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Lost 2009 1080p WEB-DL [Org Hindi DD 2.0 + English DDP 2.0 + German DDP 2.0] x264 DUNGHiLL-4KHDHub\n8.71 GB",
+            "url": "https://fsl.anime4u.co/The%20Lost%202009%201080p%20WEB-DL%20[Org%20Hindi%20DD%202.0%20+%20English%20DDP%202.0%20+%20German%20DDP%202.0]%20x264%20DUNGHiLL-4KHDHub.mkv?token=1761563425",
+            "quality": "1080p",
+            "size": "8.71 GB",
+            "fileName": "The Lost 2009 1080p WEB-DL [Org Hindi DD 2.0 + English DDP 2.0 + German DDP 2.0] x264 DUNGHiLL-4KHDHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:528422",
+      "storedAt": 1761563436981,
+      "meta": {
+        "storedAt": 1761563436,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "528422",
+        "imdbId": "tt1399178",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Challengers (2024) 1080p BluRay [Hindi DDP5 1 + English TrueHD 7 1 Atmos] x264~(EGEN-Ionicboy)\n15.79GB",
+            "url": "https://worker-long-math-7a9a.pecic34110.workers.dev/feff916cee3088fee00b92a94e4654c3aec25c43a83f7e8c6ec9f312378e6e2206b815712c951e71b086684bd6c9b61475a3ca6cb0f8eb7eebfdf5935004732c65833d8115bf459390ccd69e13c748e15c349804be1ff456ab7997f9251b31546af1fd70729efeb06e8434b13d6d27335a3c56b166a8403637c9e9a9ca7ab93baf523cd831a9c3e7c63e794e43fd5b755d904ed67591882af0d53532b3c8cd35012ebea4ceaf15daf8d5569c4a144723::212dd91382c5816ed80d57da94cc250b/Challengers (2024) 1080p BluRay [Hindi DDP5.1  English TrueHD 7.1 Atmos] x264(EGEN-Ionicboy).mkv",
+            "quality": "1080p | BluRay",
+            "size": "15.79GB",
+            "fileName": "Challengers (2024) 1080p BluRay [Hindi DDP5.1 + English TrueHD 7.1 Atmos] x264~(EGEN-Ionicboy).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:13916:s1e4",
+      "storedAt": 1761563688424,
+      "meta": {
+        "storedAt": 1761563688,
+        "urlCount": 10,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "13916",
+        "imdbId": "tt0877057",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "kD4s8Af2\n1.34 GB",
+            "url": "https://pixeldrain.dev/api/file/kD4s8Af2?download",
+            "quality": "1080p",
+            "size": "1.34 GB",
+            "fileName": "kD4s8Af2",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "DEATH.NOTE.S01E04.Pursuit.1080p.AMZN.WEB-DL.Hindi.DDP2.0-Japanese.DDP2.0.H.264-4kHdHub.Com\n1.34 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/DEATH.NOTE.S01E04.Pursuit.1080p.AMZN.WEB-DL.Hindi.DDP2.0-Japanese.DDP2.0.H.264-4kHdHub.Com.mkv?token=1761563687",
+            "quality": "1080p",
+            "size": "1.34 GB",
+            "fileName": "DEATH.NOTE.S01E04.Pursuit.1080p.AMZN.WEB-DL.Hindi.DDP2.0-Japanese.DDP2.0.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ECtX6Z96\n404.96 MB",
+            "url": "https://pixeldrain.dev/api/file/ECtX6Z96?download",
+            "quality": "1080p",
+            "size": "404.96 MB",
+            "fileName": "ECtX6Z96",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "DEATH.NOTE.S01E04.Pursuit.1080p.AMZN.WEB-DL.Hindi.DDP2.0-Japanese.DDP2.0.H.265-4kHdHub.Com\n404.96 MB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/DEATH.NOTE.S01E04.Pursuit.1080p.AMZN.WEB-DL.Hindi.DDP2.0-Japanese.DDP2.0.H.265-4kHdHub.Com.mkv?token=1761563688",
+            "quality": "1080p",
+            "size": "404.96 MB",
+            "fileName": "DEATH.NOTE.S01E04.Pursuit.1080p.AMZN.WEB-DL.Hindi.DDP2.0-Japanese.DDP2.0.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 720p",
+            "title": "QNHzb5V9\n581.16 MB",
+            "url": "https://pixeldrain.dev/api/file/QNHzb5V9?download",
+            "quality": "720p",
+            "size": "581.16 MB",
+            "fileName": "QNHzb5V9",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 720p",
+            "title": "DEATH.NOTE.S01E04.Pursuit.720p.AMZN.WEB-DL.Hindi.DDP2.0-Japanese.DDP2.0.H.264-4kHdHub.Com\n581.16 MB",
+            "url": "https://fsl.anime4u.co/DEATH.NOTE.S01E04.Pursuit.720p.AMZN.WEB-DL.Hindi.DDP2.0-Japanese.DDP2.0.H.264-4kHdHub.Com.mkv?token=1761563688",
+            "quality": "720p",
+            "size": "581.16 MB",
+            "fileName": "DEATH.NOTE.S01E04.Pursuit.720p.AMZN.WEB-DL.Hindi.DDP2.0-Japanese.DDP2.0.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 720p",
+            "title": "9bD9zD8M\n137.26 MB",
+            "url": "https://pixeldrain.dev/api/file/9bD9zD8M?download",
+            "quality": "720p",
+            "size": "137.26 MB",
+            "fileName": "9bD9zD8M",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 720p",
+            "title": "DEATH.NOTE.S01E04.Pursuit.720p.AMZN.WEB-DL.Hindi.DDP2.0-Japanese.DDP2.0.H.265-4kHdHub.Com\n137.26 MB",
+            "url": "https://fsl.anime4u.co/DEATH.NOTE.S01E04.Pursuit.720p.AMZN.WEB-DL.Hindi.DDP2.0-Japanese.DDP2.0.H.265-4kHdHub.Com.mkv?token=1761563688",
+            "quality": "720p",
+            "size": "137.26 MB",
+            "fileName": "DEATH.NOTE.S01E04.Pursuit.720p.AMZN.WEB-DL.Hindi.DDP2.0-Japanese.DDP2.0.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "5Mozxv53\n2.96 GB",
+            "url": "https://pixeldrain.dev/api/file/5Mozxv53?download",
+            "quality": "1080p",
+            "size": "2.96 GB",
+            "fileName": "5Mozxv53",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Death Note S01E04 1080p BluRay REMUX AVC [Hindi DDP 2.0 + English-Japanese FLAC 2.0] x264-LUMiX\n2.96 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Death%20Note%20S01E04%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%202.0%20+%20English-Japanese%20FLAC%202.0]%20x264-LUMiX.mkv?token=1761563688",
+            "quality": "1080p",
+            "size": "2.96 GB",
+            "fileName": "Death Note S01E04 1080p BluRay REMUX AVC [Hindi DDP 2.0 + English-Japanese FLAC 2.0] x264-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 10
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:13916:s1e4",
+      "storedAt": 1761563687650,
+      "meta": {
+        "storedAt": 1761563687,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "13916",
+        "imdbId": "tt0877057",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DTS 2 0][x264]-W4F",
+            "url": "https://a.111477.xyz/tvs/Death%20Note/Season%201/Death%20Note%20(2006)%20-%20S01E04%20-%20Pursuit%20[Bluray-1080p][DTS%202.0][x264]-W4F.mkv",
+            "quality": "1080p",
+            "size": "1.45 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Death Note (2006) - S01E04 - Pursuit [Bluray-1080p][DTS 2.0][x264]-W4F.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 2 0][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Death%20Note/Season%201/Death%20Note%20(2006)%20-%20S01E04%20-%20Pursuit%20[Bluray-1080p][EAC3%202.0][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": "281.63 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Death Note (2006) - S01E04 - Pursuit [Bluray-1080p][EAC3 2.0][x265]-iVy.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Death Note S01E04 Pursuit.mkv",
+            "url": "https://a.111477.xyz/tvs/Death%20Note/Season%201/Death%20Note%20S01E04%20Pursuit.mkv",
+            "quality": "Unknown",
+            "size": "3.27 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Death Note S01E04 Pursuit.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:13916:s1e4",
+      "storedAt": 1761563696489,
+      "meta": {
+        "storedAt": 1761563696,
+        "urlCount": 13,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "13916",
+        "imdbId": "tt0877057",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Death.Note.S01E04.1080p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/2MeYSMuR?download",
+            "quality": "1080p",
+            "size": "477.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Death.Note.S01E04.1080p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Death.Note.S01E04.1080p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv?token=1761559082",
+            "quality": "1080p",
+            "size": "477.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Death.Note.S01E04.1080p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nhJxbcZKpJHQXn0pjcC9-Ra6Z6seSazo32JqXRxSjJwBhefjDCzPa6RkZidDVr_6FRQCZudxQKymROPqZxzexi7Mlz7ftbwFU8PMyFKb3l6Fef3YJKAIEpcS0PN7od-Beu91tq4wmICQbdEcWKE2FOJQ6VfcWyHIYnbq36UBQr3MzQbMjyYk0DUDQhuzHOJOIk04ZdXutre1Zlf8WVDzlB70FCxuTFlgp0ybUW2cP8cXf58bN6c71Mi2PvaF6vCbGec-KV",
+            "quality": "1080p",
+            "size": "477.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Death.Note.S01E04.720p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/ggorYwxy?download",
+            "quality": "720p",
+            "size": "229.2 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Death.Note.S01E04.720p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Death.Note.S01E04.720p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv?token=1761558613",
+            "quality": "720p",
+            "size": "229.2 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u S3 Server ",
+            "title": "Death.Note.S01E04.720p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "quality": "720p",
+            "size": "229.2 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Death.Note.S01E04.720p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lXuQ11hFJhn2dqayY5S8slgKh2RVfNrt1euT90SqrJJFmS9JsyLGfpa_kLt45MuzocMUM3gtpyn07jynVIGBCSSt_PRdCzcNOU_X9dgtmmpsE0PtqXVgcc5r0n6CBSxbOPZ5Qp55sDLV8iY8qJwf7Jz-bur4cMBHa4xOfm7NzIwEuTABEmhHOx9WJV7EZNXLuLSFARmQ-fF6uWG0ijycykO_ctagvhGf5pegf2ffWaoZilEcE",
+            "quality": "720p",
+            "size": "229.2 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Death.Note.S01E04.720p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2l0jY0XCW-cDTy9c0IAKzu8PP9UrXf90HOuu6oWknUF2g5KpcJsxIpsyD9IoKgniSZwqe0M9EDcDqNelVjuAZXH0RpRj3NiTX4mzd4XBHUQVVqwsrxWF2T5GYWOLa4ruqCq_xUqGb52YM4BeBcgWwtltEZwXUCONMkqiTYjtxa-ya8ZdUWSf3O1c_EB-uh-3FQV5Spiz86U9Qfw9leM7H_5NxxCt3EJZ19wewoZXl2m4PyLs1cW5FjBjjXipDfWUjv8g8An",
+            "quality": "720p",
+            "size": "229.2 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Death.Note.S01E04.480p.BluRay.Hindi-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/qtgxjYqS?download",
+            "quality": "480p",
+            "size": "93.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Death.Note.S01E04.480p.BluRay.Hindi-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Death.Note.S01E04.480p.BluRay.Hindi-English.ESub.x264-HDHub4u.Ms.mkv?token=1761558230",
+            "quality": "480p",
+            "size": "93.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Death.Note.S01E04.480p.BluRay.Hindi-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nfRbYZP2HQ8Lwtj63DSAl7VT933grfrvmat3iO9Hk_LZREg2oSdjWqJjYMhXxxSyttXx-Evtozm1rumIbD4UuwTczitPx3LQ7T79S25gsc0jjtVJKm_JaNsBPF2yx5KGO9x1vrFW2Z-O8kMbpcC80X_zrh6vRR1ZNemlCnOoHgIgR_JtsdKGqgojprOf4cMEkoMqNGBCHYzXFM5rNU5FmSAOCPw7mD7qfST7L22JUpneCDFzkrUGIbMW3z0OuNP7k8K8ju",
+            "quality": "480p",
+            "size": "93.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Death.Note.S01E04.480p.BluRay.Hindi-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/JXiyUq2d?download",
+            "quality": "480p",
+            "size": "93.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Death.Note.S01E04.480p.BluRay.Hindi-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Death.Note.S01E04.480p.BluRay.Hindi-English.ESub.x264-HDHub4u.Ms.mkv?token=1761562770",
+            "quality": "480p",
+            "size": "93.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Death.Note.S01E04.480p.BluRay.Hindi-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lqU5i3wbbezU1J27eD2HsSm8UTUkjcmhD2IlpFLy4EqS7aF9_nPCbylguy0kgEP7LLYJyKWIqPU6UJqEAqEs51QkUgfNc18MPM8NC7dOE8Q7GF03QDpFrG0hDH9uVpD7nF5bSK3XomzUYy3uGG6MXkch1utPfs8wMiZfT3aQeCLbxvuA-WgmXy7aPgCIacojs3Sr0WYBHZrJL5stArl9PvCqg_lEzC9QfBvts7pXbp-nj4F06yTQyL2yD8ix6J3WlU38qc",
+            "quality": "480p",
+            "size": "93.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 14
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:13916:s1e4",
+      "storedAt": 1761563690994,
+      "meta": {
+        "storedAt": 1761563690,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "13916",
+        "imdbId": "tt0877057",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Death Note S1E4 - 4. Pursuit",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/deathnoteanime/s1/Death Note S01E04 Dual Audio {English-Japanese} 720p WEB-DL ESubs [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "22min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Death Note S1E4 - 4. Pursuit",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/deathnoteanime/s1/Death Note S01E04 Dual Audio {English-Japanese} 720p WEB-DL ESubs [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "22min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1416:s18e9",
+      "storedAt": 1761563421869,
+      "meta": {
+        "storedAt": 1761563421,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1416",
+        "imdbId": "tt0413573",
+        "season": 18,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/193346?token=97c27b0bbb78bfb5e4242b70f6070eb6&expires=1766747421&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2316:s8e11",
+      "storedAt": 1761563500809,
+      "meta": {
+        "storedAt": 1761563500,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2316",
+        "imdbId": "tt0386676",
+        "season": 8,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/269451?token=01fd05c0479756b4f4246f5e77fbf87e&expires=1766747500&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2734:s13e11",
+      "storedAt": 1761563639977,
+      "meta": {
+        "storedAt": 1761563639,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2734",
+        "imdbId": "tt0203259",
+        "season": 13,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/231328?token=d0b15212e4b5e819be6267b9305070f4&expires=1766747639&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:31132:s3e1",
+      "storedAt": 1761563789651,
+      "meta": {
+        "storedAt": 1761563789,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "31132",
+        "imdbId": "tt1710308",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/223416?token=6d1ffbdde1558305e789ab569e5ccf60&expires=1766747789&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:46296:s4e3",
+      "storedAt": 1761563539485,
+      "meta": {
+        "storedAt": 1761563539,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "46296",
+        "imdbId": "tt1442449",
+        "season": 4,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/92985?token=3385753e83207e4da611ee50401942d6&expires=1766747539&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61692:s2e4",
+      "storedAt": 1761563859352,
+      "meta": {
+        "storedAt": 1761563859,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61692",
+        "imdbId": "tt3551096",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/272465?token=96297732ba4e382d8bb1a0094e72b4d6&expires=1766747859&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:62455:s2e4",
+      "storedAt": 1761563536350,
+      "meta": {
+        "storedAt": 1761563536,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "62455",
+        "imdbId": "tt4524056",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/176545?token=e20c5504970301490cb049871a3853aa&expires=1766747535&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:62875:s2e13",
+      "storedAt": 1761563762009,
+      "meta": {
+        "storedAt": 1761563762,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "62875",
+        "imdbId": "tt4591680",
+        "season": 2,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/276749?token=b939eff859fe5aa10219fba08a8c6195&expires=1766747761&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:63174:s5e2",
+      "storedAt": 1761563747899,
+      "meta": {
+        "storedAt": 1761563747,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "63174",
+        "imdbId": "tt4052886",
+        "season": 5,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/215818?token=c0fa31eab0e7ac173ddbba96eeab6c84&expires=1766747747&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:63174:s5e3",
+      "storedAt": 1761563749610,
+      "meta": {
+        "storedAt": 1761563749,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "63174",
+        "imdbId": "tt4052886",
+        "season": 5,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/215819?token=bbb89ea37c9210b2de6fb35dfbe6c5dd&expires=1766747749&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:693:s5e6",
+      "storedAt": 1761563650087,
+      "meta": {
+        "storedAt": 1761563650,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "693",
+        "imdbId": "tt0410975",
+        "season": 5,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/201262?token=fd0a3fa8116f5bb55cf84c5ca1f0083c&expires=1766747649&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:71728:s3e11",
+      "storedAt": 1761563681421,
+      "meta": {
+        "storedAt": 1761563681,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "71728",
+        "imdbId": "tt6226232",
+        "season": 3,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/175146?token=abfb228b963b0617201bbfc225c3898f&expires=1766747681&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-27T11:17:50.833Z",
+    "totalOriginalEntries": 19,
+    "newItemsInThisBatch": 19,
+    "format": "compact_v1"
+  }
+}
