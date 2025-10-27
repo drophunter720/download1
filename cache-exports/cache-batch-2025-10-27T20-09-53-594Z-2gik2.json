@@ -1,0 +1,997 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:10040",
+      "storedAt": 1761595738376,
+      "meta": {
+        "storedAt": 1761595738,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "10040",
+        "imdbId": "tt0385307",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/286335?token=e06553a2ee65b87bc932ebac4c0c41bd&expires=1766779737&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:1052280",
+      "storedAt": 1761595486740,
+      "meta": {
+        "storedAt": 1761595486,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1052280",
+        "imdbId": "tt14577874",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/263538?token=12d8ad605269e9b9548839d18fe7fddd&expires=1766779486&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:17803",
+      "storedAt": 1761595313592,
+      "meta": {
+        "storedAt": 1761595313,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "17803",
+        "imdbId": "tt0106188",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Clevatess S01E01 The Lord of Dark Beasts 1080p CR WEB-DL MULTi AAC2 0 H 264-ShiNobi\n2.68GB",
+            "url": "https://worker-damp-dew-bcd7.wanax10405.workers.dev/37bf4058b9178308091d24b4cae74a68b99485ac94596ad4fc45126efaf33676b66471a01a11e9168ec9c3c1820b1c8ec52f92930851a6feb52017b0f5768401a93e2d977e9b487e751b1c62f7fb57edf4c4e7ba7df5dbdb3ce3e704c90d4b24eee0404dd9b0bd9ff68a41a12db3f746422d6b2244eac701e6b8c16205b1cd0cc1c66487792c4fdc39f012ffe99de4bc4695320196ab4a1bddb4282b7432c8b97c96ca14bd8e45cb9c4abfe94cba1be2::b14ac46599f747918a8d0c304806a63c/Clevatess.S01E01.The.Lord.of.Dark.Beasts.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-ShiNobi.mkv",
+            "quality": "1080p",
+            "size": "2.68GB",
+            "fileName": "Clevatess.S01E01.The.Lord.of.Dark.Beasts.1080p.CR.WEB-DL.MULTi.AAC2.0.H.264-ShiNobi.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:639721",
+      "storedAt": 1761595650749,
+      "meta": {
+        "storedAt": 1761595650,
+        "urlCount": 13,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "639721",
+        "imdbId": "tt11125620",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Boss Baby - Family Business 2021 1080p BluRay REMUX AVC x264 [Hindi NF DDP 5.1 640kbps + English TrueHD Atmos 7.1 ESub-FraMeSToR-4kHdHub\n26.14 GB",
+            "url": "https://fsl.anime4u.co/The%20Boss%20Baby%20-%20Family%20Business%202021%201080p%20BluRay%20REMUX%20AVC%20x264%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20TrueHD%20Atmos%207.1%20ESub-FraMeSToR-4kHdHub.mkv?token=1761593624",
+            "quality": "1080p",
+            "size": "26.14 GB",
+            "fileName": "The Boss Baby - Family Business 2021 1080p BluRay REMUX AVC x264 [Hindi NF DDP 5.1 640kbps + English TrueHD Atmos 7.1 ESub-FraMeSToR-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "SFDXxDNk\n14.98 GB",
+            "url": "https://pixeldrain.dev/api/file/SFDXxDNk?download",
+            "quality": "2160p",
+            "size": "14.98 GB",
+            "fileName": "SFDXxDNk",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The Boss Baby - Family Business 2021 2160p 10bit HDR BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English TrueHD Atmos 7.1 ESub-CHD-4kHdHub\n14.98 GB",
+            "url": "https://fsl.anime4u.co/The%20Boss%20Baby%20-%20Family%20Business%202021%202160p%2010bit%20HDR%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20TrueHD%20Atmos%207.1%20ESub-CHD-4kHdHub.mkv?token=1761593624",
+            "quality": "2160p",
+            "size": "14.98 GB",
+            "fileName": "The Boss Baby - Family Business 2021 2160p 10bit HDR BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English TrueHD Atmos 7.1 ESub-CHD-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "YTGCh9zV\n12.13 GB",
+            "url": "https://pixeldrain.dev/api/file/YTGCh9zV?download",
+            "quality": "2160p",
+            "size": "12.13 GB",
+            "fileName": "YTGCh9zV",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The Boss Baby - Family Business 2021 2160p 10bit SDR BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English DDP 7.1] ESub-SWTYBLZ-4kHdHub\n12.13 GB",
+            "url": "https://fsl.anime4u.co/The%20Boss%20Baby%20-%20Family%20Business%202021%202160p%2010bit%20SDR%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DDP%207.1]%20ESub-SWTYBLZ-4kHdHub.mkv?token=1761593624",
+            "quality": "2160p",
+            "size": "12.13 GB",
+            "fileName": "The Boss Baby - Family Business 2021 2160p 10bit SDR BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English DDP 7.1] ESub-SWTYBLZ-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "vSwth1tM\n12 GB",
+            "url": "https://pixeldrain.dev/api/file/vSwth1tM?download",
+            "quality": "1080p",
+            "size": "12 GB",
+            "fileName": "vSwth1tM",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Boss Baby - Family Business 2021 1080p BluRay x264 [Hindi NF DDP 5.1 640kbps + English DDP 7.1] ESub-TayTo-4kHdHub\n12 GB",
+            "url": "https://fsl.anime4u.co/The%20Boss%20Baby%20-%20Family%20Business%202021%201080p%20BluRay%20x264%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DDP%207.1]%20ESub-TayTo-4kHdHub.mkv?token=1761593624",
+            "quality": "1080p",
+            "size": "12 GB",
+            "fileName": "The Boss Baby - Family Business 2021 1080p BluRay x264 [Hindi NF DDP 5.1 640kbps + English DDP 7.1] ESub-TayTo-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "zgRPpDn4\n10.69 GB",
+            "url": "https://pixeldrain.dev/api/file/zgRPpDn4?download",
+            "quality": "1080p",
+            "size": "10.69 GB",
+            "fileName": "zgRPpDn4",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Boss Baby - Family Business 2021 UHD 1080p 10bit HDR DV BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English DDP 7.1 ESub-c0kE-4kHdHub\n10.69 GB",
+            "url": "https://fsl.anime4u.co/The%20Boss%20Baby%20-%20Family%20Business%202021%20UHD%201080p%2010bit%20HDR%20DV%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DDP%207.1%20ESub-c0kE-4kHdHub.mkv?token=1761593624",
+            "quality": "1080p",
+            "size": "10.69 GB",
+            "fileName": "The Boss Baby - Family Business 2021 UHD 1080p 10bit HDR DV BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English DDP 7.1 ESub-c0kE-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "cpk4Uheo\n5.27 GB",
+            "url": "https://pixeldrain.dev/api/file/cpk4Uheo?download",
+            "quality": "1080p",
+            "size": "5.27 GB",
+            "fileName": "cpk4Uheo",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Boss Baby - Family Business 2021 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English DDP 7.1] ESub-Tigole-4kHdHub\n5.27 GB",
+            "url": "https://fsl.anime4u.co/The%20Boss%20Baby%20-%20Family%20Business%202021%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DDP%207.1]%20ESub-Tigole-4kHdHub.mkv?token=1761593624",
+            "quality": "1080p",
+            "size": "5.27 GB",
+            "fileName": "The Boss Baby - Family Business 2021 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English DDP 7.1] ESub-Tigole-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "r43jKahN\n2.45 GB",
+            "url": "https://pixeldrain.dev/api/file/r43jKahN?download",
+            "quality": "1080p",
+            "size": "2.45 GB",
+            "fileName": "r43jKahN",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Boss Baby - Family Business 2021 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English DDP 7.1] ESub-Pahe-4kHdHub\n2.45 GB",
+            "url": "https://fsl.anime4u.co/The%20Boss%20Baby%20-%20Family%20Business%202021%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DDP%207.1]%20ESub-Pahe-4kHdHub.mkv?token=1761593624",
+            "quality": "1080p",
+            "size": "2.45 GB",
+            "fileName": "The Boss Baby - Family Business 2021 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English DDP 7.1] ESub-Pahe-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 13
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:639721",
+      "storedAt": 1761595649593,
+      "meta": {
+        "storedAt": 1761595649,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "639721",
+        "imdbId": "tt11125620",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS HD MA 7 1 FGT ORARBG",
+            "url": "https://a.111477.xyz/movies/The%20Addams%20Family%202%20(2021)/The%20Addams%20Family%202%202021%201080p%20BluRay%20REMUX%20AVC%20DTS%20HD%20MA%207%201%20FGT%20ORARBG.mkv",
+            "quality": "1080p | REMUX",
+            "size": "22.89 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Addams Family 2 2021 1080p BluRay REMUX AVC DTS HD MA 7 1 FGT ORARBG.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:639721",
+      "storedAt": 1761595654981,
+      "meta": {
+        "storedAt": 1761595654,
+        "urlCount": 18,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "639721",
+        "imdbId": "tt11125620",
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Addams.Family.Values.1993.4K-2160p.SDR.10Bit.WEB-DL.Hindi.DDP2.0-English.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/gdD8dfXV?download",
+            "quality": "4K",
+            "size": "4.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Addams.Family.Values.1993.4K-2160p.SDR.10Bit.WEB-DL.Hindi.DDP2.0-English.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://fsl.anime4u.co/Addams.Family.Values.1993.4K-2160p.SDR.10Bit.WEB-DL.Hindi.DDP2.0-English.5.1.HEVC.x265-HDHub4u.Tv.mkv?token=1761595651",
+            "quality": "4K",
+            "size": "4.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Addams.Family.Values.1993.4K-2160p.SDR.10Bit.WEB-DL.Hindi.DDP2.0-English.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nv_YeB4II3SXR8SkCZm2C4O5OWE9uj0hP2WrHs52CWk4YbMXTWNo_I9cBP5-R9h6jEfRpbH9coFj004UDDv78YK-UwfVIldATYxOu9vHCQa4lLWv53l7uAylcNvx0e5MnEWr7DjiVhbEV5JJwIZlcAHLx97gQFEDgyD4FTbpH5OMnJVWEcKv_nqQAKkGOBqvZctW_hO1y2HxrSOatnvv-iirTIEzHvIP9uggzaURuUwDIXlaCV3YR46EiWaT1XLRKMv7XY",
+            "quality": "4K",
+            "size": "4.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Addams.Family.Values.1993.1080p.10Bit.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/FMakZgJ5?download",
+            "quality": "1080p",
+            "size": "1.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Addams.Family.Values.1993.1080p.10Bit.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://fsl.anime4u.co/Addams.Family.Values.1993.1080p.10Bit.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Tv.mkv?token=1761595652",
+            "quality": "1080p",
+            "size": "1.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Addams.Family.Values.1993.1080p.10Bit.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2n4r7hlEJWbNE-9rY92uAFzYUL2krhRnhrlU2qJp7Vf3xcv2HRASF1f1TrITEHJYplxKadNv1bPoP2nxqwyg8MI1ezlT4EgTK0YQWxdybocOohhRgA7hNIli4pc4LwmPMqEb_oN45xQsGZCWH221cB_-XV9GWsCwes14cs5R2pz9LA3OJJO-8kgb3_TKGS82t2NfxvhoGIGbfB6dSJoTfodOcz4Uk9jW1gJ9-6GOx7IzJfiy_jvmFeB0StQEyrFrZrPlmBT",
+            "quality": "1080p",
+            "size": "1.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Addams.Family.Values.1993.1080p.10Bit.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nqytyuoSHh_0haHsB5sjMPnoFRu7KnxsJrCofX3czklWOUEjVU-AvTk4twKj97H_jJDARVD2oZbg2sLaeWVkQDXXzmHORtr0Yc7d3ghyufXWaUW_O9Kg1B1s545zRCcwtDn8G6ZFS3im8mKK_DkqMQsvH1nipB1ZW7ykMuvJ9r7PZIdU01CkHRLyR0H_G79hKKHb3VgPvDJ8uBUJDJ6lDju24ahu9D9gcpRKCwL13TtX9dULCab-Dp0CltHQE3jhT57tbA",
+            "quality": "1080p",
+            "size": "1.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Addams.Family.Values.1993.1080p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/qAShnMrF?download",
+            "quality": "1080p",
+            "size": "2.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Addams.Family.Values.1993.1080p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://fsl.anime4u.co/Addams.Family.Values.1993.1080p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv?token=1761595652",
+            "quality": "1080p",
+            "size": "2.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Addams.Family.Values.1993.1080p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nYEoCcTOVmwr-3xhzs__HHn3bElhg81nQY9mWHbMxFBMs4uzg3OyUlRAk7nEeD1YpPf5rHt31mfT-3DZymcLDGO2u7v0XfUllk1oDiN6nDj_9SXADMl7PthIHrh65aJZjQtr20p7WK2ntpU-g3plhrR40j3CcmP991UkeCUZZatU_7Gw3gfWKfQEoYGFzrfl1lgXjiTqu2COrnflzjuLq0JrgOgNcnkZ4KGUb6r90nqTAWVjA6e5m2r5g-Y5MdEenzuJu-",
+            "quality": "1080p",
+            "size": "2.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Addams.Family.Values.1993.1080p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2miTNam7pVnI7o4qYOmwgrWrCiytheW9DLfdrHmB-bqsYrW7kI2P1H0Yrv6DTS-XDLbe2BmuyIXrvlnLB5u3qOKPQQCQpA3dlZYaEO3zQ18tKGBMAXWo5TlSywidCrQHGTYNEilbhHPvckHu3E4HrSUX1mkUseOjVmsTplIdP6XCCbm-tVJ67R-4t7wACVDU9q0M-xDXKAnd_5D1ixbpwjFVmt4GU4Szp4uYOI-TWUDFeJKeDQEjT5XX-R_bJnSmAkLEAN9",
+            "quality": "1080p",
+            "size": "2.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Addams.Family.Values.1993.720p.10Bit.Hindi.2.0-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/LLhLhNB1?download",
+            "quality": "720p",
+            "size": "611.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Addams.Family.Values.1993.720p.10Bit.Hindi.2.0-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Addams.Family.Values.1993.720p.10Bit.Hindi.2.0-English.HEVC.x265-HDHub4u.Tv.mkv?token=1761595652",
+            "quality": "720p",
+            "size": "611.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Addams.Family.Values.1993.720p.10Bit.Hindi.2.0-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lsWePWAAJ7oe0ALYsEhadt9j3bxekvBswClVn0rGOPqcBoPWNU-Cp-_0UVnGmXPuO2MP_GokT9Jnfz7p69FPZ1l2RKjSMGyCFU6l6--SmBXYMHxQj4VYFliA9494sMYwlPY4iuHGjnmUfikczTKENzAd46csUmoK7uHh_bOLUODbubiOOTGCbq92bC04bXQIwhldTX5bZLCzUegawahs0UNS1_P-8zPMACeNBhDpgraJeKzhwd9KUWXuxDcU6uBBzIeXlB",
+            "quality": "720p",
+            "size": "611.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Addams.Family.Values.1993.720p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/uzsWYSnq?download",
+            "quality": "720p",
+            "size": "966.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Addams.Family.Values.1993.720p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://fsl.anime4u.co/Addams.Family.Values.1993.720p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv?token=1761595652",
+            "quality": "720p",
+            "size": "966.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Addams.Family.Values.1993.720p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2muSge0K29ydb-LHNhuhCGzKDjarRdu3VUhYsA1pzVFIVoCU4nFO4Jc2t6gXnOxu_dkw97YayI73qoVIDjOjnNvkzn_0yeHZQ2OjiBxxbrgaRmcbZyQYH8v7qqIkaMXwnaS5kRe-GNs7anr4JYyGdRiPIZb3FmEsaaL7xomaBmeXdmdLIkWap-5efcDeSKrO6s7oMzy2MCkUKe1rNSTMgRVFHHfF8JphLD80-IN4BkGhieb9d2hs6cqCAY9WwgMfVuFlV3h",
+            "quality": "720p",
+            "size": "966.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Addams.Family.Values.1993.720p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2klX_8EfoaWRlz7O-aACzCPFu5MdAYOuDC0TCiTJsM3PSuXPTTELy2j-qI_-C0-6TBssSLjIQRn_TBRLk2-dNq_DEDMbSRo7054OFbHkGWunrjBTWoAqiJuoFXER5BYORDuy4yj5qh0Yk1YEPae_PMhf8IgQ_A-tERgreEdaRNnfwOI49nJQdVrK-0jm9rZTYVsi5d3424_avPhyhOOmwd8EWPprLY9MRgpIj3ZNtmtsCiJv9oLhDRZ573A18AtIGUmW5O0",
+            "quality": "720p",
+            "size": "966.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 18
+      }
+    },
+    {
+      "key": "prov:moviesmod:movie:639721",
+      "storedAt": 1761595656746,
+      "meta": {
+        "storedAt": 1761595656,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "movie",
+        "tmdbId": "639721",
+        "imdbId": "tt11125620",
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "The Addams Family 2 2021 1080p Moviesmod org\n2.38GB",
+            "url": "https://worker-dark-dream-b0b2.tepeh90861.workers.dev/0257edba4ec9f5d33c29bf2e391f6dfb1acc44cc39e6cbe33d785aea6dc99d399ea7241f9628e628693aff686f108c669d4a015114842d3ca388fca8f10fa9199ef870e24dd39df8c1e576868f8eb061b47cb1a97b4435add6f9d4c618b05f748508919f0817d17c3aa28102d03f8030502f718c17ef94f3889f5fd5c2c270c57053286070c1d0988a770e1d2a45c8374f27aaa12c24e48e08629266c0a8f036d5246bcc89f90385a52d873aafeb5d5b::5af202667f96c2f2329e74d7fb656f80/The.Addams.Family.2.2021.1080p.Moviesmod.org.mkv",
+            "quality": "1080p",
+            "size": "2.38GB",
+            "fileName": "The.Addams.Family.2.2021.1080p.Moviesmod.org.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:668489",
+      "storedAt": 1761595350663,
+      "meta": {
+        "storedAt": 1761595350,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "668489",
+        "imdbId": "tt14123284",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/309490?token=588a63d7333e2073526c1223fae39747&expires=1766779350&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:108261:s1e17",
+      "storedAt": 1761595533521,
+      "meta": {
+        "storedAt": 1761595533,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "108261",
+        "imdbId": "tt13400006",
+        "season": 1,
+        "episode": 17,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/446189?token=17d5df9a51abcf1953700b1366119414&expires=1766779533&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:108261:s1e18",
+      "storedAt": 1761595404866,
+      "meta": {
+        "storedAt": 1761595404,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "108261",
+        "imdbId": "tt13400006",
+        "season": 1,
+        "episode": 18,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/446190?token=2f6f05d9a611c333c3679e0aad457474&expires=1766779404&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:113036:s1e1",
+      "storedAt": 1761595566418,
+      "meta": {
+        "storedAt": 1761595566,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "113036",
+        "imdbId": "tt12306692",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/257608?token=d4c44a56234c2aa9b744b086abd7051b&expires=1766779566&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1402:s11e24",
+      "storedAt": 1761595776937,
+      "meta": {
+        "storedAt": 1761595776,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1402",
+        "imdbId": "tt1520211",
+        "season": 11,
+        "episode": 24,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/191895?token=8434de6368fbb25221a07ae70523a15f&expires=1766779776&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:210268:s1e8",
+      "storedAt": 1761595668595,
+      "meta": {
+        "storedAt": 1761595668,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "210268",
+        "imdbId": "tt21327000",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/385691?token=382f3ddf02d7285309ae3611f8f583e9&expires=1766779668&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:211564:s2e6",
+      "storedAt": 1761595358857,
+      "meta": {
+        "storedAt": 1761595358,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "211564",
+        "imdbId": "tt21064598",
+        "season": 2,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/392533?token=a60c60a69d8b005c344a810bfa3e72e4&expires=1766779358&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:262469:s2e8",
+      "storedAt": 1761595321905,
+      "meta": {
+        "storedAt": 1761595321,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "262469",
+        "imdbId": "tt33262257",
+        "season": 2,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/394853?token=c51a034279066db5bec14a49c2ef40fd&expires=1766779321&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:31917:s2e6",
+      "storedAt": 1761595589877,
+      "meta": {
+        "storedAt": 1761595589,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "31917",
+        "imdbId": "tt1578873",
+        "season": 2,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/179343?token=82c61c6c714f2f378e9f55c0dd832ed8&expires=1766779589&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:32868:s1e7",
+      "storedAt": 1761595371355,
+      "meta": {
+        "storedAt": 1761595371,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "32868",
+        "imdbId": "tt1592154",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/118596?token=10a91baaf65ea5668ce30f558f0502ad&expires=1766779370&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:33217:s1e1",
+      "storedAt": 1761595782528,
+      "meta": {
+        "storedAt": 1761595782,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "33217",
+        "imdbId": "tt1641384",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/242798?token=d60c063496e35069cedbd358d473bc00&expires=1766779782&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:44006:s1e20",
+      "storedAt": 1761595678291,
+      "meta": {
+        "storedAt": 1761595678,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "44006",
+        "imdbId": "tt2261391",
+        "season": 1,
+        "episode": 20,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/315740?token=7718df38123ce375c1fbbd6541e4aaf7&expires=1766779677&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:48866:s2e6",
+      "storedAt": 1761595749774,
+      "meta": {
+        "storedAt": 1761595749,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "48866",
+        "imdbId": "tt2661044",
+        "season": 2,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/272764?token=de791b4c57abc296942ae9d7820c6d86&expires=1766779749&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-27T20:09:53.595Z",
+    "totalOriginalEntries": 20,
+    "newItemsInThisBatch": 20,
+    "format": "compact_v1"
+  }
+}
