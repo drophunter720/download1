@@ -1,0 +1,345 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:1957",
+      "storedAt": 1761650154638,
+      "meta": {
+        "storedAt": 1761650154,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1957",
+        "imdbId": "tt0278435",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/279449?token=4f26fa26a825fca5c884fe11c8df6b3c&expires=1766834154&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1416:s3e20",
+      "storedAt": 1761650115335,
+      "meta": {
+        "storedAt": 1761650115,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1416",
+        "imdbId": "tt0413573",
+        "season": 3,
+        "episode": 20,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/192851?token=bfdac0c1056c5b6ee9c34d7a1c93a10f&expires=1766834115&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1418:s9e22",
+      "storedAt": 1761650250138,
+      "meta": {
+        "storedAt": 1761650250,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1418",
+        "imdbId": "tt0898266",
+        "season": 9,
+        "episode": 22,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/268391?token=e1733c4d537598c5c3853d54c470c443&expires=1766834249&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:236235:s1e1",
+      "storedAt": 1761650200656,
+      "meta": {
+        "storedAt": 1761650200,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "236235",
+        "imdbId": "tt13210838",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "J7qUCuny\n2.91 GB",
+            "url": "https://pixeldrain.dev/api/file/J7qUCuny?download",
+            "quality": "1080p",
+            "size": "2.91 GB",
+            "fileName": "J7qUCuny",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The.Gentlemen.S01E01.Refined.Aggression.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.264-4kHdHub.Com\n2.91 GB",
+            "url": "https://fsl.anime4u.co/The.Gentlemen.S01E01.Refined.Aggression.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv?token=1761650200",
+            "quality": "1080p",
+            "size": "2.91 GB",
+            "fileName": "The.Gentlemen.S01E01.Refined.Aggression.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "7pBT5gyo\n5.72 GB",
+            "url": "https://pixeldrain.net/api/file/7pBT5gyo",
+            "quality": "2160p",
+            "size": "5.72 GB",
+            "fileName": "7pBT5gyo",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The Gentlemen S01E01 2160p NF 10bit WEB-DL DoVi HDR HEVC [Hindi DDP 5.1 + English DDP.Atmos 5.1] H.265 FLUX-4kHDHub.com\n5.72 GB",
+            "url": "https://fsl.anime4u.co/The%20Gentlemen%20S01E01%202160p%20NF%2010bit%20WEB-DL%20DoVi%20HDR%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DDP.Atmos%205.1]%20H.265%20FLUX-4kHDHub.com.mkv?token=1761650200",
+            "quality": "2160p",
+            "size": "5.72 GB",
+            "fileName": "The Gentlemen S01E01 2160p NF 10bit WEB-DL DoVi HDR HEVC [Hindi DDP 5.1 + English DDP.Atmos 5.1] H.265 FLUX-4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "9aFMdsMg\n8.68 GB",
+            "url": "https://pixeldrain.dev/api/file/9aFMdsMg?download",
+            "quality": "2160p",
+            "size": "8.68 GB",
+            "fileName": "9aFMdsMg",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:236235:s1e1",
+      "storedAt": 1761650200223,
+      "meta": {
+        "storedAt": 1761650200,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "236235",
+        "imdbId": "tt13210838",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][x264]-NHTFS[EN+AR+EU+CA+ZH+HR+CS+DA+NL+ES+FIL+FI+FR+GL+DE+EL+HE+HU+ID+IT+JA+KO+MS+NB+PL+PT+RO+RU+SV+TH+TR+UK+VI]",
+            "url": "https://a.111477.xyz/tvs/The%20Gentlemen/Season%201/The%20Gentlemen%20(2024)%20-%20S01E01%20-%20Episode%201%20[WEBDL-1080p][EAC3%20Atmos%205.1][x264]-NHTFS[EN+AR+EU+CA+ZH+HR+CS+DA+NL+ES+FIL+FI+FR+GL+DE+EL+HE+HU+ID+IT+JA+KO+MS+NB+PL+PT+RO+RU+SV+TH+TR+UK+VI].mkv",
+            "quality": "1080p",
+            "size": "2.61 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Gentlemen (2024) - S01E01 - Episode 1 [WEBDL-1080p][EAC3 Atmos 5.1][x264]-NHTFS[EN+AR+EU+CA+ZH+HR+CS+DA+NL+ES+FIL+FI+FR+GL+DE+EL+HE+HU+ID+IT+JA+KO+MS+NB+PL+PT+RO+RU+SV+TH+TR+UK+VI].mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x264]-MGE",
+            "url": "https://a.111477.xyz/tvs/The%20Gentlemen/Season%201/The%20Gentlemen%20(2024)%20-%20S01E01%20-%20Refined%20Aggression%20[WEBDL-1080p][EAC3%205.1][x264]-MGE.mkv",
+            "quality": "1080p",
+            "size": "2.91 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Gentlemen (2024) - S01E01 - Refined Aggression [WEBDL-1080p][EAC3 5.1][x264]-MGE.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/The%20Gentlemen/Season%201/The%20Gentlemen%20(2024)%20-%20S01E01%20-%20Refined%20Aggression%20[WEBRip-1080p][EAC3%20Atmos%205.1][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": "972.85 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Gentlemen (2024) - S01E01 - Refined Aggression [WEBRip-1080p][EAC3 Atmos 5.1][x265]-iVy.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:236235:s1e1",
+      "storedAt": 1761650203356,
+      "meta": {
+        "storedAt": 1761650203,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "236235",
+        "imdbId": "tt13210838",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Gentlemen S1E1 - 1. Refined Aggression",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/thegentelman/s1/The Gentlemen Season 1 {Hindi-English} 720p WEB-DL MSubs [BollyFlix]/The Gentlemen S01E01 {Hindi-English} 720p WEB-DL MSubs [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "68min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Gentlemen S1E1 - 1. Refined Aggression",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/thegentelman/s1/The Gentlemen Season 1 {Hindi-English} 720p WEB-DL MSubs [BollyFlix]/The Gentlemen S01E01 {Hindi-English} 720p WEB-DL MSubs [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "68min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:293613:s1e2",
+      "storedAt": 1761650432823,
+      "meta": {
+        "storedAt": 1761650432,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "293613",
+        "imdbId": "tt35664835",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/461692?token=d8adfc7aa5e53bb585822c5c629f6355&expires=1766834432&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61662:s2e7",
+      "storedAt": 1761650196347,
+      "meta": {
+        "storedAt": 1761650196,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61662",
+        "imdbId": "tt3526078",
+        "season": 2,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/181523?token=cb0138076ee7a098e6e3a600890104b8&expires=1766834196&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-28T11:23:01.029Z",
+    "totalOriginalEntries": 8,
+    "newItemsInThisBatch": 8,
+    "format": "compact_v1"
+  }
+}
