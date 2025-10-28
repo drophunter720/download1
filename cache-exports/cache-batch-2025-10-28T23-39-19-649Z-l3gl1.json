@@ -1,0 +1,483 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:1180629",
+      "storedAt": 1761694401130,
+      "meta": {
+        "storedAt": 1761694401,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1180629",
+        "imdbId": "tt27367464",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/361093?token=80a7adc2feeb666ff978d3a53f5df61c&expires=1766878400&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1877:s5e3",
+      "storedAt": 1761694566333,
+      "meta": {
+        "storedAt": 1761694566,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1877",
+        "imdbId": "tt0852863",
+        "season": 5,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/323759?token=955e3efeafdcd67f7ad086bd3aed5f40&expires=1766878566&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:211288:s2e2",
+      "storedAt": 1761694610284,
+      "meta": {
+        "storedAt": 1761694610,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "211288",
+        "imdbId": "tt13875494",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Witcher.S02.E02.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/gbxWpicY?download",
+            "quality": "720p",
+            "size": "410 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Witcher.S02.E02.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Witcher.S02.E02.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Tv.mkv?token=1761694605",
+            "quality": "720p",
+            "size": "410 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u S3 Server ",
+            "title": "The.Witcher.S02.E02.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "quality": "720p",
+            "size": "410 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Witcher.S02.E02.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nq_97nyrAFY6tpAqzrAio1AEneq7fMu-GS8Ri2HNl1Fj4Y5pP4H6sjnLmWHCOpklrBClkM-3nnQw88Edcxngqj4ra9_QjkRr1VlGOjvPNMvAb4Hm2cqb6Pim2qcdPtq-DIHNoBLjY1dzYL4ijqOZcBFxUhI8hBp8Z_CPLTvWQvJrQckqcqgm0U4ErPdWeqpWjWBVlAteTlz3OQh9SOByV29Cfhgupeygj02LfSZG070jIdh5g",
+            "quality": "720p",
+            "size": "410 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:211288:s2e2",
+      "storedAt": 1761694604356,
+      "meta": {
+        "storedAt": 1761694604,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "211288",
+        "imdbId": "tt13875494",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Tracker S2E2 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1743198712/s2/episode2.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:253376:s1e4",
+      "storedAt": 1761694480839,
+      "meta": {
+        "storedAt": 1761694480,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "253376",
+        "imdbId": "tt32267726",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Qupwoz5t\n5.28 GB",
+            "url": "https://pixeldrain.dev/api/file/Qupwoz5t?download",
+            "quality": "2160p",
+            "size": "5.28 GB",
+            "fileName": "Qupwoz5t",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The.Girlfriend.S01E04.2160p.AMZN.WEB-DL.DDP5.1.HDR.H.265-4kHdHub.com\n5.28 GB",
+            "url": "https://fsl.anime4u.co/The.Girlfriend.S01E04.2160p.AMZN.WEB-DL.DDP5.1.HDR.H.265-4kHdHub.com.mkv?token=1761694480",
+            "quality": "2160p",
+            "size": "5.28 GB",
+            "fileName": "The.Girlfriend.S01E04.2160p.AMZN.WEB-DL.DDP5.1.HDR.H.265-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "2Ns9hfDS\n5.3 GB",
+            "url": "https://pixeldrain.dev/api/file/2Ns9hfDS?download",
+            "quality": "2160p",
+            "size": "5.3 GB",
+            "fileName": "2Ns9hfDS",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The.Girlfriend.S01E04.2160p.AMZN.WEB-DL.DDP5.1.H.265-4kHdHub.com\n5.3 GB",
+            "url": "https://fsl.anime4u.co/The.Girlfriend.S01E04.2160p.AMZN.WEB-DL.DDP5.1.H.265-4kHdHub.com.mkv?token=1761694480",
+            "quality": "2160p",
+            "size": "5.3 GB",
+            "fileName": "The.Girlfriend.S01E04.2160p.AMZN.WEB-DL.DDP5.1.H.265-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "YSHQWqXq\n3.33 GB",
+            "url": "https://pixeldrain.dev/api/file/YSHQWqXq?download",
+            "quality": "1080p",
+            "size": "3.33 GB",
+            "fileName": "YSHQWqXq",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The.Girlfriend.S01E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.com\n3.33 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Girlfriend.S01E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.com.mkv?token=1761694480",
+            "quality": "1080p",
+            "size": "3.33 GB",
+            "fileName": "The.Girlfriend.S01E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "rWzgHPiM\n1.31 GB",
+            "url": "https://pixeldrain.dev/api/file/rWzgHPiM?download",
+            "quality": "1080p",
+            "size": "1.31 GB",
+            "fileName": "rWzgHPiM",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The.Girlfriend.S01E04.1080p.AMZN.WEB-DL.DDP5.1.H.265-4kHdHub.com\n1.31 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Girlfriend.S01E04.1080p.AMZN.WEB-DL.DDP5.1.H.265-4kHdHub.com.mkv?token=1761694480",
+            "quality": "1080p",
+            "size": "1.31 GB",
+            "fileName": "The.Girlfriend.S01E04.1080p.AMZN.WEB-DL.DDP5.1.H.265-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:253376:s1e4",
+      "storedAt": 1761694479489,
+      "meta": {
+        "storedAt": 1761694479,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "253376",
+        "imdbId": "tt32267726",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 5 1][HEVC]-PSA",
+            "url": "https://a.111477.xyz/tvs/The%20Girlfriend/Season%201/The%20Girlfriend%20(2025)%20-%20S01E04%20-%20Episode%204%20[WEBRip-1080p][AAC%205.1][HEVC]-PSA.mkv",
+            "quality": "1080p",
+            "size": "550.50 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Girlfriend (2025) - S01E04 - Episode 4 [WEBRip-1080p][AAC 5.1][HEVC]-PSA.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:253376:s1e4",
+      "storedAt": 1761694484810,
+      "meta": {
+        "storedAt": 1761694484,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "253376",
+        "imdbId": "tt32267726",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "The Girlfriend S01E04 2160p AMZN WEB-DL DUAL DDP5 1 HDR H 265-WADU\n5.28GB",
+            "url": "https://worker-little-feather-1b8a.lixog93633.workers.dev/f223e5bee1975bf0ed37f2c038f739a2da920110035d52f37e56a2020f9c7e78498d746cfea3a0eb1072c3412caa62cbcf5b69c821a5071579a3d6c68037fb4b9c5643af4043151c78f486bbc6405ca01ddaff52a46e5b01f70dded14d9c026914cd8191c8eb2f215bb6aafffc1f5051aa3440cd2624dde4523efc8291adc29c0902b9eee7528d313233c4458d74ba740788a8329d323ad8ac03f20436004dbbc892e27acd2a6f1a67ab80566aeaecc9::fd72488a9af43e43429ea59dd1b37daa/The.Girlfriend.S01E04.2160p.AMZN.WEB-DL.DUAL.DDP5.1.HDR.H.265-WADU.mkv",
+            "quality": "4K | HDR",
+            "size": "5.28GB",
+            "fileName": "The.Girlfriend.S01E04.2160p.AMZN.WEB-DL.DUAL.DDP5.1.HDR.H.265-WADU.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:269:s7e1",
+      "storedAt": 1761694279646,
+      "meta": {
+        "storedAt": 1761694279,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "269",
+        "imdbId": "tt0368530",
+        "season": 7,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/322058?token=7ce8ca29e614e32e9fdcd6b572a5f90b&expires=1766878279&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:78191:s4e9",
+      "storedAt": 1761694347733,
+      "meta": {
+        "storedAt": 1761694347,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "78191",
+        "imdbId": "tt7335184",
+        "season": 4,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/302651?token=0d81e0f10a06adf60cd187e4bf81b6ee&expires=1766878347&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:81144:s7e12",
+      "storedAt": 1761694733644,
+      "meta": {
+        "storedAt": 1761694733,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "81144",
+        "imdbId": "tt7942794",
+        "season": 7,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/462981?token=afb074178b8c0cb2e3e9fc2f1aaa6914&expires=1766878733&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:91746:s2e1",
+      "storedAt": 1761694563833,
+      "meta": {
+        "storedAt": 1761694563,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "91746",
+        "imdbId": "tt1532495",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/431753?token=d4ab417574184c9e80bd37a27f2b85a9&expires=1766878563&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-28T23:39:19.650Z",
+    "totalOriginalEntries": 11,
+    "newItemsInThisBatch": 11,
+    "format": "compact_v1"
+  }
+}
