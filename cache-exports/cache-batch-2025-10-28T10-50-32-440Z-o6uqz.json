@@ -1,0 +1,393 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:25",
+      "storedAt": 1761648335806,
+      "meta": {
+        "storedAt": 1761648335,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "25",
+        "imdbId": "tt0418763",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/83210?token=678ab3154551df2a89dba8d7f2763eb6&expires=1766832334&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1408:s5e22",
+      "storedAt": 1761648601890,
+      "meta": {
+        "storedAt": 1761648601,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1408",
+        "imdbId": "tt0412142",
+        "season": 5,
+        "episode": 22,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/180918?token=b71b1dd4c5afd29c9871124732ceee09&expires=1766832601&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:153312:s3e1",
+      "storedAt": 1761648267262,
+      "meta": {
+        "storedAt": 1761648267,
+        "urlCount": 9,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "153312",
+        "imdbId": "tt16358384",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "7kdcX61Y\n5.11 GB",
+            "url": "https://pixeldrain.net/api/file/7kdcX61Y",
+            "quality": "2160p",
+            "size": "5.11 GB",
+            "fileName": "7kdcX61Y",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Tulsa.King.S03E01.Blood.and.Bourbon.2160p.AMZN.WEB-DL.English.DDP5.1.H.265-4kHdHub.Com\n5.11 GB",
+            "url": "https://fsl.anime4u.co/Tulsa.King.S03E01.Blood.and.Bourbon.2160p.AMZN.WEB-DL.English.DDP5.1.H.265-4kHdHub.Com.mkv?token=1761643697",
+            "quality": "2160p",
+            "size": "5.11 GB",
+            "fileName": "Tulsa.King.S03E01.Blood.and.Bourbon.2160p.AMZN.WEB-DL.English.DDP5.1.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "g\n5.11 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=ehwtOJ03Hb5Z&n=fQ1FhTaL&fn=Tulsa.King.S03E01.Blood.and.Bourbon.2160p.AMZN.WEB-DL.English.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "quality": "2160p",
+            "size": "5.11 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "PZHntRNT\n2.13 GB",
+            "url": "https://pixeldrain.net/api/file/PZHntRNT",
+            "quality": "1080p",
+            "size": "2.13 GB",
+            "fileName": "PZHntRNT",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Tulsa.King.S03E01.Blood.and.Bourbon.1080p.AMZN.WEB-DL.English.DDP5.1.H.264-4kHdHub.Com\n2.13 GB",
+            "url": "https://fsl.anime4u.co/Tulsa.King.S03E01.Blood.and.Bourbon.1080p.AMZN.WEB-DL.English.DDP5.1.H.264-4kHdHub.Com.mkv?token=1761643702",
+            "quality": "1080p",
+            "size": "2.13 GB",
+            "fileName": "Tulsa.King.S03E01.Blood.and.Bourbon.1080p.AMZN.WEB-DL.English.DDP5.1.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n2.13 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=kFSt1rolXZ7A&n=5n53BLhI&fn=Tulsa.King.S03E01.Blood.and.Bourbon.1080p.AMZN.WEB-DL.English.DDP5.1.H.264-4kHdHub.Com.mkv",
+            "quality": "1080p",
+            "size": "2.13 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "HibSWuWm\n834.84 MB",
+            "url": "https://pixeldrain.dev/api/file/HibSWuWm?download",
+            "quality": "1080p",
+            "size": "834.84 MB",
+            "fileName": "HibSWuWm",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Tulsa.King.S03E01.Blood.and.Bourbon.1080p.AMZN.WEB-DL.English.DDP5.1.H.265-4kHdHub.Com\n834.84 MB",
+            "url": "https://fsl.anime4u.co/Tulsa.King.S03E01.Blood.and.Bourbon.1080p.AMZN.WEB-DL.English.DDP5.1.H.265-4kHdHub.Com.mkv?token=1761643706",
+            "quality": "1080p",
+            "size": "834.84 MB",
+            "fileName": "Tulsa.King.S03E01.Blood.and.Bourbon.1080p.AMZN.WEB-DL.English.DDP5.1.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n834.84 MB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=a58XCIshxLJQ&n=TQljnRDL&fn=Tulsa.King.S03E01.Blood.and.Bourbon.1080p.AMZN.WEB-DL.English.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "quality": "1080p",
+            "size": "834.84 MB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 9
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:153312:s3e1",
+      "storedAt": 1761648266787,
+      "meta": {
+        "storedAt": 1761648266,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "153312",
+        "imdbId": "tt16358384",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-ETHEL",
+            "url": "https://a.111477.xyz/tvs/Tulsa%20King/Season%203/Tulsa%20King%20(2022)%20-%20S03E01%20-%20Blood%20and%20Bourbon%20[WEBDL-1080p][EAC3%205.1][h264]-ETHEL.mkv",
+            "quality": "1080p",
+            "size": "2.13 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Tulsa King (2022) - S03E01 - Blood and Bourbon [WEBDL-1080p][EAC3 5.1][h264]-ETHEL.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:153312:s3e1",
+      "storedAt": 1761648268644,
+      "meta": {
+        "storedAt": 1761648268,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "153312",
+        "imdbId": "tt16358384",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Tulsa King S3E1 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1684758741/s3/episode1.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1622:s4e4",
+      "storedAt": 1761648152438,
+      "meta": {
+        "storedAt": 1761648152,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1622",
+        "imdbId": "tt0460681",
+        "season": 4,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/178876?token=6e9152807c65e9bffbbce026087f7f51&expires=1766832152&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1622:s13e18",
+      "storedAt": 1761648394264,
+      "meta": {
+        "storedAt": 1761648394,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1622",
+        "imdbId": "tt0460681",
+        "season": 13,
+        "episode": 18,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/179125?token=283392bf9fb4b0464ac7b9ff094777b2&expires=1766832393&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:4607:s2e7",
+      "storedAt": 1761648383478,
+      "meta": {
+        "storedAt": 1761648383,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4607",
+        "imdbId": "tt0411008",
+        "season": 2,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/192426?token=4e9f07896b4be178ec9f6ecc17f2b6b4&expires=1766832383&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:46896:s5e4",
+      "storedAt": 1761648221580,
+      "meta": {
+        "storedAt": 1761648221,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "46896",
+        "imdbId": "tt2632424",
+        "season": 5,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/171995?token=57ccec37d307d60e0a3f2163da17aec8&expires=1766832221&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-28T10:50:32.441Z",
+    "totalOriginalEntries": 9,
+    "newItemsInThisBatch": 9,
+    "format": "compact_v1"
+  }
+}
