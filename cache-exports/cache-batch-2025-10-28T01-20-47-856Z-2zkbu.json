@@ -1,0 +1,743 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:19908",
+      "storedAt": 1761614250030,
+      "meta": {
+        "storedAt": 1761614250,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "19908",
+        "imdbId": "tt1156398",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/280887?token=2c8cdfda274ca1b539b798b35ce4de71&expires=1766798249&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:44092",
+      "storedAt": 1761613967854,
+      "meta": {
+        "storedAt": 1761613967,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "44092",
+        "imdbId": "tt1460743",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Legion 2010 1080p BluRay REMUX AVC x264 [Hindi NF DDP 5.1 640kbps + English DTS-HD MA 5.1] ESub-FraMeSToR-4kHdHub\n21.34 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Legion%202010%201080p%20BluRay%20REMUX%20AVC%20x264%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DTS-HD%20MA%205.1]%20ESub-FraMeSToR-4kHdHub.mkv?token=1761613967",
+            "quality": "1080p",
+            "size": "21.34 GB",
+            "fileName": "Legion 2010 1080p BluRay REMUX AVC x264 [Hindi NF DDP 5.1 640kbps + English DTS-HD MA 5.1] ESub-FraMeSToR-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ec8tAsiM\n13.41 GB",
+            "url": "https://pixeldrain.dev/api/file/ec8tAsiM?download",
+            "quality": "1080p",
+            "size": "13.41 GB",
+            "fileName": "ec8tAsiM",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Legion 2010 1080p BluRay x264 [Hindi NF DDP 5.1 640kbps + English DDP 5.1] ESub-playHD-4kHdHub\n13.41 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Legion%202010%201080p%20BluRay%20x264%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DDP%205.1]%20ESub-playHD-4kHdHub.mkv?token=1761613967",
+            "quality": "1080p",
+            "size": "13.41 GB",
+            "fileName": "Legion 2010 1080p BluRay x264 [Hindi NF DDP 5.1 640kbps + English DDP 5.1] ESub-playHD-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "PZxRTsi4\n8.87 GB",
+            "url": "https://pixeldrain.dev/api/file/PZxRTsi4?download",
+            "quality": "1080p",
+            "size": "8.87 GB",
+            "fileName": "PZxRTsi4",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Legion 2010 [Open-Matte] 1080p AMZN WEB-DL x264 [Hindi NF DDP 5.1 640kbps + English DDP 5.1] ESub-4kHdHub\n8.87 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Legion%202010%20[Open-Matte]%201080p%20AMZN%20WEB-DL%20x264%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DDP%205.1]%20ESub-4kHdHub.mkv?token=1761613967",
+            "quality": "1080p",
+            "size": "8.87 GB",
+            "fileName": "Legion 2010 [Open-Matte] 1080p AMZN WEB-DL x264 [Hindi NF DDP 5.1 640kbps + English DDP 5.1] ESub-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "pnKhFdzo\n5.1 GB",
+            "url": "https://pixeldrain.dev/api/file/pnKhFdzo?download",
+            "quality": "1080p",
+            "size": "5.1 GB",
+            "fileName": "pnKhFdzo",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Legion 2010 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English DD 5.1] ESub-LoE-4kHdHub\n5.1 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Legion%202010%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DD%205.1]%20ESub-LoE-4kHdHub.mkv?token=1761613967",
+            "quality": "1080p",
+            "size": "5.1 GB",
+            "fileName": "Legion 2010 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English DD 5.1] ESub-LoE-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n5.1 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=MrlA60gjlBqK&n=O5oXGL6A&fn=Legion%20(2010)%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DD%205.1]%20ESub-(LoE-4kHdHub).mkv",
+            "quality": "1080p",
+            "size": "5.1 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:moviesmod:movie:44092",
+      "storedAt": 1761613972481,
+      "meta": {
+        "storedAt": 1761613972,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "movie",
+        "tmdbId": "44092",
+        "imdbId": "tt1460743",
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "Reign of Assassins 2010 1080p BRRip Hindi Chinese Moviesmod Asia\n2.47GB",
+            "url": "https://worker-long-fire-b771.vayaxoj336.workers.dev/de0918500679abf87f1f7f468d9270822119f67c987859ef5f164ed00c9096c32780d56e2ca0660f4709a4fc60f18b10118ecbc9bff9967c4c11a432bcf15e53477ba6dd2acfe863b27fedace02aa827031a35fe3a39370410b0617c01c5e427e6024111a2243036f39a0b02ec46256ac25b752649e549cd6c8f8c2907c2845d293e374ac1e70fdc75dbe68e3dced1662260e53c0e682615c10402e0b92e92dd03058d05ce592d9eb0fde305a018ef76::dec3e41529a2722cd996faaa6f60069c/Reign.of.Assassins.2010.1080p.BRRip.Hindi.Chinese.Moviesmod.Asia.mkv",
+            "quality": "1080p",
+            "size": "2.47GB",
+            "fileName": "Reign.of.Assassins.2010.1080p.BRRip.Hindi.Chinese.Moviesmod.Asia.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:44092",
+      "storedAt": 1761613985049,
+      "meta": {
+        "storedAt": 1761613985,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "44092",
+        "imdbId": "tt1460743",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/280474?token=54237e3cac0e2ef901c84e316cd018ac&expires=1766797984&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:45759",
+      "storedAt": 1761614187775,
+      "meta": {
+        "storedAt": 1761614187,
+        "urlCount": 7,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "45759",
+        "imdbId": "tt0383393",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Terminal 2004 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English DTS-HD MA 5.1] x264 LEGi0N-KiNGSMAN-4kHDHub.com\n30.79 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The%20Terminal%202004%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%205.1%20+%20English%20DTS-HD%20MA%205.1]%20x264%20LEGi0N-KiNGSMAN-4kHDHub.com.mkv?token=1761614187",
+            "quality": "1080p",
+            "size": "30.79 GB",
+            "fileName": "The Terminal 2004 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English DTS-HD MA 5.1] x264 LEGi0N-KiNGSMAN-4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Terminal 2004 1080p BluRay [Hindi DDP 5.1 + English DTS 5.1] x264 DON-KiNGSMAN-4kHDHub.com\n21.71 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The%20Terminal%202004%201080p%20BluRay%20[Hindi%20DDP%205.1%20+%20English%20DTS%205.1]%20x264%20DON-KiNGSMAN-4kHDHub.com.mkv?token=1761614187",
+            "quality": "1080p",
+            "size": "21.71 GB",
+            "fileName": "The Terminal 2004 1080p BluRay [Hindi DDP 5.1 + English DTS 5.1] x264 DON-KiNGSMAN-4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The.Terminal.2004.2160p.WEB-DL.x265.8bit.SDR.HIN-ENG.DTS-HD.MA.5.1-SWTYBLZ-4kHDHub.com\n18.14 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Terminal.2004.2160p.WEB-DL.x265.8bit.SDR.HIN-ENG.DTS-HD.MA.5.1-SWTYBLZ-4kHDHub.com.mkv?token=1761614187",
+            "quality": "2160p",
+            "size": "18.14 GB",
+            "fileName": "The.Terminal.2004.2160p.WEB-DL.x265.8bit.SDR.HIN-ENG.DTS-HD.MA.5.1-SWTYBLZ-4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ntokUKBx\n14.58 GB",
+            "url": "https://pixeldrain.dev/api/file/ntokUKBx?download",
+            "quality": "1080p",
+            "size": "14.58 GB",
+            "fileName": "ntokUKBx",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Terminal 2004 1080p BluRay 10bit HEVC [Hindi DDP 5.1 + English AAC 5.1] x265 BeiTai-KiNGSMAN-4kHDHub.com\n14.58 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The%20Terminal%202004%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20AAC%205.1]%20x265%20BeiTai-KiNGSMAN-4kHDHub.com.mkv?token=1761614187",
+            "quality": "1080p",
+            "size": "14.58 GB",
+            "fileName": "The Terminal 2004 1080p BluRay 10bit HEVC [Hindi DDP 5.1 + English AAC 5.1] x265 BeiTai-KiNGSMAN-4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "h44N3u96\n6.42 GB",
+            "url": "https://pixeldrain.dev/api/file/h44N3u96?download",
+            "quality": "1080p",
+            "size": "6.42 GB",
+            "fileName": "h44N3u96",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Terminal 2004 1080p BluRay 10bit HEVC [Hindi DDP 5.1 + English AAC 5.1] x265 afm72-KiNGSMAN-4kHDHub.com\n6.42 GB",
+            "url": "https://fsl.anime4u.co/The%20Terminal%202004%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20AAC%205.1]%20x265%20afm72-KiNGSMAN-4kHDHub.com.mkv?token=1761614187",
+            "quality": "1080p",
+            "size": "6.42 GB",
+            "fileName": "The Terminal 2004 1080p BluRay 10bit HEVC [Hindi DDP 5.1 + English AAC 5.1] x265 afm72-KiNGSMAN-4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 7
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:511809",
+      "storedAt": 1761614419649,
+      "meta": {
+        "storedAt": 1761614419,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "511809",
+        "imdbId": "tt3581652",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/98012?token=ba0c418b9f3adaeda885f8ed24983787&expires=1766798418&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:582885",
+      "storedAt": 1761614137132,
+      "meta": {
+        "storedAt": 1761614137,
+        "urlCount": 12,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "582885",
+        "imdbId": "tt9196192",
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Mortal.Instruments.City.Of.Bones.2013.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/api/file/uXHJwhx8?download",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Mortal.Instruments.City.Of.Bones.2013.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Mortal.Instruments.City.Of.Bones.2013.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv?token=1761608038",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Mortal.Instruments.City.Of.Bones.2013.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kYUSekfkxZZLpL9sbWy-tWF_iyVForDl7c6TCwGP0qObJOZx27ije3VJL59AesvFEiNSEz1MNXVplbtWBF_RuzVPwVjxfvItdPx6WUTR-KMxgQj0B0JKwW_XD2QhrkELPs2R3bEwlvVHYFqpisQl8So_PJAs4oHEVYiXhNmyauBDZr4nFQmyMDyIR3FJzm4Of58zwGJI874ZyW7Ub25dvBUKkMsMaCPN6j2raa_nje_4nKPmsfIwrL3c57oJJLmBaNZzuK",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Mortal.Instruments.City.Of.Bones.2013.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.Untouch.mkv",
+            "url": "https://pixeldrain.dev/api/file/eMN5W6fe?download",
+            "quality": "1080p",
+            "size": "8.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Mortal.Instruments.City.Of.Bones.2013.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.Untouch.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Mortal.Instruments.City.Of.Bones.2013.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.Untouch.mkv?token=1761614135",
+            "quality": "1080p",
+            "size": "8.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Mortal.Instruments.City.Of.Bones.2013.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.Untouch.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nQhvZr5kfdK8m8hxNM7V6tCMalSmqaZ91_DXcgTPM8NQgUP9P1amMQ0_WqMwBEa3ekZSCv6NDBURHTTXXp5tx6KulIS01UrSD1a5wC9Y2SnxnYrjPQT9-D5Jn-FSOKCGmq8k_JBQBxM0gvBxp1fnmxE6BaTM_6BFi9H3NOmWbXhb9AJOC7mWon0VVKoeVoALIxgNTGGNOrCRbmpDxYGagdqFYLBEaCoSEb8AbXhMoJ2AyoZePmwmryrVA6qJAkT_XiCVXC",
+            "quality": "1080p",
+            "size": "8.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Mortal.Instruments.City.Of.Bones.2013.720p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/api/file/WNNHAjuy?download",
+            "quality": "720p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Mortal.Instruments.City.Of.Bones.2013.720p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Mortal.Instruments.City.Of.Bones.2013.720p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv?token=1761614135",
+            "quality": "720p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Mortal.Instruments.City.Of.Bones.2013.720p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lxVWO1jJR-3wRiKIyHZ8hKXrfeTFoVd3F-yrEjFtfmnWOWmJhvqlGSd_CoeulGWqGc3uFiLRq8_lDyIAseO_9jSXGbI49rH0Y5UvqC-fjp8U3LRGztSUdKUFdv6B3stFaBSnGId8pJsV-LGMc1DpGL8JxQOu1FFvkXtzw3SqlBpzuOvCHECoNXboRLlr4w-xUgzyIBPqtJ2F5JB2jIahsEcoGzAsK7bXuFBHikrLgY1MSBpVOLb0mr4b3HBaA1c1LTJRl5",
+            "quality": "720p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Mortal.Instruments.City.Of.Bones.2013.480p.BluRay.Hindi.English.DD2.0.x264.ESubs..mkv",
+            "url": "https://pixeldrain.dev/api/file/wkbGZxdB?download",
+            "quality": "480p",
+            "size": "441.7 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Mortal.Instruments.City.Of.Bones.2013.480p.BluRay.Hindi.English.DD2.0.x264.ESubs..mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/The.Mortal.Instruments.City.Of.Bones.2013.480p.BluRay.Hindi.English.DD2.0.x264.ESubs..mkv?token=1761614135",
+            "quality": "480p",
+            "size": "441.7 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Mortal.Instruments.City.Of.Bones.2013.480p.BluRay.Hindi.English.DD2.0.x264.ESubs..mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2neyHlFNl11W4usNZXoIM1RVE7EJ4uX1h4lwiBjFg5wtO1BkOSeB2PGgQxgHVpMzm35lKio9QyNxy0H5mSXs9-oiNJu-mh1qvV1cn0LWPKvEsvWM0AIbw6jY8EPLd-EyNWZEx5h1B_WKIFU7AX76y2nZserWWHREyi3F7hSpU33Zw3c_Mzt3K0oB2yt1xYJYEa35heWA2pCtpfDTihjlQDmWOo7O2RswJQTRhCs1UYo6ri3WWttOTR7xAis4ZXQN7-BRVyT",
+            "quality": "480p",
+            "size": "441.7 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 12
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:956842",
+      "storedAt": 1761614275985,
+      "meta": {
+        "storedAt": 1761614275,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "956842",
+        "imdbId": "tt1896747",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/254121?token=ebb9dc4a7b384cf9da1419c50d914011&expires=1766798275&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1416:s21e16",
+      "storedAt": 1761614252930,
+      "meta": {
+        "storedAt": 1761614252,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1416",
+        "imdbId": "tt0413573",
+        "season": 21,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/319812?token=cd4de60b9b6ad409be9130b53433be36&expires=1766798252&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1433:s5e19",
+      "storedAt": 1761614041411,
+      "meta": {
+        "storedAt": 1761614041,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1433",
+        "imdbId": "tt0397306",
+        "season": 5,
+        "episode": 19,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/194068?token=51ba074e4f814abf2ab33794727152ba&expires=1766798041&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1433:s19e13",
+      "storedAt": 1761613998670,
+      "meta": {
+        "storedAt": 1761613998,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1433",
+        "imdbId": "tt0397306",
+        "season": 19,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/326757?token=e4c661de7106084b3069f96f7e2dcf3e&expires=1766797998&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:18165:s7e7",
+      "storedAt": 1761614396672,
+      "meta": {
+        "storedAt": 1761614396,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "18165",
+        "imdbId": "tt1405406",
+        "season": 7,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/305424?token=0d53f312499ea74ec6f77bf7b884deae&expires=1766798396&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1981:s1e16",
+      "storedAt": 1761614264565,
+      "meta": {
+        "storedAt": 1761614264,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1981",
+        "imdbId": "tt0158552",
+        "season": 1,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/336155?token=e3f62ec34c790e9d96c49d37dd868f2b&expires=1766798264&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61662:s5e14",
+      "storedAt": 1761614229561,
+      "meta": {
+        "storedAt": 1761614229,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61662",
+        "imdbId": "tt3526078",
+        "season": 5,
+        "episode": 14,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/181569?token=48af11265e36b48f86f496e2c6bd0b79&expires=1766798229&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-28T01:20:47.857Z",
+    "totalOriginalEntries": 14,
+    "newItemsInThisBatch": 14,
+    "format": "compact_v1"
+  }
+}
