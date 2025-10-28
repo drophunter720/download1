@@ -1,0 +1,1412 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:1265",
+      "storedAt": 1761612381483,
+      "meta": {
+        "storedAt": 1761612381,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1265",
+        "imdbId": "tt0398808",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/261379?token=ec1bf1e58a8c53777dc465a6376dce1f&expires=1766796381&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:295693",
+      "storedAt": 1761612322891,
+      "meta": {
+        "storedAt": 1761612322,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "295693",
+        "imdbId": "tt3874544",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/227978?token=7c0167b25ac767bd4052f487fc13cf9c&expires=1766796322&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:670",
+      "storedAt": 1761612132223,
+      "meta": {
+        "storedAt": 1761612132,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "670",
+        "imdbId": "tt0364569",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Oldboy 2003 2160p UHD BluRay REMUX DoVi HDR HEVC [Hindi DDP 5.1 + Korean DTS-HD.MA 5.1] HDS-4kHdHub.com\n74.93 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Oldboy%202003%202160p%20UHD%20BluRay%20REMUX%20DoVi%20HDR%20HEVC%20[Hindi%20DDP%205.1%20+%20Korean%20DTS-HD.MA%205.1]%20HDS-4kHdHub.com.mkv?token=1761612131",
+            "quality": "2160p",
+            "size": "74.93 GB",
+            "fileName": "Oldboy 2003 2160p UHD BluRay REMUX DoVi HDR HEVC [Hindi DDP 5.1 + Korean DTS-HD.MA 5.1] HDS-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "g\n74.93 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=Rw95DhgBxLSA&n=Gx5VFBCL&fn=Oldboy%20(2003)%202160p%20UHD%20BluRay%20REMUX%20DoVi%20HDR%20HEVC%20[Hindi%20DDP%205.1%20+%20Korean%20DTS-HD.MA%205.1]%20HDS-4kHdHub.com).mkv",
+            "quality": "2160p",
+            "size": "74.93 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Oldboy 2003 1080p UHD BluRay REMUX AVC [Hindi DDP 5.1 + Korean DTS-HD.MA 7.1 + English DD 5.1] FRaMesToR-4kHdHub.com\n27.94 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Oldboy%202003%201080p%20UHD%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%205.1%20+%20Korean%20DTS-HD.MA%207.1%20+%20English%20DD%205.1]%20FRaMesToR-4kHdHub.com.mkv?token=1761612131",
+            "quality": "1080p",
+            "size": "27.94 GB",
+            "fileName": "Oldboy 2003 1080p UHD BluRay REMUX AVC [Hindi DDP 5.1 + Korean DTS-HD.MA 7.1 + English DD 5.1] FRaMesToR-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "qVFAcCct\n12.56 GB",
+            "url": "https://pixeldrain.dev/api/file/qVFAcCct?download",
+            "quality": "1080p",
+            "size": "12.56 GB",
+            "fileName": "qVFAcCct",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Oldboy 2003 1080p BluRay [Hindi DDP 5.1 + Korean DTS 5.1] x264 USURY-4kHdHub.com\n12.56 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Oldboy%202003%201080p%20BluRay%20[Hindi%20DDP%205.1%20+%20Korean%20DTS%205.1]%20x264%20USURY-4kHdHub.com.mkv?token=1761612131",
+            "quality": "1080p",
+            "size": "12.56 GB",
+            "fileName": "Oldboy 2003 1080p BluRay [Hindi DDP 5.1 + Korean DTS 5.1] x264 USURY-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n12.56 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=dcbMRr4lAJxZ&n=ovpFSbwC&fn=Oldboy%20(2003)%201080p%20BluRay%20[Hindi%20DDP%205.1%20+%20Korean%20DTS%205.1]%20x264%20(USURY-4kHdHub.com).mkv",
+            "quality": "1080p",
+            "size": "12.56 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "JiYA8MKL\n9.7 GB",
+            "url": "https://pixeldrain.dev/api/file/JiYA8MKL?download",
+            "quality": "1080p",
+            "size": "9.7 GB",
+            "fileName": "JiYA8MKL",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Oldboy 2003 1080p 10bit UHD BluRay HEVC [Hindi DDP 5.1 + Korean OPUS 5.1] H.265 LSt-4kHdHub.com\n9.7 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Oldboy%202003%201080p%2010bit%20UHD%20BluRay%20HEVC%20[Hindi%20DDP%205.1%20+%20Korean%20OPUS%205.1]%20H.265%20LSt-4kHdHub.com.mkv?token=1761612131",
+            "quality": "1080p",
+            "size": "9.7 GB",
+            "fileName": "Oldboy 2003 1080p 10bit UHD BluRay HEVC [Hindi DDP 5.1 + Korean OPUS 5.1] H.265 LSt-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:670",
+      "storedAt": 1761612131070,
+      "meta": {
+        "storedAt": 1761612131,
+        "urlCount": 10,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "670",
+        "imdbId": "tt0364569",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DTS-HD MA 5 1 DV HEVC HYBRID REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/Oldboy%20(2003)/Oldboy.2003.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR.mkv",
+            "quality": "2160p | DV | REMUX",
+            "size": "45.06 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Oldboy.2003.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.HYBRID.REMUX-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DTS-HD MA 5 1 DV HEVC REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/Oldboy%20(2003)/Oldboy.2003.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.REMUX-FraMeSToR.mkv",
+            "quality": "2160p | DV | REMUX",
+            "size": "75.70 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Oldboy.2003.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.REMUX-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DTS-HD MA 5 1 HEVC HYBRID REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/Oldboy%20(2003)/Oldboy.2003.UHD.BluRay.2160p.DTS-HD.MA.5.1.HEVC.HYBRID.REMUX-FraMeSToR.mkv",
+            "quality": "2160p | REMUX",
+            "size": "44.22 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Oldboy.2003.UHD.BluRay.2160p.DTS-HD.MA.5.1.HEVC.HYBRID.REMUX-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay ARROW 4K REMASTERED Plus Comms DTS x264-MaG-Obfuscated",
+            "url": "https://a.111477.xyz/movies/Oldboy%20(2003)/Oldboy.2003.1080p.BluRay.ARROW.4K.REMASTERED.Plus.Comms.DTS.x264-MaG-Obfuscated.mkv",
+            "quality": "1080p",
+            "size": "15.75 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Oldboy.2003.1080p.BluRay.ARROW.4K.REMASTERED.Plus.Comms.DTS.x264-MaG-Obfuscated.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x264-OFT",
+            "url": "https://a.111477.xyz/movies/Oldboy%20(2003)/Oldboy.2003.1080p.BluRay.x264-OFT.mkv",
+            "quality": "1080p",
+            "size": "5.20 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Oldboy.2003.1080p.BluRay.x264-OFT.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DTS-HD MA 5 1 AVC REMUX-FraMeSToR-AsRequested",
+            "url": "https://a.111477.xyz/movies/Oldboy%20(2003)/Oldboy.2003.Arrow.Remaster.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR-AsRequested.mkv",
+            "quality": "1080p | REMUX",
+            "size": "31.06 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Oldboy.2003.Arrow.Remaster.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR-AsRequested.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DTS-HD MA 5 1 AVC REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/Oldboy%20(2003)/Oldboy.2003.Arrow.Remaster.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": "30.72 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Oldboy.2003.Arrow.Remaster.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DTS-HD MA 7 1 AVC REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/Oldboy%20(2003)/Oldboy.2003.BluRay.1080p.DTS-HD.MA.7.1.AVC.REMUX-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": "27.41 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Oldboy.2003.BluRay.1080p.DTS-HD.MA.7.1.AVC.REMUX-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x264-USURY",
+            "url": "https://a.111477.xyz/movies/Oldboy%20(2003)/Oldboy.2003.REMASTERED.1080p.BluRay.x264-USURY.mkv",
+            "quality": "1080p",
+            "size": "12.02 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Oldboy.2003.REMASTERED.1080p.BluRay.x264-USURY.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies )",
+            "url": "https://a.111477.xyz/movies/Oldboy%20(2003)/%D0%9E%D0%BB%D0%B4%D0%B1%D0%BE%D0%B9.2003.Blu-Ray.Remux.(1080p).mkv",
+            "quality": "1080p | REMUX",
+            "size": "34.80 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Олдбой.2003.Blu-Ray.Remux.(1080p).mkv"
+          }
+        ],
+        "count": 10
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:670",
+      "storedAt": 1761612133841,
+      "meta": {
+        "storedAt": 1761612133,
+        "urlCount": 14,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "670",
+        "imdbId": "tt0364569",
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Oldboy.2003.1080p.10Bit.BluRay.Hindi.5.1-Korean.5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/JJ77tU3k?download",
+            "quality": "1080p",
+            "size": "2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Oldboy.2003.1080p.10Bit.BluRay.Hindi.5.1-Korean.5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Oldboy.2003.1080p.10Bit.BluRay.Hindi.5.1-Korean.5.1.HEVC.x265-HDHub4u.Ms.mkv?token=1761612131",
+            "quality": "1080p",
+            "size": "2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Oldboy.2003.1080p.10Bit.BluRay.Hindi.5.1-Korean.5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2n9WgDNT_YANK8sVeTOI_i4SKF4RfaaKasxDKYQnwmri8RwLqtGwrYDNb_ZarCwAiCOfZqE2reniZMnEDqybCZ3JE-eFMHNu7yPeaSprVeUynNNPHaqk6qzQnc34lnsJ95cnEDX_i6rAr7f7EptVP_luaQ_xSDDBCvnzCVP5bpVMVSthQZu7dfx4eAoA619MQ0eMEfnweS_XhJKYim75cQodb1FJymuv1x9TymRm3xbhh3aqk9K_tp-P7_DKtCwnJgzjxrO",
+            "quality": "1080p",
+            "size": "2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Oldboy.2003.1080p.BluRay.Hindi.5.1-Korean.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/QrqcrAgz?download",
+            "quality": "1080p",
+            "size": "2.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Oldboy.2003.1080p.BluRay.Hindi.5.1-Korean.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Oldboy.2003.1080p.BluRay.Hindi.5.1-Korean.5.1.ESub.x264-HDHub4u.Ms.mkv?token=1761612132",
+            "quality": "1080p",
+            "size": "2.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Oldboy.2003.1080p.BluRay.Hindi.5.1-Korean.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2k_sJU1UdGjyBRt_NZRtEJuc-iYjJW3c9T34ka9TcgyN74IGa_coB-CBfkUbQuRlO_SGv545eDfpBUoCaXdIyqHIBfjq_5_B2veMiK6M7ppt-EckhTGE3J2wWGByw8W2FVqze_Yiah0VjhP_bxirln4mowaQXaliNHLHyP1Z7hPMHRD0V7OQU7Z_wq0gguizMZRsmQ_QJLe4QqEBj4UZtdAFzSee-kTsYp81cK1CzDx34msU6w",
+            "quality": "1080p",
+            "size": "2.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Oldboy.2003.1080p.BluRay.Hindi.5.1-Korean.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2meNmOfyCUn560nxb-Y_INSIwrRC2idRMMVe2ehm8mITqOczDxvoEa2f-O1MKx0MaKpkRKIuXJ_NMK2wAmMe6vHwFoGM-zb0J2zSgQizR-RDRtaXFLxVrSyxoQtxAHPQyFAcyDaEVijytzUBKwKZY91AgVAd23KTn_m3_tJoV4hBSm9AdLX7P02lpobPmEpkjncqDV8lbVgBAzuumb_WgUzjJbHzBt51o_A-2j3Zk8myq9hed8",
+            "quality": "1080p",
+            "size": "2.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Oldboy.2003.720p.10Bit.BluRay.Hindi.5.1-Korean.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/nmiJ3nyY?download",
+            "quality": "720p",
+            "size": "919.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Oldboy.2003.720p.10Bit.BluRay.Hindi.5.1-Korean.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://fsl.anime4u.co/Oldboy.2003.720p.10Bit.BluRay.Hindi.5.1-Korean.HEVC.x265-HDHub4u.Ms.mkv?token=1761612131",
+            "quality": "720p",
+            "size": "919.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Oldboy.2003.720p.10Bit.BluRay.Hindi.5.1-Korean.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lD1XHtUkHfHKhZydGtT9EuRIMWqEN9j7NAmJg8ej-FIsDzMaSZAPxOpo89z3HtAZCAki2f3SDKdVK9IWdIw2fW18gzTO98Qs80YYZ_RuCop9EFaOau9GK2I-llF20HRJQXwhQsQUK0onfZ18rpnlcYNlnD578J9Loyhqdav0FGc1SLF28vlohSj9u7SFi0y67lxobEM76SKxJl1gdoZI5DCOosVBlLh-c0jU3M6S4OhjLdxZ-EMa5N4RIsD9nngQ7n6cDN",
+            "quality": "720p",
+            "size": "919.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Oldboy.2003.720p.BluRay.Hindi.5.1-Korean.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/2GraVitU?download",
+            "quality": "720p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Oldboy.2003.720p.BluRay.Hindi.5.1-Korean.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Oldboy.2003.720p.BluRay.Hindi.5.1-Korean.5.1.ESub.x264-HDHub4u.Ms.mkv?token=1761612131",
+            "quality": "720p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Oldboy.2003.720p.BluRay.Hindi.5.1-Korean.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mgPnN0bjpBo44pfx_GNJnWmpv5Vv3_8d7-Zth-440X1oJYcYC6Gjfvykn8AeQe1Jermi64Dswc95B6a9fijiLhqhAiX6wquGS296NHzH9Yuwnt7rrAYStP5NiN0Z2o5tESP_aYoY7VuXHkQWS_gesQ3jJ3SBNvLiv67izZbNrAiRxiS6tATZsUqjdFzrhOJGAHtiothcrchg9TjB3FpZGhk1YTFu-l30dnzQG5gFynP5lArXK1UXw6mEc-vgvU8sfH0Qdi",
+            "quality": "720p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Oldboy.2003.720p.BluRay.Hindi.5.1-Korean.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nfUnS45gjfAJ13515CYRbc_7qgE7k2G2kCSAzf9htkZ1IyNegGRSnIlVEz3ahToGDQ53C1IgZon-TDqXsruiGBFNRrR5HyP_X5dkZMIq32qEn6YVaIGz-JHv44cqZASP1RI501ZXTslyBcadCdJJgxSUsHDe5ICVdGY-r-hXguHRnAQX6rqmYC5xSf1z_KsgyZaJQk7c7r0pogAjPEK5NHIgXC1K6RXFzpaUhCCbSf8OMyplRtfLyoG0-H8ZFRlUNIGjAF",
+            "quality": "720p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 14
+      }
+    },
+    {
+      "key": "prov:moviesmod:movie:670",
+      "storedAt": 1761612135501,
+      "meta": {
+        "storedAt": 1761612135,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "movie",
+        "tmdbId": "670",
+        "imdbId": "tt0364569",
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "Oldboy 2003 REMASTERED 1080p 10Bit HEVC BluRay Hindi AMZN Korean ESubs - MoviesMod Vip\n2.4GB",
+            "url": "https://worker-yellow-art-05f7.hopomi6485.workers.dev/4d526dab4fc12497f34c0bb4a4d547b08cb25236d4a1adeb7d6789ab194423c3eabb822527e43166b9cd0edb809a69b9c04b367c7e3d23fbf7517b1d834ccb7c5fee47dd363c2a4eeb377e6ab3056d8e9b201cd6b1326734ac1c1301cd1ba69e3d1dee2300d5b5f55f9f7ff65e4b3baf28f7ca2f9784b42939753b32dda9f03d027f27a61f035ba9519e351eda387e2c852fb2eb71c8009230daf29866d0835ec705dd4f8b9dfeb8d54a3498ee8a461d::6c51f819a755fe55eaa54d3d80e5de32/Oldboy 2003 REMASTERED 1080p 10Bit HEVC BluRay Hindi AMZN Korean ESubs - MoviesMod.Vip.mkv",
+            "quality": "1080p",
+            "size": "2.4GB",
+            "fileName": "Oldboy 2003 REMASTERED 1080p 10Bit HEVC BluRay Hindi AMZN Korean ESubs - MoviesMod.Vip.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:670",
+      "storedAt": 1761612130879,
+      "meta": {
+        "storedAt": 1761612130,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "670",
+        "imdbId": "tt0364569",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Oldboy - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2003/oldboy.mkv",
+            "quality": "1080p",
+            "size": "2h 00m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Oldboy - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2003/oldboy.mkv",
+            "quality": "1080p",
+            "size": "2h 00m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Oldboy - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2003/oldboy.mkv",
+            "quality": "720p",
+            "size": "2h 00m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Oldboy - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2003/oldboy.mkv",
+            "quality": "720p",
+            "size": "2h 00m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:670",
+      "storedAt": 1761612136105,
+      "meta": {
+        "storedAt": 1761612136,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "670",
+        "imdbId": "tt0364569",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Oldboy (2003) 2160p UHD BluRay HDR 10bit HEVC [Hindi DDP 5 1 + Korean DDP 7 1 + English DDP 5 1] x265 (BANDI-UHDMovies)\n18.21GB",
+            "url": "https://worker-jolly-mode-4f04.nejad26208.workers.dev/a5c9628b6a127f5236a1978ef3119ee8f7097810c39e7f455d91e899ef0745729bd2d85ae8ff8e2a20d703a937450754eb0e33690a6a2627eb5433ae9a624a02dbdc85fb43ed13755e59e63a64120a586abcb87ae6e23659235c201fe07dde756c4552f2be7160c5d4adedb9897eff5e6b4e2bfb02b9b6900bda323e025027428d21f794c923331d09df9e4799fd92ae868839544c75c2d96850f8372bd11f170d2d39531974fdfe896575d267f5aae9::0016b690b713e4816ad6f02888d348e7/Oldboy (2003) 2160p UHD BluRay HDR 10bit HEVC [Hindi DDP 5.1  Korean DDP 7.1  English DDP 5.1] x265 (BANDI-UHDMovies).mkv",
+            "quality": "4K | HDR | BluRay",
+            "size": "18.21GB",
+            "fileName": "Oldboy (2003) 2160p UHD BluRay HDR 10bit HEVC [Hindi DDP 5.1 + Korean DDP 7.1 + English DDP 5.1] x265 (BANDI-UHDMovies).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Oldboy (2003) 1080p REMASTERED BluRay [Hindi DDP 5 1 + Korean DTS 5 1] x264-USURY[AK47]\n12.56GB",
+            "url": "https://worker-hidden-field-3c1b.lisayaw745.workers.dev/7c7388a6d26d344b7fa8db2f77f67171664aea0c3efef64f519ec4b6a2d9ca5161b486c8badd3b09d6ee73fc35dfddda71ca971683db1a86f61d16577b9eaf7e14843fcca295a463d336c12da7ef886a50346b4ce1ce97f01ee21d551cc7bba5fa62212af0c38ed5fb603ef1e6ef088b468e3190aa7a22c3e10b0704019cb305b249c87f701647a584090bdf28841eccd5d4f6c67c34d944750cde9acf0eb219c05f3ddd0ec8be9c6590475f4dfa8a91::0b9ebd9f80160b679a8bda435c297db2/Oldboy (2003) 1080p REMASTERED BluRay [Hindi DDP 5.1  Korean DTS 5.1] x264-USURY[AK47].mkv",
+            "quality": "1080p | BluRay",
+            "size": "12.56GB",
+            "fileName": "Oldboy (2003) 1080p REMASTERED BluRay [Hindi DDP 5.1 + Korean DTS 5.1] x264-USURY[AK47].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Oldboy (2003) 1080p BluRay 10bit HEVC [Hindi DDP 5 1 + Korean OPUS 5 1] x265 (LSt-UHDMovies)\n9.7GB",
+            "url": "https://worker-restless-feather-9fa6.pixokid508.workers.dev/90f73fdce71411f4c2c9bf34967a090df353898c1d41e44caba0e9ab1a159be6d874edcd5ccf335ff73a79a6ece0c96305c5b6e34754eab5c56c1efe0c364bb46562f1a95e951dd472d294cd7fb46c5d29d7b3e75f59f77056996800ca8469533ab5f2f3e112f3e0763056304079531fcf6eeb3505d9a12024283ca041f22dd3985be1716d5768dfc82ebed7b7bd0b63ec187ba1504697f1505a4f2411298ad8422385b85e766c0e7267bfc79076ef03::4db6522e239582007b9be5bd256049cf/Oldboy (2003) 1080p BluRay 10bit HEVC [Hindi DDP 5.1  Korean OPUS 5.1] x265 (LSt-UHDMovies).mkv",
+            "quality": "1080p | BluRay",
+            "size": "9.7GB",
+            "fileName": "Oldboy (2003) 1080p BluRay 10bit HEVC [Hindi DDP 5.1 + Korean OPUS 5.1] x265 (LSt-UHDMovies).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Oldboy (2003) 1080p BluRay 10bit HEVC [Hindi DDP 5 1 + Korean DD 5 1] x265 (AR-UHDMovies)\n2.59GB",
+            "url": "https://worker-nameless-pond-93e0.jarec10301.workers.dev/a70bc49fe8374ad30728cd672d27bdef0c4c24cfcf59a1a4825b06d6c5853c27735086a43b5fd17645ee1cac5a3d4fa4c3ea6ac4bef23978d44e6aa66a5960bff98cb007e0e948bfb23818886f260f02fc1d9edc58332dff434bc5ad1cba75e65b406c9ac2006a6d4414e034721f0acd155189d879b4346067b9b9184a98d3306ecde79a02f8a485cdf320aa573646ca67e1252a8be037e8c0f87cba923b587d2bd6495d204319c091a909e8a5bfa995::45629804231b62d4b69146acbb26c1c1/Oldboy (2003) 1080p BluRay 10bit HEVC [Hindi DDP 5.1  Korean DD 5.1] x265 (AR-UHDMovies).mkv",
+            "quality": "1080p | BluRay",
+            "size": "2.59GB",
+            "fileName": "Oldboy (2003) 1080p BluRay 10bit HEVC [Hindi DDP 5.1 + Korean DD 5.1] x265 (AR-UHDMovies).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:747",
+      "storedAt": 1761612058084,
+      "meta": {
+        "storedAt": 1761612058,
+        "urlCount": 14,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "747",
+        "imdbId": "tt0365748",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Shaun of the Dead 2004 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi NF DDP 5.1 + English TrueHD Atmos 7.1] x265 FraMeSToR-KiNGSMAN\n47.51 GB",
+            "url": "https://fsl.anime4u.co/Shaun%20of%20the%20Dead%202004%202160p%20UHD%20BluRay%20REMUX%20DV%20HDR%2010bit%20HEVC%20[Hindi%20NF%20DDP%205.1%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20FraMeSToR-KiNGSMAN.mkv?token=1761612057",
+            "quality": "2160p",
+            "size": "47.51 GB",
+            "fileName": "Shaun of the Dead 2004 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi NF DDP 5.1 + English TrueHD Atmos 7.1] x265 FraMeSToR-KiNGSMAN",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Shaun of the Dead 2004 Hybrid 1080p BluRay REMUX AVC [Hindi NF DDP 5.1 + English DTS-X 7.1] x264 FraMeSToR-R3FL3X\n25.39 GB",
+            "url": "https://fsl.anime4u.co/Shaun%20of%20the%20Dead%202004%20Hybrid%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20NF%20DDP%205.1%20+%20English%20DTS-X%207.1]%20x264%20FraMeSToR-R3FL3X.mkv?token=1761612057",
+            "quality": "1080p",
+            "size": "25.39 GB",
+            "fileName": "Shaun of the Dead 2004 Hybrid 1080p BluRay REMUX AVC [Hindi NF DDP 5.1 + English DTS-X 7.1] x264 FraMeSToR-R3FL3X",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Q6uvFZyR\n17.52 GB",
+            "url": "https://pixeldrain.dev/api/file/Q6uvFZyR?download",
+            "quality": "2160p",
+            "size": "17.52 GB",
+            "fileName": "Q6uvFZyR",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Shaun of the Dead 2004 2160p UHD BluRay DV HDR 10bit HEVC [Hindi NF DDP 5.1 + English DDP 7.1] x265 DiscoD-KiNGSMAN\n17.52 GB",
+            "url": "https://fsl.anime4u.co/Shaun%20of%20the%20Dead%202004%202160p%20UHD%20BluRay%20DV%20HDR%2010bit%20HEVC%20[Hindi%20NF%20DDP%205.1%20+%20English%20DDP%207.1]%20x265%20DiscoD-KiNGSMAN.mkv?token=1761612057",
+            "quality": "2160p",
+            "size": "17.52 GB",
+            "fileName": "Shaun of the Dead 2004 2160p UHD BluRay DV HDR 10bit HEVC [Hindi NF DDP 5.1 + English DDP 7.1] x265 DiscoD-KiNGSMAN",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ck3zKUTj\n15.39 GB",
+            "url": "https://pixeldrain.dev/api/file/ck3zKUTj?download",
+            "quality": "1080p",
+            "size": "15.39 GB",
+            "fileName": "ck3zKUTj",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Shaun of the Dead 2004 1080p UHD BluRay HDR10P 10bit HEVC [Hindi NF DDP 5.1 + English DDP 7.1] x265 NCmt-R3FL3X\n15.39 GB",
+            "url": "https://fsl.anime4u.co/Shaun%20of%20the%20Dead%202004%201080p%20UHD%20BluRay%20HDR10P%2010bit%20HEVC%20[Hindi%20NF%20DDP%205.1%20+%20English%20DDP%207.1]%20x265%20NCmt-R3FL3X.mkv?token=1761612057",
+            "quality": "1080p",
+            "size": "15.39 GB",
+            "fileName": "Shaun of the Dead 2004 1080p UHD BluRay HDR10P 10bit HEVC [Hindi NF DDP 5.1 + English DDP 7.1] x265 NCmt-R3FL3X",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ARBUBkvX\n14.41 GB",
+            "url": "https://pixeldrain.dev/api/file/ARBUBkvX?download",
+            "quality": "1080p",
+            "size": "14.41 GB",
+            "fileName": "ARBUBkvX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Shaun of the Dead 2004 1080p BluRay [Hindi NF DDP 5.1 + English DD 5.1] x264 Chotab-R3FL3X\n14.41 GB",
+            "url": "https://fsl.anime4u.co/Shaun%20of%20the%20Dead%202004%201080p%20BluRay%20[Hindi%20NF%20DDP%205.1%20+%20English%20DD%205.1]%20x264%20Chotab-R3FL3X.mkv?token=1761612057",
+            "quality": "1080p",
+            "size": "14.41 GB",
+            "fileName": "Shaun of the Dead 2004 1080p BluRay [Hindi NF DDP 5.1 + English DD 5.1] x264 Chotab-R3FL3X",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "maswUN1P\n9.8 GB",
+            "url": "https://pixeldrain.dev/api/file/maswUN1P?download",
+            "quality": "1080p",
+            "size": "9.8 GB",
+            "fileName": "maswUN1P",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Shaun of the Dead 2004 Open Matte 1080p WEB-DL [Hindi NF DDP 5.1 + English DDP 5.1] x264 NoTag-R3FL3X\n9.8 GB",
+            "url": "https://fsl.anime4u.co/Shaun%20of%20the%20Dead%202004%20Open%20Matte%201080p%20WEB-DL%20[Hindi%20NF%20DDP%205.1%20+%20English%20DDP%205.1]%20x264%20NoTag-R3FL3X.mkv?token=1761612057",
+            "quality": "1080p",
+            "size": "9.8 GB",
+            "fileName": "Shaun of the Dead 2004 Open Matte 1080p WEB-DL [Hindi NF DDP 5.1 + English DDP 5.1] x264 NoTag-R3FL3X",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "FyaxoTtD\n8.56 GB",
+            "url": "https://pixeldrain.dev/api/file/FyaxoTtD?download",
+            "quality": "1080p",
+            "size": "8.56 GB",
+            "fileName": "FyaxoTtD",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Shaun of the Dead 2004 1080p BluRay 10bit HEVC [Hindi NF DDP 5.1 + English DD 5.1] x265 BeiTai-R3FL3X\n8.56 GB",
+            "url": "https://fsl.anime4u.co/Shaun%20of%20the%20Dead%202004%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20NF%20DDP%205.1%20+%20English%20DD%205.1]%20x265%20BeiTai-R3FL3X.mkv?token=1761612057",
+            "quality": "1080p",
+            "size": "8.56 GB",
+            "fileName": "Shaun of the Dead 2004 1080p BluRay 10bit HEVC [Hindi NF DDP 5.1 + English DD 5.1] x265 BeiTai-R3FL3X",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "iJb9eVXc\n5.91 GB",
+            "url": "https://pixeldrain.dev/api/file/iJb9eVXc?download",
+            "quality": "1080p",
+            "size": "5.91 GB",
+            "fileName": "iJb9eVXc",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Shaun of the Dead 2004 1080p BluRay 10bit HEVC [Hindi NF DDP 5.1 + English DD 5.1] x265 MNHD.FRDS-R3FL3X\n5.91 GB",
+            "url": "https://fsl.anime4u.co/Shaun%20of%20the%20Dead%202004%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20NF%20DDP%205.1%20+%20English%20DD%205.1]%20x265%20MNHD.FRDS-R3FL3X.mkv?token=1761612057",
+            "quality": "1080p",
+            "size": "5.91 GB",
+            "fileName": "Shaun of the Dead 2004 1080p BluRay 10bit HEVC [Hindi NF DDP 5.1 + English DD 5.1] x265 MNHD.FRDS-R3FL3X",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 14
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:747",
+      "storedAt": 1761612056892,
+      "meta": {
+        "storedAt": 1761612056,
+        "urlCount": 7,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "747",
+        "imdbId": "tt0365748",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies UHD BluRay REMUX DV HDR 10bit HEVC [Hindi NF DDP 5 1 + English TrueHD Atmos 7 1] x265 (FraMeSToR-KiNGSMAN)",
+            "url": "https://a.111477.xyz/movies/Shaun%20of%20the%20Dead%20(2004)/Shaun%20of%20the%20Dead%20(2004)%202160p%20UHD%20BluRay%20REMUX%20DV%20HDR%2010bit%20HEVC%20[Hindi%20NF%20DDP%205.1%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20(FraMeSToR-KiNGSMAN).mkv",
+            "quality": "2160p | DV | HDR | REMUX",
+            "size": "47.51 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Shaun of the Dead (2004) 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi NF DDP 5.1 + English TrueHD Atmos 7.1] x265 (FraMeSToR-KiNGSMAN).mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DTS-X 7 1 HEVC REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/Shaun%20of%20the%20Dead%20(2004)/Shaun.of.the.Dead.2004.UHD.BluRay.2160p.DTS-X.7.1.HEVC.REMUX-FraMeSToR.mkv",
+            "quality": "2160p | REMUX",
+            "size": "50.78 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Shaun.of.the.Dead.2004.UHD.BluRay.2160p.DTS-X.7.1.HEVC.REMUX-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ] [BluRay] [5 1] [YTS MX]-xpost",
+            "url": "https://a.111477.xyz/movies/Shaun%20of%20the%20Dead%20(2004)/Shaun.Of.The.Dead.(2004).[REMASTERED].[REPACK].[1080p].[BluRay].[5.1].[YTS.MX]-xpost.mp4",
+            "quality": "1080p",
+            "size": "1.83 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Shaun.Of.The.Dead.(2004).[REMASTERED].[REPACK].[1080p].[BluRay].[5.1].[YTS.MX]-xpost.mp4"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DTS-HD MA 5 1 AVC REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/Shaun%20of%20the%20Dead%20(2004)/Shaun.of.the.Dead.2004.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": "24.55 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Shaun.of.the.Dead.2004.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DTS-X 7 1 AVC HYBRID REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/Shaun%20of%20the%20Dead%20(2004)/Shaun.of.the.Dead.2004.PROPER.BluRay.1080p.DTS-X.7.1.AVC.HYBRID.REMUX-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": "26.29 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Shaun.of.the.Dead.2004.PROPER.BluRay.1080p.DTS-X.7.1.AVC.HYBRID.REMUX-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265",
+            "url": "https://a.111477.xyz/movies/Shaun%20of%20the%20Dead%20(2004)/Shaun.of.the.Dead.2004.REMASTERED.PROPER.1080p.BluRay.x265.mp4",
+            "quality": "1080p",
+            "size": "1.55 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Shaun.of.the.Dead.2004.REMASTERED.PROPER.1080p.BluRay.x265.mp4"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DD 5 1 DV HDR x265-SQS",
+            "url": "https://a.111477.xyz/movies/Shaun%20of%20the%20Dead%20(2004)/Shaun.of.the.Dead.2004.REPACK.UHD.BluRay.1080p.DD.5.1.DV.HDR.x265-SQS.mkv",
+            "quality": "1080p | DV | HDR",
+            "size": "7.34 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Shaun.of.the.Dead.2004.REPACK.UHD.BluRay.1080p.DD.5.1.DV.HDR.x265-SQS.mkv"
+          }
+        ],
+        "count": 7
+      }
+    },
+    {
+      "key": "prov:moviesmod:movie:747",
+      "storedAt": 1761612063218,
+      "meta": {
+        "storedAt": 1761612063,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "moviesmod",
+        "type": "movie",
+        "tmdbId": "747",
+        "imdbId": "tt0365748",
+        "streams": [
+          {
+            "name": "MoviesMod",
+            "title": "Shaun of the Dead 2004 1080p Hindi English Moviesmod NeT\n2.4GB",
+            "url": "https://worker-misty-butterfly-b189.dovona6632.workers.dev/3739207df9557a92c08e2c225dda2233657428d7a54532cf18c27085daa855f1a8ca4442a9bd8435bfa943bc8e2cbbf12d3724db44996317da89fdd02c9db374077bcefc6ff27d5bb1eea622c7b8bbb531e3e744db24a6811327238c4f0a654cb1b64c370863d2b02bdeae4c40227d906ab78c89f0cdaeae9a70b6ff61b165f6524f810c36f4bdfb948c6ed522010536be4bc67697037d3095c2b1698cfb50e7e46db1955d22bf96f71e03930743e011::8701e83b3ca05bf8948c5988e97787b3/Shaun.of.the.Dead.2004.1080p.Hindi.English.Moviesmod.NeT.mkv",
+            "quality": "1080p",
+            "size": "2.4GB",
+            "fileName": "Shaun.of.the.Dead.2004.1080p.Hindi.English.Moviesmod.NeT.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:747",
+      "storedAt": 1761612062649,
+      "meta": {
+        "storedAt": 1761612062,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "747",
+        "imdbId": "tt0365748",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Shaun of the Dead 2004 1080p BluRay x264 [Hindi DDP 5 1 + English DD 5 1] ESubs-(ARRoW) Chotab\n14.41GB",
+            "url": "https://worker-long-math-7a9a.pecic34110.workers.dev/5a4329f85775c87e3803dddf53c16afca8568aa3535af9504426f0ab431679389a967d801ff1a6e6df362de96f20c54fe3acd4ea4f6559f346d3290f0c71b92ea3f15b1b2d63a8278b98eb2e014a83282abcfc9b57dbd033f4acf68ab17f767f8f32cf25ba9db2a9dc23a82ac4a8edd2683ef3aa089d86afe9e9ef4b2b8eadb477cd9f731b20734854ceb396f40503a6af38f1759f7f985b33579fdc44b51da7208151ac7f02706b4f97c31b5ff26121::d80f016c9d18c2efe5246bf5eeb6f8be/Shaun.of.the.Dead.2004.1080p.BluRay.x264.[Hindi DDP 5.1  English DD 5.1].ESubs-(ARRoW) Chotab.mkv",
+            "quality": "1080p | BluRay",
+            "size": "14.41GB",
+            "fileName": "Shaun.of.the.Dead.2004.1080p.BluRay.x264.[Hindi DDP 5.1 + English DD 5.1].ESubs-(ARRoW) Chotab.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Shaun of the Dead 2004 BluRay 1080p x265 10bit [Hindi DDP 5 1 + English AAC 5 1] ESubs-(ARRoW) afm72\n4.6GB",
+            "url": "https://worker-round-band-2caf.lotigi5232.workers.dev/dda6611e077e3d5ae9c51eac5954a73d61b105bc871da95fd4f60e65c2df7e09383060532e2eafdbede680fb85a6c386b4237def0668a5a0babbab5a26b08b425a3baedfe6dd2c2219188f18d66b82539a719643cba77ff2657d9e9fe582ca3770c9201804dea74844e6944e083995c7d7ca92eb758618d8c6786aca4d5247db52cbfe53966b11e3322be6c815d10e734432557bbcac4dd7e46b0c7b2574ee6b9332da83ccd8beca159b46b83b0e6d19::d2fc90868cf47c52e18342c2452737d3/Shaun.of.the.Dead.2004.BluRay.1080p.x265.10bit.[Hindi DDP 5.1  English AAC 5.1].ESubs-(ARRoW) afm72.mkv",
+            "quality": "1080p | BluRay",
+            "size": "4.6GB",
+            "fileName": "Shaun.of.the.Dead.2004.BluRay.1080p.x265.10bit.[Hindi DDP 5.1 + English AAC 5.1].ESubs-(ARRoW) afm72.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1404:s1e2",
+      "storedAt": 1761612293608,
+      "meta": {
+        "storedAt": 1761612293,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1404",
+        "imdbId": "tt0934814",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/180650?token=fe597c802fe6e95630230e0731aeb119&expires=1766796293&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1408:s2e19",
+      "storedAt": 1761612025345,
+      "meta": {
+        "storedAt": 1761612025,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1408",
+        "imdbId": "tt0412142",
+        "season": 2,
+        "episode": 19,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/180851?token=24c6d71d0970abaeee747322dae0a337&expires=1766796025&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1413:s1e4",
+      "storedAt": 1761612386702,
+      "meta": {
+        "storedAt": 1761612386,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1413",
+        "imdbId": "tt1844624",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/196498?token=482163018491ff11aa401cfed9278376&expires=1766796386&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2190:s6e8",
+      "storedAt": 1761612247708,
+      "meta": {
+        "storedAt": 1761612247,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2190",
+        "imdbId": "tt0121955",
+        "season": 6,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/402242?token=c2ce2775e01d99b761d54415f4de65dc&expires=1766796247&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:31917:s3e5",
+      "storedAt": 1761612055771,
+      "meta": {
+        "storedAt": 1761612055,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "31917",
+        "imdbId": "tt1578873",
+        "season": 3,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/179367?token=d6f5903311e814bf0abc85e76623bd36&expires=1766796055&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:39340:s5e6",
+      "storedAt": 1761612310750,
+      "meta": {
+        "storedAt": 1761612310,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "39340",
+        "imdbId": "tt1845307",
+        "season": 5,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/249986?token=5550167ae88842efc1a34eda1ed78b09&expires=1766796310&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:44217:s2e8",
+      "storedAt": 1761612334936,
+      "meta": {
+        "storedAt": 1761612334,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "44217",
+        "imdbId": "tt2306299",
+        "season": 2,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/309362?token=bdec09fdf99e7aebd77f8e051d561762&expires=1766796334&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:46952:s2e3",
+      "storedAt": 1761612172139,
+      "meta": {
+        "storedAt": 1761612172,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "46952",
+        "imdbId": "tt2741602",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/204185?token=9f933e5fc5792439ed06c3414e115ca7&expires=1766796171&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:48866:s2e10",
+      "storedAt": 1761612438038,
+      "meta": {
+        "storedAt": 1761612438,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "48866",
+        "imdbId": "tt2661044",
+        "season": 2,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/272768?token=10bfdfd03c2c65ae3e6a612e4903310e&expires=1766796437&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:75219:s7e1",
+      "storedAt": 1761612110951,
+      "meta": {
+        "storedAt": 1761612110,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "75219",
+        "imdbId": "tt7235466",
+        "season": 7,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/231443?token=49ccd120fd2fd33a664df4b1d88fc3dc&expires=1766796110&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:76331:s3e1",
+      "storedAt": 1761612132233,
+      "meta": {
+        "storedAt": 1761612132,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "76331",
+        "imdbId": "tt7660850",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/225709?token=370dc18ea72547b317ff0badabe86070&expires=1766796131&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:83631:s1e7",
+      "storedAt": 1761612053170,
+      "meta": {
+        "storedAt": 1761612053,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "83631",
+        "imdbId": "tt7908628",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/196338?token=7700663a0ee4c60f37b454ad569c5e8f&expires=1766796052&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:84154:s1e12",
+      "storedAt": 1761612087457,
+      "meta": {
+        "storedAt": 1761612087,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "84154",
+        "imdbId": "tt7736544",
+        "season": 1,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/266385?token=34d931cce290a8a068321ab574fed909&expires=1766796086&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-28T00:47:21.569Z",
+    "totalOriginalEntries": 25,
+    "newItemsInThisBatch": 25,
+    "format": "compact_v1"
+  }
+}
