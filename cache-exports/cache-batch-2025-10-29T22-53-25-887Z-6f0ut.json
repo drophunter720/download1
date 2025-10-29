@@ -1,0 +1,950 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:1003813",
+      "storedAt": 1761778330021,
+      "meta": {
+        "storedAt": 1761778330,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1003813",
+        "imdbId": "tt15333788",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/308825?token=79284dd92021a19a67be78379ea24d87&expires=1766962329&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:110490",
+      "storedAt": 1761778337213,
+      "meta": {
+        "storedAt": 1761778337,
+        "urlCount": 14,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "110490",
+        "imdbId": "tt1910605",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Brave 2012 2160p 10bit HDR DV BluRay REMUX HEVC x265 [Hindi NF DDP 2.0 128kbps + English TrueHD Atmos 7.1] ESub-FraMeSToR-4kHdHub\n40.11 GB",
+            "url": "https://fsl.anime4u.co/Brave%202012%202160p%2010bit%20HDR%20DV%20BluRay%20REMUX%20HEVC%20x265%20[Hindi%20NF%20DDP%202.0%20128kbps%20+%20English%20TrueHD%20Atmos%207.1]%20ESub-FraMeSToR-4kHdHub.mkv?token=1761778336",
+            "quality": "2160p",
+            "size": "40.11 GB",
+            "fileName": "Brave 2012 2160p 10bit HDR DV BluRay REMUX HEVC x265 [Hindi NF DDP 2.0 128kbps + English TrueHD Atmos 7.1] ESub-FraMeSToR-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Brave 2012 1080p BluRay REMUX AVC x264 [Hindi NF DDP 2.0 128kbps + English TrueHD Atmos 7.1] ESub-FraMeSToR-4kHdHub\n21.44 GB",
+            "url": "https://fsl.anime4u.co/Brave%202012%201080p%20BluRay%20REMUX%20AVC%20x264%20[Hindi%20NF%20DDP%202.0%20128kbps%20+%20English%20TrueHD%20Atmos%207.1]%20ESub-FraMeSToR-4kHdHub.mkv?token=1761778336",
+            "quality": "1080p",
+            "size": "21.44 GB",
+            "fileName": "Brave 2012 1080p BluRay REMUX AVC x264 [Hindi NF DDP 2.0 128kbps + English TrueHD Atmos 7.1] ESub-FraMeSToR-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "eaj6BUkQ\n8.48 GB",
+            "url": "https://pixeldrain.dev/api/file/eaj6BUkQ?download",
+            "quality": "1080p",
+            "size": "8.48 GB",
+            "fileName": "eaj6BUkQ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Brave 2012 UHD 1080p 10bit HDR BluRay HEVC x265 [Hindi NF DDP 2.0 128kbps + English DDP 7.1] ESub-JM-4kHdHub\n8.48 GB",
+            "url": "https://fsl.anime4u.co/Brave%202012%20UHD%201080p%2010bit%20HDR%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%202.0%20128kbps%20+%20English%20DDP%207.1]%20ESub-JM-4kHdHub.mkv?token=1761778336",
+            "quality": "1080p",
+            "size": "8.48 GB",
+            "fileName": "Brave 2012 UHD 1080p 10bit HDR BluRay HEVC x265 [Hindi NF DDP 2.0 128kbps + English DDP 7.1] ESub-JM-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "qYHCE9Ho\n8.4 GB",
+            "url": "https://pixeldrain.dev/api/file/qYHCE9Ho?download",
+            "quality": "2160p",
+            "size": "8.4 GB",
+            "fileName": "qYHCE9Ho",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Brave 2012 2160p 10bit HDR BluRay HEVC x265 [Hindi NF DDP 2.0 128kbps + English DDP 7.1] ESub-HDS-4kHdHub\n8.4 GB",
+            "url": "https://fsl.anime4u.co/Brave%202012%202160p%2010bit%20HDR%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%202.0%20128kbps%20+%20English%20DDP%207.1]%20ESub-HDS-4kHdHub.mkv?token=1761778336",
+            "quality": "2160p",
+            "size": "8.4 GB",
+            "fileName": "Brave 2012 2160p 10bit HDR BluRay HEVC x265 [Hindi NF DDP 2.0 128kbps + English DDP 7.1] ESub-HDS-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "xvF2ZJc4\n8.32 GB",
+            "url": "https://pixeldrain.dev/api/file/xvF2ZJc4?download",
+            "quality": "1080p",
+            "size": "8.32 GB",
+            "fileName": "xvF2ZJc4",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Brave 2012 1080p BluRay x264 [Hindi NF DDP 2.0 128kbps + English DDP 7.1] ESub-PlayHD-4kHdHub\n8.32 GB",
+            "url": "https://fsl.anime4u.co/Brave%202012%201080p%20BluRay%20x264%20[Hindi%20NF%20DDP%202.0%20128kbps%20+%20English%20DDP%207.1]%20ESub-PlayHD-4kHdHub.mkv?token=1761778336",
+            "quality": "1080p",
+            "size": "8.32 GB",
+            "fileName": "Brave 2012 1080p BluRay x264 [Hindi NF DDP 2.0 128kbps + English DDP 7.1] ESub-PlayHD-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "SdYRPtzv\n4.88 GB",
+            "url": "https://pixeldrain.dev/api/file/SdYRPtzv?download",
+            "quality": "2160p",
+            "size": "4.88 GB",
+            "fileName": "SdYRPtzv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Brave 2012 2160p 10bit HDR DV BluRay HEVC x265 [Hindi NF DDP 2.0 128kbps + English DDP 7.1] ESub-Pahe-4kHdHub\n4.88 GB",
+            "url": "https://fsl.anime4u.co/Brave%202012%202160p%2010bit%20HDR%20DV%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%202.0%20128kbps%20+%20English%20DDP%207.1]%20ESub-Pahe-4kHdHub.mkv?token=1761778336",
+            "quality": "2160p",
+            "size": "4.88 GB",
+            "fileName": "Brave 2012 2160p 10bit HDR DV BluRay HEVC x265 [Hindi NF DDP 2.0 128kbps + English DDP 7.1] ESub-Pahe-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "3GC84gsW\n3.67 GB",
+            "url": "https://pixeldrain.dev/api/file/3GC84gsW?download",
+            "quality": "1080p",
+            "size": "3.67 GB",
+            "fileName": "3GC84gsW",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Brave 2012 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 2.0 128kbps + English DDP 7.1] ESub-MNHD-FRDS-4kHdHub\n3.67 GB",
+            "url": "https://fsl.anime4u.co/Brave%202012%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%202.0%20128kbps%20+%20English%20DDP%207.1]%20ESub-MNHD-FRDS-4kHdHub.mkv?token=1761778336",
+            "quality": "1080p",
+            "size": "3.67 GB",
+            "fileName": "Brave 2012 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 2.0 128kbps + English DDP 7.1] ESub-MNHD-FRDS-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "j4eTCY2W\n1.54 GB",
+            "url": "https://pixeldrain.dev/api/file/j4eTCY2W?download",
+            "quality": "1080p",
+            "size": "1.54 GB",
+            "fileName": "j4eTCY2W",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Brave 2012 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 2.0 128kbps + English AAC 7.1] ESub-PSA-4kHdHub\n1.54 GB",
+            "url": "https://fsl.anime4u.co/Brave%202012%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%202.0%20128kbps%20+%20English%20AAC%207.1]%20ESub-PSA-4kHdHub.mkv?token=1761778336",
+            "quality": "1080p",
+            "size": "1.54 GB",
+            "fileName": "Brave 2012 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 2.0 128kbps + English AAC 7.1] ESub-PSA-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 14
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:110490",
+      "storedAt": 1761778338909,
+      "meta": {
+        "storedAt": 1761778338,
+        "urlCount": 12,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "110490",
+        "imdbId": "tt1910605",
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Thunderball.1965.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/api/file/vj9B8h2S?download",
+            "quality": "1080p",
+            "size": "2.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Thunderball.1965.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://fsl.anime4u.co/Thunderball.1965.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv?token=1761773147",
+            "quality": "1080p",
+            "size": "2.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Thunderball.1965.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nF9pJlHZvCSsB8wpyzx3PZYk7tNdfQKSi1CAPpYFBq-McpCNnrTEvvoXxPjBDhHWWYLOuZcU1zZfVQEV3L-5zan7yuGaiRF2MC2l8u-GJSJhji_O4pf2B7fhy3iK_M3Yidk-Ve_vbcqEKXKW4lCAtj3qFU4Y2DDfXIEsVkNIUXU7kyHypGQ_uga7eM7nF3FyDDOx2CQJciQgdnneHhdCzgHVaK-iZOI-Ufkr-58X9QlfRHTc0",
+            "quality": "1080p",
+            "size": "2.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Thunderball.1965.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.Untouch.mkv",
+            "url": "https://pixeldrain.dev/api/file/DUeK8zFd?download",
+            "quality": "1080p",
+            "size": "9.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Thunderball.1965.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.Untouch.mkv",
+            "url": "https://fsl.anime4u.co/Thunderball.1965.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.Untouch.mkv?token=1761778337",
+            "quality": "1080p",
+            "size": "9.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Thunderball.1965.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.Untouch.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nlX2p4jO8zibwthEp_cfSGZXMqmwslMWMjaMFGNv3ZGdTWWWvpu-ob1Mn5fVMt24z5sWrcZIt9vGnx5IY6M9gI7iCbKc5iNIFY9EsA7HNh32CoDZciXc39LqwFC9cthuyG6E5_Zb9dbRcJSYQRai4Moo8TGyXRCF67vpevoXAA0mIDCPz5WYyI58mfLvF3X_aXYhwly5-XI90n-XYRpPaMIWer5Zl3FkcTRJQ_PKgrjYSdfhI",
+            "quality": "1080p",
+            "size": "9.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Thunderball.1965.720p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/api/file/pFLZH37P?download",
+            "quality": "720p",
+            "size": "1.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Thunderball.1965.720p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://fsl.anime4u.co/Thunderball.1965.720p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv?token=1761778337",
+            "quality": "720p",
+            "size": "1.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u S3 Server ",
+            "title": "Thunderball.1965.720p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "quality": "720p",
+            "size": "1.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Thunderball.1965.720p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2k9kl2WFRsb3hDaLsHWebgl1EVFA0GgCIB3i1aLlz0WdVGwY20FD132rhzlaSBBEEXHB19bUl84OAvDriGP3eLxmc8Jh4f8kepfJl57nUP5hVv2jo0EWNJMpsyDgR_x0uMJ5GeqwkJsEb6TC_BhXQEmaHqEOataNjD3tZYFpCA9Sj0iPiwYUFpqzS2pYQowmuIENgEwS_dXYw-z6fIzAHlTAUYD4ZBuUt_aYIZzvSZMzFm8QKGW-jyvZgJsVnmbwGYgsDZN",
+            "quality": "720p",
+            "size": "1.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Thunderball.1965.480p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/api/file/HEEXK5HQ?download",
+            "quality": "480p",
+            "size": "480.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Thunderball.1965.480p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://fsl.anime4u.co/Thunderball.1965.480p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv?token=1761778337",
+            "quality": "480p",
+            "size": "480.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Thunderball.1965.480p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mgscLSQEJVqCTARZg0x7NjFswIajlgqtp2pbr0XmuLyUo4MQUrEZ0edLRPv_rfJTLQP9jb-YmNq-h2sxtyz1WoFHlsx1E-FoJHpxV6xjGEIuYS03wgJR2D_ZlwXb8RJFWAv9a9AUrvtwI5nz_qBpXACJTpw4voMMorWQTC-lvL87v9MGU9iq0Bcb1L5L8f04eQdxMfl2GU0-CJHLr1ZYZIY3UGZY7NDOWqtGXmdokRMqzNSf8",
+            "quality": "480p",
+            "size": "480.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 13
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:1480430",
+      "storedAt": 1761777982788,
+      "meta": {
+        "storedAt": 1761777982,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1480430",
+        "imdbId": "tt36870669",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/353344?token=ca7781ff09dde208350dae4db867220a&expires=1766961982&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:41154",
+      "storedAt": 1761778255614,
+      "meta": {
+        "storedAt": 1761778255,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "41154",
+        "imdbId": "tt1409024",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/204965?token=2664f6dd17231517d9192ca62942d4de&expires=1766962255&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:49524",
+      "storedAt": 1761778371557,
+      "meta": {
+        "storedAt": 1761778371,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "49524",
+        "imdbId": "tt0790736",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/89865?token=a914749405c3e79adccb01eae6d343f2&expires=1766962371&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:8960",
+      "storedAt": 1761778222839,
+      "meta": {
+        "storedAt": 1761778222,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "8960",
+        "imdbId": "tt0448157",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/266523?token=925c3d40ccc790aa0169372e5e638d8e&expires=1766962222&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:125935:s2e6",
+      "storedAt": 1761778096690,
+      "meta": {
+        "storedAt": 1761778096,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "125935",
+        "imdbId": "tt14218830",
+        "season": 2,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/221754?token=3ebecfdb587cadd963fe073b24c48ffe&expires=1766962096&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1408:s5e7",
+      "storedAt": 1761778053145,
+      "meta": {
+        "storedAt": 1761778053,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1408",
+        "imdbId": "tt0412142",
+        "season": 5,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/180903?token=35f971861efc13e3cd88d82225978c6c&expires=1766962052&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1622:s2e3",
+      "storedAt": 1761778274255,
+      "meta": {
+        "storedAt": 1761778274,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1622",
+        "imdbId": "tt0460681",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/178837?token=79bf550b217c5e277ce95adedac1d90e&expires=1766962274&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1778:s1e1",
+      "storedAt": 1761778102181,
+      "meta": {
+        "storedAt": 1761778102,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1778",
+        "imdbId": "tt0415463",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/49628?token=7ddafdca6607ad150e8de0c8ce0874af&expires=1766962102&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:214065:s1e3",
+      "storedAt": 1761777995308,
+      "meta": {
+        "storedAt": 1761777995,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "214065",
+        "imdbId": "tt10225224",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/397728?token=8631a1b396f85f4fcc09c9e06859d42d&expires=1766961995&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2316:s7e11",
+      "storedAt": 1761777925884,
+      "meta": {
+        "storedAt": 1761777925,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2316",
+        "imdbId": "tt0386676",
+        "season": 7,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/186565?token=7e45659c8e349e1fec6dbf737d9459c7&expires=1766961925&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:341:s2e2",
+      "storedAt": 1761778113221,
+      "meta": {
+        "storedAt": 1761778113,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "341",
+        "imdbId": "tt0758737",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/224208?token=a792aa1007942a148bb6d03542d3eb74&expires=1766962112&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:4327:s1e9",
+      "storedAt": 1761777997425,
+      "meta": {
+        "storedAt": 1761777997,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4327",
+        "imdbId": "tt0096657",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/174440?token=dbb20b9522ee03cab30fc6dc5cb76265&expires=1766961997&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:55866:s2e7",
+      "storedAt": 1761778000941,
+      "meta": {
+        "storedAt": 1761778000,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "55866",
+        "imdbId": "tt2819924",
+        "season": 2,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/240328?token=2f54a07781c3989f7ce9f44ffb8dd250&expires=1766962000&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61222:s4e7",
+      "storedAt": 1761777989094,
+      "meta": {
+        "storedAt": 1761777989,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61222",
+        "imdbId": "tt3398228",
+        "season": 4,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/308956?token=a0547576d55ac175c067ba3d555f828b&expires=1766961988&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:62875:s2e16",
+      "storedAt": 1761778315246,
+      "meta": {
+        "storedAt": 1761778315,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "62875",
+        "imdbId": "tt4591680",
+        "season": 2,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/276752?token=f87e04118926728cd9b76c186de96266&expires=1766962314&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:71790:s6e15",
+      "storedAt": 1761778116826,
+      "meta": {
+        "storedAt": 1761778116,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "71790",
+        "imdbId": "tt6111130",
+        "season": 6,
+        "episode": 15,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/217424?token=82e0941ee73b8c90697c79c05603d020&expires=1766962116&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:71790:s6e16",
+      "storedAt": 1761778140669,
+      "meta": {
+        "storedAt": 1761778140,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "71790",
+        "imdbId": "tt6111130",
+        "season": 6,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/217425?token=634ade2879111c15c0dafeb7b5c81b8e&expires=1766962140&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-29T22:53:25.888Z",
+    "totalOriginalEntries": 20,
+    "newItemsInThisBatch": 20,
+    "format": "compact_v1"
+  }
+}
