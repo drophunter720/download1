@@ -1,0 +1,1075 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:203739",
+      "storedAt": 1761708536708,
+      "meta": {
+        "storedAt": 1761708536,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "203739",
+        "imdbId": "tt1686821",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/250072?token=8cb52318d70541856211cbac76fc046e&expires=1766892536&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:19885:s2e1",
+      "storedAt": 1761708455815,
+      "meta": {
+        "storedAt": 1761708455,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "19885",
+        "imdbId": "tt1475582",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Sherlock S02E01 A Scandal in Belgravia 2012 1080i Blu-Ray ReMuX AVC DD 5 1-R2D2\n20.17GB",
+            "url": "https://worker-holy-truth-b146.kijisa6972.workers.dev/cef084da91d4c9d3574866e8ed814812748be53f94dd0bba71e308cecd88b1cb7af4f11d72744047b54d8634754dedcf7ff1f9b7e1be96dd6e564c31d27d64cb32e94f74a755db266bc7fb22f12c59812e07ed9374a98c9a068106634c5bf0aa6cec1514f27e5f0509320b73a4a31d93042caa2df991272c0b0729ceb770a5437461c032705320195999d894f20123c9dc1db87d1993d16f4203898f72c872b8adee70da86cfee57842cd6a5d0267a89::e053d62e0ac68e4d7999b7cad4b96b84/Sherlock.S02E01.A.Scandal.in.Belgravia.2012.1080i.Blu-Ray.ReMuX.AVC.DD.5.1-R2D2.mkv",
+            "quality": "1080p | BluRay",
+            "size": "20.17GB",
+            "fileName": "Sherlock.S02E01.A.Scandal.in.Belgravia.2012.1080i.Blu-Ray.ReMuX.AVC.DD.5.1-R2D2.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Sherlock S02E01 1080p Bluray X264-RRH \n6.56GB",
+            "url": "https://worker-frosty-sea-e7a4.kogome2461.workers.dev/ab30d321111fcaf9618547cb28134129fea716280c8a9bf8a5b24ccc54a9b9437281fed7011418ce71ba8be5deea16abc0ccb3b0a79c92d7ad3553faf9d5553a27d4176c54dc5cc56be2332334be790dc3ab876ff99aec058260250f4b3a14aa0beb70fb835b6428b0cbe70d98743ff31aeaa7d72476ff93317f317fba4ecd1d0032fddb6bee249a6b14486237dd731496ed224d0e06069fe880b77d9bc396f6752b739dcd669a6a0cbd4c4bbe2e2ea5::b3938672dc938e2d56ca55c5363cba13/Sherlock.S02E01.1080p.Bluray.X264-RRH .mkv",
+            "quality": "1080p | BluRay",
+            "size": "6.56GB",
+            "fileName": "Sherlock.S02E01.1080p.Bluray.X264-RRH .mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:19885:s2e2",
+      "storedAt": 1761708478699,
+      "meta": {
+        "storedAt": 1761708478,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "19885",
+        "imdbId": "tt1475582",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "m3C3wMJQ\n6.04 GB",
+            "url": "https://pixeldrain.dev/api/file/m3C3wMJQ?download",
+            "quality": "1080p",
+            "size": "6.04 GB",
+            "fileName": "m3C3wMJQ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Sherlock.S01E02.The.Blind.Banker.1080p.AMZN.WEB-DL.English.DDP2.0.H.264-4kHdHub.Com\n6.04 GB",
+            "url": "https://fsl.anime4u.co/Sherlock.S01E02.The.Blind.Banker.1080p.AMZN.WEB-DL.English.DDP2.0.H.264-4kHdHub.Com.mkv?token=1761703900",
+            "quality": "1080p",
+            "size": "6.04 GB",
+            "fileName": "Sherlock.S01E02.The.Blind.Banker.1080p.AMZN.WEB-DL.English.DDP2.0.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:19885:s2e2",
+      "storedAt": 1761708478200,
+      "meta": {
+        "storedAt": 1761708478,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "19885",
+        "imdbId": "tt1475582",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][x264]-OFT",
+            "url": "https://a.111477.xyz/tvs/Sherlock/Season%202/Sherlock%20(2010)%20-%20S02E02%20-%20The%20Hounds%20of%20Baskerville%20[Bluray-1080p][AC3%205.1][x264]-OFT.mkv",
+            "quality": "1080p",
+            "size": "3.95 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sherlock (2010) - S02E02 - The Hounds of Baskerville [Bluray-1080p][AC3 5.1][x264]-OFT.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Sherlock.S02E02.the.hounds.of.baskerville.1080i.BluRay.REMUX.AVC.DD5.1-NOGRP.mkv",
+            "url": "https://a.111477.xyz/tvs/Sherlock/Season%202/Sherlock.S02E02.the.hounds.of.baskerville.1080i.BluRay.REMUX.AVC.DD5.1-NOGRP.mkv",
+            "quality": "Unknown | REMUX",
+            "size": "20.00 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sherlock.S02E02.the.hounds.of.baskerville.1080i.BluRay.REMUX.AVC.DD5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:19885:s2e2",
+      "storedAt": 1761708480059,
+      "meta": {
+        "storedAt": 1761708480,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "19885",
+        "imdbId": "tt1475582",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Sherlock S2E2 - 2. The Hounds of Baskerville",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/sherlock/s2/Sherlock.S02E02.The.Hounds.of.Baskerville.720p.BluRay.x264.750MB-HDHub4u.mkv",
+            "quality": "1080p",
+            "size": "88min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Sherlock S2E2 - 2. The Hounds of Baskerville",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/sherlock/s2/Sherlock.S02E02.The.Hounds.of.Baskerville.720p.BluRay.x264.750MB-HDHub4u.mkv",
+            "quality": "1080p",
+            "size": "88min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:19885:s2e2",
+      "storedAt": 1761708482888,
+      "meta": {
+        "storedAt": 1761708482,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "19885",
+        "imdbId": "tt1475582",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Sherlock S02E02 The Hounds of Baskerville 2012 1080i Blu-Ray ReMuX AVC DD 5 1-R2D2\n18.64GB",
+            "url": "https://worker-damp-dust-38f0.kedakof960.workers.dev/c46f7617ce6ea6a29e67c3488f65ca3d9b80dbe2fa85b811c2f7eb0722eb986e82cf22853f362b1d8b5414e91943ed373e68fc2f505a5601ce9e14b67366b7e82c5c0ebb01e1bde8b34031ddd6aff467f31c3c079f6fae2071df9ac4a1fb5566abbb3be8c7e1ae38747e5592e2bfce5d168c74cefeaada458ad694f44b3f62dec3ad559defc6a310d5da49ec371dd82463f87a163d7f4863e929c1604e42d01400d1ff6f35ec8552f0fd9fa058d20314::90d577f5bc0bbfe8f9dd7557a18fb2c2/Sherlock.S02E02.The.Hounds.of.Baskerville.2012.1080i.Blu-Ray.ReMuX.AVC.DD.5.1-R2D2.mkv",
+            "quality": "1080p | BluRay",
+            "size": "18.64GB",
+            "fileName": "Sherlock.S02E02.The.Hounds.of.Baskerville.2012.1080i.Blu-Ray.ReMuX.AVC.DD.5.1-R2D2.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Sherlock (2010) - S02E02 - The Hounds of Baskerville (1080p BluRay x265 afm72)\n3.55GB",
+            "url": "https://hello-world-empty-shadow-b7e0.liciy56051.workers.dev/76abfe9e83929a6e7c870dbe11be018216ea46801621de2f43a91a4f5d1dc21303ef3f9e1e9f6aac4e35056b7ea6fae06ef8f1c68acb1df67ed502385892db8271b51944dbf939df1ed2a16c47047a514693d71a319454556d2365f40b5e3dac6d9863cf260755c92920a4ec911ebab351378dca72592928b29b2fe3acea930ce195ed4b2a09a81e9fa960ff362a7ce510ef9cf8b196b930f996b79d5c70565205aeb92a27b8964698f6ae49846504b0::a3fab5193a6865ffc10bfa743f2b3161/Sherlock (2010) - S02E02 - The Hounds of Baskerville (1080p BluRay x265 afm72).mkv",
+            "quality": "1080p | BluRay",
+            "size": "3.55GB",
+            "fileName": "Sherlock (2010) - S02E02 - The Hounds of Baskerville (1080p BluRay x265 afm72).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:19885:s2e3",
+      "storedAt": 1761708529213,
+      "meta": {
+        "storedAt": 1761708529,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "19885",
+        "imdbId": "tt1475582",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "jz72DSrC\n6.12 GB",
+            "url": "https://pixeldrain.dev/api/file/jz72DSrC?download",
+            "quality": "1080p",
+            "size": "6.12 GB",
+            "fileName": "jz72DSrC",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Sherlock.S01E03.The.Great.Game.1080p.AMZN.WEB-DL.English.DDP2.0.H.264-4kHdHub.Com\n6.12 GB",
+            "url": "https://fsl.anime4u.co/Sherlock.S01E03.The.Great.Game.1080p.AMZN.WEB-DL.English.DDP2.0.H.264-4kHdHub.Com.mkv?token=1761703919",
+            "quality": "1080p",
+            "size": "6.12 GB",
+            "fileName": "Sherlock.S01E03.The.Great.Game.1080p.AMZN.WEB-DL.English.DDP2.0.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:19885:s2e3",
+      "storedAt": 1761708528497,
+      "meta": {
+        "storedAt": 1761708528,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "19885",
+        "imdbId": "tt1475582",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][x264]-OFT",
+            "url": "https://a.111477.xyz/tvs/Sherlock/Season%202/Sherlock%20(2010)%20-%20S02E03%20-%20The%20Reichenbach%20Fall%20[Bluray-1080p][AC3%205.1][x264]-OFT.mkv",
+            "quality": "1080p",
+            "size": "3.84 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sherlock (2010) - S02E03 - The Reichenbach Fall [Bluray-1080p][AC3 5.1][x264]-OFT.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x264]-PRoDJi",
+            "url": "https://a.111477.xyz/tvs/Sherlock/Season%202/Sherlock%20(2010)%20-%20S02E03%20-%20The%20Reichenbach%20Fall%20[Bluray-1080p][EAC3%205.1][x264]-PRoDJi.mkv",
+            "quality": "1080p",
+            "size": "6.55 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sherlock (2010) - S02E03 - The Reichenbach Fall [Bluray-1080p][EAC3 5.1][x264]-PRoDJi.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Sherlock.S02E03.the.reichenbach.fall.1080i.BluRay.REMUX.AVC.DD5.1-NOGRP.mkv",
+            "url": "https://a.111477.xyz/tvs/Sherlock/Season%202/Sherlock.S02E03.the.reichenbach.fall.1080i.BluRay.REMUX.AVC.DD5.1-NOGRP.mkv",
+            "quality": "Unknown | REMUX",
+            "size": "19.94 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sherlock.S02E03.the.reichenbach.fall.1080i.BluRay.REMUX.AVC.DD5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:19885:s2e3",
+      "storedAt": 1761708530450,
+      "meta": {
+        "storedAt": 1761708530,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "19885",
+        "imdbId": "tt1475582",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Sherlock S2E3 - 3. The Reichenbach Fall",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/sherlock/s2/Sherlock.S02E03.The.Reichenbach.Fall.720p.BluRay.x264.750MB-HDHub4u.mkv",
+            "quality": "1080p",
+            "size": "90min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Sherlock S2E3 - 3. The Reichenbach Fall",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/sherlock/s2/Sherlock.S02E03.The.Reichenbach.Fall.720p.BluRay.x264.750MB-HDHub4u.mkv",
+            "quality": "1080p",
+            "size": "90min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:19885:s2e3",
+      "storedAt": 1761708533392,
+      "meta": {
+        "storedAt": 1761708533,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "19885",
+        "imdbId": "tt1475582",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Sherlock S02E03 1080p BluRay x264-SHORTBREHD \n5.47GB",
+            "url": "https://worker-super-grass-d760.tedisex254.workers.dev/a15bce130aa054576ddd7b25594c9ba031313226b4f9d7b959b1ff8baad2d065bc7565a560fcc3c85aebd1a7fdecd5c39ddbd8c19cb5b06ceb4c607f1d6febe50a61da50ebeed43f4bded3ebe10268ae30acffdfe035dc18e9654cf67abdd4022270b0ce15c3be877da1205ed2172a7154a65d4571a16c721a4c3be373bd8ad7ef5516f9aa640e7cf83f068db1b4290186fa418183c16b4e8c05abde69492479679c705db3eca944c11af7030487c5a8::44a5f4bbae1d53d281bb556ebf8cdc20/Sherlock.S02E03.1080p.BluRay.x264-SHORTBREHD .mkv",
+            "quality": "1080p | BluRay",
+            "size": "5.47GB",
+            "fileName": "Sherlock.S02E03.1080p.BluRay.x264-SHORTBREHD .mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:19885:s3e1",
+      "storedAt": 1761708872084,
+      "meta": {
+        "storedAt": 1761708872,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "19885",
+        "imdbId": "tt1475582",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "WVF72krD\n5.76 GB",
+            "url": "https://pixeldrain.dev/api/file/WVF72krD?download",
+            "quality": "1080p",
+            "size": "5.76 GB",
+            "fileName": "WVF72krD",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Sherlock.S03E01.The.Empty.Hearse.1080p.AMZN.WEB-DL.English.DDP2.0.H.264-4kHdHub.Com\n5.76 GB",
+            "url": "https://fsl.anime4u.co/Sherlock.S03E01.The.Empty.Hearse.1080p.AMZN.WEB-DL.English.DDP2.0.H.264-4kHdHub.Com.mkv?token=1761708871",
+            "quality": "1080p",
+            "size": "5.76 GB",
+            "fileName": "Sherlock.S03E01.The.Empty.Hearse.1080p.AMZN.WEB-DL.English.DDP2.0.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:19885:s3e1",
+      "storedAt": 1761708871936,
+      "meta": {
+        "storedAt": 1761708871,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "19885",
+        "imdbId": "tt1475582",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][x264]-OFT",
+            "url": "https://a.111477.xyz/tvs/Sherlock/Season%203/Sherlock%20(2010)%20-%20S03E01%20-%20The%20Empty%20Hearse%20[Bluray-1080p][AC3%205.1][x264]-OFT.mkv",
+            "quality": "1080p",
+            "size": "3.75 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sherlock (2010) - S03E01 - The Empty Hearse [Bluray-1080p][AC3 5.1][x264]-OFT.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DTS 5 1][x264]-shortbrehd",
+            "url": "https://a.111477.xyz/tvs/Sherlock/Season%203/Sherlock%20(2010)%20-%20S03E01%20-%20The%20Empty%20Hearse%20[Bluray-1080p][DTS%205.1][x264]-shortbrehd.mkv",
+            "quality": "1080p",
+            "size": "6.56 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sherlock (2010) - S03E01 - The Empty Hearse [Bluray-1080p][DTS 5.1][x264]-shortbrehd.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Sherlock.S03E01.the.empty.hearse.1080i.BluRay.REMUX.AVC.DD5.1-NOGRP.mkv",
+            "url": "https://a.111477.xyz/tvs/Sherlock/Season%203/Sherlock.S03E01.the.empty.hearse.1080i.BluRay.REMUX.AVC.DD5.1-NOGRP.mkv",
+            "quality": "Unknown | REMUX",
+            "size": "20.22 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sherlock.S03E01.the.empty.hearse.1080i.BluRay.REMUX.AVC.DD5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:19885:s3e1",
+      "storedAt": 1761708874098,
+      "meta": {
+        "storedAt": 1761708874,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "19885",
+        "imdbId": "tt1475582",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Sherlock S3E1 - 1. The Empty Hearse",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/sherlock/s3/Sherlock.S03E01.The.Empty.Hearse.720p.BluRay.x264.750MB-HDHub4u.mkv",
+            "quality": "1080p",
+            "size": "87min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Sherlock S3E1 - 1. The Empty Hearse",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/sherlock/s3/Sherlock.S03E01.The.Empty.Hearse.720p.BluRay.x264.750MB-HDHub4u.mkv",
+            "quality": "1080p",
+            "size": "87min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:19885:s3e2",
+      "storedAt": 1761708891200,
+      "meta": {
+        "storedAt": 1761708891,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "19885",
+        "imdbId": "tt1475582",
+        "season": 3,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "hBmCbJKV\n5.88 GB",
+            "url": "https://pixeldrain.dev/api/file/hBmCbJKV?download",
+            "quality": "1080p",
+            "size": "5.88 GB",
+            "fileName": "hBmCbJKV",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:19885:s3e2",
+      "storedAt": 1761708890634,
+      "meta": {
+        "storedAt": 1761708890,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "19885",
+        "imdbId": "tt1475582",
+        "season": 3,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DTS 5 1][x264]-shortbrehd",
+            "url": "https://a.111477.xyz/tvs/Sherlock/Season%203/Sherlock%20(2010)%20-%20S03E02%20-%20The%20Sign%20of%20Three%20[Bluray-1080p][DTS%205.1][x264]-shortbrehd.mkv",
+            "quality": "1080p",
+            "size": "6.56 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sherlock (2010) - S03E02 - The Sign of Three [Bluray-1080p][DTS 5.1][x264]-shortbrehd.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h265]-HONE",
+            "url": "https://a.111477.xyz/tvs/Sherlock/Season%203/Sherlock%20(2010)%20-%20S03E02%20-%20The%20Sign%20of%20Three%20[WEBDL-1080p][EAC3%205.1][h265]-HONE.mkv",
+            "quality": "1080p",
+            "size": "2.95 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sherlock (2010) - S03E02 - The Sign of Three [WEBDL-1080p][EAC3 5.1][h265]-HONE.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Sherlock.S03E02.the.sign.of.three.1080i.BluRay.REMUX.AVC.DD5.1-NOGRP.mkv",
+            "url": "https://a.111477.xyz/tvs/Sherlock/Season%203/Sherlock.S03E02.the.sign.of.three.1080i.BluRay.REMUX.AVC.DD5.1-NOGRP.mkv",
+            "quality": "Unknown | REMUX",
+            "size": "20.06 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sherlock.S03E02.the.sign.of.three.1080i.BluRay.REMUX.AVC.DD5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:19885:s3e2",
+      "storedAt": 1761708892538,
+      "meta": {
+        "storedAt": 1761708892,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "19885",
+        "imdbId": "tt1475582",
+        "season": 3,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Sherlock S3E2 - 2. The Sign of Three",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/sherlock/s3/Sherlock.S03E02.The.Sign.of.Three.720p.BluRay.x264.750MB-HDHub4u.mkv",
+            "quality": "1080p",
+            "size": "86min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Sherlock S3E2 - 2. The Sign of Three",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/sherlock/s3/Sherlock.S03E02.The.Sign.of.Three.720p.BluRay.x264.750MB-HDHub4u.mkv",
+            "quality": "1080p",
+            "size": "86min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:19885:s3e3",
+      "storedAt": 1761708919633,
+      "meta": {
+        "storedAt": 1761708919,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "19885",
+        "imdbId": "tt1475582",
+        "season": 3,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "maDAQbnQ\n6.18 GB",
+            "url": "https://pixeldrain.dev/api/file/maDAQbnQ?download",
+            "quality": "1080p",
+            "size": "6.18 GB",
+            "fileName": "maDAQbnQ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:19885:s3e3",
+      "storedAt": 1761708919085,
+      "meta": {
+        "storedAt": 1761708919,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "19885",
+        "imdbId": "tt1475582",
+        "season": 3,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][x264]-OFT",
+            "url": "https://a.111477.xyz/tvs/Sherlock/Season%203/Sherlock%20(2010)%20-%20S03E03%20-%20His%20Last%20Vow%20[Bluray-1080p][AC3%205.1][x264]-OFT.mkv",
+            "quality": "1080p",
+            "size": "3.86 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sherlock (2010) - S03E03 - His Last Vow [Bluray-1080p][AC3 5.1][x264]-OFT.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DTS 5 1][x264]-shortbrehd",
+            "url": "https://a.111477.xyz/tvs/Sherlock/Season%203/Sherlock%20(2010)%20-%20S03E03%20-%20His%20Last%20Vow%20[Bluray-1080p][DTS%205.1][x264]-shortbrehd.mkv",
+            "quality": "1080p",
+            "size": "6.56 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sherlock (2010) - S03E03 - His Last Vow [Bluray-1080p][DTS 5.1][x264]-shortbrehd.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Sherlock.S03E03.his.last.vow.1080i.BluRay.REMUX.AVC.DD5.1-NOGRP.mkv",
+            "url": "https://a.111477.xyz/tvs/Sherlock/Season%203/Sherlock.S03E03.his.last.vow.1080i.BluRay.REMUX.AVC.DD5.1-NOGRP.mkv",
+            "quality": "Unknown | REMUX",
+            "size": "25.70 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sherlock.S03E03.his.last.vow.1080i.BluRay.REMUX.AVC.DD5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:19885:s3e3",
+      "storedAt": 1761708920988,
+      "meta": {
+        "storedAt": 1761708920,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "19885",
+        "imdbId": "tt1475582",
+        "season": 3,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Sherlock S3E3 - 3. His Last Vow",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/sherlock/s3/Sherlock.S03E03.His.Last.Vow.720p.BluRay.x264.800MB-HDHub4u.mkv",
+            "quality": "1080p",
+            "size": "89min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Sherlock S3E3 - 3. His Last Vow",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/sherlock/s3/Sherlock.S03E03.His.Last.Vow.720p.BluRay.x264.800MB-HDHub4u.mkv",
+            "quality": "1080p",
+            "size": "89min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:4057:s2e8",
+      "storedAt": 1761708859216,
+      "meta": {
+        "storedAt": 1761708859,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4057",
+        "imdbId": "tt0452046",
+        "season": 2,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/170396?token=b2307492b0fed4458042e757abb0b3fb&expires=1766892858&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:46952:s10e16",
+      "storedAt": 1761708816596,
+      "meta": {
+        "storedAt": 1761708816,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "46952",
+        "imdbId": "tt2741602",
+        "season": 10,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/205477?token=c98bdb725f404f004f029b341c6dae1b&expires=1766892816&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:62126:s2e1",
+      "storedAt": 1761708466696,
+      "meta": {
+        "storedAt": 1761708466,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "62126",
+        "imdbId": "tt3322314",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/321640?token=5146a0421d7a27193d17fd73efa8ac0f&expires=1766892466&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:71225:s2e2",
+      "storedAt": 1761708787956,
+      "meta": {
+        "storedAt": 1761708787,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "71225",
+        "imdbId": "tt5674718",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/183601?token=99d656e02aca771d4ebaeb68eeaa5ac0&expires=1766892787&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:73586:s4e6",
+      "storedAt": 1761708792837,
+      "meta": {
+        "storedAt": 1761708792,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "73586",
+        "imdbId": "tt4236770",
+        "season": 4,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/121364?token=01e1581c9833021da43240d0345cdaed&expires=1766892792&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:82856:s3e4",
+      "storedAt": 1761708557229,
+      "meta": {
+        "storedAt": 1761708557,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "82856",
+        "imdbId": "tt8111088",
+        "season": 3,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/237272?token=f6fb2714f556ad0eedbcdcea295f23ae&expires=1766892556&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:83631:s2e9",
+      "storedAt": 1761708858226,
+      "meta": {
+        "storedAt": 1761708858,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "83631",
+        "imdbId": "tt7908628",
+        "season": 2,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/196350?token=27ab6ec7bf4ec99f0e88a7957cb41d02&expires=1766892857&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:83867:s1e1",
+      "storedAt": 1761708595913,
+      "meta": {
+        "storedAt": 1761708595,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "83867",
+        "imdbId": "tt9253284",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/308260?token=f9d8e94647b151dc3371f6e250264d06&expires=1766892595&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-29T03:35:35.820Z",
+    "totalOriginalEntries": 27,
+    "newItemsInThisBatch": 27,
+    "format": "compact_v1"
+  }
+}
