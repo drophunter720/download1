@@ -1,0 +1,363 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:7839",
+      "storedAt": 1761826522612,
+      "meta": {
+        "storedAt": 1761826522,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "7839",
+        "imdbId": "tt0484877",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/269009?token=60736d0cb5929cfd78612a2ff13ea231&expires=1767010522&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:872585",
+      "storedAt": 1761826544175,
+      "meta": {
+        "storedAt": 1761826544,
+        "urlCount": 12,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "872585",
+        "imdbId": "tt15398776",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Oppenheimer 2023 IMAX 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English DTS-HDMA 5.1] x265 FraMeSToR-4kHdHub\n40.16 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Oppenheimer%202023%20IMAX%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%205.1%20+%20English%20DTS-HDMA%205.1]%20x265%20FraMeSToR-4kHdHub.mkv?token=1761826543",
+            "quality": "1080p",
+            "size": "40.16 GB",
+            "fileName": "Oppenheimer 2023 IMAX 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English DTS-HDMA 5.1] x265 FraMeSToR-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Oppenheimer 2023 IMAX 2160p UHD BluRay HDR 10bit HEVC [Hindi DDP 5.1 + English DTS-HDMA 5.1] x265 WIKi-4kHdHub\n35.64 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Oppenheimer%202023%20IMAX%202160p%20UHD%20BluRay%20HDR%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DTS-HDMA%205.1]%20x265%20WIKi-4kHdHub.mkv?token=1761826543",
+            "quality": "2160p",
+            "size": "35.64 GB",
+            "fileName": "Oppenheimer 2023 IMAX 2160p UHD BluRay HDR 10bit HEVC [Hindi DDP 5.1 + English DTS-HDMA 5.1] x265 WIKi-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Oppenheimer 2023 IMAX 1080p UHD BluRay HDR 10bit HEVC [Hindi DDP 5.1 + English DTS-HDMA 5.1] x265 c0kE-4kHdHub\n21.86 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Oppenheimer%202023%20IMAX%201080p%20UHD%20BluRay%20HDR%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DTS-HDMA%205.1]%20x265%20c0kE-4kHdHub.mkv?token=1761826543",
+            "quality": "1080p",
+            "size": "21.86 GB",
+            "fileName": "Oppenheimer 2023 IMAX 1080p UHD BluRay HDR 10bit HEVC [Hindi DDP 5.1 + English DTS-HDMA 5.1] x265 c0kE-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "NKWjbxca\n16.69 GB",
+            "url": "https://pixeldrain.dev/api/file/NKWjbxca?download",
+            "quality": "1080p",
+            "size": "16.69 GB",
+            "fileName": "NKWjbxca",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Oppenheimer 2023 IMAX 1080p BluRay x264 [Hindi DDP 5.1 + English DTS 5.1] ESub-WiKi-AK47-4kHdHub\n16.69 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Oppenheimer%202023%20IMAX%201080p%20BluRay%20x264%20[Hindi%20DDP%205.1%20+%20English%20DTS%205.1]%20ESub-WiKi-AK47-4kHdHub.mkv?token=1761826544",
+            "quality": "1080p",
+            "size": "16.69 GB",
+            "fileName": "Oppenheimer 2023 IMAX 1080p BluRay x264 [Hindi DDP 5.1 + English DTS 5.1] ESub-WiKi-AK47-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "i8CDk6gQ\n7.83 GB",
+            "url": "https://pixeldrain.dev/api/file/i8CDk6gQ?download",
+            "quality": "1080p",
+            "size": "7.83 GB",
+            "fileName": "i8CDk6gQ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Oppenheimer 2023 IMAX DS4K 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English DDP 5.1] ESub-RAGA-NmCT-4kHdHub\n7.83 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Oppenheimer%202023%20IMAX%20DS4K%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DDP%205.1]%20ESub-RAGA-NmCT-4kHdHub.mkv?token=1761826543",
+            "quality": "1080p",
+            "size": "7.83 GB",
+            "fileName": "Oppenheimer 2023 IMAX DS4K 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English DDP 5.1] ESub-RAGA-NmCT-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n7.83 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=iQ6r6pwzibDZ&n=255xmZxI&fn=Oppenheimer%20(2023)%20IMAX%20DS4K%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DDP%205.1]%20ESub-(RAGA-NmCT)-4kHdHub.mkv",
+            "quality": "1080p",
+            "size": "7.83 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "AmW1zQnn\n4.84 GB",
+            "url": "https://pixeldrain.dev/api/file/AmW1zQnn?download",
+            "quality": "2160p",
+            "size": "4.84 GB",
+            "fileName": "AmW1zQnn",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Oppenheimer 2023 IMAX 2160p 10bit HDR BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English DDP 5.1] ESub-RAGA-PSA-4kHdHub\n4.84 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Oppenheimer%202023%20IMAX%202160p%2010bit%20HDR%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DDP%205.1]%20ESub-RAGA-PSA-4kHdHub.mkv?token=1761826544",
+            "quality": "2160p",
+            "size": "4.84 GB",
+            "fileName": "Oppenheimer 2023 IMAX 2160p 10bit HDR BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English DDP 5.1] ESub-RAGA-PSA-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Lpxvxd64\n2.54 GB",
+            "url": "https://pixeldrain.dev/api/file/Lpxvxd64?download",
+            "quality": "1080p",
+            "size": "2.54 GB",
+            "fileName": "Lpxvxd64",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Oppenheimer 2023 IMAX 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 5.1 448kbps + English AAC 5.1] ESub RAGA-PSA-4kHdHub\n2.54 GB",
+            "url": "https://pub-87e11bd48998476a958ea2b299c4e0d3.r2.dev/Oppenheimer%202023%20IMAX%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20448kbps%20+%20English%20AAC%205.1]%20ESub%20RAGA-PSA-4kHdHub.mkv?token=1761826544",
+            "quality": "1080p",
+            "size": "2.54 GB",
+            "fileName": "Oppenheimer 2023 IMAX 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 5.1 448kbps + English AAC 5.1] ESub RAGA-PSA-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 12
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:120998:s1e6",
+      "storedAt": 1761826551375,
+      "meta": {
+        "storedAt": 1761826551,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "120998",
+        "imdbId": "tt14269590",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/395011?token=6006f54cad9deccb3b3f648f0fcd1c78&expires=1767010551&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1433:s17e18",
+      "storedAt": 1761826687523,
+      "meta": {
+        "storedAt": 1761826687,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1433",
+        "imdbId": "tt0397306",
+        "season": 17,
+        "episode": 18,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/194353?token=26a35649c37259ef5accfc59c255d231&expires=1767010687&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:37680:s7e8",
+      "storedAt": 1761826486521,
+      "meta": {
+        "storedAt": 1761826486,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "37680",
+        "imdbId": "tt1632701",
+        "season": 7,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/309593?token=846392586210b6a527a516226eb929dc&expires=1767010486&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:72750:s1e5",
+      "storedAt": 1761826401711,
+      "meta": {
+        "storedAt": 1761826401,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "72750",
+        "imdbId": "tt7016936",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/205937?token=9db8ea62f27e9922a67585f9dc5e91ea&expires=1767010401&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:93740:s1e1",
+      "storedAt": 1761826695799,
+      "meta": {
+        "storedAt": 1761826695,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "93740",
+        "imdbId": "tt0804484",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/270107?token=8faec4686c53f16f83b5f88eddf52f49&expires=1767010695&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-30T12:21:21.716Z",
+    "totalOriginalEntries": 7,
+    "newItemsInThisBatch": 7,
+    "format": "compact_v1"
+  }
+}
