@@ -1,0 +1,574 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:1114513",
+      "storedAt": 1761948467378,
+      "meta": {
+        "storedAt": 1761948467,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1114513",
+        "imdbId": "tt27534307",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/266970?token=5b4c6ba350d51984d62da166e0c57452&expires=1767132467&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:1314452",
+      "storedAt": 1761948412702,
+      "meta": {
+        "storedAt": 1761948412,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1314452",
+        "imdbId": "tt34207924",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/340372?token=11f24856b3bb37aa49df64afa765281b&expires=1767132412&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:550",
+      "storedAt": 1761948260024,
+      "meta": {
+        "storedAt": 1761948260,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "550",
+        "imdbId": "tt0137523",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Fight Club (1999)  [2160p x265 10bit FS100 Joy]\n6.83GB",
+            "url": "https://worker-snowy-cell-60ac.kaxidaj969.workers.dev/48b38bad4751322dfddfc9b1e97d8abe8c0757d9cca0d07426b7306880e86eb5176b42aaccf4f4a17190dc0bbec6ffe8b726668b913cabc88372bcbc4873ecf1e88a88fdd4e1c5990885b9f73327a0a6d15db3f9c72530af21c3032b2d6fe1964a1d0be066cc24950b6b1a8d6f6a894fb1c2f242af96ee0b1fbdc4d7dcef4daf3f588435bf0fd6adf16aee5a1d1929fd7cfabfc1f24eec22227e4de23107528a3b4cc17a1e9571315bc9a794ecd4bc36::7f89c834f04cfc830823c953980ef952/Fight Club (1999)  [2160p x265 10bit FS100 Joy].mkv",
+            "quality": "4K",
+            "size": "6.83GB",
+            "fileName": "Fight Club (1999)  [2160p x265 10bit FS100 Joy].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Fight Club (1999) 10th Anniversary Edition 1080p 10bit Bluray x265 HEVC [Org DD 2 0 Hindi + DD 5 1 English] MSubs ~ TombDoc\n4.55GB",
+            "url": "https://worker-jolly-mode-4f04.nejad26208.workers.dev/c3168593550b146334a4d370e5d9b1ce1b45dea3b909d26634173c743776943487ad336e65ecd1a9befb7f9b947be4d47db9c06c4d7f096b8dab7c18bed00a39953479cbd900f6ef75ddc4fd4e92fad3f74df5d97468074c19caaae57711617782f18c97cd74dc542e1b58364ef6c1828066cfe9dcd04d54b9bc8407a3b41b55dd94918d81147e05c6c7aa7f948167eef6ba93c106d702364aa3eae35d54e7b06ed7e5051686b3ee3bc9e89002e1d9e3::54c7d7f4e652c18e1e5cc1f77e216fc7/Fight Club (1999) 10th Anniversary Edition 1080p 10bit Bluray x265 HEVC [Org DD 2.0 Hindi  DD 5.1 English] MSubs  TombDoc.mkv",
+            "quality": "1080p | BluRay",
+            "size": "4.55GB",
+            "fileName": "Fight Club (1999) 10th Anniversary Edition 1080p 10bit Bluray x265 HEVC [Org DD 2.0 Hindi + DD 5.1 English] MSubs ~ TombDoc.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Fight Club (1999) REMASTERED 1080p BluRay x265 HEVC Dual Audio Hindi English AC3 - MeGUiL\n2.6GB",
+            "url": "https://worker-mute-bar-3077.kadoyag610.workers.dev/4da4acac4e3688d9625ae1bd4b7a69c8d7fc0fb53d657aa0bd9789814e9405b99c6550195b6c0897ffe78ea7579130948ea7eee13e36feb84d5ae5bcebcd9ef43c98f7b2bae8a02dc463e022ff3a3de2858ba6137932bfbc3f5d923434af31d730e5df5e6b44ad58674e2cf209741ef5ffbcd3616cf0b46ec48d21c2456385e28c078f9b24cf106d6c83b6b33733c1eca226a8ba75680d9440d43c3123a90ad62df961d77ebb3fb11a176bbb6a581b22::930861b49930c620370c7896e758a088/Fight Club (1999) REMASTERED 1080p BluRay x265 HEVC Dual Audio Hindi English AC3 - MeGUiL.mkv",
+            "quality": "1080p | BluRay",
+            "size": "2.6GB",
+            "fileName": "Fight Club (1999) REMASTERED 1080p BluRay x265 HEVC Dual Audio Hindi English AC3 - MeGUiL.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Fight Club (1999)  [1080p x265 q22 FS94 Joy]\n2.46GB",
+            "url": "https://worker-muddy-star-a7e2.jemel52347.workers.dev/04058488baf61d91fed7b38645f81d1b5b12e9bf996739fd2e4e957cf5646d92ae7f166fd3e11bba493b185a7c717344fd74fc3443046830d8aba633e6f20696cfb9f491774995f7084eac3750361ebdf625c0bc0fd4b1d8274aac11b4294bb7e0eb98388128d0683a46f388d64264f380c0c5d4da76e0ac8fd6e874f8c5a0b708d7bbb0a8259b4f8353cfa3f419173318364bdd1d5fb223432498829289f4e222ce1bd0d425d68bd42deba45ea1bd1b::142c6142a76137553979d9a16632266f/Fight Club (1999)  [1080p x265 q22 FS94 Joy].mkv",
+            "quality": "1080p",
+            "size": "2.46GB",
+            "fileName": "Fight Club (1999)  [1080p x265 q22 FS94 Joy].mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:978040",
+      "storedAt": 1761948147990,
+      "meta": {
+        "storedAt": 1761948147,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "978040",
+        "imdbId": "tt15150190",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/365530?token=dc2b744501667eb7bce136ea306a117d&expires=1767132147&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2290:s5e4",
+      "storedAt": 1761948411544,
+      "meta": {
+        "storedAt": 1761948411,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2290",
+        "imdbId": "tt0374455",
+        "season": 5,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/233759?token=601caac3e51c030058baa30d029c5651&expires=1767132411&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:254993:s1e1",
+      "storedAt": 1761948100626,
+      "meta": {
+        "storedAt": 1761948100,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "254993",
+        "imdbId": "tt33085317",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/360994?token=4070ac9c92eb783ba52dab595f6bd37d&expires=1767132100&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:278393:s1e1",
+      "storedAt": 1761948529923,
+      "meta": {
+        "storedAt": 1761948529,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "278393",
+        "imdbId": null,
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/353094?token=edfcebfd71ce5b6e4b8fe5db592b70c7&expires=1767132529&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:456:s24e3",
+      "storedAt": 1761948192733,
+      "meta": {
+        "storedAt": 1761948192,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "456",
+        "imdbId": "tt0096697",
+        "season": 24,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-BATV",
+            "url": "https://a.111477.xyz/tvs/The%20Simpsons/Season%2024/The%20Simpsons%20(1989)%20-%20S24E03%20-%20Adventures%20in%20Baby-Getting%20[WEBDL-1080p][EAC3%205.1][h264]-BATV.mkv",
+            "quality": "1080p | DV",
+            "size": "1.29 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Simpsons (1989) - S24E03 - Adventures in Baby-Getting [WEBDL-1080p][EAC3 5.1][h264]-BATV.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:456:s24e3",
+      "storedAt": 1761948204544,
+      "meta": {
+        "storedAt": 1761948204,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "456",
+        "imdbId": "tt0096697",
+        "season": 24,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Simpsons S24E3 - 3. Adventures in Baby-Getting",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/thesimpsons/s24/The Simpsons Season 24 English 1080p WEB-DL ESub [BollyFlix]/The Simpsons S24E03 English 1080p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "22min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Simpsons S24E3 - 3. Adventures in Baby-Getting",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/thesimpsons/s24/The Simpsons Season 24 English 1080p WEB-DL ESub [BollyFlix]/The Simpsons S24E03 English 1080p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "22min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:66732:s4e9",
+      "storedAt": 1761948235993,
+      "meta": {
+        "storedAt": 1761948235,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "66732",
+        "imdbId": "tt4574334",
+        "season": 4,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Y6CD5L5V\n7.71 GB",
+            "url": "https://pixeldrain.dev/api/file/Y6CD5L5V?download",
+            "quality": "1080p",
+            "size": "7.71 GB",
+            "fileName": "Y6CD5L5V",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Stranger.Things.S04E09.Chapter.Nine.The.Piggyback.1080p.NF.WEB-DL.HIN-Multi.DDP5.1.Atmos.HEVC-4KHDHub-001\n7.71 GB",
+            "url": "https://pub-862d99f378dc4833adf9ab4c0ae0012f.r2.dev/Stranger.Things.S04E09.Chapter.Nine.The.Piggyback.1080p.NF.WEB-DL.HIN-Multi.DDP5.1.Atmos.HEVC-4KHDHub-001.mkv",
+            "quality": "1080p",
+            "size": "7.71 GB",
+            "fileName": "Stranger.Things.S04E09.Chapter.Nine.The.Piggyback.1080p.NF.WEB-DL.HIN-Multi.DDP5.1.Atmos.HEVC-4KHDHub-001",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "sed29bE2\n8.18 GB",
+            "url": "https://pixeldrain.dev/api/file/sed29bE2?download",
+            "quality": "1080p",
+            "size": "8.18 GB",
+            "fileName": "sed29bE2",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "rAGkbdPu\n16.85 GB",
+            "url": "https://pixeldrain.dev/api/file/rAGkbdPu?download",
+            "quality": "2160p",
+            "size": "16.85 GB",
+            "fileName": "rAGkbdPu",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ReKJcPK2\n9.34 GB",
+            "url": "https://pixeldrain.dev/api/file/ReKJcPK2?download",
+            "quality": "1080p",
+            "size": "9.34 GB",
+            "fileName": "ReKJcPK2",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:66732:s4e9",
+      "storedAt": 1761948235092,
+      "meta": {
+        "storedAt": 1761948235,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "66732",
+        "imdbId": "tt4574334",
+        "season": 4,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DV][10bit][h265][EAC3 Atmos 5 1]-FLUX",
+            "url": "https://a.111477.xyz/tvs/Stranger%20Things/Season%204/Stranger%20Things%20(2016)%20-%20S04E09%20-%20Chapter%20Nine%20The%20Piggyback%20[WEBDL-2160p][DV][10bit][h265][EAC3%20Atmos%205.1]-FLUX.mkv",
+            "quality": "2160p | DV",
+            "size": "19.57 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Stranger Things (2016) - S04E09 - Chapter Nine The Piggyback [WEBDL-2160p][DV][10bit][h265][EAC3 Atmos 5.1]-FLUX.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][HEVC]-SKiZOiD",
+            "url": "https://a.111477.xyz/tvs/Stranger%20Things/Season%204/Stranger%20Things%20(2016)%20-%20S04E09%20-%20Chapter%20Nine%20The%20Piggyback%20[WEBDL-1080p][EAC3%20Atmos%205.1][HEVC]-SKiZOiD.mkv",
+            "quality": "1080p",
+            "size": "6.48 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Stranger Things (2016) - S04E09 - Chapter Nine The Piggyback [WEBDL-1080p][EAC3 Atmos 5.1][HEVC]-SKiZOiD.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:66732:s4e9",
+      "storedAt": 1761948238171,
+      "meta": {
+        "storedAt": 1761948238,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "66732",
+        "imdbId": "tt4574334",
+        "season": 4,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Stranger Things S4E9 - 9. Chapter Nine: The Piggyback",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/strangerthinngs/s4/Stranger.Things.S04E09.720p.x264.Hindi.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "142min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Stranger Things S4E9 - 9. Chapter Nine: The Piggyback",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/strangerthinngs/s4/Stranger.Things.S04E09.720p.x264.Hindi.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "142min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:66732:s4e9",
+      "storedAt": 1761948239681,
+      "meta": {
+        "storedAt": 1761948239,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "66732",
+        "imdbId": "tt4574334",
+        "season": 4,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Stranger Things S04E09 Chapter Nine The Piggyback 2160p NF WEB-DL DoVi HDR HEVC [Hindi DD 5 1- English DD 5 1] ESubs~(HonDo) SiC\n16.85GB",
+            "url": "https://worker-small-limit-b97a.pilef94677.workers.dev/e37dc9b3b5743b4d4c49862f6fb43887203d3486ec64e243adf2fa1814bbbf8df1171eb9cbbf7a7a2de10b669482811ad596c670c812664356316d580a164e4cc8c712b58f5b451d5b5ec42f4372391189d32a7ab09b356f6ddfc8daafb4ab01bf6342c3a5322d92133fcb3102446afd1282d47a4fba253637858452c2012e31f03133e9abe22f7463389884db083c8073a2d47969cabd9523c8fdd96c80a197ea8f895d8544ab0ad1c1e71746a80f6e::3a1b1d7f3f442d99dd47a019dcb4b2d6/Stranger.Things.S04E09.Chapter.Nine.The.Piggyback.2160p.NF.WEB-DL.DoVi.HDR.HEVC.[Hindi DD 5.1- English DD 5.1].ESubs(HonDo) SiC.mkv",
+            "quality": "4K | HDR | DV",
+            "size": "16.85GB",
+            "fileName": "Stranger.Things.S04E09.Chapter.Nine.The.Piggyback.2160p.NF.WEB-DL.DoVi.HDR.HEVC.[Hindi DD 5.1- English DD 5.1].ESubs~(HonDo) SiC.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Stranger Things S04E09 Chapter Nine The Piggyback HQ 1080p NF WEB DL HDR-10 HEVC Multi DDP5 1 Atmos 768k-DDH\n8.18GB",
+            "url": "https://worker-long-fire-b771.vayaxoj336.workers.dev/d79023dfc66704201ca468d0d1aa9fa1d4de43ef61c80da196967630e31a05bed5d9a825d0da388adb6b30680552feadd9993fb08190405bd9e237410e43bce73a777df7897ee6a235c6eb8032adbf6d03f3c2ca01c9803ed2b7c8d4aca40ef423b2d4de33d5b101a6f8d11f6bf6c41c50699449d880a4f829d967ad183905bac291392a436a9d6d467a3c27ee4b99ec3652123acc4434f033db55cc08064d80124408d80afd1e11eb5ce257622b2011::cf732b2763ea20bb38e1895992bd97af/Stranger.Things.S04E09.Chapter.Nine.The.Piggyback.HQ.1080p.NF.WEB.DL.HDR-10.HEVC.Multi.DDP5.1.Atmos.768k-DDH.mkv",
+            "quality": "1080p | HDR",
+            "size": "8.18GB",
+            "fileName": "Stranger.Things.S04E09.Chapter.Nine.The.Piggyback.HQ.1080p.NF.WEB.DL.HDR-10.HEVC.Multi.DDP5.1.Atmos.768k-DDH.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Stranger Things S04E09 2022 1080p NF WEB-DL AAC5 1 HEVC-Saon\n3.28GB",
+            "url": "https://worker-rapid-dew-b9dc.jonovo1574.workers.dev/a44a8ca8a338819aa5a7eef1976f0693be472291bccdda379871761ef4a49dbd3c6d57e06dadae2e5a98fe8ad96d7dca0fd6d569ce7038a0b0f58007b780f0532dc8f6fc6f1397892e3e09eeb1e1bd577d826fd9485d1a08f67c3092449087d49f13459fd99550f4dec00875954486d629d7ed8baf10bbf0c4f9cecba266b2becd381bada7b491d68693789c735762779b3fc42ad0824c945d1064ec6688cdfe30d179aa413fec47f04ccda73b4051b9::e292b474da2226dbeab9d4b25df492a3/Stranger.Things.S04E09.2022.1080p.NF.WEB-DL.AAC5.1.HEVC-Saon.mkv",
+            "quality": "1080p",
+            "size": "3.28GB",
+            "fileName": "Stranger.Things.S04E09.2022.1080p.NF.WEB-DL.AAC5.1.HEVC-Saon.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:93870:s2e2",
+      "storedAt": 1761948068168,
+      "meta": {
+        "storedAt": 1761948068,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "93870",
+        "imdbId": "tt10405370",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/399454?token=ed672d6d6cde906b36e562cfb45a8b1f&expires=1767132068&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-31T22:09:08.171Z",
+    "totalOriginalEntries": 14,
+    "newItemsInThisBatch": 14,
+    "format": "compact_v1"
+  }
+}
