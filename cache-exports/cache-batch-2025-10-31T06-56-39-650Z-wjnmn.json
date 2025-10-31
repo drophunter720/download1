@@ -1,0 +1,114 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:972433",
+      "storedAt": 1761893328919,
+      "meta": {
+        "storedAt": 1761893328,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "972433",
+        "imdbId": "tt20112600",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/225178?token=fc739d32a3261cdfff9abc526a91f111&expires=1767077328&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1416:s17e11",
+      "storedAt": 1761893688010,
+      "meta": {
+        "storedAt": 1761893688,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1416",
+        "imdbId": "tt0413573",
+        "season": 17,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][h264]-NovaRip",
+            "url": "https://a.111477.xyz/tvs/Grey",
+            "quality": "1080p",
+            "size": "2.97 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Grey&#x27;s Anatomy (2005) - S17E11 - Sorry Doesnt Always Make It Right 2 [WEBRip-1080p][AC3 5.1][h264]-NovaRip.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEB H264-STRONTiUM[rarbg]",
+            "url": "https://a.111477.xyz/tvs/Grey",
+            "quality": "1080p",
+            "size": "2.94 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Greys.Anatomy.S17E11.1080p.WEB.H264-STRONTiUM[rarbg].mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1416:s17e11",
+      "storedAt": 1761893689721,
+      "meta": {
+        "storedAt": 1761893689,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1416",
+        "imdbId": "tt0413573",
+        "season": 17,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Grey's Anatomy S17E11 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1693972247/s17/episode11.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-31T06:56:39.651Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
