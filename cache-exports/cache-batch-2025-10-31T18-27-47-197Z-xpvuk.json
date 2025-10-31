@@ -1,0 +1,783 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:1290190",
+      "storedAt": 1761935261617,
+      "meta": {
+        "storedAt": 1761935261,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1290190",
+        "imdbId": "tt33372494",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/471503?token=74630d49b4f06be68e23eb633d944797&expires=1767119261&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:202432:s1e6",
+      "storedAt": 1761935246403,
+      "meta": {
+        "storedAt": 1761935246,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "202432",
+        "imdbId": "tt15290226",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/415606?token=90b6f61be1f697a8e49efdacc9616ebf&expires=1767119246&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:249042:s1e4",
+      "storedAt": 1761934857258,
+      "meta": {
+        "storedAt": 1761934857,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "249042",
+        "imdbId": "tt31806037",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/295309?token=a0cf7a642ca2c32249ffefc0ffe12ea0&expires=1767118857&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:60574:s1e2",
+      "storedAt": 1761934900767,
+      "meta": {
+        "storedAt": 1761934900,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "60574",
+        "imdbId": "tt2442560",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "LgwCBNQU\n12.97 GB",
+            "url": "https://pixeldrain.dev/api/file/LgwCBNQU?download",
+            "quality": "1080p",
+            "size": "12.97 GB",
+            "fileName": "LgwCBNQU",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "D9zWFN9k\n8.91 GB",
+            "url": "https://pixeldrain.dev/api/file/D9zWFN9k?download",
+            "quality": "1080p",
+            "size": "8.91 GB",
+            "fileName": "D9zWFN9k",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "evPTL1o9\n1.95 GB",
+            "url": "https://pixeldrain.dev/api/file/evPTL1o9?download",
+            "quality": "1080p",
+            "size": "1.95 GB",
+            "fileName": "evPTL1o9",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Peaky Blinders S01E02 1080p BluRay 10bit HEVC [Hindi DD 2.0 + English DDP 2.0] x265 HONE-4kHDHUB.com\n1.95 GB",
+            "url": "https://fsl.anime4u.co/Peaky%20Blinders%20S01E02%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20DD%202.0%20+%20English%20DDP%202.0]%20x265%20HONE-4kHDHUB.com.mkv?token=1761934900",
+            "quality": "1080p",
+            "size": "1.95 GB",
+            "fileName": "Peaky Blinders S01E02 1080p BluRay 10bit HEVC [Hindi DD 2.0 + English DDP 2.0] x265 HONE-4kHDHUB.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "HGuQhQ8o\n17.34 GB",
+            "url": "https://pixeldrain.dev/api/file/HGuQhQ8o?download",
+            "quality": "2160p",
+            "size": "17.34 GB",
+            "fileName": "HGuQhQ8o",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:60574:s1e2",
+      "storedAt": 1761934899832,
+      "meta": {
+        "storedAt": 1761934899,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "60574",
+        "imdbId": "tt2442560",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 2 0][AVC]-FraMeSToR",
+            "url": "https://a.111477.xyz/tvs/Peaky%20Blinders/Season%201/Peaky%20Blinders%20(2013)%20-%20S01E02%20-%20Episode%202%20[Bluray-1080p%20Remux][DTS-HD%20MA%202.0][AVC]-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": "12.90 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Peaky Blinders (2013) - S01E02 - Episode 2 [Bluray-1080p Remux][DTS-HD MA 2.0][AVC]-FraMeSToR.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:60574:s1e2",
+      "storedAt": 1761934904358,
+      "meta": {
+        "storedAt": 1761934904,
+        "urlCount": 17,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "60574",
+        "imdbId": "tt2442560",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Peaky.Blinders.S01.E02.1080p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/hCvsWtN1?download",
+            "quality": "1080p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Peaky.Blinders.S01.E02.1080p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://fsl.anime4u.co/Peaky.Blinders.S01.E02.1080p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv?token=1761934902",
+            "quality": "1080p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Peaky.Blinders.S01.E02.1080p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lqX0sWUWxQWhoObHscdjlNPQ0GapR_p90kHh4fpyvKk1PDthGhaet7EhZ-FgQt8kLzR5IVX3OvOwk_sVhjzsHONvIDfv8Gp7EnBikPgx8w24JUdFQW_ylRBSCKJBX8CxQUvb-HnH-hH4DVTRXoQIzNywiU5XGyMK0vIKNNlKabDt4fHDTZkuX87SPxh_cE5Z11DFesAvWKBTrcjbzthPtT3Ely5tmIELlpKGWUqbC3RlbbQ8MhecKAVbtNIJKc-r3BVbU_",
+            "quality": "1080p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Peaky.Blinders.S01.E02.1080p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/M7vBAL1b?download",
+            "quality": "1080p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Peaky.Blinders.S01.E02.1080p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mgVc7RcMIhsFkT9JOjGWOOqiSBCOrp1pTkWQ8PhUTon35A4RHvz2NYc0YT_HcvpT5pPAfc7NZS77322gBhEBoksfUWLZjFHLdL6sFpwGL6_PqAheBAuHq9kb5f5x5p61OBABDy3I8b4ts9av0NGkKC74YIsS2kNdu-z1uyTxFn4j_pulNiAlzYVbXFAyphLUoh0AcGxw3eUVvB3Ue_UR19uwU9R42uF2QSI0ybcgks2_-FAh8",
+            "quality": "1080p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Peaky.Blinders.S01.E02.1080p.HQ.BluRay.Hindi.DD2.0-English.DD2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/xzXFpewK?download",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Peaky.Blinders.S01.E02.1080p.HQ.BluRay.Hindi.DD2.0-English.DD2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://fsl.anime4u.co/Peaky.Blinders.S01.E02.1080p.HQ.BluRay.Hindi.DD2.0-English.DD2.0.ESub.x264-HDHub4u.Ms.mkv?token=1761934902",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Peaky.Blinders.S01.E02.1080p.HQ.BluRay.Hindi.DD2.0-English.DD2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2n-LxAUXrCbY7uicDW-qFQNGWTpVnnB66rQ_DHuCw0qHe1dCWTe-742zrd4artYfpCxhhdLj-HUQ37em6Nkowr8a878d2Ve_ARE3vIVqe_klpaARFLxAYKHEKLrySHL4aZOIwwWVoYCUtUakiQHLZl2ntpTidnMDWd-Fy14ljIHVv9Dli_gZqq5QJ9rnUwEdoHrWOLkuEQxKPRH1HRRonW-fkIJeOnQIFquaDNPFO3falOdXo8pm_63D5nTaQwyraNMip6M",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Peaky.Blinders.S01.E02.720p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/LvSMGLB6?download",
+            "quality": "720p",
+            "size": "548.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Peaky.Blinders.S01.E02.720p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mr3iK_QIWpbp8t2q7GEIpH6SNddvfpMZFEbhi-NJ3CAcnqbtq19MKxD4kvOOUB-YsPQLM8WUD2OIky6UBGmXkiKawxb6KfrKNGkUtNp9hWqT7OYPo3jre9fUm7OnprqYTCOH3sYMFWN_sC4bjK1578InjaQ9t_15RInNOLD1GBaXsnkc-ihzNZXxtyeW0WxO0zULbcnOmBlS2CzGkD2CeuH7cH4a1kKRbp6ZT5gWxaw0FA2q6VZhd1N3kMhrlmSe6_VxGn",
+            "quality": "720p",
+            "size": "548.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Peaky.Blinders.S01.E02.720p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mSoxgoyhGEtz9LSgJaaaEWiTlKScnoPN1QN4VmneA24hYQFINCKYXAbkNrgKTRHoOESksnq7K4AzHCusJGqTc9BmR8lVVCqn1SkzYvWkB8U2vYZsI5g3XKHeugImPRy1rfvB8WakF3QUI6SV5JEVLFZTtvYdmelRlLNW4-vk2qyti2B-94ge8X91v7zpKrnYBsu_1dlseQJ0j9ZU-yWZ3ELp9y8cK2OoG6_HHT0EDHOZMJfbP_iNSnlcQn1Kn-XYhwxLBQ",
+            "quality": "720p",
+            "size": "548.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Peaky.Blinders.S01.E02.480p.BluRay.Hindi.ORG-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/BWprswQW?download",
+            "quality": "480p",
+            "size": "229.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Peaky.Blinders.S01.E02.480p.BluRay.Hindi.ORG-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://fsl.anime4u.co/Peaky.Blinders.S01.E02.480p.BluRay.Hindi.ORG-English.ESub.x264-HDHub4u.Ms.mkv?token=1761934902",
+            "quality": "480p",
+            "size": "229.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Peaky.Blinders.S01.E02.480p.BluRay.Hindi.ORG-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nQBiaqw0yFIR3zVOHM61jsP330JhOcV_KZeF9X6c_PzGSHXnxujS8mEm9wNHij1cL1mCIHVUIZj01mBfvaHh85qEw_XUqsrgzdzKW9Lu-xZ0-TY6ADCyD-19SKBuWDwPOsHHvF36RPPlbyOg26fC3RqbQ5Z4W6PC-BEfsIrMe-BdukkGDO_M1ondCub7YtvdT8JEYCMc-xLxj0tRqFUmlz-L0u8kegn3yEUv8_Pg_tIAd-21CU06K6lKCtOoW3M8XnZvR-",
+            "quality": "480p",
+            "size": "229.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Peaky.Blinders.S01.E02.480p.BluRay.Hindi.ORG-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/YpwiR4Tt?download",
+            "quality": "480p",
+            "size": "229.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Peaky.Blinders.S01.E02.480p.BluRay.Hindi.ORG-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://fsl.anime4u.co/Peaky.Blinders.S01.E02.480p.BluRay.Hindi.ORG-English.ESub.x264-HDHub4u.Ms.mkv?token=1761934901",
+            "quality": "480p",
+            "size": "229.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Peaky.Blinders.S01.E02.480p.BluRay.Hindi.ORG-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mvS9I8J9FPuV83fStSrnyKOot2c1M7NdOMh7TxB0S6iaJoO2ZRBuz0ugw1O_atnZh377rfMNfvZ03lzW-CXMJdcGll7_t-lq2z7SoG8NvZdbNxn-N5pja9B_I5n1oaPnXJXn0fv03wa-Hn_7X-cQBmH_aSITT5UmAe0kTpnWa5aR9KQtaNKPFtcK9TzFClZpx330du4WwqlQyccbqLk_TKFDztwKTJfeOV4rUCWAkJe6dzBAOtfh7ubMLAvnNH4MkAiKUE",
+            "quality": "480p",
+            "size": "229.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 17
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:60574:s1e2",
+      "storedAt": 1761934904156,
+      "meta": {
+        "storedAt": 1761934904,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "60574",
+        "imdbId": "tt2442560",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Peaky Blinders S1E2 - 2. Episode 2",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/pb/s1/Peaky.Blinders.S01E02.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "58min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Peaky Blinders S1E2 - 2. Episode 2",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/pb/s1/Peaky.Blinders.S01E02.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "58min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:60574:s1e2",
+      "storedAt": 1761934904362,
+      "meta": {
+        "storedAt": 1761934904,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "60574",
+        "imdbId": "tt2442560",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Peaky Blinders S01E02 1080p BluRay [Hindi DDP 2 0 + English FLAC 2 0] x264 (DON-UHDMovies)\n8.92GB",
+            "url": "https://worker-silent-shadow-953c.xegol92519.workers.dev/1d371708b07c7402095b7b4dc621097ce19bdf638624a27b4004c4b83eb41669d68fcc356cfc0ba938eebe6e7da2865568fd67a9ba7b273567d5b9169ba3252f647bbeaa3851736258d61434b10ff4b089e6e09b7ec64c248fee5c96e3c5331d16b57a3b40abad09196d6ab732fbf88be223acc8218f7d55c3838281f814de2c7aa831a05ace229f5d5430a815658212043b3306624ec39d1bcf4214d5d935b0ea0e471891b9eb6143dcb46b1d2c87fa::4e8f5360b5d7ce0df5d18cac5a37aa8f/Peaky Blinders S01E02 1080p BluRay [Hindi DDP 2.0  English FLAC 2.0] x264 (DON-UHDMovies).mkv",
+            "quality": "1080p | BluRay",
+            "size": "8.92GB",
+            "fileName": "Peaky Blinders S01E02 1080p BluRay [Hindi DDP 2.0 + English FLAC 2.0] x264 (DON-UHDMovies).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Peaky Blinders S01E02 1080p BluRay 10Bit [Hindi DDP 2 0 + English DDP 5 1] x265 (Ghost-UHDMovies)\n2.82GB",
+            "url": "https://worker-late-pond-8f28.mawewi1103.workers.dev/2a80f6fc49e0cd7b3869f23e5ebf4d1a84f05511537a7ecdaae1c8a6135bd8be9664bb5807453a3df7410a58ff79f27cd5a3fbf685081cfbc381c32143e338d6d5841600a1f0a313894504b728bb66a91946c794473396d54c66c6aeeab70cc52f31445df6b45f61fa042b016a7c1710c7ff9acdb017f17acaf95b1f318e0f0e237ca3a0cc02cf90fca3c1470158c16cdf4b2d8918748cc3990c179383fd2e0f55bec0db08a2ae1e8d322d0e9c0a24d9::4a75a1b0719d4ccd15867467dac4908d/Peaky Blinders S01E02 1080p BluRay 10Bit [Hindi DDP 2.0  English DDP 5.1] x265 (Ghost-UHDMovies).mkv",
+            "quality": "1080p | BluRay",
+            "size": "2.82GB",
+            "fileName": "Peaky Blinders S01E02 1080p BluRay 10Bit [Hindi DDP 2.0 + English DDP 5.1] x265 (Ghost-UHDMovies).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:60574:s2e2",
+      "storedAt": 1761935210543,
+      "meta": {
+        "storedAt": 1761935210,
+        "urlCount": 12,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "60574",
+        "imdbId": "tt2442560",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Peaky.Blinders.S02.E02.1080p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/rSbiTGtN?download",
+            "quality": "1080p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Peaky.Blinders.S02.E02.1080p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kT2DZUZxbycqD9IkFpbTcXbHLyCDFKg5E4fw81Mz6KAc7Tlx21sMOzxn8kFPn7jCu7Y-EoCHvmrAC4u2j-6HH7ymbngW0_4TUDQ0hpIU-3FGpDfDAgWYZz3Nh8JOibqcFE1haNzfLCmximGL8DUoRpAJsUzmVHyFsyG7Vlh1Xq-praNW-AjxWuk-95yAFe46nUvCxNeeWOpuTz0ciLElfEUJuAnaaWdVFXR7bwCvDK_sFoVns",
+            "quality": "1080p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Peaky.Blinders.S02.E02.1080p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nJcGfdN2itqWoGr1hTXg1D1AHgYrTpMV5uZ9YagBYDhTe9QipH9MxrgXhqxmxhE4EF30HiMWp1T55uS38uk_d64Mb_Kte97julQrvmt-B64zBuLEePBDQWV2aLH-q5Az-fkRy1nm9N6yRWhc7f2WUWwGvjsNfUeERMvkRHiDUJtiAjn_KOKc5Yd7aQKJArEfSgnZaIsLjIiBvB5VFqaT1KHgAWQJEBmRWdI9CKY-GbWLmCN6MFtwAA-94kbdYZf045z24S",
+            "quality": "1080p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Peaky.Blinders.S02.E02.1080p.HQ.BluRay.Hindi.DD2.0-English.DD2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/tNpj1s4C?download",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Peaky.Blinders.S02.E02.1080p.HQ.BluRay.Hindi.DD2.0-English.DD2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://fsl.anime4u.co/Peaky.Blinders.S02.E02.1080p.HQ.BluRay.Hindi.DD2.0-English.DD2.0.ESub.x264-HDHub4u.Ms.mkv?token=1761933693",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Peaky.Blinders.S02.E02.1080p.HQ.BluRay.Hindi.DD2.0-English.DD2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2m2LgyraL_5jJxjyEE8EWIPNzikgF6DQrf5gPozc_t6tEt24VuepBYAZkfPN1v1IXxWseC2pHwEbKO9h6kcdFPJEjKmPZKBr17dGUx4HbKrrTiSnHrW9GhIvMcnqGUjB2Dt2he7EmcI3mOkxKoJxyUGNNaDMw7prevQeTCT_df2SXYrW9R8pZNrVAOnEZU8ySRhPkR2U2zE7m2YluOfzZ5PSDsSTEKpahwiv6nlPB4GaXKMGx8byPL1RYt1m4nmHF6diCXr",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Peaky.Blinders.S02.E02.720p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/A4QWDKpR?download",
+            "quality": "720p",
+            "size": "545.7 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Peaky.Blinders.S02.E02.720p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kxIG2k7jhqk9b_oAmwDhE05NPImlGN2zqCOanj-WyD1Hq4toeZPOw-n0NzFifKQmDGrbOpI46K7XHIVPnDh5a_Y1iwlTFNN14mpQHlNYxz412qkWsuwlzSn5WLgAhmfCYVJYFQLkqQIB86A-g3YXdfiUrhg_mJnoKEgk9Rwh46u4YUMxPCRTJP05xWYWTLTjlKawMitOGy9DF4nNdRPSkCpOwT-YyR-42c4GNOWNSqRJ_tddI",
+            "quality": "720p",
+            "size": "545.7 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Peaky.Blinders.S02.E02.720p.BluRay.Hindi.2.0-English.2.0.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nUD1UZNtqXEaPD1D4wbYB0Px5cAA-_C0DNX5fbfHo668X3Zr4Kh2AWhyMNeU08LVOnaBervQiilFjCiRocLGl-OuT95UyjbOcxI6waHfb9jHt7FDwS_J7jKOEWmS7Wnc7OqdOkwILeGSFM_0-Sh4dXmDpINg-GSUGIWsdsigwKmGVqP_RZt70g3xBPsewAHc7lSHvRcF5j9Y-gvAx8yOTH8m9prib16jZxu1-PbeMTSDCQ35g",
+            "quality": "720p",
+            "size": "545.7 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Peaky.Blinders.S02.E02.480p.BluRay.Hindi.ORG-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/aHLQV6as?download",
+            "quality": "480p",
+            "size": "229.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Peaky.Blinders.S02.E02.480p.BluRay.Hindi.ORG-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://fsl.anime4u.co/Peaky.Blinders.S02.E02.480p.BluRay.Hindi.ORG-English.ESub.x264-HDHub4u.Ms.mkv?token=1761933693",
+            "quality": "480p",
+            "size": "229.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Peaky.Blinders.S02.E02.480p.BluRay.Hindi.ORG-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mWV_f7PniESXdzQtD1sbo-gn-HOsMh2ek2TArb1uNAyjV5cCN4-txiqowv55Pnj224LtFh8jXhUjkQNTlV5ZVtdys0wXGsbRf_bZuM4g_ZnzzweweX1YGRTZh7me5143m0sozhCe6z3ZCNUXUJVfgtDFLfLSZoF_l39OetGwzJdUBGkjF-qmc9wc70iE-HeXVXPwTdbsxA7hOHSc9svSBYeFVC33-eSwsT8S_f9LyeqMHimzs",
+            "quality": "480p",
+            "size": "229.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 12
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:71912:s4e8",
+      "storedAt": 1761934787193,
+      "meta": {
+        "storedAt": 1761934787,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "71912",
+        "imdbId": "tt5180504",
+        "season": 4,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/468441?token=c707dad672c63f98118ee8ddeecf4cf7&expires=1767118787&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:96659:s2e8",
+      "storedAt": 1761934900998,
+      "meta": {
+        "storedAt": 1761934900,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "96659",
+        "imdbId": "tt11465278",
+        "season": 2,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/129614?token=974316e6f349b0301545b3eb9106a84e&expires=1767118900&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-31T18:27:47.198Z",
+    "totalOriginalEntries": 11,
+    "newItemsInThisBatch": 11,
+    "format": "compact_v1"
+  }
+}
