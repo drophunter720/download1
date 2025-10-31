@@ -1,0 +1,101 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:movie:14117",
+      "storedAt": 1761896401700,
+      "meta": {
+        "storedAt": 1761896401,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "14117",
+        "imdbId": "tt0045591",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BDRip DTS x265 10bit-MarkII",
+            "url": "https://a.111477.xyz/movies/Calamity%20Jane%20(1953)/Calamity.Jane.1953.1080p.BDRip.DTS.x265.10bit-MarkII.mkv",
+            "quality": "1080p",
+            "size": "2.16 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Calamity.Jane.1953.1080p.BDRip.DTS.x265.10bit-MarkII.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:372343",
+      "storedAt": 1761896326118,
+      "meta": {
+        "storedAt": 1761896326,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "372343",
+        "imdbId": "tt1758810",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/234724?token=7f8abd80c5256e59995242e5c6d9286b&expires=1767080325&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:94686:s5e2",
+      "storedAt": 1761896265367,
+      "meta": {
+        "storedAt": 1761896265,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "94686",
+        "imdbId": "tt10752770",
+        "season": 5,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/467839?token=3cb0a08bae37ec13d5596d1db333a1f5&expires=1767080265&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-10-31T07:45:45.372Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
