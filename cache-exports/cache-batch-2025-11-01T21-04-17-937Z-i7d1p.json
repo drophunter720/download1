@@ -1,0 +1,401 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:462",
+      "storedAt": 1762030698511,
+      "meta": {
+        "storedAt": 1762030698,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "462",
+        "imdbId": "tt0195685",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/256320?token=5c31ed30f52b76c3a6b4d2a9ea90bc8e&expires=1767214698&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:32895:s1e9",
+      "storedAt": 1762030771060,
+      "meta": {
+        "storedAt": 1762030771,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "32895",
+        "imdbId": "tt1551632",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/317413?token=9f591b3287ac738a5b9bfdd6770b40b7&expires=1767214770&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:44217:s2e1",
+      "storedAt": 1762030935432,
+      "meta": {
+        "storedAt": 1762030935,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "44217",
+        "imdbId": "tt2306299",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Yk2Jf19U\n7.4 GB",
+            "url": "https://pixeldrain.dev/api/file/Yk2Jf19U?download",
+            "quality": "1080p",
+            "size": "7.4 GB",
+            "fileName": "Yk2Jf19U",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Vikings S02E01 1080p BluRay REMUX AVC [Hindi DDP 2.0 + English DTS-HD MA 5.1] x264 FraMeSToR-LUMiX 4kHDHub.com\n7.4 GB",
+            "url": "https://fsl.anime4u.co/Vikings%20S02E01%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%202.0%20+%20English%20DTS-HD%20MA%205.1]%20x264%20FraMeSToR-LUMiX%204kHDHub.com.mkv?token=1762030935",
+            "quality": "1080p",
+            "size": "7.4 GB",
+            "fileName": "Vikings S02E01 1080p BluRay REMUX AVC [Hindi DDP 2.0 + English DTS-HD MA 5.1] x264 FraMeSToR-LUMiX 4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "sqeJCqTE\n5.47 GB",
+            "url": "https://pixeldrain.dev/api/file/sqeJCqTE?download",
+            "quality": "1080p",
+            "size": "5.47 GB",
+            "fileName": "sqeJCqTE",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Vikings S02E01 1080p BluRay [Hindi DDP 2.0 + English DD 5.1] x264 EbP-LUMiX 4kHDHub.com\n5.47 GB",
+            "url": "https://fsl.anime4u.co/Vikings%20S02E01%201080p%20BluRay%20[Hindi%20DDP%202.0%20+%20English%20DD%205.1]%20x264%20EbP-LUMiX%204kHDHub.com.mkv?token=1762030935",
+            "quality": "1080p",
+            "size": "5.47 GB",
+            "fileName": "Vikings S02E01 1080p BluRay [Hindi DDP 2.0 + English DD 5.1] x264 EbP-LUMiX 4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "35LhPLM6\n1.6 GB",
+            "url": "https://pixeldrain.dev/api/file/35LhPLM6?download",
+            "quality": "1080p",
+            "size": "1.6 GB",
+            "fileName": "35LhPLM6",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Vikings S02E01 1080p BluRay 10bit HEVC [Hindi DDP 2.0 + English AAC5.1] x265 Vyndros-LUMiX 4kHDHub.com\n1.6 GB",
+            "url": "https://fsl.anime4u.co/Vikings%20S02E01%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20DDP%202.0%20+%20English%20AAC5.1]%20x265%20Vyndros-LUMiX%204kHDHub.com.mkv?token=1762030935",
+            "quality": "1080p",
+            "size": "1.6 GB",
+            "fileName": "Vikings S02E01 1080p BluRay 10bit HEVC [Hindi DDP 2.0 + English AAC5.1] x265 Vyndros-LUMiX 4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:44217:s2e1",
+      "storedAt": 1762030934096,
+      "meta": {
+        "storedAt": 1762030934,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "44217",
+        "imdbId": "tt2306299",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Vikings/Season%202/Vikings%20(2013)%20-%20S02E01%20-%20Brothers%20War%20[Bluray-1080p%20Remux][DTS-HD%20MA%205.1][AVC]-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "7.38 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Vikings (2013) - S02E01 - Brothers War [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-NOGRP.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:44217:s2e1",
+      "storedAt": 1762030937562,
+      "meta": {
+        "storedAt": 1762030937,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "44217",
+        "imdbId": "tt2306299",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Vikings S2E1 - 1. Brother's War",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/vikings/s2/Vikings.S02.E01.Dual.Audio.Hindi.English.720p.x264.AAC.ESub.mkv",
+            "quality": "1080p",
+            "size": "48min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Vikings S2E1 - 1. Brother's War",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/vikings/s2/Vikings.S02.E01.Dual.Audio.Hindi.English.720p.x264.AAC.ESub.mkv",
+            "quality": "1080p",
+            "size": "48min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:62476:s1e4",
+      "storedAt": 1762030577935,
+      "meta": {
+        "storedAt": 1762030577,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "62476",
+        "imdbId": "tt4063800",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/178077?token=4a247b0126f34f8dd598c89bb9aa38db&expires=1767214577&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:63404:s1e1",
+      "storedAt": 1762030899763,
+      "meta": {
+        "storedAt": 1762030899,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "63404",
+        "imdbId": "tt4934214",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/470869?token=54157531aeab3c6b577b4653153961e8&expires=1767214899&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:66203:s2e40",
+      "storedAt": 1762031040161,
+      "meta": {
+        "storedAt": 1762031040,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "66203",
+        "imdbId": "tt5189554",
+        "season": 2,
+        "episode": 40,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/227099?token=5007de3db51af6db0f15373196e8e138&expires=1767215039&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:71790:s7e6",
+      "storedAt": 1762030714725,
+      "meta": {
+        "storedAt": 1762030714,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "71790",
+        "imdbId": "tt6111130",
+        "season": 7,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/275366?token=b20a5210e69652fb0c84d1ffcc287fea&expires=1767214714&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:78173:s3e2",
+      "storedAt": 1762030682532,
+      "meta": {
+        "storedAt": 1762030682,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "78173",
+        "imdbId": "tt4816058",
+        "season": 3,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/168148?token=8e133ba3a1aefd00002ec7b7f69db658&expires=1767214682&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-01T21:04:17.937Z",
+    "totalOriginalEntries": 10,
+    "newItemsInThisBatch": 10,
+    "format": "compact_v1"
+  }
+}
