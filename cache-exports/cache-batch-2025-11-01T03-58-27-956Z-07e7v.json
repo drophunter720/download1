@@ -1,0 +1,460 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:843388",
+      "storedAt": 1761969093546,
+      "meta": {
+        "storedAt": 1761969093,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "843388",
+        "imdbId": "tt14880612",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/433955?token=5f253e3c2f6fa3a1f98c7644a5030443&expires=1767153092&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:115004:s1e2",
+      "storedAt": 1761969088084,
+      "meta": {
+        "storedAt": 1761969088,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "115004",
+        "imdbId": "tt10155688",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/101895?token=a64ea09b7ec8a34a4f6e26d02b0cf579&expires=1767153087&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:256317:s1e9",
+      "storedAt": 1761969074488,
+      "meta": {
+        "storedAt": 1761969074,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "256317",
+        "imdbId": "tt32559610",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "V8XmJmHv\n4.75 GB",
+            "url": "https://pixeldrain.dev/api/file/V8XmJmHv?download",
+            "quality": "2160p",
+            "size": "4.75 GB",
+            "fileName": "V8XmJmHv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "zkh8LywT\n4.79 GB",
+            "url": "https://pixeldrain.dev/api/file/zkh8LywT?download",
+            "quality": "2160p",
+            "size": "4.79 GB",
+            "fileName": "zkh8LywT",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "1ns8cTV9\n2.71 GB",
+            "url": "https://pixeldrain.dev/api/file/1ns8cTV9?download",
+            "quality": "1080p",
+            "size": "2.71 GB",
+            "fileName": "1ns8cTV9",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "uaCyvFMe\n1.16 GB",
+            "url": "https://pixeldrain.dev/api/file/uaCyvFMe?download",
+            "quality": "1080p",
+            "size": "1.16 GB",
+            "fileName": "uaCyvFMe",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:256317:s1e9",
+      "storedAt": 1761969081727,
+      "meta": {
+        "storedAt": 1761969081,
+        "urlCount": 13,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "256317",
+        "imdbId": "tt32559610",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Countdown.S01E09.10-33.2160p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "url": "https://pixeldrain.dev/api/file/V8XmJmHv?download",
+            "quality": "4K",
+            "size": "4.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Countdown.S01E09.10-33.2160p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2ma8ODbkgWq9T8B67H7-GNWDfAgTKv4YFwebWApdoQ9tazUo21MAbq94yBM_6htDuQnX--NG7WENo5vvwpPubCVSUC9BMROk278buji938zhTZZpCP7ohERorNPP5jksOG-hdtbQfRZDQwy21C8_ci5swpMqwrmHTsVRotyTh78JQtMN7ib6sgwG6FgE_PaTnQHcvYCCpyh0XlZ-J_wGplScQ3PDoKjOIm7bzP1mknSugjewPPXYgPYa4aW35dQvfmQ6R1z",
+            "quality": "4K",
+            "size": "4.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Countdown.S01E09.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/z72rqTPi?download",
+            "quality": "1080p",
+            "size": "963.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Countdown.S01E09.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://fsl.anime4u.co/Countdown.S01E09.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv?token=1761969078",
+            "quality": "1080p",
+            "size": "963.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Countdown.S01E09.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lT_Bq63B4Sy92GcGG0UcGXhS2uscEod-mbhKZjJxuvPm88XhC6-vw8UZUAtXLaaGlzyMsuWsxo8gIbXOYrTy6uACySGdX7k-iRMO4Lk9XJoo5sg678elMxwBx6_bfxaaQme97e_pX2uDnGPd_UGDT3dqDMvOG-Rtq667IjhfzLTQly36xZoE3OtCiKb06lpliuaoqWbrjmp9apr-bu9NKmInZGfT1TE_l4ELzQ_sYUGisY9HQ",
+            "quality": "1080p",
+            "size": "963.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Countdown.S01E09.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/gVLk4gmy?download",
+            "quality": "720p",
+            "size": "422.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Countdown.S01E09.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://fsl.anime4u.co/Countdown.S01E09.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv?token=1761969078",
+            "quality": "720p",
+            "size": "422.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Countdown.S01E09.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lXSxBghyop5R7T_guDuaYecTABShRNWRKs7NL19GxxV4pYwyInvO8lI_Ohei3_cpe2GlTZl7Xl2_piqxpiZsapDuy6H-O3Qbb009fPDqd9wByE96HzDcygh9_S-scFxK0JDT5uehHAKQapUWgKn4U7chJBKjKef_hZU6PCJiJ-FSPS4RQsm5gnqe3XXJNN7CzECWECW0sL0_8JcfLO-rvUl1Q759Tbq6lMtnX0tL42jqESpj6IXA8EfmPPdfV1yoZgn7mv",
+            "quality": "720p",
+            "size": "422.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Countdown.S01E09.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nAEvDy9Yr4DYrCmUd1ccq_yC6v9rfCQrdxmMpilASXRznYOve4-nI2LUGrcm-e0ISlS2n3IMqpHAmOVzLGOixlRkHjXnASXxu9F-amg1X2JY0xPhYlbCh7oeeWJ_bbahRpK_SnyuV8U0C00JhqzCMhycx82CnBUjFoHK5zsZSYSWFWWn_iINeUWZcjwQ9ijkQwZHqeZU1N75wRJYSrg-mYFDJHO7RcOypzKjWEKCleOpDLKPg",
+            "quality": "720p",
+            "size": "422.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Countdown.S01E09.480p.WEB-DL.Hindi-English.ESub.x264-HDHub4u.Ms.mkv.mkv",
+            "url": "https://pixeldrain.dev/api/file/xEBHPonk?download",
+            "quality": "480p",
+            "size": "169.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Countdown.S01E09.480p.WEB-DL.Hindi-English.ESub.x264-HDHub4u.Ms.mkv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mm_6whAitP2Dp6vP-ziB74pWJ9p1n304cM7PjCanG_F3jUgwH9bOsp5iDfoTl7lU1P3t-Q1LAZQadRK7x9O1vZAZ-7fZiOgbrDwd-mnRRWAL2QIhDue_rCf1vsYZ2X_4cenIyp9frBFpYwRb3t7Spvl0a8hezpcXHMFTJelJ5L1eHXeJTwLBjvEYNpu68RVLr2X2uRrkIb5mJp1pARbDANaA9fitPzq8Qw_zFhj3FP0_DITBw",
+            "quality": "480p",
+            "size": "169.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Countdown.S01E09.480p.WEB-DL.Hindi-English.ESub.x264-HDHub4u.Ms.mkv.mkv",
+            "url": "https://pixeldrain.dev/api/file/2gQ5m27X?download",
+            "quality": "480p",
+            "size": "169.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Countdown.S01E09.480p.WEB-DL.Hindi-English.ESub.x264-HDHub4u.Ms.mkv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nC8ukcDAagyhYRqNX0g7yaDn2YV_LB09qnZxgdi8J2pzXjapnsD6aGGui_u7CRIwbmAJKAyVmwPFpawXYlpK3JkHVwNDdxGNNycVcVId-Ims5PymMy8pfP6lBijvyQoFWdBJ--BuQJz9bRRAVdyr1WqhD5aEvZbvpTGvNrOHQk3XJ8BTYn_MKQtLoi2iRg_U2x_OCOEl4FWH36tIcERfF7J32mtCws9FVLcu0VoqTA7Lh6d5V69awh8E2BRQmj9FdpqGqJ",
+            "quality": "480p",
+            "size": "169.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 13
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:256317:s1e9",
+      "storedAt": 1761969076212,
+      "meta": {
+        "storedAt": 1761969076,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "256317",
+        "imdbId": "tt32559610",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Countdown: Taylor vs. Serrano S1E9 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1755962503/s1/episode9.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:34307:s3e2",
+      "storedAt": 1761969328400,
+      "meta": {
+        "storedAt": 1761969328,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "34307",
+        "imdbId": "tt1586680",
+        "season": 3,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/397077?token=39a95e665774bf1299bcd9807bfaed65&expires=1767153328&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:74204:s7e2",
+      "storedAt": 1761969067095,
+      "meta": {
+        "storedAt": 1761969067,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "74204",
+        "imdbId": "tt6524350",
+        "season": 7,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/273008?token=42cfa2ebee128ecff54c76539234aa28&expires=1767153066&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:84007:s6e3",
+      "storedAt": 1761969470473,
+      "meta": {
+        "storedAt": 1761969470,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "84007",
+        "imdbId": "tt7146326",
+        "season": 6,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/471470?token=1a21b528876d1b32b42e8893b290e296&expires=1767153470&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-01T03:58:27.956Z",
+    "totalOriginalEntries": 8,
+    "newItemsInThisBatch": 8,
+    "format": "compact_v1"
+  }
+}
