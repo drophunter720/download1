@@ -1,0 +1,577 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:82992",
+      "storedAt": 1761986914007,
+      "meta": {
+        "storedAt": 1761986914,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "82992",
+        "imdbId": "tt1905041",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/146656?token=2bd8c4e90b7dfa2e2fc0d24522e17a51&expires=1767170913&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:32798:s2e7",
+      "storedAt": 1761986451729,
+      "meta": {
+        "storedAt": 1761986451,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "32798",
+        "imdbId": "tt1600194",
+        "season": 2,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/239697?token=ba96a8dcabe9dfdbb44fbc9cd32137f6&expires=1767170451&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:34524:s3e7",
+      "storedAt": 1761986785961,
+      "meta": {
+        "storedAt": 1761986785,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "34524",
+        "imdbId": "tt1567432",
+        "season": 3,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/89534?token=8e9e58cc1a3141e0e050a75f6008bdd0&expires=1767170785&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:60574:s3e1",
+      "storedAt": 1761986794282,
+      "meta": {
+        "storedAt": 1761986794,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "60574",
+        "imdbId": "tt2442560",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "26QQoEgP\n11.63 GB",
+            "url": "https://pixeldrain.dev/api/file/26QQoEgP?download",
+            "quality": "1080p",
+            "size": "11.63 GB",
+            "fileName": "26QQoEgP",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Peaky Blinders 2013 S03E01 1080p BluRay REMUX AVC [Hindi DD 2.0 + English DTS-HD.MA 2.0] FraMeSToR-4kHDHUB.com\n11.63 GB",
+            "url": "https://fsl.anime4u.co/Peaky%20Blinders%202013%20S03E01%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DD%202.0%20+%20English%20DTS-HD.MA%202.0]%20FraMeSToR-4kHDHUB.com.mkv?token=1761986793",
+            "quality": "1080p",
+            "size": "11.63 GB",
+            "fileName": "Peaky Blinders 2013 S03E01 1080p BluRay REMUX AVC [Hindi DD 2.0 + English DTS-HD.MA 2.0] FraMeSToR-4kHDHUB.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "1fb3nKbV\n16.83 GB",
+            "url": "https://pixeldrain.dev/api/file/1fb3nKbV?download",
+            "quality": "2160p",
+            "size": "16.83 GB",
+            "fileName": "1fb3nKbV",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Peaky Blinders 2013 S03E01 2160p UHD BluRay 10bit DoVi HDR [Hindi DD 2.0 + English DTS-HD.MA 2.0] H.265 RH-4kHDHUB.com\n16.83 GB",
+            "url": "https://fsl.anime4u.co/Peaky%20Blinders%202013%20S03E01%202160p%20UHD%20BluRay%2010bit%20DoVi%20HDR%20[Hindi%20DD%202.0%20+%20English%20DTS-HD.MA%202.0]%20H.265%20RH-4kHDHUB.com.mkv?token=1761986793",
+            "quality": "2160p",
+            "size": "16.83 GB",
+            "fileName": "Peaky Blinders 2013 S03E01 2160p UHD BluRay 10bit DoVi HDR [Hindi DD 2.0 + English DTS-HD.MA 2.0] H.265 RH-4kHDHUB.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "65FNEGJH\n8.12 GB",
+            "url": "https://pixeldrain.dev/api/file/65FNEGJH?download",
+            "quality": "1080p",
+            "size": "8.12 GB",
+            "fileName": "65FNEGJH",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Peaky Blinders 2013 S03E01 1080p BluRay [Hindi DD 2.0 + English FLAC 2.0] x264 DON-4kHDHUB.com\n8.12 GB",
+            "url": "https://fsl.anime4u.co/Peaky%20Blinders%202013%20S03E01%201080p%20BluRay%20[Hindi%20DD%202.0%20+%20English%20FLAC%202.0]%20x264%20DON-4kHDHUB.com.mkv?token=1761986793",
+            "quality": "1080p",
+            "size": "8.12 GB",
+            "fileName": "Peaky Blinders 2013 S03E01 1080p BluRay [Hindi DD 2.0 + English FLAC 2.0] x264 DON-4kHDHUB.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "RF9b5HxA\n1.52 GB",
+            "url": "https://pixeldrain.dev/api/file/RF9b5HxA?download",
+            "quality": "1080p",
+            "size": "1.52 GB",
+            "fileName": "RF9b5HxA",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Peaky Blinders 2013 S03E01 1080p BluRay 10bit HEVC [Hindi DD 2.0 + English DDP 2.0] x265 HONE-4kHDHUB.com\n1.52 GB",
+            "url": "https://fsl.anime4u.co/Peaky%20Blinders%202013%20S03E01%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20DD%202.0%20+%20English%20DDP%202.0]%20x265%20HONE-4kHDHUB.com.mkv?token=1761982840",
+            "quality": "1080p",
+            "size": "1.52 GB",
+            "fileName": "Peaky Blinders 2013 S03E01 1080p BluRay 10bit HEVC [Hindi DD 2.0 + English DDP 2.0] x265 HONE-4kHDHUB.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:60574:s3e1",
+      "storedAt": 1761986794517,
+      "meta": {
+        "storedAt": 1761986794,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "60574",
+        "imdbId": "tt2442560",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-FraMeSToR",
+            "url": "https://a.111477.xyz/tvs/Peaky%20Blinders/Season%203/Peaky%20Blinders%20(2013)%20-%20S03E01%20-%20Episode%201%20[Bluray-1080p%20Remux][DTS-HD%20MA%205.1][AVC]-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": "11.54 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Peaky Blinders (2013) - S03E01 - Episode 1 [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-FraMeSToR.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:60574:s3e1",
+      "storedAt": 1761986797705,
+      "meta": {
+        "storedAt": 1761986797,
+        "urlCount": 12,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "60574",
+        "imdbId": "tt2442560",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Peaky.Blinders.S03.E01.1080p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/E9cvwJ8D?download",
+            "quality": "1080p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Peaky.Blinders.S03.E01.1080p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kQMsAdqgfA8X8_VouzPFnWpHLRMtS3g0iQG9Ko3MFK6EzDHgeODr1qYjYfTtCyFLquqm9WUyjYhkX68zZ5ChIgN0rVeEsEy1eg4JJ_okTZ350qK2PFxlx8IkBjGmIhg8PnbkfivREqlWRNyVSdfe6HTJwUWctexPKayqm6LDipf2hvWPxiTAU63V2xy3IodRNenIA5ReY3s_wovOFGukOp7MrDAulquBbzYQXNDDSE9sea42x7VOE9BNvIdJtMP11my_BH",
+            "quality": "1080p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Peaky.Blinders.S03.E01.1080p.HQ.BluRay.Hindi.DD2.0-English.DD5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/CwDyLN6q?download",
+            "quality": "1080p",
+            "size": "2.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Download",
+            "title": "Peaky.Blinders.S03.E01.1080p.HQ.BluRay.Hindi.DD2.0-English.DD5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pub-5cb62c3357c942139b90323d11729aa7.r2.dev/Peaky.Blinders.S03.E01.1080p.HQ.BluRay.Hindi.DD2.0-English.DD5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "quality": "1080p",
+            "size": "2.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Peaky.Blinders.S03.E01.1080p.HQ.BluRay.Hindi.DD2.0-English.DD5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2n2eI3NjH3NKZg_blkKjobzrE5oZpDD9_OS-iiADOyv7aUsAfAgqBUoR-IgDhcFVEu1xe1iMnhrkLjLcYglOQ4XQF9AWlMjSL0Skmd8C8QisszBj1Q6eHyX7ez8TwbiFePxLMHhgNGxdVbR_frP6OwrImtbMypbZ1yaR9vaVp15Fw2NRWeWo28w1KwXIW-A-gLLGt9gQbUegNq_a4mEJQjoANq6odIXKnBNAvMVtFZRYkIgfZPMRGXOpotulFRW70EerD4a",
+            "quality": "1080p",
+            "size": "2.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Peaky.Blinders.S03.E01.720p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/5jWKfGQc?download",
+            "quality": "720p",
+            "size": "520.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Peaky.Blinders.S03.E01.720p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://fsl.anime4u.co/Peaky.Blinders.S03.E01.720p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Ms.mkv?token=1761986795",
+            "quality": "720p",
+            "size": "520.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Peaky.Blinders.S03.E01.720p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nx1tCdyKdr8StobMcYUUDdEazDE-tG2zWkuLQywDtdCkuFtTUv9hyWD8BFX_u_O3lLPoEzW1xlN6dnGz3J4E7tx33G_bPGEZTiOk2N2s9QfspAp-FEgnbRWOFxHEDxkNlvpZQuMNNzboi5u8xz-Yot4x-ZZleo9AI37CZJeTIaFfcgJQ_v_zHdl7kSws0K_W9qlyo-kDz5APupLxl4NhDws0dhLGM4pA3uniVsbtPu6s4eIuWg2--KbSDq7mZ1AESa5wQw",
+            "quality": "720p",
+            "size": "520.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Peaky.Blinders.S03.E01.480p.BluRay.Hindi.ORG-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/api/file/vmXLuCNW?download",
+            "quality": "480p",
+            "size": "218.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Peaky.Blinders.S03.E01.480p.BluRay.Hindi.ORG-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://fsl.anime4u.co/Peaky.Blinders.S03.E01.480p.BluRay.Hindi.ORG-English.ESub.x264-HDHub4u.Ms.mkv?token=1761986795",
+            "quality": "480p",
+            "size": "218.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Peaky.Blinders.S03.E01.480p.BluRay.Hindi.ORG-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2ngXrnQklDSvg_Q8jMunbQVH4TKXzz71BQkHJjf2RSModc6FdS335Aet_X-1-YYLqAhpJfh-Ox6VOd4FqS7J8d6VbUioLtquvNdNWUtmyLG3rjdF9_m7sHUe0eHQYwqd1haqVqPUc8foAcML03pajywMR7R_VfM6x-sttzPp-n5gzmyw2iG0U4buHVHaSv1E4ES1SS47DdgZspJJLqAtGLru60D85kprkydqojj0VmFFSfA6eboRfGOx_DbtAfrG8KZ6xJv",
+            "quality": "480p",
+            "size": "218.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Peaky.Blinders.S03.E01.480p.BluRay.Hindi.ORG-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lOlYx16OQBu9PFbuLAhlKs3Y7kKjiFIaGybl04aOe6spms9HtNZwqkIpFjb1indZfEcqKXVCTCvLBlhsFZnjevAfK4-J2huLyHie_lK08blUJ0cfPiV4PrcAShP2f28UFAZLogN4RmJfmNf20PR7kW2-bAaru6AGPg7PhHB5xOlCOyg61lCJ6oBdoYVQYNUUDR-rOptvD2ma4FDhzCU2fl2XQxbZqpvFKnCQpxxkKYoyHI9dclASp2GubTWberz-wAGMDh",
+            "quality": "480p",
+            "size": "218.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 12
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:60574:s3e1",
+      "storedAt": 1761986797462,
+      "meta": {
+        "storedAt": 1761986797,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "60574",
+        "imdbId": "tt2442560",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Peaky Blinders S3E1 - 1. Episode 1",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/pb/s3/Peaky.Blinders.S03E01.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "55min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Peaky Blinders S3E1 - 1. Episode 1",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/pb/s3/Peaky.Blinders.S03E01.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "55min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:60574:s3e1",
+      "storedAt": 1761986798847,
+      "meta": {
+        "storedAt": 1761986798,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "60574",
+        "imdbId": "tt2442560",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Peaky Blinders S03E01 1080p BluRay [Hindi DDP 2 0 + English DD 5 1] x264 (DON-UHDMovies)\n8.12GB",
+            "url": "https://worker-old-brook-1a69.rovave6017.workers.dev/f901b9274953fc279ef9396ef35817d5a52cbcbcb76e9db3295b94ec7c2f0bfeedcd1c2c3a3fb8ff16d25f98018eb9f9a0f7e89481b17aa6ce4da3f4a45cfce970b0d3fb75cb4a99562770dab5d9500ef37704f64ff374a8347d13f1531c1589136be4f393794bf26b8cd19065c89612a2b460c890de3403cbee208a2685c105bf517a5c11a03dc3d9e1f305ba76deaf738b9fc8c09684ba909fa091fecd919fa7d3282297c705328aac33015a4635de::74800eb0616ba33507a1c8389de4a358/Peaky Blinders S03E01 1080p BluRay [Hindi DDP 2.0  English DD 5.1] x264 (DON-UHDMovies).mkv",
+            "quality": "1080p | BluRay",
+            "size": "8.12GB",
+            "fileName": "Peaky Blinders S03E01 1080p BluRay [Hindi DDP 2.0 + English DD 5.1] x264 (DON-UHDMovies).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Peaky Blinders S03E01 1080p BluRay 10Bit [Hindi DDP 2 0 + English DDP 2 0] x265 (Ghost-UHDMovies)\n2.67GB",
+            "url": "https://worker-dark-bonus-04b1.tevode2072.workers.dev/577f700d377f2e5070ce5118bee9d8627a990105e65ee756a1d32e5c2083610f49ff382d419f61cf6db4b89e5444a1ebf1f1077c45d20d7ec79f9f6c93bedf10c1af094935998221c7970bcd048e479894203dde607bce986e863658186b9c04beaa5485d46ef8073fb8f38fdb3d8483df3c3a27e50871c087bf71a44259f13cd19e158f7381b2107648d91e5e4203ab62cc1ab52a5a7a51f58e2224ce9dd37d07ea6d68dc7ea51dfc6595d1fba6edad::731f14aace4dcc46b079cb7c65ab5a6d/Peaky Blinders S03E01 1080p BluRay 10Bit [Hindi DDP 2.0  English DDP 2.0] x265 (Ghost-UHDMovies).mkv",
+            "quality": "1080p | BluRay",
+            "size": "2.67GB",
+            "fileName": "Peaky Blinders S03E01 1080p BluRay 10Bit [Hindi DDP 2.0 + English DDP 2.0] x265 (Ghost-UHDMovies).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:76331:s4e1",
+      "storedAt": 1761986872877,
+      "meta": {
+        "storedAt": 1761986872,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "76331",
+        "imdbId": "tt7660850",
+        "season": 4,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/225679?token=b075a85899f6f7a3b29b84c835fc5f69&expires=1767170872&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:91363:s2e2",
+      "storedAt": 1761986612794,
+      "meta": {
+        "storedAt": 1761986612,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "91363",
+        "imdbId": "tt10168312",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/176199?token=02095b44b67bbc38dba886aa7fc4dd77&expires=1767170612&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-01T08:48:51.733Z",
+    "totalOriginalEntries": 10,
+    "newItemsInThisBatch": 10,
+    "format": "compact_v1"
+  }
+}
