@@ -1,0 +1,812 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:11011",
+      "storedAt": 1762008841114,
+      "meta": {
+        "storedAt": 1762008841,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "11011",
+        "imdbId": "tt0110989",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/144355?token=184d5ad2bf602a658b38312f0a39b2b3&expires=1767192840&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:138505:s1e2",
+      "storedAt": 1762008964350,
+      "meta": {
+        "storedAt": 1762008964,
+        "urlCount": 12,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "138505",
+        "imdbId": "tt16027014",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Ckn2Hya4\n2.1 GB",
+            "url": "https://pixeldrain.net/api/file/Ckn2Hya4",
+            "quality": "2160p",
+            "size": "2.1 GB",
+            "fileName": "Ckn2Hya4",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Marvel.Zombies.S01E02.2160p.HS.WEB-DL.DDP5.1.Atmos.H.265-4kHdHub.Com\n2.1 GB",
+            "url": "https://fsl.anime4u.co/Marvel.Zombies.S01E02.2160p.HS.WEB-DL.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv?token=1762008964",
+            "quality": "2160p",
+            "size": "2.1 GB",
+            "fileName": "Marvel.Zombies.S01E02.2160p.HS.WEB-DL.DDP5.1.Atmos.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "g\n2.1 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=1OymgR1VDTDb&n=1MkHlbRY&fn=Marvel.Zombies.S01E02.2160p.HS.WEB-DL.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv",
+            "quality": "2160p",
+            "size": "2.1 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "NBFdg2uP\n856.56 MB",
+            "url": "https://pixeldrain.dev/api/file/NBFdg2uP?download",
+            "quality": "1080p",
+            "size": "856.56 MB",
+            "fileName": "NBFdg2uP",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Marvel.Zombies.S01E02.1080p.HS.WEB-DL.DDP5.1.Atmos.H.264-4kHdHub.Com\n856.56 MB",
+            "url": "https://fsl.anime4u.co/Marvel.Zombies.S01E02.1080p.HS.WEB-DL.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv?token=1762008964",
+            "quality": "1080p",
+            "size": "856.56 MB",
+            "fileName": "Marvel.Zombies.S01E02.1080p.HS.WEB-DL.DDP5.1.Atmos.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n856.56 MB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=m5AJJ6pVwT4Y&n=w65xiB6R&fn=Marvel.Zombies.S01E02.1080p.HS.WEB-DL.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv",
+            "quality": "1080p",
+            "size": "856.56 MB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "AMvohnff\n2.64 GB",
+            "url": "https://pixeldrain.dev/api/file/AMvohnff?download",
+            "quality": "2160p",
+            "size": "2.64 GB",
+            "fileName": "AMvohnff",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Marvel.Zombies.S01E02.2160p.DSNP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-PrimeFix\n2.64 GB",
+            "url": "https://fsl.anime4u.co/Marvel.Zombies.S01E02.2160p.DSNP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-PrimeFix.mkv?token=1762008964",
+            "quality": "2160p",
+            "size": "2.64 GB",
+            "fileName": "Marvel.Zombies.S01E02.2160p.DSNP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-PrimeFix",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "g\n2.64 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=blpdjFtFyZ5a&n=PIsj0bgI&fn=Marvel.Zombies.S01E02.2160p.DSNP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-PrimeFix.mkv",
+            "quality": "2160p",
+            "size": "2.64 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "w3RqkDxb\n1.1 GB",
+            "url": "https://pixeldrain.dev/api/file/w3RqkDxb?download",
+            "quality": "1080p",
+            "size": "1.1 GB",
+            "fileName": "w3RqkDxb",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Marvel.Zombies.S01E02.1080p.DSNP.WEB-DL.DDP5.1.H.264-PrimeFix\n1.1 GB",
+            "url": "https://fsl.anime4u.co/Marvel.Zombies.S01E02.1080p.DSNP.WEB-DL.DDP5.1.H.264-PrimeFix.mkv?token=1762008964",
+            "quality": "1080p",
+            "size": "1.1 GB",
+            "fileName": "Marvel.Zombies.S01E02.1080p.DSNP.WEB-DL.DDP5.1.H.264-PrimeFix",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n1.1 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=0hePaV8xmZiY&n=jZ9nAbxb&fn=Marvel.Zombies.S01E02.1080p.DSNP.WEB-DL.DDP5.1.H.264-PrimeFix.mkv",
+            "quality": "1080p",
+            "size": "1.1 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 12
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:138505:s1e2",
+      "storedAt": 1762008963658,
+      "meta": {
+        "storedAt": 1762008963,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "138505",
+        "imdbId": "tt16027014",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][x265]-ELiTE",
+            "url": "https://a.111477.xyz/tvs/Marvel%20Zombies/Season%201/Marvel%20Zombies%20(2025)%20-%20S01E02%20-%20Episode%202%20[HDTV-1080p][AC3%205.1][x265]-ELiTE.mkv",
+            "quality": "1080p",
+            "size": "424.34 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Marvel Zombies (2025) - S01E02 - Episode 2 [HDTV-1080p][AC3 5.1][x265]-ELiTE.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][h264]-STC",
+            "url": "https://a.111477.xyz/tvs/Marvel%20Zombies/Season%201/Marvel%20Zombies%20(2025)%20-%20S01E02%20-%20Episode%202%20[WEBDL-1080p][EAC3%20Atmos%205.1][h264]-STC.mkv",
+            "quality": "1080p",
+            "size": "1.22 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Marvel Zombies (2025) - S01E02 - Episode 2 [WEBDL-1080p][EAC3 Atmos 5.1][h264]-STC.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:39269:s5e1",
+      "storedAt": 1762008966515,
+      "meta": {
+        "storedAt": 1762008966,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "39269",
+        "imdbId": "tt1837576",
+        "season": 5,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/217304?token=af986dfc3df77eb9c66bf54bee7bb8f9&expires=1767192966&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:66732:s1e2",
+      "storedAt": 1762008702719,
+      "meta": {
+        "storedAt": 1762008702,
+        "urlCount": 12,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "66732",
+        "imdbId": "tt4574334",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "6dhgEtfc\n11.17 GB",
+            "url": "https://pixeldrain.dev/api/file/6dhgEtfc?download",
+            "quality": "1080p",
+            "size": "11.17 GB",
+            "fileName": "6dhgEtfc",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Stranger Things 2016 S01E02 1080p BluRay REMUX x264 AVC [Hindi DDP 5.1 640Kbps + English TruHD 5.1] ESub ~ FraMeSToR\n11.17 GB",
+            "url": "https://fsl.anime4u.co/Stranger%20Things%202016%20S01E02%201080p%20BluRay%20REMUX%20x264%20AVC%20[Hindi%20DDP%205.1%20640Kbps%20+%20English%20TruHD%205.1]%20ESub%20~%20FraMeSToR.mkv?token=1762008702",
+            "quality": "1080p",
+            "size": "11.17 GB",
+            "fileName": "Stranger Things 2016 S01E02 1080p BluRay REMUX x264 AVC [Hindi DDP 5.1 640Kbps + English TruHD 5.1] ESub ~ FraMeSToR",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "sTYkG8NZ\n4.62 GB",
+            "url": "https://pixeldrain.dev/api/file/sTYkG8NZ?download",
+            "quality": "1080p",
+            "size": "4.62 GB",
+            "fileName": "sTYkG8NZ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Stranger Things 2016 S01E02 1080p BluRay x264 [Hindi DDP 5.1 640Kbps + English DD 5.1] ESub - SHORTBREHD\n4.62 GB",
+            "url": "https://lol.say-no-to-piracy.store/Stranger%20Things%202016%20S01E02%201080p%20BluRay%20x264%20[Hindi%20DDP%205.1%20640Kbps%20+%20English%20DD%205.1]%20ESub%20-%20SHORTBREHD.mkv?token=1762008702",
+            "quality": "1080p",
+            "size": "4.62 GB",
+            "fileName": "Stranger Things 2016 S01E02 1080p BluRay x264 [Hindi DDP 5.1 640Kbps + English DD 5.1] ESub - SHORTBREHD",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "dzk37ud8\n15.4 GB",
+            "url": "https://pixeldrain.dev/api/file/dzk37ud8?download",
+            "quality": "2160p",
+            "size": "15.4 GB",
+            "fileName": "dzk37ud8",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Stranger Things 2016 S01E02 2160p 4K SDR BluRay REMUX x265 10bit HEVC [Hindi DDP 5.1 640Kbps + English DD 5.1] ESub ~ FGT\n15.4 GB",
+            "url": "https://fsl.anime4u.co/Stranger%20Things%202016%20S01E02%202160p%204K%20SDR%20BluRay%20REMUX%20x265%2010bit%20HEVC%20[Hindi%20DDP%205.1%20640Kbps%20+%20English%20DD%205.1]%20ESub%20~%20FGT.mkv?token=1762008702",
+            "quality": "2160p",
+            "size": "15.4 GB",
+            "fileName": "Stranger Things 2016 S01E02 2160p 4K SDR BluRay REMUX x265 10bit HEVC [Hindi DDP 5.1 640Kbps + English DD 5.1] ESub ~ FGT",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "bxSzwsrm\n803.57 MB",
+            "url": "https://pixeldrain.dev/api/file/bxSzwsrm?download",
+            "quality": "1080p",
+            "size": "803.57 MB",
+            "fileName": "bxSzwsrm",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Stranger Things S01E02 - [Ch. 2 ~ The Weirdo on Maple Street] 1080p 10bit BluRay Hindi+Eng DDP 5.1Ch HEVC ESubs ~ Joy [Strange]\n803.57 MB",
+            "url": "https://fsl.anime4u.co/Stranger%20Things%20S01E02%20-%20[Ch.%202%20~%20The%20Weirdo%20on%20Maple%20Street]%201080p%2010bit%20BluRay%20Hindi+Eng%20DDP%205.1Ch%20HEVC%20ESubs%20~%20Joy%20[Strange].mkv?token=1762008702",
+            "quality": "1080p",
+            "size": "803.57 MB",
+            "fileName": "Stranger Things S01E02 - [Ch. 2 ~ The Weirdo on Maple Street] 1080p 10bit BluRay Hindi+Eng DDP 5.1Ch HEVC ESubs ~ Joy [Strange]",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "pGrZtAee\n2.65 GB",
+            "url": "https://pixeldrain.dev/api/file/pGrZtAee?download",
+            "quality": "1080p",
+            "size": "2.65 GB",
+            "fileName": "pGrZtAee",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Stranger.Things.S01E02.Chapter.Two.the.Weirdo.on.Maple.Street.1080p.NF.WEB-DL.DDP5.1.HDR.HEVC-ShiNobi\n2.65 GB",
+            "url": "https://lol.say-no-to-piracy.store/Stranger.Things.S01E02.Chapter.Two.the.Weirdo.on.Maple.Street.1080p.NF.WEB-DL.DDP5.1.HDR.HEVC-ShiNobi.mkv?token=1762008702",
+            "quality": "1080p",
+            "size": "2.65 GB",
+            "fileName": "Stranger.Things.S01E02.Chapter.Two.the.Weirdo.on.Maple.Street.1080p.NF.WEB-DL.DDP5.1.HDR.HEVC-ShiNobi",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "abXEaovx\n1.89 GB",
+            "url": "https://pixeldrain.dev/api/file/abXEaovx?download",
+            "quality": "2160p",
+            "size": "1.89 GB",
+            "fileName": "abXEaovx",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Stranger Things S01 E02 2160p 10bit BluRay x265 HEVC [Hindi DDP 5.1 640Kbps + English AAC 5.1] ESub\n1.89 GB",
+            "url": "https://fsl.anime4u.co/Stranger%20Things%20S01%20E02%202160p%2010bit%20BluRay%20x265%20HEVC%20[Hindi%20DDP%205.1%20640Kbps%20+%20English%20AAC%205.1]%20ESub.mkv?token=1762008702",
+            "quality": "2160p",
+            "size": "1.89 GB",
+            "fileName": "Stranger Things S01 E02 2160p 10bit BluRay x265 HEVC [Hindi DDP 5.1 640Kbps + English AAC 5.1] ESub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 12
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:66732:s1e2",
+      "storedAt": 1762008701635,
+      "meta": {
+        "storedAt": 1762008701,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "66732",
+        "imdbId": "tt4574334",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][10bit][HEVC][TrueHD 5 1]-FraMeSToR",
+            "url": "https://a.111477.xyz/tvs/Stranger%20Things/Season%201/Stranger%20Things%20(2016)%20-%20S01E02%20-%20Chapter%20Two%20The%20Weirdo%20on%20Maple%20Street%20[Bluray-2160p%20Remux][10bit][HEVC][TrueHD%205.1]-FraMeSToR.mkv",
+            "quality": "2160p | REMUX",
+            "size": "16.28 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Stranger Things (2016) - S01E02 - Chapter Two The Weirdo on Maple Street [Bluray-2160p Remux][10bit][HEVC][TrueHD 5.1]-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][TrueHD 5 1][AVC]-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Stranger%20Things/Season%201/Stranger%20Things%20(2016)%20-%20S01E02%20-%20Chapter%20Two%20The%20Weirdo%20on%20Maple%20Street%20[Bluray-1080p%20Remux][TrueHD%205.1][AVC]-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "10.92 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Stranger Things (2016) - S01E02 - Chapter Two The Weirdo on Maple Street [Bluray-1080p Remux][TrueHD 5.1][AVC]-NOGRP.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][x264]-WiKi",
+            "url": "https://a.111477.xyz/tvs/Stranger%20Things/Season%201/Stranger%20Things%20(2016)%20-%20S01E02%20-%20Chapter%20Two%20The%20Weirdo%20on%20Maple%20Street%20[Bluray-1080p][AC3%205.1][x264]-WiKi.mkv",
+            "quality": "1080p",
+            "size": "4.84 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Stranger Things (2016) - S01E02 - Chapter Two The Weirdo on Maple Street [Bluray-1080p][AC3 5.1][x264]-WiKi.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:66732:s1e2",
+      "storedAt": 1762008704089,
+      "meta": {
+        "storedAt": 1762008704,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "66732",
+        "imdbId": "tt4574334",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Stranger Things S1E2 - 2. Chapter Two: The Weirdo on Maple Street",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/strangerthinngs/s1/Stranger.Things.S01E02.720p.Hindi.Eng.mkv",
+            "quality": "1080p",
+            "size": "56min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Stranger Things S1E2 - 2. Chapter Two: The Weirdo on Maple Street",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/strangerthinngs/s1/Stranger.Things.S01E02.720p.Hindi.Eng.mkv",
+            "quality": "1080p",
+            "size": "56min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:71912:s3e1",
+      "storedAt": 1762008938878,
+      "meta": {
+        "storedAt": 1762008938,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "71912",
+        "imdbId": "tt5180504",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "JWruLQ73\n2.77 GB",
+            "url": "https://pixeldrain.dev/api/file/JWruLQ73?download",
+            "quality": "1080p",
+            "size": "2.77 GB",
+            "fileName": "JWruLQ73",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The.Witcher.S03E01.Shaerrawedd.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-4kHdHub.Com\n2.77 GB",
+            "url": "https://fsl.anime4u.co/The.Witcher.S03E01.Shaerrawedd.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv?token=1762007633",
+            "quality": "1080p",
+            "size": "2.77 GB",
+            "fileName": "The.Witcher.S03E01.Shaerrawedd.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "fu7r8BK4\n8.7 GB",
+            "url": "https://pixeldrain.dev/api/file/fu7r8BK4?download",
+            "quality": "2160p",
+            "size": "8.7 GB",
+            "fileName": "fu7r8BK4",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The.Witcher.S03E01.Shaerrawedd.2160p.NF.WEB-DL.DUAL.DDP5.1.Atmos.DV.HDR.H.265-4kHdHub.Com\n8.7 GB",
+            "url": "https://fsl.anime4u.co/The.Witcher.S03E01.Shaerrawedd.2160p.NF.WEB-DL.DUAL.DDP5.1.Atmos.DV.HDR.H.265-4kHdHub.Com.mkv?token=1762008938",
+            "quality": "2160p",
+            "size": "8.7 GB",
+            "fileName": "The.Witcher.S03E01.Shaerrawedd.2160p.NF.WEB-DL.DUAL.DDP5.1.Atmos.DV.HDR.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "vMoNX6fs\n5.64 GB",
+            "url": "https://pixeldrain.dev/api/file/vMoNX6fs?download",
+            "quality": "2160p",
+            "size": "5.64 GB",
+            "fileName": "vMoNX6fs",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The.Witcher.S03E01.Shaerrawedd.2160p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.265-4kHdHub.Com\n5.64 GB",
+            "url": "https://fsl.anime4u.co/The.Witcher.S03E01.Shaerrawedd.2160p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv?token=1762008938",
+            "quality": "2160p",
+            "size": "5.64 GB",
+            "fileName": "The.Witcher.S03E01.Shaerrawedd.2160p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "B8mbFg2i\n1.83 GB",
+            "url": "https://pixeldrain.dev/api/file/B8mbFg2i?download",
+            "quality": "1080p",
+            "size": "1.83 GB",
+            "fileName": "B8mbFg2i",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The.Witcher.S03E01.Shaerrawedd.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.265-4kHdHub.Com\n1.83 GB",
+            "url": "https://fsl.anime4u.co/The.Witcher.S03E01.Shaerrawedd.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv?token=1762008938",
+            "quality": "1080p",
+            "size": "1.83 GB",
+            "fileName": "The.Witcher.S03E01.Shaerrawedd.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:71912:s3e1",
+      "storedAt": 1762008938183,
+      "meta": {
+        "storedAt": 1762008938,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "71912",
+        "imdbId": "tt5180504",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DV][10bit][HEVC][EAC3 Atmos 5 1]-FLUX",
+            "url": "https://a.111477.xyz/tvs/The%20Witcher/Season%203/The%20Witcher%20(2019)%20-%20S03E01%20-%20Shaerrawedd%20[WEBDL-2160p][DV][10bit][HEVC][EAC3%20Atmos%205.1]-FLUX.mkv",
+            "quality": "2160p | DV",
+            "size": "8.59 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Witcher (2019) - S03E01 - Shaerrawedd [WEBDL-2160p][DV][10bit][HEVC][EAC3 Atmos 5.1]-FLUX.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][x264]-HiggsBoson",
+            "url": "https://a.111477.xyz/tvs/The%20Witcher/Season%203/The%20Witcher%20(2019)%20-%20S03E01%20-%20Shaerrawedd%20[WEBDL-1080p][EAC3%20Atmos%205.1][x264]-HiggsBoson.mkv",
+            "quality": "1080p",
+            "size": "2.77 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Witcher (2019) - S03E01 - Shaerrawedd [WEBDL-1080p][EAC3 Atmos 5.1][x264]-HiggsBoson.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/The%20Witcher/Season%203/The%20Witcher%20(2019)%20-%20S03E01%20-%20Shaerrawedd%20[WEBRip-1080p][EAC3%20Atmos%205.1][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": "1.18 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Witcher (2019) - S03E01 - Shaerrawedd [WEBRip-1080p][EAC3 Atmos 5.1][x265]-iVy.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:71912:s3e1",
+      "storedAt": 1762008941107,
+      "meta": {
+        "storedAt": 1762008941,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "71912",
+        "imdbId": "tt5180504",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Witcher.S03-E01.720p.WEB-DL.Hindi.5.1-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/7kp7tzm4?download",
+            "quality": "720p",
+            "size": "570 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Witcher.S03-E01.720p.WEB-DL.Hindi.5.1-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://fsl.anime4u.co/The.Witcher.S03-E01.720p.WEB-DL.Hindi.5.1-English.ESub.x264-HDHub4u.Tv.mkv?token=1762008547",
+            "quality": "720p",
+            "size": "570 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Witcher.S03-E01.720p.WEB-DL.Hindi.5.1-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nMkjGkuF2b4NDq4UnVs1FbL27VawCfKbQB7ibIHOLoUkZ7yM0xE4Qm2dPrFCLec5dVp2XYaTDh82NKeEllhW3W_nNUNJY9nIdqipBi1wowtRYBGu3NzmCgCldtBf0xGlG2gUo5AYNopanGtGuI9P7hO5oeI5ua5273wkDF3ZaCBIw71iHUdQkPfNRBscbfswJjBbP7XbCX5LKLgVSUPBig35AYV25-lAcJKeNQS-e2hincPwPqJ0nUks1AArDGuXZOAJIp",
+            "quality": "720p",
+            "size": "570 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:71912:s3e1",
+      "storedAt": 1762008941471,
+      "meta": {
+        "storedAt": 1762008941,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "71912",
+        "imdbId": "tt5180504",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Witcher S3E1 - 1. Shaerrawedd",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/witcher/s3/The.Witcher.S03E01.720p.WEB-DL.HIN-ENG.x264.MSubs-KatmovieHD.mkv",
+            "quality": "1080p",
+            "size": "63min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Witcher S3E1 - 1. Shaerrawedd",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/witcher/s3/The.Witcher.S03E01.720p.WEB-DL.HIN-ENG.x264.MSubs-KatmovieHD.mkv",
+            "quality": "1080p",
+            "size": "63min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-01T14:59:41.639Z",
+    "totalOriginalEntries": 11,
+    "newItemsInThisBatch": 11,
+    "format": "compact_v1"
+  }
+}
