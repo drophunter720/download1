@@ -1,0 +1,363 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:11075",
+      "storedAt": 1761997009998,
+      "meta": {
+        "storedAt": 1761997009,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "11075",
+        "imdbId": "tt0235198",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/280192?token=e08d4a04d5c32cab128af4ea64606fdb&expires=1767181009&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:129035:s1e3",
+      "storedAt": 1761997161829,
+      "meta": {
+        "storedAt": 1761997161,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "129035",
+        "imdbId": "tt15130518",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/435487?token=e202251b1c32f7f4e0586297b86fbd29&expires=1767181161&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:1399:s2e4",
+      "storedAt": 1761996819597,
+      "meta": {
+        "storedAt": 1761996819,
+        "urlCount": 7,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Game of Thrones 2011 S02E04 2160p UHD BluRay REMUX DoVi HDR [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] HEVC FraMeSToR-4kHDHUB.com\n24.36 GB",
+            "url": "https://fsl.anime4u.co/Game%20of%20Thrones%202011%20S02E04%202160p%20UHD%20BluRay%20REMUX%20DoVi%20HDR%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20HEVC%20FraMeSToR-4kHDHUB.com.mkv?token=1761996819",
+            "quality": "2160p",
+            "size": "24.36 GB",
+            "fileName": "Game of Thrones 2011 S02E04 2160p UHD BluRay REMUX DoVi HDR [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] HEVC FraMeSToR-4kHDHUB.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "CsmBLr2f\n17.64 GB",
+            "url": "https://pixeldrain.dev/api/file/CsmBLr2f?download",
+            "quality": "2160p",
+            "size": "17.64 GB",
+            "fileName": "CsmBLr2f",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Game of Thrones 2011 S02E04 2160p UHD SDR BluRay x265 10bit [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] HEVC SWTYBLZ-4kHDHUB.com\n17.64 GB",
+            "url": "https://fsl.anime4u.co/Game%20of%20Thrones%202011%20S02E04%202160p%20UHD%20SDR%20BluRay%20x265%2010bit%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20HEVC%20SWTYBLZ-4kHDHUB.com.mkv?token=1761996819",
+            "quality": "2160p",
+            "size": "17.64 GB",
+            "fileName": "Game of Thrones 2011 S02E04 2160p UHD SDR BluRay x265 10bit [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] HEVC SWTYBLZ-4kHDHUB.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "aH4i2nwM\n9.3 GB",
+            "url": "https://pixeldrain.dev/api/file/aH4i2nwM?download",
+            "quality": "1080p",
+            "size": "9.3 GB",
+            "fileName": "aH4i2nwM",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "3sm3MZPz\n4.76 GB",
+            "url": "https://pixeldrain.dev/api/file/3sm3MZPz?download",
+            "quality": "1080p",
+            "size": "4.76 GB",
+            "fileName": "3sm3MZPz",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "nfyL3jss\n2.88 GB",
+            "url": "https://pixeldrain.dev/api/file/nfyL3jss?download",
+            "quality": "1080p",
+            "size": "2.88 GB",
+            "fileName": "nfyL3jss",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Game of Thrones 2011 S02E04 1080p BluRay 10bit HEVC [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] x265 Absinth-4kHDHUB.Com\n2.88 GB",
+            "url": "https://fsl.anime4u.co/Game%20of%20Thrones%202011%20S02E04%201080p%20BluRay%2010bit%20HEVC%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20Absinth-4kHDHUB.Com.mkv?token=1761996819",
+            "quality": "1080p",
+            "size": "2.88 GB",
+            "fileName": "Game of Thrones 2011 S02E04 1080p BluRay 10bit HEVC [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] x265 Absinth-4kHDHUB.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 7
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1399:s2e4",
+      "storedAt": 1761996818108,
+      "meta": {
+        "storedAt": 1761996818,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DV HDR10][TrueHD Atmos 7 1][HEVC]-FraMeSToR",
+            "url": "https://a.111477.xyz/tvs/Game%20of%20Thrones/Season%202/Game%20of%20Thrones%20(2011)%20-%20S02E04%20-%20Garden%20of%20Bones%20[Bluray-2160p%20Remux][DV%20HDR10][TrueHD%20Atmos%207.1][HEVC]-FraMeSToR.mkv",
+            "quality": "2160p | DV | HDR | REMUX",
+            "size": "24.30 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Game of Thrones (2011) - S02E04 - Garden of Bones [Bluray-2160p Remux][DV HDR10][TrueHD Atmos 7.1][HEVC]-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DTS 5 1][x264]-ROVERS",
+            "url": "https://a.111477.xyz/tvs/Game%20of%20Thrones/Season%202/Game%20of%20Thrones%20(2011)%20-%20S02E04%20-%20Garden%20of%20Bones%20[Bluray-1080p][DTS%205.1][x264]-ROVERS.mkv",
+            "quality": "1080p",
+            "size": "4.37 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Game of Thrones (2011) - S02E04 - Garden of Bones [Bluray-1080p][DTS 5.1][x264]-ROVERS.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][FLAC 5 1][x264]-EbP",
+            "url": "https://a.111477.xyz/tvs/Game%20of%20Thrones/Season%202/Game%20of%20Thrones%20(2011)%20-%20S02E04%20-%20Garden%20of%20Bones%20[Bluray-1080p][FLAC%205.1][x264]-EbP.mkv",
+            "quality": "1080p",
+            "size": "7.06 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Game of Thrones (2011) - S02E04 - Garden of Bones [Bluray-1080p][FLAC 5.1][x264]-EbP.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:1399:s2e4",
+      "storedAt": 1761996822467,
+      "meta": {
+        "storedAt": 1761996822,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Game.of.Thrones.S02E04.720p.10Bit.BluRay.Hindi.ORG.2.0-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/api/file/HAUTSNQ5?download",
+            "quality": "720p",
+            "size": "377.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Game.of.Thrones.S02E04.720p.10Bit.BluRay.Hindi.ORG.2.0-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://lol.say-no-to-piracy.store/Game.of.Thrones.S02E04.720p.10Bit.BluRay.Hindi.ORG.2.0-English.HEVC.x265-HDHub4u.Tv.mkv?token=1761992571",
+            "quality": "720p",
+            "size": "377.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Game.of.Thrones.S02E04.720p.10Bit.BluRay.Hindi.ORG.2.0-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kS1nzWjrPCBJGcHdtk4qgkXHHRP7OeXBm7xV_SgVL90eqmmxcayl8lvt1yY_-wov4PtLPtEH-7wrYRts1kOXUrVQJN_ep2AxxhdDPf05Rqe3AJtcGCDrw1I-Kd0z9OOlsyaHmd0IFsA0ulLVmibLKhSdyK7GpgzJCRcpRTKc9Rz60olcn1ge5zRrPQUg1gikedXyV6F8da3v_uTfhZATks4KBmQ9WwKkYbeW0RGeD0LR3fM13B6HMDsexuMDnvr6NN8WfRfarSK3qn0LuCYgoFXMjY2Wl3NMhaYY4109Z9jpFlpUHvWFRR5dWyUcrALXs9NYqiQ_q5TDqI6FhXc9aT7YOoyrndzqLeXLimdJ2bgiTdeSiYyDTP226iPI1UgaWqr1E0RIqnOJ1uwVZtGynSMI6ReIBfTKnPhpGTDlQZF8oNz9R0awsD6wZ2S-8NVtgkwy42RBjpSgSJrO_uU1Jsh_BEm2MearNfpK3PTEoV_WA84UDxqEE-Uy_9OlyIQ6oSC77UJ5vh84E6RAA13w9uPeiQOhvhE-rnjgEFIO67Q9vEdRXXtNY90wb68eQiBL6Pr6DdBEE5xj3kotQ7ImkEPoASZ01sC8LO3fgFGDIfvfL4w0StXRjWM2VKt763chYAbbPmwC1gT3MoEkROqpyP04x7t8LiJ9JH2MNKP_wgF4tlzJ7VLGsTknJ3wmP2uV_ahGOrxRASd7sQOssU2llbXkE5VZc3UXewjWDtAbD5MAkfamaZXpIlBk2Up3qFEFvEqWS-QtE1Vz-_wQ2LgVwa-KVEf06pJRsgURDsUJtmuCx_0pVulTFcY4QmKeAaigTSwlok5x2rqHStdYqbM-54hxg4c_rADahGXiMxrIxIhghPcJ2u2y15XLjn13yX-OZkL-9R9V-al_iAgLZXDTYTEMyZyy71R_dfb1Mw9YNFQdNikto4nLz7x0E0viUv2VOpjhaSo_K2SvBVqZJgx21giH-IY02Jy0W-XPBjbBfnAhC1W5V5QWsI6i_H-SjDlkQpX5J-wp1wWO9C-KgwMW95qQXMHQzNohN0s5WbjpR6VksluhQRcnWie6peb5GJ03ufdSlU",
+            "quality": "720p",
+            "size": "377.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1399:s2e4",
+      "storedAt": 1761996824112,
+      "meta": {
+        "storedAt": 1761996824,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Game of Thrones S2E4 - 4. Garden of Bones",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/gameofthrones/s2/Game Of Thrones Season 2 {Hindi-English} 720p BluRay ESub [BollyFlix]/Game Of Thrones S02E04 {Hindi-English} 720p BluRay ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "51min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Game of Thrones S2E4 - 4. Garden of Bones",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/gameofthrones/s2/Game Of Thrones Season 2 {Hindi-English} 720p BluRay ESub [BollyFlix]/Game Of Thrones S02E04 {Hindi-English} 720p BluRay ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "51min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:1399:s2e4",
+      "storedAt": 1761996823902,
+      "meta": {
+        "storedAt": 1761996823,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Game of Thrones (2011) S02E04 1080p BluRay [Hindi DD 2 0 + English DTS 5 1] x264-EbP[AK47]\n6.3GB",
+            "url": "https://worker-autumn-sky-d7ba.polib91311.workers.dev/d39f015e021bdfc509970e146b8c659e87dcb95a7c84deea00ea602beca6f1a0bddcf45156df30a33c44159623e047b7768b04ae2caccd8aa985825b56ffe549a4147ded7b6856a2e31d6c843e0612038afe461380254055bbc838bb621fb3fc7880e90de5223ada3ac99c789aa0d715525283f6191b7eeaa62017cd85206e9e25b1248f56b77231602f115046d54be88da662137873b5d83243017e19fe45672982c64df4a99a6c2b19664030b7e01d::cb1eec95f56b2af3580453008272c5b0/Game of Thrones (2011) S02E04 1080p BluRay [Hindi DD 2.0  English DTS 5.1] x264-EbP[AK47].mkv",
+            "quality": "1080p | BluRay",
+            "size": "6.3GB",
+            "fileName": "Game of Thrones (2011) S02E04 1080p BluRay [Hindi DD 2.0 + English DTS 5.1] x264-EbP[AK47].mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-01T11:41:12.406Z",
+    "totalOriginalEntries": 7,
+    "newItemsInThisBatch": 7,
+    "format": "compact_v1"
+  }
+}
