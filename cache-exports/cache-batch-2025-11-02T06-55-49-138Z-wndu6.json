@@ -1,0 +1,182 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:146203",
+      "storedAt": 1762066338252,
+      "meta": {
+        "storedAt": 1762066338,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "146203",
+        "imdbId": "tt2034139",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/290163?token=b4d0896dff96b444ef19cb88ae15044f&expires=1767250337&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2190:s8e14",
+      "storedAt": 1762066300739,
+      "meta": {
+        "storedAt": 1762066300,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2190",
+        "imdbId": "tt0121955",
+        "season": 8,
+        "episode": 14,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/411804?token=47d5f27bd631334a83c47a3ce81e1a62&expires=1767250300&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:35016:s1e5",
+      "storedAt": 1762066479694,
+      "meta": {
+        "storedAt": 1762066479,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "35016",
+        "imdbId": "tt1638319",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/333174?token=bc5ccd8004779d9c7f36182c0678055e&expires=1767250479&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:88803:s1e20",
+      "storedAt": 1762066341446,
+      "meta": {
+        "storedAt": 1762066341,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "88803",
+        "imdbId": "tt10233448",
+        "season": 1,
+        "episode": 20,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "CD3NvPNT\n1.4 GB",
+            "url": "https://pixeldrain.dev/api/file/CD3NvPNT?download",
+            "quality": "1080p",
+            "size": "1.4 GB",
+            "fileName": "CD3NvPNT",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:88803:s1e20",
+      "storedAt": 1762066342693,
+      "meta": {
+        "storedAt": 1762066342,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "88803",
+        "imdbId": "tt10233448",
+        "season": 1,
+        "episode": 20,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Vinland Saga S1E20 - 20. Crown",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/vinland/s1/Vinland Saga S01E20 Dual Audio {English-Japanese} 720p BluRay ESubs [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "25min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Vinland Saga S1E20 - 20. Crown",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/vinland/s1/Vinland Saga S01E20 Dual Audio {English-Japanese} 720p BluRay ESubs [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "25min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-02T06:55:49.138Z",
+    "totalOriginalEntries": 5,
+    "newItemsInThisBatch": 5,
+    "format": "compact_v1"
+  }
+}
