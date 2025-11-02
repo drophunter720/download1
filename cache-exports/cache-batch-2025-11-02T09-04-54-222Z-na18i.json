@@ -1,0 +1,72 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:618416",
+      "storedAt": 1762073867267,
+      "meta": {
+        "storedAt": 1762073867,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "618416",
+        "imdbId": "tt6317656",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/444106?token=f4fede945c07b6c75e958a79727ef463&expires=1767257866&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1424:s1e9",
+      "storedAt": 1762074142806,
+      "meta": {
+        "storedAt": 1762074142,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1424",
+        "imdbId": "tt2372162",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/309042?token=28bc4b925631c6231becef386ce5892d&expires=1767258142&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-02T09:04:54.223Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
