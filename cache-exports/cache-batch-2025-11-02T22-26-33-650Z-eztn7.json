@@ -1,0 +1,141 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:36282",
+      "storedAt": 1762121913647,
+      "meta": {
+        "storedAt": 1762121913,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "36282",
+        "imdbId": "tt0123092",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Broken Arrow (1996) 1080p BluRay REMUX MPEG-2 [Hindi DDP 2.0 + English DTS-HD.MA 5.1] (FraMeSToR-Ionicboy)\n18.94 GB",
+            "url": "https://cdn.aiplex-server69.workers.dev/42d3235f1d677fa3ef49136e6e26ba98afcdb95ca6243bf177b641f50c1c54bfe203ce800b86a6efa0aaf1f2b9c6585f::e8062108ae843826c65dcb1291e249ea/1397326038/Broken%20Arrow%20(1996)%201080p%20BluRay%20REMUX%20MPEG-2%20[Hindi%20DDP%202.0%20+%20English%20DTS-HD.MA%205.1]%20(FraMeSToR-Ionicboy).mkv",
+            "quality": "1080p",
+            "size": "18.94 GB",
+            "fileName": "Broken Arrow (1996) 1080p BluRay REMUX MPEG-2 [Hindi DDP 2.0 + English DTS-HD.MA 5.1] (FraMeSToR-Ionicboy)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "q9vkgSop\n12.05 GB",
+            "url": "https://pixeldrain.dev/api/file/q9vkgSop?download",
+            "quality": "1080p",
+            "size": "12.05 GB",
+            "fileName": "q9vkgSop",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "MDDb7BAm\n8.4 GB",
+            "url": "https://pixeldrain.dev/api/file/MDDb7BAm?download",
+            "quality": "1080p",
+            "size": "8.4 GB",
+            "fileName": "MDDb7BAm",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:456:s24e4",
+      "storedAt": 1762122370524,
+      "meta": {
+        "storedAt": 1762122370,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "456",
+        "imdbId": "tt0096697",
+        "season": 24,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-BATV",
+            "url": "https://a.111477.xyz/tvs/The%20Simpsons/Season%2024/The%20Simpsons%20(1989)%20-%20S24E04%20-%20Gone%20Abie%20Gone%20[WEBDL-1080p][EAC3%205.1][h264]-BATV.mkv",
+            "quality": "1080p",
+            "size": "1.32 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Simpsons (1989) - S24E04 - Gone Abie Gone [WEBDL-1080p][EAC3 5.1][h264]-BATV.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:456:s24e4",
+      "storedAt": 1762122382478,
+      "meta": {
+        "storedAt": 1762122382,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "456",
+        "imdbId": "tt0096697",
+        "season": 24,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Simpsons S24E4 - 4. Gone Abie Gone",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/thesimpsons/s24/The Simpsons Season 24 English 1080p WEB-DL ESub [BollyFlix]/The Simpsons S24E04 English 1080p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "23min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Simpsons S24E4 - 4. Gone Abie Gone",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/thesimpsons/s24/The Simpsons Season 24 English 1080p WEB-DL ESub [BollyFlix]/The Simpsons S24E04 English 1080p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "23min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-02T22:26:33.651Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
