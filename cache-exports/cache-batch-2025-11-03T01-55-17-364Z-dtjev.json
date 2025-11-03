@@ -1,0 +1,102 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:uhdmovies:movie:1439112",
+      "storedAt": 1762134437361,
+      "meta": {
+        "storedAt": 1762134437,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "1439112",
+        "imdbId": "tt32395062",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Muzzle (2023) 1080p BluRay 10bit HEVC [Hindi AAC 2 0 + English DTS 5 1] x265 (EDE-UHDMovies)\n4.91GB",
+            "url": "https://worker-rapid-dew-b9dc.jonovo1574.workers.dev/d11f75891008f0f2fec2fd5e9892822e920b29a92f555d9e4c54938e3f4a7f32ef0c632251b785c6bcda2a33b643ff49acc2784cb5ec2006c555cac40b7db877e671317096e153a79052341bc43a3ed4ebde64071ba07d7d0fd722c72c429f74bd28d4732bacaf189ffab5bdd8e146831189648fca8221aa45c2df4543c3aa3ba5b151ee935d0444a5e7720b8ba54e94069f92cc898f46179b1ffbe06444af3bf0512f08ebab0d2da495923f32746195::69ea5161119fd02f6d2209a1d57a5a64/Muzzle (2023) 1080p BluRay 10bit HEVC [Hindi AAC 2.0  English DTS 5.1] x265 (EDE-UHDMovies).mkv",
+            "quality": "1080p | BluRay",
+            "size": "4.91GB",
+            "fileName": "Muzzle (2023) 1080p BluRay 10bit HEVC [Hindi AAC 2.0 + English DTS 5.1] x265 (EDE-UHDMovies).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:284974:s1e1",
+      "storedAt": 1762134763821,
+      "meta": {
+        "storedAt": 1762134763,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "284974",
+        "imdbId": "tt35834125",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/349606?token=39cddbb619cb4c07ca44748c86029fe7&expires=1767318763&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:68780:s3e4",
+      "storedAt": 1762134471171,
+      "meta": {
+        "storedAt": 1762134471,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "68780",
+        "imdbId": "tt4941240",
+        "season": 3,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/258449?token=34426e471e3bb60a3424caecea7f29f6&expires=1767318470&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-03T01:55:17.364Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
