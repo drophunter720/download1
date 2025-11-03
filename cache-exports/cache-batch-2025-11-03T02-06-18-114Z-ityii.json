@@ -1,0 +1,112 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:tv:46261:s1e1",
+      "storedAt": 1762135559528,
+      "meta": {
+        "storedAt": 1762135559,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "46261",
+        "imdbId": "tt1528406",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "PvL1AJz8\n4.47 GB",
+            "url": "https://pixeldrain.dev/api/file/PvL1AJz8?download",
+            "quality": "1080p",
+            "size": "4.47 GB",
+            "fileName": "PvL1AJz8",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Fairy Tail S01E01 1080p BluRay REMUX AVC [Hindi AAC 2.0 + English TrueHD 5.1 +  Japanese TrueHD 2.0] ZR-4kHdHub.com\n4.47 GB",
+            "url": "https://fsl.anime4u.co/Fairy%20Tail%20S01E01%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20AAC%202.0%20+%20English%20TrueHD%205.1%20+%20%20Japanese%20TrueHD%202.0]%20ZR-4kHdHub.com.mkv?token=1762135559",
+            "quality": "1080p",
+            "size": "4.47 GB",
+            "fileName": "Fairy Tail S01E01 1080p BluRay REMUX AVC [Hindi AAC 2.0 + English TrueHD 5.1 +  Japanese TrueHD 2.0] ZR-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Rk2VGtEV\n514.28 MB",
+            "url": "https://pixeldrain.dev/api/file/Rk2VGtEV?download",
+            "quality": "1080p",
+            "size": "514.28 MB",
+            "fileName": "Rk2VGtEV",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Fairy Tail S01E01 1080p 10bit BluRay HEVC [Hindi AAC 2.0 + English DDP 5.1 + Japanese DDP 2.0] H.265 iVy-4kHdHub.com\n514.28 MB",
+            "url": "https://fsl.anime4u.co/Fairy%20Tail%20S01E01%201080p%2010bit%20BluRay%20HEVC%20[Hindi%20AAC%202.0%20+%20English%20DDP%205.1%20+%20Japanese%20DDP%202.0]%20H.265%20iVy-4kHdHub.com.mkv?token=1762135559",
+            "quality": "1080p",
+            "size": "514.28 MB",
+            "fileName": "Fairy Tail S01E01 1080p 10bit BluRay HEVC [Hindi AAC 2.0 + English DDP 5.1 + Japanese DDP 2.0] H.265 iVy-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:46261:s1e1",
+      "storedAt": 1762135559843,
+      "meta": {
+        "storedAt": 1762135559,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "46261",
+        "imdbId": "tt1528406",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Fairy Tail: Dragon Cry S1E1 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1640761810/s1/episode1.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-03T02:06:18.114Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
