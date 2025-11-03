@@ -1,0 +1,111 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:tv:119845:s2e5",
+      "storedAt": 1762182076737,
+      "meta": {
+        "storedAt": 1762182076,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "119845",
+        "imdbId": "tt11761194",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/171131?token=39bb466eb4ca5a17fa28b07c04a3e64b&expires=1767366076&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:126506:s1e1",
+      "storedAt": 1762181986111,
+      "meta": {
+        "storedAt": 1762181986,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "126506",
+        "imdbId": "tt12074628",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "X2mJ45Xr\n1.88 GB",
+            "url": "https://pixeldrain.dev/api/file/X2mJ45Xr?download",
+            "quality": "1080p",
+            "size": "1.88 GB",
+            "fileName": "X2mJ45Xr",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "8bxVUxGS\n1.39 GB",
+            "url": "https://pixeldrain.dev/api/file/8bxVUxGS?download",
+            "quality": "1080p",
+            "size": "1.39 GB",
+            "fileName": "8bxVUxGS",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "M9T8yAQB\n3.68 GB",
+            "url": "https://pixeldrain.dev/api/file/M9T8yAQB?download",
+            "quality": "2160p",
+            "size": "3.68 GB",
+            "fileName": "M9T8yAQB",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "YsU4qNoY\n4.49 GB",
+            "url": "https://pixeldrain.dev/api/file/YsU4qNoY?download",
+            "quality": "2160p",
+            "size": "4.49 GB",
+            "fileName": "YsU4qNoY",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-03T15:02:54.577Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
