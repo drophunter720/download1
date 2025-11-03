@@ -1,0 +1,84 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:tv:60625:s8e9",
+      "storedAt": 1762153845567,
+      "meta": {
+        "storedAt": 1762153845,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "60625",
+        "imdbId": "tt2861424",
+        "season": 8,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x264]-SuccessfulCrab",
+            "url": "https://a.111477.xyz/tvs/Rick%20and%20Morty/Season%208/Rick%20and%20Morty%20(2013)%20-%20S08E09%20-%20Morty%20Daddy%20[WEBDL-1080p][EAC3%205.1][x264]-SuccessfulCrab.mkv",
+            "quality": "1080p",
+            "size": "423.58 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Rick and Morty (2013) - S08E09 - Morty Daddy [WEBDL-1080p][EAC3 5.1][x264]-SuccessfulCrab.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 5 1][HEVC]-PSA",
+            "url": "https://a.111477.xyz/tvs/Rick%20and%20Morty/Season%208/Rick%20and%20Morty%20(2013)%20-%20S08E09%20-%20Morty%20Daddy%20[WEBRip-1080p][AAC%205.1][HEVC]-PSA.mkv",
+            "quality": "1080p",
+            "size": "198.34 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Rick and Morty (2013) - S08E09 - Morty Daddy [WEBRip-1080p][AAC 5.1][HEVC]-PSA.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:60625:s8e9",
+      "storedAt": 1762153848364,
+      "meta": {
+        "storedAt": 1762153848,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "60625",
+        "imdbId": "tt2861424",
+        "season": 8,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Rick and Morty S8E9 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1671125083/s8/episode9.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-03T07:15:45.792Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
