@@ -1,0 +1,42 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:tv:484:s2e5",
+      "storedAt": 1762297321576,
+      "meta": {
+        "storedAt": 1762297321,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "484",
+        "imdbId": "tt0086765",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/236975?token=65858e37df1bb41841c1fb1ff092bc9c&expires=1767481321&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-04T23:02:42.994Z",
+    "totalOriginalEntries": 1,
+    "newItemsInThisBatch": 1,
+    "format": "compact_v1"
+  }
+}
