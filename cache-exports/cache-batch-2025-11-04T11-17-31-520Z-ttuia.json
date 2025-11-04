@@ -1,0 +1,152 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:tv:154825:s1e3",
+      "storedAt": 1762255050065,
+      "meta": {
+        "storedAt": 1762255050,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "154825",
+        "imdbId": "tt14819828",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "uEK67F5z\n2.29 GB",
+            "url": "https://pixeldrain.dev/api/file/uEK67F5z?download",
+            "quality": "1080p",
+            "size": "2.29 GB",
+            "fileName": "uEK67F5z",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:154825:s1e3",
+      "storedAt": 1762255051026,
+      "meta": {
+        "storedAt": 1762255051,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "154825",
+        "imdbId": "tt14819828",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Business Proposal S1E3 - 3. Episode 3",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/abussinessporpasal/s1/A Business Proposal S01E03 {Hindi-English-Korean} 720p HEVC WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "61min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Business Proposal S1E3 - 3. Episode 3",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/abussinessporpasal/s1/A Business Proposal S01E03 {Hindi-English-Korean} 720p HEVC WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "61min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1668:s9e11",
+      "storedAt": 1762254842024,
+      "meta": {
+        "storedAt": 1762254842,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1668",
+        "imdbId": "tt0108778",
+        "season": 9,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/176453?token=47f162c3f7bf4f7d9d30c4effa5fa580&expires=1767438841&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:96450:s4e6",
+      "storedAt": 1762254571516,
+      "meta": {
+        "storedAt": 1762254571,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "96450",
+        "imdbId": "tt8270592",
+        "season": 4,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/458593?token=a70fb97b5ab0858241fc1fdca1e6bde4&expires=1767438571&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-04T11:17:31.520Z",
+    "totalOriginalEntries": 4,
+    "newItemsInThisBatch": 4,
+    "format": "compact_v1"
+  }
+}
