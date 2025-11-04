@@ -1,0 +1,71 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:movie:40205",
+      "storedAt": 1762294143873,
+      "meta": {
+        "storedAt": 1762294143,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "40205",
+        "imdbId": "tt1646876",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x264-OFT",
+            "url": "https://a.111477.xyz/movies/16%20Wishes%20(2010)/16.Wishes.2010.1080p.BluRay.x264-OFT.mkv",
+            "quality": "1080p",
+            "size": "3.91 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "16.Wishes.2010.1080p.BluRay.x264-OFT.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:243881:s2e5",
+      "storedAt": 1762293788481,
+      "meta": {
+        "storedAt": 1762293788,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "243881",
+        "imdbId": "tt30955673",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/473040?token=373ca0143b8ab5061b8c2410ae2e54b8&expires=1767477788&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-04T22:09:44.544Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
