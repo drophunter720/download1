@@ -1,0 +1,106 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:tv:2692:s2e26",
+      "storedAt": 1762225822532,
+      "meta": {
+        "storedAt": 1762225822,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2692",
+        "imdbId": "tt0273855",
+        "season": 2,
+        "episode": 26,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/199143?token=c507b8b1675a57c1ef37a9590cadd51b&expires=1767409821&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:71712:s6e9",
+      "storedAt": 1762225485823,
+      "meta": {
+        "storedAt": 1762225485,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "71712",
+        "imdbId": "tt6470478",
+        "season": 6,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-NTb",
+            "url": "https://a.111477.xyz/tvs/The%20Good%20Doctor/Season%206/The%20Good%20Doctor%20(2017)%20-%20S06E09%20-%20Broken%20or%20Not%20[WEBDL-1080p][EAC3%205.1][h264]-NTb.mkv",
+            "quality": "1080p",
+            "size": "1.92 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Good Doctor (2017) - S06E09 - Broken or Not [WEBDL-1080p][EAC3 5.1][h264]-NTb.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:71712:s6e9",
+      "storedAt": 1762225488696,
+      "meta": {
+        "storedAt": 1762225488,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "71712",
+        "imdbId": "tt6470478",
+        "season": 6,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Good Doctor S6E9 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1679984996/s6/episode9.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-04T03:12:45.826Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
