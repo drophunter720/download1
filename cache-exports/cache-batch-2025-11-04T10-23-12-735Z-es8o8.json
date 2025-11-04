@@ -1,0 +1,110 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:1813",
+      "storedAt": 1762251723418,
+      "meta": {
+        "storedAt": 1762251723,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1813",
+        "imdbId": "tt0118971",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "F6bnTCts\n11.66 GB",
+            "url": "https://pixeldrain.dev/api/file/F6bnTCts?download",
+            "quality": "1080p",
+            "size": "11.66 GB",
+            "fileName": "F6bnTCts",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:1813",
+      "storedAt": 1762251723011,
+      "meta": {
+        "storedAt": 1762251723,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "1813",
+        "imdbId": "tt0118971",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay Remux DTS HD 5 1",
+            "url": "https://a.111477.xyz/movies/The%20Devil",
+            "quality": "1080p | DV | REMUX",
+            "size": "29.80 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Devils Advocate 1997 1080p BluRay Remux DTS HD 5 1.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x264-OFT",
+            "url": "https://a.111477.xyz/movies/The%20Devil",
+            "quality": "1080p | DV",
+            "size": "6.24 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Devils.Advocate.1997.1080p.BluRay.x264-OFT.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265-RARBG-xpost",
+            "url": "https://a.111477.xyz/movies/The%20Devil",
+            "quality": "1080p | DV",
+            "size": "2.24 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Devils.Advocate.1997.1080p.BluRay.x265-RARBG-xpost.mp4"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay DTS x264 D-Z0N3",
+            "url": "https://a.111477.xyz/movies/The%20Devil",
+            "quality": "1080p | DV",
+            "size": "14.78 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Devils.Advocate.1997.UNRATED.1080p.BluRay.DTS.x264.D-Z0N3.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay AV1 Opus 5 1-Retr0",
+            "url": "https://a.111477.xyz/movies/The%20Devil",
+            "quality": "1080p | DV",
+            "size": "2.20 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Devils.Advocate.1997.Unrated.1080p.BluRay.AV1.Opus.5.1-Retr0.mkv"
+          }
+        ],
+        "count": 5
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-04T10:23:12.735Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
