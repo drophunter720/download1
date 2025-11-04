@@ -1,0 +1,72 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:uhdmovies:tv:153312:s3e1",
+      "storedAt": 1762297676707,
+      "meta": {
+        "storedAt": 1762297676,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "153312",
+        "imdbId": "tt16358384",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Tulsa King S01E01 2160p AMZN WEB-DL SDR 10bit HEVC [Hindi DD 2 0 + English DDP 5 1] x265 (NTb-UHDMovies)\n4.51GB",
+            "url": "https://worker-little-star-7f02.gecobi8468.workers.dev/1cce8c3d91d89181b8ac74d8d656f8d0682740bf29726263a98f1535b2f4b37ac6095bf21e913b0e4fe31d7944368f2c260e272bbe05ef20df7b6216de0aac37ded6771be9853626a4211f1d8b55666ea2ea02917f133a5701df3f669b8b897cf271b521e31465bce89943aa5be2b8ec615be16baa86bb5af72c9f307d6ded5d96423ba2d1658ea86d1b8d80bab30ddc6bf5d3b5dc7556fa2ecbb7fb46e994c9555237382756e2b80e6774b1297528d0::f9ddf97fbe88dd3a58730f0d89d3fce8/Tulsa King S01E01 2160p AMZN WEB-DL SDR 10bit HEVC [Hindi DD 2.0  English DDP 5.1] x265 (NTb-UHDMovies).mkv",
+            "quality": "4K",
+            "size": "4.51GB",
+            "fileName": "Tulsa King S01E01 2160p AMZN WEB-DL SDR 10bit HEVC [Hindi DD 2.0 + English DDP 5.1] x265 (NTb-UHDMovies).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:279644:s1e1",
+      "storedAt": 1762297490370,
+      "meta": {
+        "storedAt": 1762297490,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "279644",
+        "imdbId": "tt34881067",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/351848?token=e80fbe24d23f1e17b7fbb43b09a78671&expires=1767481489&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-04T23:11:40.884Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
