@@ -1,0 +1,74 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:tv:71712:s6e21",
+      "storedAt": 1762250295481,
+      "meta": {
+        "storedAt": 1762250295,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "71712",
+        "imdbId": "tt6470478",
+        "season": 6,
+        "episode": 21,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-NTb",
+            "url": "https://a.111477.xyz/tvs/The%20Good%20Doctor/Season%206/The%20Good%20Doctor%20(2017)%20-%20S06E21%20-%20A%20Beautiful%20Day%20[WEBDL-1080p][EAC3%205.1][h264]-NTb.mkv",
+            "quality": "1080p",
+            "size": "2.04 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Good Doctor (2017) - S06E21 - A Beautiful Day [WEBDL-1080p][EAC3 5.1][h264]-NTb.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:71712:s6e21",
+      "storedAt": 1762250297738,
+      "meta": {
+        "storedAt": 1762250297,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "71712",
+        "imdbId": "tt6470478",
+        "season": 6,
+        "episode": 21,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Good Doctor S6E21 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1679984996/s6/episode21.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-04T10:06:15.489Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
