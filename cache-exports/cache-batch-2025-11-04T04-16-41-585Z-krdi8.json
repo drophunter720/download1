@@ -1,0 +1,71 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:movie:50671",
+      "storedAt": 1762229329824,
+      "meta": {
+        "storedAt": 1762229329,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "50671",
+        "imdbId": "tt1334102",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x264-OFT",
+            "url": "https://a.111477.xyz/movies/The%20Resident%20(2011)/The.Resident.2011.1080p.BluRay.x264-OFT.mkv",
+            "quality": "1080p",
+            "size": "3.95 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Resident.2011.1080p.BluRay.x264-OFT.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:237938:s1e1",
+      "storedAt": 1762229566405,
+      "meta": {
+        "storedAt": 1762229566,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "237938",
+        "imdbId": null,
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/377781?token=87c2e9fc917afd2de5c0ee29afda91dd&expires=1767413566&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-04T04:16:41.585Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
