@@ -1,0 +1,852 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:258322",
+      "storedAt": 1762312122699,
+      "meta": {
+        "storedAt": 1762312122,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "258322",
+        "imdbId": "tt3425034",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/174835?token=05daa28e8945d0364c21a583c7551c05&expires=1767496122&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:9799",
+      "storedAt": 1762312243634,
+      "meta": {
+        "storedAt": 1762312243,
+        "urlCount": 11,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "9799",
+        "imdbId": "tt0232500",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The Fast and the Furious 2001 2160p UHD BluRay REMUX HDR 10bit HEVC [Hindi DDP 5.1 + English DTS-X 7.1] x265 FraMeSToR-LUMiX 4KHDHub.com\n51.22 GB",
+            "url": "https://lol.say-no-to-piracy.store/The%20Fast%20and%20the%20Furious%202001%202160p%20UHD%20BluRay%20REMUX%20HDR%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DTS-X%207.1]%20x265%20FraMeSToR-LUMiX%204KHDHub.com.mkv?token=1762312243",
+            "quality": "2160p",
+            "size": "51.22 GB",
+            "fileName": "The Fast and the Furious 2001 2160p UHD BluRay REMUX HDR 10bit HEVC [Hindi DDP 5.1 + English DTS-X 7.1] x265 FraMeSToR-LUMiX 4KHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Fast and the Furious 2001 1080p BluRay REMUX VC-1 [Hindi DDP 5.1 + English DTS-X 7.1] FraMeSToR-LUMiX 4KHDHub.com\n24.8 GB",
+            "url": "https://fsl.anime4u.co/The%20Fast%20and%20the%20Furious%202001%201080p%20BluRay%20REMUX%20VC-1%20[Hindi%20DDP%205.1%20+%20English%20DTS-X%207.1]%20FraMeSToR-LUMiX%204KHDHub.com.mkv?token=1762312243",
+            "quality": "1080p",
+            "size": "24.8 GB",
+            "fileName": "The Fast and the Furious 2001 1080p BluRay REMUX VC-1 [Hindi DDP 5.1 + English DTS-X 7.1] FraMeSToR-LUMiX 4KHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The Fast and the Furious 2001 2160p UHD BluRay HDR 10bit HEVC [Hindi DDP 5.1 + English DTS-X 7.1] x265 MainFrame-LUMiX 4KHDHub.com\n21.43 GB",
+            "url": "https://fsl.anime4u.co/The%20Fast%20and%20the%20Furious%202001%202160p%20UHD%20BluRay%20HDR%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DTS-X%207.1]%20x265%20MainFrame-LUMiX%204KHDHub.com.mkv?token=1762312243",
+            "quality": "2160p",
+            "size": "21.43 GB",
+            "fileName": "The Fast and the Furious 2001 2160p UHD BluRay HDR 10bit HEVC [Hindi DDP 5.1 + English DTS-X 7.1] x265 MainFrame-LUMiX 4KHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "iryRnRGp\n15.08 GB",
+            "url": "https://pixeldrain.net/api/file/iryRnRGp",
+            "quality": "1080p",
+            "size": "15.08 GB",
+            "fileName": "iryRnRGp",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Fast and the Furious 2001 1080p BluRay [Hindi DDP 5.1 + English DDP 7.1] x264 playHD-LUMiX 4KHDHub.com\n15.08 GB",
+            "url": "https://fsl.anime4u.co/The%20Fast%20and%20the%20Furious%202001%201080p%20BluRay%20[Hindi%20DDP%205.1%20+%20English%20DDP%207.1]%20x264%20playHD-LUMiX%204KHDHub.com.mkv?token=1762312243",
+            "quality": "1080p",
+            "size": "15.08 GB",
+            "fileName": "The Fast and the Furious 2001 1080p BluRay [Hindi DDP 5.1 + English DDP 7.1] x264 playHD-LUMiX 4KHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "bVp2pM5P\n13.63 GB",
+            "url": "https://pixeldrain.net/api/file/bVp2pM5P",
+            "quality": "1080p",
+            "size": "13.63 GB",
+            "fileName": "bVp2pM5P",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Fast and the Furious 2001 1080p UHD BluRay HDR 10bit HEVC [Hindi DDP 5.1 + English DDP 7.1] x265 NCmt-LUMiX 4KHDHub.com\n13.63 GB",
+            "url": "https://fsl.anime4u.co/The%20Fast%20and%20the%20Furious%202001%201080p%20UHD%20BluRay%20HDR%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DDP%207.1]%20x265%20NCmt-LUMiX%204KHDHub.com.mkv?token=1762312243",
+            "quality": "1080p",
+            "size": "13.63 GB",
+            "fileName": "The Fast and the Furious 2001 1080p UHD BluRay HDR 10bit HEVC [Hindi DDP 5.1 + English DDP 7.1] x265 NCmt-LUMiX 4KHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "8wVoygaM\n10.72 GB",
+            "url": "https://pixeldrain.net/api/file/8wVoygaM",
+            "quality": "1080p",
+            "size": "10.72 GB",
+            "fileName": "8wVoygaM",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Fast and the Furious 2001 Open Matte 1080p AMZN WEB-DL [Hindi DDP 5.1 + English DDP 5.1] x264 spartanec163-LUMiX 4KHDHub.com\n10.72 GB",
+            "url": "https://fsl.anime4u.co/The%20Fast%20and%20the%20Furious%202001%20Open%20Matte%201080p%20AMZN%20WEB-DL%20[Hindi%20DDP%205.1%20+%20English%20DDP%205.1]%20x264%20spartanec163-LUMiX%204KHDHub.com.mkv?token=1762312243",
+            "quality": "1080p",
+            "size": "10.72 GB",
+            "fileName": "The Fast and the Furious 2001 Open Matte 1080p AMZN WEB-DL [Hindi DDP 5.1 + English DDP 5.1] x264 spartanec163-LUMiX 4KHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "YPomh4j7\n6.1 GB",
+            "url": "https://pixeldrain.net/api/file/YPomh4j7",
+            "quality": "1080p",
+            "size": "6.1 GB",
+            "fileName": "YPomh4j7",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Fast and the Furious 2001 1080p BluRay 10bit HEVC [Hindi DDP 5.1 + English DDP 7.1] x265 K1tKat-LUMiX 4KHDHub.com\n6.1 GB",
+            "url": "https://fsl.anime4u.co/The%20Fast%20and%20the%20Furious%202001%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DDP%207.1]%20x265%20K1tKat-LUMiX%204KHDHub.com.mkv?token=1762312243",
+            "quality": "1080p",
+            "size": "6.1 GB",
+            "fileName": "The Fast and the Furious 2001 1080p BluRay 10bit HEVC [Hindi DDP 5.1 + English DDP 7.1] x265 K1tKat-LUMiX 4KHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 11
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:9799",
+      "storedAt": 1762312248203,
+      "meta": {
+        "storedAt": 1762312248,
+        "urlCount": 10,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "9799",
+        "imdbId": "tt0232500",
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Bedevilled.2010.1080p.BluRay.Hindi.5.1-Korean.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/mX94JwLu",
+            "quality": "1080p",
+            "size": "2.9 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Bedevilled.2010.1080p.BluRay.Hindi.5.1-Korean.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://lol.say-no-to-piracy.store/Bedevilled.2010.1080p.BluRay.Hindi.5.1-Korean.5.1.ESub.x264-HDHub4u.Ms.mkv?token=1762311791",
+            "quality": "1080p",
+            "size": "2.9 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Bedevilled.2010.1080p.BluRay.Hindi.5.1-Korean.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lQnyVTykuHH7WzYbj7SMqKIEh8Cys1f4VoGEwzsTDsOlOfaM0zGyU43Yfqn09DZzrUAWTZR8oVVzskVKFIgjTo_i_pKPUuQduxPgUpeE_WHdS4Pe6DNyb-omJ8njT9rZ2VhZ2Wzf5Vvs9F1uQDyXD1LQQ6x4pFnNNMyMhGkXgN0fj6wbfpANhopei3ovIxtp1hUqypc6BOc_JnQP1QjeD7kLfmHGkrlQT8mEAkda3AW_jYGKU",
+            "quality": "1080p",
+            "size": "2.9 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "1.The.Fast.And.The.Furious.2001.720p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/u/91MvL7qD",
+            "quality": "720p",
+            "size": "1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "1.The.Fast.And.The.Furious.2001.720p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "url": "https://fsl.anime4u.co/1.The.Fast.And.The.Furious.2001.720p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv?token=1762312244",
+            "quality": "720p",
+            "size": "1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "1.The.Fast.And.The.Furious.2001.720p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kA7QDnt_Ew4dSPAmhd69PXks49up-sujRGmomU35bS2PtYIVNg-WYCuDA7YXAjqNlAfPeMK-FYA7x0LRZFHK5JjRPuYebIbMjju6ei2wBkxC_wUa-GBxGCh3S2daVvpN3gx01JOl6vrz9Z14-uf0FEVdv63ne9iSf-kzt3mfvtT1D-DR9PT0LowJc1hVyz3u3VYcIbOafLCO72Mqr5D4H9NuzzcheMvYXcplnZGOQz7PGYxy4",
+            "quality": "720p",
+            "size": "1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "1.The.Fast.And.The.Furious.2001.720p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lZf5kl_6OePxv-eERNwA9ZAXslu-U_YDwBEggu5_TbIQI8Itd-LQe2J7Sa7ZIrPTIsxSNfYhNrrfXFuwQSx8BAmAaRsrQjRnfSbt_WMRutbKr6oMW1yuE4C7Cey9KBLrVwcVFQbWZqKo6xOc1g5CnMuobNUBy6eqLbLk4g3etm0C9xJg0V4trGRN7VbVxEtvp4vXCkdVxObe9f9Hl5UxoE2BIq_GQFH_yn8azpJxsuvbU2wDqzHR_U5QaYWWDjWBICnN2u",
+            "quality": "720p",
+            "size": "1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "1.The.Fast.And.The.Furious.2001.480p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/u/3fH9ZMaS",
+            "quality": "480p",
+            "size": "430.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "1.The.Fast.And.The.Furious.2001.480p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nsBsMfhIpCFa63LV8tHel3ff8PedbkrzJ6PEAetQDqL4YF4417Lh9f6BgBBMNKsjT9TKb290po-z4EgPy2hWpivqkxCGeD8mL98nz1IYbhsLlPyyUIQWn11yn2hxL1lwaGlvLqyrjx-n9y45CpPGrC6DZi5Fie3H2ZXuxcaLmi7dxoYr02MBibESx5nycGuhzjR_vlHraX_i--LzfvyaHPZg9yMzsrnjXLJkh2-ftf6ks2fAo",
+            "quality": "480p",
+            "size": "430.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "1.The.Fast.And.The.Furious.2001.480p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2l9CesPhRzlFxz9gI6USnyiGFlfJVFsJqouk8zhEef73psn6B5a-iOCAxQMgAXB2gRr-p9DisPLQEv30GLN2WebadoFg3VUTS-knj-QqIcHwx1GT0x7fjRLvrWqi9f8eO-iHZq0W1TYBonPKHVExIJLQRGPFjarV7KR95eE7eZhGwKdUBGtPHNxwaCbhppclWlllYHcIJ6R0G9Jtvar7djSau_Qh60LikplAxY1xIpstMQl_XJcrGRRvLkuZGV7sj-jafU8",
+            "quality": "480p",
+            "size": "430.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 10
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:9799",
+      "storedAt": 1762312242426,
+      "meta": {
+        "storedAt": 1762312242,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "9799",
+        "imdbId": "tt0232500",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Fast and the Furious - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2001/ff2001.mkv",
+            "quality": "1080p",
+            "size": "1h 46m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Fast and the Furious - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2001/ff2001.mkv",
+            "quality": "1080p",
+            "size": "1h 46m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Fast and the Furious - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2001/ff2001.mkv",
+            "quality": "720p",
+            "size": "1h 46m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Fast and the Furious - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2001/ff2001.mkv",
+            "quality": "720p",
+            "size": "1h 46m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:9799",
+      "storedAt": 1762312258855,
+      "meta": {
+        "storedAt": 1762312258,
+        "urlCount": 22,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "9799",
+        "imdbId": "tt0232500",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "The Fast and the Furious (2001) 2160p UHD BluRay HDR 10bit HEVC [DDP 5 1 Hindi + DTS-HDMA 5 1 English] x265 (FraMeSToR-UHDMovies)[51 4GB]\n51.44GB",
+            "url": "https://hello-world-empty-shadow-b7e0.liciy56051.workers.dev/9c78ba8629a1306eb771d969410539f93e4496de04ef176e81df57ce0d5cc01602bd5a1e8c0f5c4f6da513a5771a38ff35b8b73655424ac33185acbacadb482abd210d4be1f84f9b1c9368a5df6ba7e2d729685b8cf45de5d207bfc40a3014e27c014c5d6c9b44197d1beee3410b8c4d72c8d15655e73c30732a57484af11c7d41670f2e970391d7e50f513efda2a3c5d4b4c7a89f7d0218988bff48c813923c965eea35dc44bebd31f3db849bf55ef6::5d200b19b0b8683fe9adc4a6ce92f84d/The Fast and the Furious (2001) 2160p UHD BluRay HDR 10bit HEVC [DDP 5.1 Hindi  DTS-HDMA 5.1 English] x265 (FraMeSToR-UHDMovies)[51.4GB].mkv",
+            "quality": "4K | HDR | BluRay",
+            "size": "51.44GB",
+            "fileName": "The Fast and the Furious (2001) 2160p UHD BluRay HDR 10bit HEVC [DDP 5.1 Hindi + DTS-HDMA 5.1 English] x265 (FraMeSToR-UHDMovies)[51.4GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "The Fate of the Furious (2017) 2160p UHD BluRay REMUX HDR 10bit HEVC [DD 5 1 Hindi + DTS-HDMA 7 1 English] x265 (FRAMESTOR-UHDMovies)[50GB]\n50.42GB",
+            "url": "https://worker-odd-paper-3e12.paheha9858.workers.dev/8c67b1fd849183ab04102b78ae221a12258b260212912fe8229956af6b64acb0177f35f8c438c47fa44cff55b5cdf22ebfc1efede3a275cc189349d24b39819fa0063295f7ace5f00e3d3e60a37108303c3ac9af69badbfcd87565c2ad2ed13977c0c4494f37edfa44b78247d2ca2706cea86434b3095613b7f7873f93b182a1a43e5e23de9d74844ed0d4b34df9ee4cfd13d2d9ab225613221db680be5e1fc6f9cf83a8f031cf1ead13d564988acfca::4096c834cb6d5fb2bc37c43715eb70aa/The Fate of the Furious (2017) 2160p UHD BluRay REMUX HDR 10bit HEVC [DD 5.1 Hindi  DTS-HDMA 7.1 English] x265 (FRAMESTOR-UHDMovies)[50GB].mkv",
+            "quality": "4K | HDR | BluRay",
+            "size": "50.42GB",
+            "fileName": "The Fate of the Furious (2017) 2160p UHD BluRay REMUX HDR 10bit HEVC [DD 5.1 Hindi + DTS-HDMA 7.1 English] x265 (FRAMESTOR-UHDMovies)[50GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Fast Five 2011 Extended 2160p UHD BluRay REMUX HDR 10bit HEVC [DDP 5 1 Hindi + DTS-HDMA 7 1 English] x265 (FraMeSToR-UHDMovies)[49GB]\n49.44GB",
+            "url": "https://worker-blue-meadow-c397.jexiyo4124.workers.dev/1a6c2d37dab517605dc0d4b98de8a88cf588387c73a11cd86cf601733eee3018fd2247846650c0ac730ac7527eda0f1598a916ae9ca809bfa2fea26c5a10ceac1ab5655a1d8fa77e49e6bd185a54086896f644e9cff4dd8bae6219c22f17f6cdf16edc46c6c85a6c8822688ae961b93f625a5774846e4bd9d29eb422243f67c450865cbf6aa6f20d409200f8efe5967a6e50af7e4746164d234e6f7437a44cf4936fa55faf97d511d94786a3a6e716cc::c4e8720daa2ceb7e80d7017bb3a130c5/Fast Five 2011 Extended 2160p UHD BluRay REMUX HDR 10bit HEVC [DDP 5.1 Hindi  DTS-HDMA 7.1 English] x265 (FraMeSToR-UHDMovies)[49GB].mkv",
+            "quality": "4K | HDR | BluRay",
+            "size": "49.44GB",
+            "fileName": "Fast Five 2011 Extended 2160p UHD BluRay REMUX HDR 10bit HEVC [DDP 5.1 Hindi + DTS-HDMA 7.1 English] x265 (FraMeSToR-UHDMovies)[49GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Fast & Furious 7 (2015) Extended 2160p UHD BluRay REMUX HDR 10bit HEVC [DD 5 1 Hindi + DTS-HDMA 7 1 English] x265 (EPSiLON-UHDMovies)[46 4GB]\n46.34GB",
+            "url": "https://worker-shiny-sun-14b1.xesitif709.workers.dev/db23f10ca870e1c93e48ac6727e05b5b9c685367144e28eadfb0a6e7a47ba1bbde9dfdc3b6acc4bdfde425956386dd74d05b0fc119b151854825a9399a202cfddd050ae55ee57da2e2c619fb89902ebee7cbadc905f6a03b077ccdbe0b57476475f3fdedeed69df4187bc0b553965bdb3a7723101129613aa8c6aa2fc781ff968b23950486ee5106a51bac0c9acb1e43c1ece2fa0c7e365bdde5086b9bbdecda3e42ba5f589b813c3e34d1c1e37aaf12::d9ecbb2ba627f4ef8f66d1098a07a4a7/Fast & Furious 7 (2015) Extended 2160p UHD BluRay REMUX HDR 10bit HEVC [DD 5.1 Hindi  DTS-HDMA 7.1 English] x265 (EPSiLON-UHDMovies)[46.4GB].mkv",
+            "quality": "4K | HDR | BluRay",
+            "size": "46.34GB",
+            "fileName": "Fast & Furious 7 (2015) Extended 2160p UHD BluRay REMUX HDR 10bit HEVC [DD 5.1 Hindi + DTS-HDMA 7.1 English] x265 (EPSiLON-UHDMovies)[46.4GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "The Fast and the Furious (2001) 2160p UHD BluRay SDR 10bit HEVC [DDP 5 1 Hindi + DTS 5 1 English] x265 (SWTYBLZ-UHDMovies)[35 36GB]\n35.26GB",
+            "url": "https://worker-broken-disk-3774.xoweli6940.workers.dev/ff4b003c16d95f2e7cb4659ac41a0431e3a9615142dcd62a18ac4ceb7a33430a162f50120cc185366c33954b670eb974841495d5634c0adb3491c17e4bbf8c182d16928087c8fb44baa716f5db1a8bc5ac1825d144e2cd4186985c6c4a2a34a1c9f3f2bb1bc1eb7ac5194d5eba624ac5b6de96a9550643a7af0f1760c8d89bd934c7ec35d0baa0c210a68cfa86d599fac9b87c2a8e0911ff2ca373398d91e3db949d1917eb903f86e364b39ce9eefc02::e6f9d603fda01e92b18ecf48c908ee40/The Fast and the Furious (2001) 2160p UHD BluRay SDR 10bit HEVC [DDP 5.1 Hindi  DTS 5.1 English] x265 (SWTYBLZ-UHDMovies)[35.36GB].mkv",
+            "quality": "4K | BluRay",
+            "size": "35.26GB",
+            "fileName": "The Fast and the Furious (2001) 2160p UHD BluRay SDR 10bit HEVC [DDP 5.1 Hindi + DTS 5.1 English] x265 (SWTYBLZ-UHDMovies)[35.36GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "The Fast and the Furious - Tokyo Drift (2006) 2160p UHD BluRay SDR 10bit HEVC [DDP 5 1 Hindi +DTS-HDMA 7 1 English] x265 (SWTYBLZ-UHDMovies)[27 1GB]\n27.1GB",
+            "url": "https://worker-shrill-lake-d75a.conaxe5106.workers.dev/612ab901cdbd2ce1d78d18a600b1895e29a7887b5c2788b37a8509b642ae2a4e0c660c445ff2e5d1682f19466840b515d0f3ded1b7073ed6b35c7a5c2fe82ec098c4b37b4bd1ff0b22266d37b0ad4472abdb1b91e06e1faf9b4648b359975db7a78226105497abe1dd79fb1c6c13653cbecf98ae3b46b613c561770b949046d112b5bb483b3d20b013e24f1153246402522d049b89af77df9f0a8a563883bf4c96fd19ccabade5f091dd170a69f718ff::a000d99625a8d77e48bed69d58cd1ddd/The Fast and the Furious - Tokyo Drift (2006) 2160p UHD BluRay SDR 10bit HEVC [DDP 5.1 Hindi DTS-HDMA 7.1 English] x265 (SWTYBLZ-UHDMovies)[27.1GB].mkv",
+            "quality": "4K | BluRay",
+            "size": "27.1GB",
+            "fileName": "The Fast and the Furious - Tokyo Drift (2006) 2160p UHD BluRay SDR 10bit HEVC [DDP 5.1 Hindi +DTS-HDMA 7.1 English] x265 (SWTYBLZ-UHDMovies)[27.1GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Fast & Furious 6 (2013) Extended 1080p BluRay REMUX [DTS 5 1 Hindi + DTS-HDMA 5 1 English] x264 (ARTEMiS-UHDMovies)[23 9GB]\n23.95GB",
+            "url": "https://worker-solitary-hill-4a70.sehewa2477.workers.dev/c6cced1025b798e7e56d2f0fcb5cf2694635166e3cbfc80a72c42a9e4111243403ec57522405a7b6f8c4f6ea4f76ca988b606cd6f8210c81558867894d9965b914b10c7537d3470f93a6cfaee0a594b4ddc9a8da5885849795033633bc88ef9148200eb5a6a6b2586d90df2eb58311540ce4f4cd2248992c473cb20ed9c0b57efb2a79215f022a4828f79168866e30bd1ac3f8a98a397bd8506d187df5644fbe9102fae215b86a4905b6dfec11013877::0d9c393ad14827f3970e37cc893bb944/Fast & Furious 6 (2013) Extended 1080p BluRay REMUX [DTS 5.1 Hindi  DTS-HDMA 5.1 English] x264 (ARTEMiS-UHDMovies)[23.9GB].mkv",
+            "quality": "1080p | BluRay",
+            "size": "23.95GB",
+            "fileName": "Fast & Furious 6 (2013) Extended 1080p BluRay REMUX [DTS 5.1 Hindi + DTS-HDMA 5.1 English] x264 (ARTEMiS-UHDMovies)[23.9GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Fast Five 2011 Extended 1080p BluRay REMUX AVC [DDP 5 1 Hindi + DTS-HDMA 5 1 English] x264 (FraMesToR-UHDMovies)[23 9GB]\n23.92GB",
+            "url": "https://worker-odd-paper-3e12.paheha9858.workers.dev/bc1e2096e469f8a12218f320e0003b5794c057af376af579e3c75835694b2088d99d2a219f09a8c8699548bc5ab17ddfeff6ab81e146a78c3df5058f85881ffeaf5fd3b05f51963385c49943fd66bbf8387b2def96475878a831c33d93696cabc96eb9e4441aa80a419289663848bd64c698cf703a18f942735f672d91e3aa84b4d143da227d4a649af997ab7098b45d3d76969c22768f3fa97e4702a46c422869e774431a634dab58422bd84a8310a2::6425b61dc5a6774c0e69b8839887559f/Fast Five 2011 Extended 1080p BluRay REMUX AVC [DDP 5.1 Hindi  DTS-HDMA 5.1 English] x264 (FraMesToR-UHDMovies)[23.9GB].mkv",
+            "quality": "1080p | BluRay",
+            "size": "23.92GB",
+            "fileName": "Fast Five 2011 Extended 1080p BluRay REMUX AVC [DDP 5.1 Hindi + DTS-HDMA 5.1 English] x264 (FraMesToR-UHDMovies)[23.9GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "The Fate of the Furious (2017) 2160p UHD BluRay HDR 10bit HEVC [DTS 5 1 Hindi + DTS-HDMA 7 1 English] x265 (SPHD-UHDMovies)[23 4GB]\n23.47GB",
+            "url": "https://worker-green-dust-7032.visejij687.workers.dev/7849f6a51f94eeb9a7d44a507dacb8d726a3957429374518e5704b08ca884fdcde4c9ae934318760f14c267a70118a1977767677e5e112a95ed51b1af814b7079b3209e6f416345471523bf8febcd4ddf029ce0303e41b7395fe0c1ef3865dd389392fdd2fc6f65ea63be5e127a1d11dd1973292c984be64ee342635f92237c59fc09e300272c4f9f921e578e576d6e7036822bf6193a0a634e1d946d876e3dc67cbc01466b7494305385b44c609eb62::9199aecf18b6c409bb99b0966d474330/The Fate of the Furious (2017) 2160p UHD BluRay HDR 10bit HEVC [DTS 5.1 Hindi  DTS-HDMA 7.1 English] x265 (SPHD-UHDMovies)[23.4GB].mkv",
+            "quality": "4K | HDR | BluRay",
+            "size": "23.47GB",
+            "fileName": "The Fate of the Furious (2017) 2160p UHD BluRay HDR 10bit HEVC [DTS 5.1 Hindi + DTS-HDMA 7.1 English] x265 (SPHD-UHDMovies)[23.4GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Fast & Furious 6 (2013) Extended 1080p UHD BluRay [DTS 5 1 Hindi + DDP 5 1 English] x264 (LoRD-UHDMovies)[17 2GB]\n17.25GB",
+            "url": "https://worker-muddy-star-a7e2.jemel52347.workers.dev/0a3335c8269f882674dbb1abf56f355a2ede92d2ec1bae13e1e090e51de25a3c944091eb37db0fc1b180c3ea98ab694415480c8be32554be33bc78b412445e3520fa386cb6e444cc3dd2b7022e06fea8b743f5f8e781de52a1db7df4e257e1335b9197e35e98db24cee23694ea7335799b948d4402ab6143e1ddb4baf2353179cfda41af362f0322a7e77d17a66bccf400b6f41cbc07173b1ee94447cc8071c85cbf6ee25163f87220ccd8b0a4ec229f::5bb977588a482a3fc7079ce9785f2ed3/Fast & Furious 6 (2013) Extended 1080p UHD BluRay [DTS 5.1 Hindi  DDP 5.1 English] x264 (LoRD-UHDMovies)[17.2GB].mkv",
+            "quality": "1080p | BluRay",
+            "size": "17.25GB",
+            "fileName": "Fast & Furious 6 (2013) Extended 1080p UHD BluRay [DTS 5.1 Hindi + DDP 5.1 English] x264 (LoRD-UHDMovies)[17.2GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Fast Five 2011 Theatrical 1080p BluRay 10bit HEVC [DDP 5 1 Hindi + DTS-HDMA 5 1 English] x265 (BeiTai-UHDMovies)[15 4GB]\n15.42GB",
+            "url": "https://worker-old-brook-1a69.rovave6017.workers.dev/13924b1aa14b82f08daa352fb897809bfe36c2d12691bc5a0cb6fa1c8ea3edf31289fbca558a240897f398e509ef26a4dd009a513f81b554119fe619df4ca70daa02d2cdf59d3b3307c9cdfd43c508e45e9b7e68ccf7e80f3f4a20058c8a76eed31e5a698386e34d46b62635352416840dbfa7bd4e99d81414a030a1055238ee13f4ef1678c8b56a120c38bb4bceb33d017b27e6788b71d5bdb8c94b0c82fa16f597fb46965122f8cd58df560602d757::ee09804b5ea01fb4eee928afbecce6ff/Fast Five 2011 Theatrical 1080p BluRay 10bit HEVC [DDP 5.1 Hindi  DTS-HDMA 5.1 English] x265 (BeiTai-UHDMovies)[15.4GB].mkv",
+            "quality": "1080p | BluRay",
+            "size": "15.42GB",
+            "fileName": "Fast Five 2011 Theatrical 1080p BluRay 10bit HEVC [DDP 5.1 Hindi + DTS-HDMA 5.1 English] x265 (BeiTai-UHDMovies)[15.4GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Fast & Furious 6 (2013) Extended 1080p BluRay 10bit HEVC [DTS 5 1 Hindi + DTS-HDMA 5 1 English] x265 (BeiTai-UHDMovies)[13 3GB]\n13.3GB",
+            "url": "https://worker-autumn-wood-127c.xehahe4269.workers.dev/b85fefc1fab04f97b9e27c28ae73ab66bc870db36300eba1c2386624cbb4676bb7e4d3373cd9d94b84f14c23ccf06890e0668f49f82dd6a9ec85f8f30eeab5234f85bff4d7ea919fba5a5066ae15cbfb02019b2578a23b7d1abc8284cffa2ca6e4037cd8c44104d6928af5c90be2fe4f7b753ea94b4b516ce671409d7d45f81ece62a57b8394f0890d44f571444bc36a226a1abaadbf40daf0438435fd03f67cdb9e7ae91b5ba819805a4bbaf81a5781::5e8d4a1bab40d56b792134409a280fe8/Fast & Furious 6 (2013) Extended 1080p BluRay 10bit HEVC [DTS 5.1 Hindi  DTS-HDMA 5.1 English] x265 (BeiTai-UHDMovies)[13.3GB].mkv",
+            "quality": "1080p | BluRay",
+            "size": "13.3GB",
+            "fileName": "Fast & Furious 6 (2013) Extended 1080p BluRay 10bit HEVC [DTS 5.1 Hindi + DTS-HDMA 5.1 English] x265 (BeiTai-UHDMovies)[13.3GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "2 Fast 2 Furious (2003) 1080p BluRay [DDP 5 1 Hindi + DTS 5 1 English] x264 (DON-UHDMovies)[12 8GB]\n12.8GB",
+            "url": "https://worker-aged-unit-858c.getak43328.workers.dev/6bd19a0f5848036ea370b4b22fb4b1619b50c1a2b775155adfc4b392b0a0d2b5d7addc107e795a175a3bc3610e7cb10cda097307d3059840745041e14f0c6e783a08f7861efba2f88bf5d3671daf9d7197fe9c16f8cc2d77145746819c925b499c499bfcbf5bc1d0bd9480090fb5ea8e14b51698f5762da6d5f6169f27e637dd57aa00aca5053bad14f94b4420caa0a5c11bbd97aa5cda6589600bea382433074c52cf7ecad062248964ef1fc4240191::9ac14aacdddc51d640e05f9793751e0c/2 Fast 2 Furious (2003) 1080p BluRay [DDP 5.1 Hindi  DTS 5.1 English] x264 (DON-UHDMovies)[12.8GB].mkv",
+            "quality": "1080p | BluRay",
+            "size": "12.8GB",
+            "fileName": "2 Fast 2 Furious (2003) 1080p BluRay [DDP 5.1 Hindi + DTS 5.1 English] x264 (DON-UHDMovies)[12.8GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "The Fast and the Furious (2001) 1080p BluRay [DDP 5 1 Hindi + DTS 5 1 English] x264 (DON-UHDMovies)[12 7GB]\n12.78GB",
+            "url": "https://worker-rapid-mode-8d72.tihopiw878.workers.dev/2ca6cae8b748d499982b9c1813adf97c4b9a78e6b1dfc2b7361837fa1fa385843145abb535585e861a05a491bc1ac3a989ad0ea13f74827fb2a9ebe6c368ef80233d5955db3c0be0983317a5a891d04aa4aac09f0279c01790ed5865567a621f3938123f91e6b443ce592b13fb72c8a766be04a45822d6efccfdd840fb6a9c7703e8871efebd9673842e74b30fd87e4e5c3662a45ebc1076aac2c8a04ee35f08209e2f4887c415a6efa9ed12827ad340::505721d3c504272238dbb28a1d1d0479/The Fast and the Furious (2001) 1080p BluRay [DDP 5.1 Hindi  DTS 5.1 English] x264 (DON-UHDMovies)[12.7GB].mkv",
+            "quality": "1080p | BluRay",
+            "size": "12.78GB",
+            "fileName": "The Fast and the Furious (2001) 1080p BluRay [DDP 5.1 Hindi + DTS 5.1 English] x264 (DON-UHDMovies)[12.7GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "The Fast and the Furious - Tokyo Drift (2006) 1080p UHD BluRay [DDP 5 1 Hindi +DDP 5 1 English] x264 (LoRD-UHDMovies)[12 21GB]\n12.21GB",
+            "url": "https://worker-noisy-union-a944.rorahe7344.workers.dev/16755719ab9d6ff577604cfebe8698f135e2b3a9dc5d4886b0dab560370db5480a5e06eef8f588122865b3d0c67b482afd1730f9048338f77dcf9401b7f0d93147882df2f730d72a4196d74c90dc2216e5c8d3316c60beb00065870fed0b5675429e0375f241927348f939f7bb3f95b883e1fa026e634b999e2a8ec34e5b69cd6ddc21eb1ca0a137d74391d3b229455d78ddf4da5b77244d43b80fa050e42f4856d1e3bf370be818451049736a0cb271::9f0ef358a66f47f07797d40edd7ad8a7/The Fast and the Furious - Tokyo Drift (2006) 1080p UHD BluRay [DDP 5.1 Hindi DDP 5.1 English] x264 (LoRD-UHDMovies)[12.21GB].mkv",
+            "quality": "1080p | BluRay",
+            "size": "12.21GB",
+            "fileName": "The Fast and the Furious - Tokyo Drift (2006) 1080p UHD BluRay [DDP 5.1 Hindi +DDP 5.1 English] x264 (LoRD-UHDMovies)[12.21GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Fast & Furious (2009) 1080p BluRay 10bit HEVC [DDP 5 1 Hindi + DD 5 1 English] x265 (BeiTai-UHDMovies)[11 86GB]\n11.86GB",
+            "url": "https://worker-lingering-fire-39c5.biyeb80871.workers.dev/cec16eb13dc89c7802a1f077bd31d56159d89b0e0fd5c4628bd38a5247834f5bbbec06e198ba9eb1d6b49245fb59a59ec295ebffc66ad6b3a985fb007c123ad469a97e40bcc2162b85ff4bc9a3d6065859e85b0c367196083a5d9f256b50669c029cf615b3cbd8f9380a8b87b29ec5e0f7ed60bac74f94bcd9385050aed277490a93e4d7e6ad59e20ff1fc6783a7bcea545f52cbb0206c0ba6d5d483b26eaac79e38dde59c9a6469305ebd7dc5f2f7d5::9df0cd79e318c78dee90aec7aa1b337c/Fast & Furious (2009) 1080p BluRay 10bit HEVC [DDP 5.1 Hindi  DD 5.1 English] x265 (BeiTai-UHDMovies)[11.86GB].mkv",
+            "quality": "1080p | BluRay",
+            "size": "11.86GB",
+            "fileName": "Fast & Furious (2009) 1080p BluRay 10bit HEVC [DDP 5.1 Hindi + DD 5.1 English] x265 (BeiTai-UHDMovies)[11.86GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "The Fast and the Furious (2001) 1080p BluRay 10bit HEVC [DDP 5 1 Hindi + DTS 5 1 English] x265 (PbK-UHDMovies)[11 01GB]\n11.01GB",
+            "url": "https://hello-world-restless-feather-b61b.hotevol439.workers.dev/c61a29ac676f4ce52e58702b2af3fbea09dfee443a1c043e15c17f5d951f449f9f518c3524f00b5ebe4c70826fc386f676f714703509b920efd2c96a290c5c79ca8648d778ab078f94f24562f7973a69fe9c08f516da92af562390f0071fe0b982f2225d6964f96cdad1be084607be3ce1ec4a59e454e098bc5400a7bb346c370208f1f93cb06f47171a7b1211c84002ed2959b627ce1e4095df4d15b302c2def5d60b667cb90b315f012193e55e28df::2ff0f9045acdb1cd60e3c187840a773c/The Fast and the Furious (2001) 1080p BluRay 10bit HEVC [DDP 5.1 Hindi  DTS 5.1 English] x265 (PbK-UHDMovies)[11.01GB].mkv",
+            "quality": "1080p | BluRay",
+            "size": "11.01GB",
+            "fileName": "The Fast and the Furious (2001) 1080p BluRay 10bit HEVC [DDP 5.1 Hindi + DTS 5.1 English] x265 (PbK-UHDMovies)[11.01GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Fast & Furious 7 (2015) Extended 1080p BluRay 10bit HEVC [DD 5 1 Hindi + DD 5 1 English] x265 (BeiTai-UHDMovies)[7 9GB]\n7.95GB",
+            "url": "https://worker-sweet-morning-313e.fojeveh148.workers.dev/7046c1648851cb4b3ce6fbcbde35ad5129cf336e4b562fa18cae00a4823f892fb7bc9bae1bd437d360218620117b50226876f07fcbb7924c4ddb5c5c6aec504940fc917e6fb33fe582ab1667eb790ad837306136829c3513cd1bdd7c267b23789e81a916114228ab8ddbcb0f14b2a90062681999c0721dcc0bb78cf74b5c53542531763a29dbae52d8384dcc4a03cae6e268c3157869ca676ba4cc02085f27af15a5d12f18865d9a7f9aff7435879652::18eca7a981f8d16ab72a6f115609eeaa/Fast & Furious 7 (2015) Extended 1080p BluRay 10bit HEVC [DD 5.1 Hindi  DD 5.1 English] x265 (BeiTai-UHDMovies)[7.9GB].mkv",
+            "quality": "1080p | BluRay",
+            "size": "7.95GB",
+            "fileName": "Fast & Furious 7 (2015) Extended 1080p BluRay 10bit HEVC [DD 5.1 Hindi + DD 5.1 English] x265 (BeiTai-UHDMovies)[7.9GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Fast & Furious 6 (2013) Extended 1080p BluRay 10bit HEVC [DTS 5 1 Hindi + DD 5 1 English] x265 (Chivaman-UHDMovies)[5 4GB]\n5.42GB",
+            "url": "https://worker-nameless-pond-93e0.jarec10301.workers.dev/4236cf84b9e1d2dcfe97082c8449b1484780fc1c32028934ed77e25219e9d5ddba2fd46f3d866e2e8d9e4f38a7ee19fa3f144112a89c8014df1b927e3cc83dd51dbd3cb365ca714385e4fec80febdc67d934a71a4670a2d26187384049ab0a08626213ba694e83efbb486daa9a23015b7ffc1ca0f461f8cb1c3654f5f6199e978ec5cfdfec247dd1ce8fef1427f99ef21a13195de603554558ac2e019cdce76da0e12027ae8f77dc6f0a8aea05a616b5::b53721891fd149686c03434f3a8e3b28/Fast & Furious 6 (2013) Extended 1080p BluRay 10bit HEVC [DTS 5.1 Hindi  DD 5.1 English] x265 (Chivaman-UHDMovies)[5.4GB].mkv",
+            "quality": "1080p | BluRay",
+            "size": "5.42GB",
+            "fileName": "Fast & Furious 6 (2013) Extended 1080p BluRay 10bit HEVC [DTS 5.1 Hindi + DD 5.1 English] x265 (Chivaman-UHDMovies)[5.4GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Fast Five 2011 Extended 1080p BluRay 10bit HEVC [DDP 5 1 Hindi + AAC 5 1 English] x265 (Chivaman-UHDMovies)[5 2GB]\n5.23GB",
+            "url": "https://worker-round-band-2caf.lotigi5232.workers.dev/972278113ef77b49b1d8ec95125d2cbb29cd9e48cec836b98fefce127fc0ba1bf613c63bc7948444f4af3ae00e4e039fd40caad87bfc58a118a3a612a781f48be957c30725d93e933c1efd8547d87a19cb69a4e2822acde9e6280ab33053229c1311bb207b67cedf04ae446380114ebe387bec91d627bd9031c6127344d22e36a8586c5b78e693b48bcac7e167e483f07f3b3266ecce4c3985dae390bf02a0bae699ffd7cdae63ce420e8111876c1d10::1f6216e53544b7303975408cd1ccf367/Fast Five 2011 Extended 1080p BluRay 10bit HEVC [DDP 5.1 Hindi  AAC 5.1 English] x265 (Chivaman-UHDMovies)[5.2GB].mkv",
+            "quality": "1080p | BluRay",
+            "size": "5.23GB",
+            "fileName": "Fast Five 2011 Extended 1080p BluRay 10bit HEVC [DDP 5.1 Hindi + AAC 5.1 English] x265 (Chivaman-UHDMovies)[5.2GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "The Fate of the Furious (2017) 1080p BluRay 10bit HEVC [DTS 5 1 Hindi + AAC 5 1 English] x265 (RARBG-UHDMovies)[3 5GB]\n3.56GB",
+            "url": "https://worker-lingering-fire-39c5.biyeb80871.workers.dev/f8945b5f3027b75be2f77cf936a52cc2d3ea4d559b0f9da67650501eab3187d72a766bc7d8dcc72767bc104d477a96ef58bc71f9b45e0516ae0f9cdfe540b25a9d53c80e6454fffde38a803340c0df40d1b16c40dad51cd79d2d2d7112845627c4e69853a555ddcd3cf23e49d26a7998d5aff3feacb0e6e3638a6acfe0af7fccd1ef1a72964c14115ef01e011bdd3b9d0d6fb96e517364ad2c57a9b4cb26e20c468d66e77b4b8730c87a8123d4a88b26::32a57eb75a59cac5b95c36a07500d850/The Fate of the Furious (2017) 1080p BluRay 10bit HEVC [DTS 5.1 Hindi  AAC 5.1 English] x265 (RARBG-UHDMovies)[3.5GB].mkv",
+            "quality": "1080p | BluRay",
+            "size": "3.56GB",
+            "fileName": "The Fate of the Furious (2017) 1080p BluRay 10bit HEVC [DTS 5.1 Hindi + AAC 5.1 English] x265 (RARBG-UHDMovies)[3.5GB].mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "The Fast and the Furious (2001) 1080p REMASTERED BluRay 10bit HEVC [DDP 5 1 Hindi + AAC 5 1 English] x265 (RARBG-UHDMovies)[2 15GB]\n2.15GB",
+            "url": "https://worker-quiet-union-701d.tirowe8949.workers.dev/418002383030cbb123c5d31ca0f2c44489f026c0f9b5b36759e947beaaee746ce875a931474db0c267efc69d9c32fd2706134330048846f2a7057847627fbefce16cf149e9f4b4f55c02f7b80ef4637e6edceff429bed3eb25085f6979ae354fa55b3f269dfb6bceaa8196ce8d8ef1fd3a0f89e303ceefa6885b2d334118886d2953db5862986c7ea68e8cda4a8d5cf66815fe510fcd701292ec0fa47c81c7cd820c9c8da4f0d70c63522f4226d4b428::9328e0a4584a9729f0431446c21b7809/The Fast and the Furious (2001) 1080p REMASTERED BluRay 10bit HEVC [DDP 5.1 Hindi  AAC 5.1 English] x265 (RARBG-UHDMovies)[2.15GB].mkv",
+            "quality": "1080p | BluRay",
+            "size": "2.15GB",
+            "fileName": "The Fast and the Furious (2001) 1080p REMASTERED BluRay 10bit HEVC [DDP 5.1 Hindi + AAC 5.1 English] x265 (RARBG-UHDMovies)[2.15GB].mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 22
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1911:s2e6",
+      "storedAt": 1762311806091,
+      "meta": {
+        "storedAt": 1762311806,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 2,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip x265-INFINITY",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%202/Bones.S02E06.1080p.WEBRip.x265-INFINITY.mp4",
+            "quality": "1080p",
+            "size": "701.03 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones.S02E06.1080p.WEBRip.x265-INFINITY.mp4"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:1911:s2e6",
+      "storedAt": 1762311809883,
+      "meta": {
+        "storedAt": 1762311809,
+        "urlCount": 11,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 2,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Lakadbaggey.S01E06.1080p.WEB-DL.Hindi.2.0-Punjabi.2.0.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/2iXupVyw",
+            "quality": "1080p",
+            "size": "839.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Lakadbaggey.S01E06.1080p.WEB-DL.Hindi.2.0-Punjabi.2.0.x264-HDHub4u.Ms.mkv",
+            "url": "https://lol.say-no-to-piracy.store/Lakadbaggey.S01E06.1080p.WEB-DL.Hindi.2.0-Punjabi.2.0.x264-HDHub4u.Ms.mkv?token=1762307270",
+            "quality": "1080p",
+            "size": "839.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Lakadbaggey.S01E06.1080p.WEB-DL.Hindi.2.0-Punjabi.2.0.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mwtNmj9k04Ay5mqphClfmk5Us3On9gWb36nM-g-svd5KM4KlQ8vVF30KRYG0rP037XWXpsq-0p34r_hNz8VJWPd6GZXvxX0VijC8bwXPTWoJKPLIxlEZlQJ3cjhqZMSx7uDBdXNJENKWpJhzuHvgruPv8ZN_QzOeKrg05EkyNIIV-X3VqGFH4YlI-DS0Qh9vaN4bXTioEXhBKeprRciNLYwcOMvgfU-Kv4CuuIcDlq36GiCyn4QFzsNYXMHECZVTpHRrik",
+            "quality": "1080p",
+            "size": "839.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Lakadbaggey.S01E06.1080p.WEB-DL.Hindi.2.0-Punjabi.2.0.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2njcJGQGDtP86vqRH-5seXK2XIN7SLVxahg57sTaSrTGuyDxd1_6jcJ1HvuQxAYQAMO7k_daqUQQGj8yebA8hzGAlRoXd5lmP4_nNv9FOW2da0viR4Opocav0mVx1TBz29POmJV0yaSewHA1tJS3nyATrLNvwFgXIT9ce7a1GTXEQw8xj6bP7hXlYR6HCeN5kaWN4pdn5YHSMQb3LdmgkcBl1GkGLFDER0-UeJyj-mi1UFdSF_Rs0jALMfrj2nWJjMUrBC9",
+            "quality": "1080p",
+            "size": "839.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Lakadbaggey.S01E06.720p.WEB-DL.Hindi.2.0-Punjabi.2.0.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/SGTckueK",
+            "quality": "720p",
+            "size": "387.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Lakadbaggey.S01E06.720p.WEB-DL.Hindi.2.0-Punjabi.2.0.x264-HDHub4u.Ms.mkv",
+            "url": "https://lol.say-no-to-piracy.store/Lakadbaggey.S01E06.720p.WEB-DL.Hindi.2.0-Punjabi.2.0.x264-HDHub4u.Ms.mkv?token=1762309420",
+            "quality": "720p",
+            "size": "387.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Lakadbaggey.S01E06.720p.WEB-DL.Hindi.2.0-Punjabi.2.0.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lCrx4QTMBEpnubXFcXV5heZu3htTDL9byD7SKXEYuHIUDD6eL60lXl6B1cLai7AsAYNocW3wJqwAKwtFsBBnWQ46pBvzWHLAbvTHSUihdPH5Q7YpsCeJkqI7T8vM6ZpC8of0mJCNRIJkKJcrdAR-z6s0L8QqHvMnDY_FZxufdJaRUrV3aQET-Mcxl8sjwHMwj8Uphp1fmzPdz0gJ_RvKOlHz1xcDISpty9D8lPsH3t2Gunj8hptnny0JRk0EJ8A6ZNf5Pw",
+            "quality": "720p",
+            "size": "387.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Lakadbaggey.S01E06.720p.WEB-DL.Hindi.2.0-Punjabi.2.0.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2k42ZIQyVTnl0URKh8wRHpwdXx2haUl88Vv9i0lP0ArO3EsvBhUvN-ut16jJ3SMCSBBMaESUJ36fgV1QuJ9hc-FfiCEn3iJKLdHFToT-uvHd_FIGI4UlfMh9vC3KCjLz94zH7SPeZDFfdIbv2AYuKL6e9lWC3Kul5Kq0DqjWqGG_TkHalkcKmsUv7MQVJcyFDPfOJZPEBtt8N9I2uFkYgESA9z0k2TVB71j6V2X5sa9EwmK2QgTSnHbjKsz3sXxpb30Srw3",
+            "quality": "720p",
+            "size": "387.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Lakadbaggey.S01E06.480p.WEB-DL.Hindi-Punjabi.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/attueqyB",
+            "quality": "480p",
+            "size": "154.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Lakadbaggey.S01E06.480p.WEB-DL.Hindi-Punjabi.x264-HDHub4u.Ms.mkv",
+            "url": "https://lol.say-no-to-piracy.store/Lakadbaggey.S01E06.480p.WEB-DL.Hindi-Punjabi.x264-HDHub4u.Ms.mkv?token=1762308087",
+            "quality": "480p",
+            "size": "154.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Lakadbaggey.S01E06.480p.WEB-DL.Hindi-Punjabi.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lHCINT-ppWcvOkuk-zpKWPwWJoXsiLM4sgD8QfTwK8RsuVLC8f411jUO6nubWlw8h4zMTXaVQfrDT6HG-xa822DVCEwRak-X0xiUL1uIzRxMLwC-iyiZspztZKvUapj5y-9MyI5OEAub6V8ifXi5kFj7RfK9SBYSZqWXKY8b3sXf7PhhCc1AQmpwqjEKWRrHNAA0mo5xzaXbUB38yXEcjHrk2daP4NbYwWeCI2Yi-r8q9kUkMGX0lgwna1Hoza7pQ9d-Pp",
+            "quality": "480p",
+            "size": "154.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 11
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1911:s2e6",
+      "storedAt": 1762311807163,
+      "meta": {
+        "storedAt": 1762311807,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 2,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Bones and All S2E6 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1684689602/s2/episode6.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-05T03:11:20.084Z",
+    "totalOriginalEntries": 8,
+    "newItemsInThisBatch": 8,
+    "format": "compact_v1"
+  }
+}
