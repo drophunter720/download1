@@ -1,0 +1,77 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:uhdmovies:movie:1363123",
+      "storedAt": 1762311390755,
+      "meta": {
+        "storedAt": 1762311390,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "1363123",
+        "imdbId": "tt34276058",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "the family plan 2023 hdr 2160p web h265-acceleratedtrickyakitaofenergy\n20.17GB",
+            "url": "https://worker-yellow-art-05f7.hopomi6485.workers.dev/d7d861c7815cb6381307a5f726779b07de20b1b0ed1ab704c6cda80a24a9981cc3f90dc8db134c11d2c1b9a8c9a237cd61a47849603ca8fc5299301e3ae59c8f94c4184cf3993f908597016148bd4208fc629b9da158833d53320b3bffc714b10405772096e391e86b5be56c7699c498c10046c4158f78576af2fe7216c36ab19b300da1e987cc92548f408c86a6969d9c362b66d87293cd3da18a46b626e17580a204f33946f532df33558876465002::5df71bd7b66a44a379e3a43502817652/the.family.plan.2023.hdr.2160p.web.h265-acceleratedtrickyakitaofenergy.mkv",
+            "quality": "4K | HDR",
+            "size": "20.17GB",
+            "fileName": "the.family.plan.2023.hdr.2160p.web.h265-acceleratedtrickyakitaofenergy.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "The Family Plan 2023 1080p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX\n8.84GB",
+            "url": "https://worker-twilight-mode-e30b.risob94105.workers.dev/491bb95f26b600f1bc9e24fd0409b65aa339e8fdcc206acaa27e00c53ed5d0a046695689127ac36a59ee4dc8bb4f0a73db76bbfda002bbf32ec277e4d496b53cdf56a1bf38f36b433291894dabb6066ebda446d772aec2e92fd3de2f5f3696bbf11004924ccb145fc4f7166ec850edab681f052d5ce73a6ba746f030a2c7d308b6290cda42406217a01a4f233f9f9fca17adafc27b8fe76587c4d302603d9d0bc2348d308d453b092efbb7967721031b::00ae18b407d44db171ccd11187cc4680/The.Family.Plan.2023.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv",
+            "quality": "1080p",
+            "size": "8.84GB",
+            "fileName": "The.Family.Plan.2023.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:43555",
+      "storedAt": 1762311512559,
+      "meta": {
+        "storedAt": 1762311512,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "43555",
+        "imdbId": "tt0269009",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/116543?token=aa56ac5a5722152b23d5284c65d03357&expires=1767495512&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-05T03:02:52.436Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
