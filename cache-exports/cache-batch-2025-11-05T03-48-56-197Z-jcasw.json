@@ -1,0 +1,168 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:706503",
+      "storedAt": 1762314429177,
+      "meta": {
+        "storedAt": 1762314429,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "706503",
+        "imdbId": "tt10456740",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/228129?token=b706250e2e58a63bf77d8ca4c96d0909&expires=1767498428&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1911:s2e7",
+      "storedAt": 1762314333262,
+      "meta": {
+        "storedAt": 1762314333,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 2,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip x265-INFINITY",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%202/Bones.S02E07.1080p.WEBRip.x265-INFINITY.mp4",
+            "quality": "1080p",
+            "size": "699.69 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones.S02E07.1080p.WEBRip.x265-INFINITY.mp4"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1911:s2e7",
+      "storedAt": 1762314335075,
+      "meta": {
+        "storedAt": 1762314335,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 2,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Bones and All S2E7 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1684689602/s2/episode7.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1911:s2e8",
+      "storedAt": 1762314456061,
+      "meta": {
+        "storedAt": 1762314456,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 2,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip x265-INFINITY",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%202/Bones.S02E08.1080p.WEBRip.x265-INFINITY.mp4",
+            "quality": "1080p",
+            "size": "697.82 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones.S02E08.1080p.WEBRip.x265-INFINITY.mp4"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1911:s2e8",
+      "storedAt": 1762314457030,
+      "meta": {
+        "storedAt": 1762314457,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 2,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Bones and All S2E8 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1684689602/s2/episode8.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-05T03:48:56.198Z",
+    "totalOriginalEntries": 5,
+    "newItemsInThisBatch": 5,
+    "format": "compact_v1"
+  }
+}
