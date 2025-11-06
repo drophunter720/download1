@@ -1,0 +1,117 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:667257",
+      "storedAt": 1762451989100,
+      "meta": {
+        "storedAt": 1762451989,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "667257",
+        "imdbId": "tt10032342",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "n2WTVVCs\n6.86 GB",
+            "url": "https://pixeldrain.net/api/file/n2WTVVCs",
+            "quality": "1080p",
+            "size": "6.86 GB",
+            "fileName": "n2WTVVCs",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The.Map.of.Tiny.Perfect.Things.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.Com\n6.86 GB",
+            "url": "https://fsl.anime4u.co/The.Map.of.Tiny.Perfect.Things.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.Com.mkv?token=1762451989",
+            "quality": "1080p",
+            "size": "6.86 GB",
+            "fileName": "The.Map.of.Tiny.Perfect.Things.2021.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1435:s5e1",
+      "storedAt": 1762452180590,
+      "meta": {
+        "storedAt": 1762452180,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1435",
+        "imdbId": "tt1442462",
+        "season": 5,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/118907?token=05ec3e45c996b53e6b76858fc9fe4c3c&expires=1767636180&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2190:s1e6",
+      "storedAt": 1762451987445,
+      "meta": {
+        "storedAt": 1762451987,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2190",
+        "imdbId": "tt0121955",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/322557?token=1f603caf11a70abc67d6dd4d0fbc40f2&expires=1767635987&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-06T18:04:54.489Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
