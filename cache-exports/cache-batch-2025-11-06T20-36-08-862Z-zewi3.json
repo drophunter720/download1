@@ -1,0 +1,106 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:tv:2190:s17e1",
+      "storedAt": 1762460888828,
+      "meta": {
+        "storedAt": 1762460888,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "2190",
+        "imdbId": "tt0121955",
+        "season": 17,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265 RCVR)",
+            "url": "https://a.111477.xyz/tvs/South%20Park/Season%2017/South%20Park%20(1997)%20-%20S17E01%20-%20Let%20Go,%20Let%20Gov%20(1080p%20BluRay%20x265%20RCVR).mkv",
+            "quality": "1080p",
+            "size": "234.98 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "South Park (1997) - S17E01 - Let Go, Let Gov (1080p BluRay x265 RCVR).mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:2190:s17e1",
+      "storedAt": 1762460890108,
+      "meta": {
+        "storedAt": 1762460890,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "2190",
+        "imdbId": "tt0121955",
+        "season": 17,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "South Park: Joining the Panderverse S17E1 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1698819954/s17/episode1.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:240558:s1e1",
+      "storedAt": 1762461321203,
+      "meta": {
+        "storedAt": 1762461321,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "240558",
+        "imdbId": "tt30221531",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/337884?token=4f1b853454d1293585cd29a2dbaff8cd&expires=1767645321&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-06T20:36:08.863Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
