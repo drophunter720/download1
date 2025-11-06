@@ -1,0 +1,77 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:streamflix:movie:579828",
+      "storedAt": 1762410525420,
+      "meta": {
+        "storedAt": 1762410525,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "579828",
+        "imdbId": "tt11815960",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Superdeep - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2020/thesprdep.mkv",
+            "quality": "1080p",
+            "size": "1h 53m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Superdeep - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2020/thesprdep.mkv",
+            "quality": "1080p",
+            "size": "1h 53m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Superdeep - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2020/thesprdep.mkv",
+            "quality": "720p",
+            "size": "1h 53m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Superdeep - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2020/thesprdep.mkv",
+            "quality": "720p",
+            "size": "1h 53m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-06T06:30:31.863Z",
+    "totalOriginalEntries": 1,
+    "newItemsInThisBatch": 1,
+    "format": "compact_v1"
+  }
+}
