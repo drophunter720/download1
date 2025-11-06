@@ -1,0 +1,148 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:tv:1911:s3e11",
+      "storedAt": 1762432305634,
+      "meta": {
+        "storedAt": 1762432305,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 3,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-FLUX",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%203/Bones%20(2005)%20-%20S03E11%20-%20Player%20Under%20Pressure%20[WEBDL-1080p][EAC3%205.1][h264]-FLUX.mkv",
+            "quality": "1080p",
+            "size": "2.54 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones (2005) - S03E11 - Player Under Pressure [WEBDL-1080p][EAC3 5.1][h264]-FLUX.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265-INFINITY",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%203/Bones.S03E11.1080p.BluRay.x265-INFINITY.mp4",
+            "quality": "1080p",
+            "size": "700.35 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones.S03E11.1080p.BluRay.x265-INFINITY.mp4"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1911:s3e11",
+      "storedAt": 1762432306882,
+      "meta": {
+        "storedAt": 1762432306,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 3,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Bones and All S3E11 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1684689602/s3/episode11.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:211564:s1e2",
+      "storedAt": 1762432211373,
+      "meta": {
+        "storedAt": 1762432211,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "211564",
+        "imdbId": "tt21064598",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/392521?token=5c649db945ab2898fc86f7a98d0f47f6&expires=1767616210&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:72027:s1e3",
+      "storedAt": 1762431933380,
+      "meta": {
+        "storedAt": 1762431933,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "72027",
+        "imdbId": "tt6311972",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/199304?token=6ef77e7b6231b65e98a1611c150e15e7&expires=1767615933&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-06T12:33:33.383Z",
+    "totalOriginalEntries": 4,
+    "newItemsInThisBatch": 4,
+    "format": "compact_v1"
+  }
+}
