@@ -1,0 +1,116 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:tv:138503:s1e8",
+      "storedAt": 1762414163584,
+      "meta": {
+        "storedAt": 1762414163,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "138503",
+        "imdbId": "tt16027074",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/284613?token=f75e5e0ca1cf9c4c9cda189573fe8c83&expires=1767598163&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1911:s7e4",
+      "storedAt": 1762414092079,
+      "meta": {
+        "storedAt": 1762414092,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 7,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%207/Bones%20(2005)%20-%20S07E04%20-%20The%20Male%20in%20the%20Mail%20[Bluray-1080p][EAC3%205.1][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": "888.64 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones (2005) - S07E04 - The Male in the Mail [Bluray-1080p][EAC3 5.1][x265]-iVy.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265-INFINITY",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%207/Bones.S07E04.1080p.BluRay.x265-INFINITY.mp4",
+            "quality": "1080p",
+            "size": "699.41 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones.S07E04.1080p.BluRay.x265-INFINITY.mp4"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1911:s7e4",
+      "storedAt": 1762414092633,
+      "meta": {
+        "storedAt": 1762414092,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 7,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Bones and All S7E4 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1684689602/s7/episode4.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-06T07:33:48.466Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
