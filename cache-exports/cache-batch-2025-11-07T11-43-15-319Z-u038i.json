@@ -1,0 +1,43 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:streamflix:tv:95479:s1e25",
+      "storedAt": 1762515664613,
+      "meta": {
+        "storedAt": 1762515664,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "95479",
+        "imdbId": "tt12343534",
+        "season": 1,
+        "episode": 25,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Jujutsu Kaisen S1E25 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1695815701/s1/episode25.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-07T11:43:15.319Z",
+    "totalOriginalEntries": 1,
+    "newItemsInThisBatch": 1,
+    "format": "compact_v1"
+  }
+}
