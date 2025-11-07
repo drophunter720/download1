@@ -1,0 +1,97 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:15975",
+      "storedAt": 1762554287780,
+      "meta": {
+        "storedAt": 1762554287,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "15975",
+        "imdbId": "tt1292703",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Eagle Eye (2008) 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English TrueHD 5.1] x264 (HDH-KiNGSMAN) (4KHDHub.com)\n27.83 GB",
+            "url": "https://myfiles.directfile1.workers.dev/cdd3bc24d7d12615a049157c67f5c73c2070d5593e5ec91cfdfd62ff98d96d960f35ae1844100a06726d8803c562bf6a::0e9e1aefcd3c4e5e5a16054dc706b6a9/1397326383/Eagle%20Eye%20(2008)%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%205.1%20+%20English%20TrueHD%205.1]%20x264%20(HDH-KiNGSMAN)%20(4KHDHub.com).mkv",
+            "quality": "1080p",
+            "size": "27.83 GB",
+            "fileName": "Eagle Eye (2008) 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English TrueHD 5.1] x264 (HDH-KiNGSMAN) (4KHDHub.com)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "MZJD6WGv\n17.26 GB",
+            "url": "https://pixeldrain.net/api/file/MZJD6WGv",
+            "quality": "1080p",
+            "size": "17.26 GB",
+            "fileName": "MZJD6WGv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "tCRbnLDv\n7.38 GB",
+            "url": "https://pixeldrain.net/api/file/tCRbnLDv",
+            "quality": "1080p",
+            "size": "7.38 GB",
+            "fileName": "tCRbnLDv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:66902:s1e6",
+      "storedAt": 1762554598619,
+      "meta": {
+        "storedAt": 1762554598,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "66902",
+        "imdbId": "tt5665418",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/477579?token=70969f5de165eacab08c17f5dae3053f&expires=1767738598&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-07T22:32:47.782Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
