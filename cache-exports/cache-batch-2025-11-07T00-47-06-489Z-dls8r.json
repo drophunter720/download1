@@ -1,0 +1,137 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:streamflix:movie:18487",
+      "storedAt": 1762476338436,
+      "meta": {
+        "storedAt": 1762476338,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "18487",
+        "imdbId": "tt1111422",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Taking of Pelham 1 2 3 - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2009/takingofphelam123.mkv",
+            "quality": "1080p",
+            "size": "1h 46m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Taking of Pelham 1 2 3 - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2009/takingofphelam123.mkv",
+            "quality": "1080p",
+            "size": "1h 46m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Taking of Pelham 1 2 3 - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2009/takingofphelam123.mkv",
+            "quality": "720p",
+            "size": "1h 46m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Taking of Pelham 1 2 3 - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2009/takingofphelam123.mkv",
+            "quality": "720p",
+            "size": "1h 46m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:18487",
+      "storedAt": 1762476343363,
+      "meta": {
+        "storedAt": 1762476343,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "18487",
+        "imdbId": "tt1111422",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "The Taking of Pelham 123 (2009) 1080p BluRay REMUX AVC x264 [Org Hindi BD 5 1 ~ 640Kbps + English DTS-HD MA 5 1] ESubs ~ (KiNGSMAN) FraMeSToR\n23.45GB",
+            "url": "https://worker-cold-brook-2f21.tepin17851.workers.dev/c3f252f701a761e09516b39b313c76309db30aefe53a55cb73087abac74427ba769245ba30d6d1ebd1592edf2734264fbbd4ec5af0074bfea1656d10f2cd64aaaf4e2df946c4ee2b118e9b6c69cefc421699fa4ee318a015fb783e3f277212a3019f83ce88ed263ead6c1acb322260fec83c854c92957993a119ec0d3550fd395603072d94311a487ac07c26416084b9371c1085278aa01d586d19ecd001af2d7835da5d257af5e02c4567038bb9ebf2::faef93dfb6ed51998765a3b474ffcbdf/The Taking of Pelham 123 (2009) 1080p BluRay REMUX AVC x264 [Org Hindi BD 5.1  640Kbps  English DTS-HD MA 5.1] ESubs  (KiNGSMAN) FraMeSToR.mkv",
+            "quality": "1080p | BluRay",
+            "size": "23.45GB",
+            "fileName": "The Taking of Pelham 123 (2009) 1080p BluRay REMUX AVC x264 [Org Hindi BD 5.1 ~ 640Kbps + English DTS-HD MA 5.1] ESubs ~ (KiNGSMAN) FraMeSToR.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:126824:s3e8",
+      "storedAt": 1762476077531,
+      "meta": {
+        "storedAt": 1762476077,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "126824",
+        "imdbId": "tt12915960",
+        "season": 3,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/332979?token=1af47a1c99e79041e485fa431d7f8d8b&expires=1767660077&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-07T00:47:06.489Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
