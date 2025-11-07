@@ -1,0 +1,74 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:tv:99121:s2e20",
+      "storedAt": 1762509591843,
+      "meta": {
+        "storedAt": 1762509591,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "99121",
+        "imdbId": "tt11006642",
+        "season": 2,
+        "episode": 20,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h265]-d3g",
+            "url": "https://a.111477.xyz/tvs/Walker/Season%202/Walker%20(2021)%20-%20S02E20%20-%20Somethings%20Missing%20[WEBRip-1080p][EAC3%205.1][h265]-d3g.mkv",
+            "quality": "1080p",
+            "size": "1.55 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Walker (2021) - S02E20 - Somethings Missing [WEBRip-1080p][EAC3 5.1][h265]-d3g.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:99121:s2e20",
+      "storedAt": 1762509592548,
+      "meta": {
+        "storedAt": 1762509592,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "99121",
+        "imdbId": "tt11006642",
+        "season": 2,
+        "episode": 20,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Star Wars: The Rise of Skywalker S2E20 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1708231995/s2/episode20.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-07T10:07:34.613Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
