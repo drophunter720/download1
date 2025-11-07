@@ -1,0 +1,114 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:24653",
+      "storedAt": 1762521601808,
+      "meta": {
+        "storedAt": 1762521601,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "24653",
+        "imdbId": "tt0398883",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/163145?token=19eb81cf13400007fc706ee115f7524f&expires=1767705600&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1911:s4e17",
+      "storedAt": 1762521960055,
+      "meta": {
+        "storedAt": 1762521960,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 4,
+        "episode": 17,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%204/Bones%20(2005)%20-%20S04E17%20-%20The%20Salt%20in%20the%20Wounds%20[Bluray-1080p][EAC3%205.1][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": "1.24 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones (2005) - S04E17 - The Salt in the Wounds [Bluray-1080p][EAC3 5.1][x265]-iVy.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265-INFINITY",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%204/Bones.S04E17.1080p.BluRay.x265-INFINITY.mp4",
+            "quality": "1080p",
+            "size": "702.91 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones.S04E17.1080p.BluRay.x265-INFINITY.mp4"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1911:s4e17",
+      "storedAt": 1762521962900,
+      "meta": {
+        "storedAt": 1762521962,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 4,
+        "episode": 17,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Bones and All S4E17 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1684689602/s4/episode17.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-07T13:26:28.160Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
