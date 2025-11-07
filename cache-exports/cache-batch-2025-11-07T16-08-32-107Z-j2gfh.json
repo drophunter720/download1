@@ -1,0 +1,82 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:67308",
+      "storedAt": 1762531655477,
+      "meta": {
+        "storedAt": 1762531655,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "67308",
+        "imdbId": "tt1365048",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "f4ouCnWR\n9.43 GB",
+            "url": "https://pixeldrain.net/api/file/f4ouCnWR",
+            "quality": "1080p",
+            "size": "9.43 GB",
+            "fileName": "f4ouCnWR",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "HUjvggsY\n4.6 GB",
+            "url": "https://pixeldrain.net/api/file/HUjvggsY",
+            "quality": "1080p",
+            "size": "4.6 GB",
+            "fileName": "HUjvggsY",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:67308",
+      "storedAt": 1762531654934,
+      "meta": {
+        "storedAt": 1762531654,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "67308",
+        "imdbId": "tt1365048",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies bluray YTS",
+            "url": "https://a.111477.xyz/movies/3-D%20Sex%20and%20Zen%20Extreme%20Ecstasy%20(2011)/3-D%20Sex%20and%20Zen%20-%20Extreme%20Ecstasy%202011%201080p%20bluray%20YTS.mp4",
+            "quality": "1080p",
+            "size": "2.08 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "3-D Sex and Zen - Extreme Ecstasy 2011 1080p bluray YTS.mp4"
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-07T16:08:32.108Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
