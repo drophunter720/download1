@@ -1,0 +1,71 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:movie:556901",
+      "storedAt": 1762516462188,
+      "meta": {
+        "storedAt": 1762516462,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "556901",
+        "imdbId": "tt10548944",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay DDP 5 1 10bit H 265-iVy",
+            "url": "https://a.111477.xyz/movies/Teen%20Titans%20Go!%20vs.%20Teen%20Titans%20(2019)/Teen.Titans.Go.vs.Teen.Titans.2019.1080p.BluRay.DDP.5.1.10bit.H.265-iVy.mkv",
+            "quality": "1080p",
+            "size": "2.13 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Teen.Titans.Go.vs.Teen.Titans.2019.1080p.BluRay.DDP.5.1.10bit.H.265-iVy.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:68073:s9e3",
+      "storedAt": 1762516653797,
+      "meta": {
+        "storedAt": 1762516653,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "68073",
+        "imdbId": "tt4859164",
+        "season": 9,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/471578?token=69d47be1fface900a29e33267236dbb7&expires=1767700653&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-07T11:59:56.281Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
