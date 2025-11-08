@@ -1,0 +1,146 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:227159",
+      "storedAt": 1762637118052,
+      "meta": {
+        "storedAt": 1762637118,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "227159",
+        "imdbId": "tt2170439",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "PVYPAuq9\n16.74 GB",
+            "url": "https://pixeldrain.net/api/file/PVYPAuq9",
+            "quality": "1080p",
+            "size": "16.74 GB",
+            "fileName": "PVYPAuq9",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "26ptUEpp\n12.38 GB",
+            "url": "https://pixeldrain.net/api/file/26ptUEpp",
+            "quality": "1080p",
+            "size": "12.38 GB",
+            "fileName": "26ptUEpp",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "8kgJE8L5\n3.19 GB",
+            "url": "https://pixeldrain.net/api/file/8kgJE8L5",
+            "quality": "2160p",
+            "size": "3.19 GB",
+            "fileName": "8kgJE8L5",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:227159",
+      "storedAt": 1762637116484,
+      "meta": {
+        "storedAt": 1762637116,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "227159",
+        "imdbId": "tt2170439",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay H264 AAC-RARBG-Obfuscated",
+            "url": "https://a.111477.xyz/movies/Horrible%20Bosses%202%20(2014)/Horrible.Bosses.2.2014.1080p.BluRay.H264.AAC-RARBG-Obfuscated.mp4",
+            "quality": "1080p",
+            "size": "2.21 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Horrible.Bosses.2.2014.1080p.BluRay.H264.AAC-RARBG-Obfuscated.mp4"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies EXTENDED BluRay DTS x264-HDMaNiAcS",
+            "url": "https://a.111477.xyz/movies/Horrible%20Bosses%202%20(2014)/Horrible.Bosses.2.2014.1080p.EXTENDED.BluRay.DTS.x264-HDMaNiAcS.mkv",
+            "quality": "1080p",
+            "size": "11.90 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Horrible.Bosses.2.2014.1080p.EXTENDED.BluRay.DTS.x264-HDMaNiAcS.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265",
+            "url": "https://a.111477.xyz/movies/Horrible%20Bosses%202%20(2014)/Horrible.Bosses.2.2014.EXTENDED.1080p.BluRay.x265.mp4",
+            "quality": "1080p",
+            "size": "1.80 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Horrible.Bosses.2.2014.EXTENDED.1080p.BluRay.x265.mp4"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:73607:s1e1",
+      "storedAt": 1762637095402,
+      "meta": {
+        "storedAt": 1762637095,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "73607",
+        "imdbId": "tt6599482",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/230302?token=7c00ebbbe8257a4eb75d3c81ab1b89c9&expires=1767821094&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-08T21:32:55.407Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
