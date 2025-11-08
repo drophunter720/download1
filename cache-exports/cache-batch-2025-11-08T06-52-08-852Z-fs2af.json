@@ -1,0 +1,41 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:120809",
+      "storedAt": 1762584485855,
+      "meta": {
+        "storedAt": 1762584485,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "120809",
+        "imdbId": "tt0807747",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "hdZGQMiW\n5.92 GB",
+            "url": "https://pixeldrain.net/api/file/hdZGQMiW",
+            "quality": "1080p",
+            "size": "5.92 GB",
+            "fileName": "hdZGQMiW",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-08T06:52:08.853Z",
+    "totalOriginalEntries": 1,
+    "newItemsInThisBatch": 1,
+    "format": "compact_v1"
+  }
+}
