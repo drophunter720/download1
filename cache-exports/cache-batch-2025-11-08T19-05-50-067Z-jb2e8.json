@@ -1,0 +1,166 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:337154",
+      "storedAt": 1762628434187,
+      "meta": {
+        "storedAt": 1762628434,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "337154",
+        "imdbId": "tt4501454",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/324460?token=29bb198b93b16dd25663c10de902b489&expires=1767812433&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:575813",
+      "storedAt": 1762628465598,
+      "meta": {
+        "storedAt": 1762628465,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "575813",
+        "imdbId": "tt9586294",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/485164?token=5e920b63d8201ac9ae127f8c379125ef&expires=1767812465&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1911:s5e12",
+      "storedAt": 1762628283286,
+      "meta": {
+        "storedAt": 1762628283,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 5,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265-INFINITY",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%205/Bones.S05E12.1080p.BluRay.x265-INFINITY.mp4",
+            "quality": "1080p",
+            "size": "698.21 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones.S05E12.1080p.BluRay.x265-INFINITY.mp4"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1911:s5e12",
+      "storedAt": 1762628285075,
+      "meta": {
+        "storedAt": 1762628285,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 5,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Bones and All S5E12 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1684689602/s5/episode12.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:72027:s3e20",
+      "storedAt": 1762628270064,
+      "meta": {
+        "storedAt": 1762628270,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "72027",
+        "imdbId": "tt6311972",
+        "season": 3,
+        "episode": 20,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/199355?token=bce9b6294fe056189bd6416ecb81e7d3&expires=1767812269&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-08T19:05:50.068Z",
+    "totalOriginalEntries": 5,
+    "newItemsInThisBatch": 5,
+    "format": "compact_v1"
+  }
+}
