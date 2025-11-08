@@ -1,0 +1,155 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:1404404",
+      "storedAt": 1762602757480,
+      "meta": {
+        "storedAt": 1762602757,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1404404",
+        "imdbId": "tt35009463",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "aT8x2qrp\n9.94 GB",
+            "url": "https://pixeldrain.net/api/file/aT8x2qrp",
+            "quality": "2160p",
+            "size": "9.94 GB",
+            "fileName": "aT8x2qrp",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "PRN5PgzE\n5.82 GB",
+            "url": "https://pixeldrain.net/api/file/PRN5PgzE",
+            "quality": "1080p",
+            "size": "5.82 GB",
+            "fileName": "PRN5PgzE",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "vPvi4AvX\n3.39 GB",
+            "url": "https://pixeldrain.net/api/file/vPvi4AvX",
+            "quality": "1080p",
+            "size": "3.39 GB",
+            "fileName": "vPvi4AvX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:1404404",
+      "storedAt": 1762602762806,
+      "meta": {
+        "storedAt": 1762602762,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "1404404",
+        "imdbId": "tt35009463",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Shin Jigen! Crayon Shin-chan the Movie (2023) 1080p BluRay 10bit HEVC [Hindi DD 2 0 + Japanese DD 5 1] x265 (WiKi-KiNGSMAN)\n5.29GB",
+            "url": "https://worker-broad-pond-2753.kaman34430.workers.dev/8af42f549c27e8f16824cc9f741c226c79d974b5f76ad5dd9d25c31ccf0f03ca63f777c68273d254b4b2ade305a070162af60654837907d1e999b8f542ef724037b5f89f8eba786615f118501ae23be9794da6e3fa45dd72ffacdc17d5d3acdb92c319ca2db09467325af002e114e378ae60548da427e829a116d9a2a4aaf0cc163f0a103ac0a13c3018c04843269badd9683c1e3ce2725ac0b5f0a3de6f7c7e6ed4cf6ac21a895799c0b0fe117f9447::69c3a1f084676f5586a04daefd703c5e/Shin Jigen! Crayon Shin-chan the Movie (2023) 1080p BluRay 10bit HEVC [Hindi DD 2.0  Japanese DD 5.1] x265 (WiKi-KiNGSMAN).mkv",
+            "quality": "1080p | BluRay",
+            "size": "5.29GB",
+            "fileName": "Shin Jigen! Crayon Shin-chan the Movie (2023) 1080p BluRay 10bit HEVC [Hindi DD 2.0 + Japanese DD 5.1] x265 (WiKi-KiNGSMAN).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:362637",
+      "storedAt": 1762602918163,
+      "meta": {
+        "storedAt": 1762602918,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "362637",
+        "imdbId": "tt4172042",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/336178?token=40697b11a9b084ac0785d96b40e3b7ef&expires=1767786917&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:73607:s1e8",
+      "storedAt": 1762602924828,
+      "meta": {
+        "storedAt": 1762602924,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "73607",
+        "imdbId": "tt6599482",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/230309?token=5a26797162ada819a3e5c567ac5c4236&expires=1767786924&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-08T11:58:09.443Z",
+    "totalOriginalEntries": 4,
+    "newItemsInThisBatch": 4,
+    "format": "compact_v1"
+  }
+}
