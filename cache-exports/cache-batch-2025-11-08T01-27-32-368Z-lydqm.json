@@ -1,0 +1,71 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:movie:11184",
+      "storedAt": 1762564772366,
+      "meta": {
+        "storedAt": 1762564772,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "11184",
+        "imdbId": "tt0362269",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip x265",
+            "url": "https://a.111477.xyz/movies/Kinsey%20(2004)/Kinsey.2004.1080p.WEBRip.x265.mp4",
+            "quality": "1080p",
+            "size": "1.85 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Kinsey.2004.1080p.WEBRip.x265.mp4"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:78173:s6e12",
+      "storedAt": 1762564835352,
+      "meta": {
+        "storedAt": 1762564835,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "78173",
+        "imdbId": "tt4816058",
+        "season": 6,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/168208?token=d0144ad6a3d6de0c0bee914c444913d4&expires=1767748835&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-08T01:27:32.369Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
