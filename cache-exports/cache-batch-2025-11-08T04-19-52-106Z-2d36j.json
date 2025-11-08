@@ -1,0 +1,84 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:tv:1911:s4e22",
+      "storedAt": 1762575112105,
+      "meta": {
+        "storedAt": 1762575112,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 4,
+        "episode": 22,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%204/Bones%20(2005)%20-%20S04E22%20-%20The%20Double%20Death%20of%20the%20Dearly%20Departed%20[Bluray-1080p][EAC3%205.1][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": "1.48 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones (2005) - S04E22 - The Double Death of the Dearly Departed [Bluray-1080p][EAC3 5.1][x265]-iVy.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265-INFINITY",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%204/Bones.S04E22.1080p.BluRay.x265-INFINITY.mp4",
+            "quality": "1080p",
+            "size": "690.10 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones.S04E22.1080p.BluRay.x265-INFINITY.mp4"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1911:s4e22",
+      "storedAt": 1762575114648,
+      "meta": {
+        "storedAt": 1762575114,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 4,
+        "episode": 22,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Bones and All S4E22 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1684689602/s4/episode22.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-08T04:19:52.107Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
