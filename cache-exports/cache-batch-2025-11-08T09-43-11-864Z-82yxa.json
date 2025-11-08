@@ -1,0 +1,612 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:1190610",
+      "storedAt": 1762594621101,
+      "meta": {
+        "storedAt": 1762594621,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1190610",
+        "imdbId": "tt27236663",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/261608?token=f832c084331880976d0f094b2c884072&expires=1767778620&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:1442532",
+      "storedAt": 1762594941669,
+      "meta": {
+        "storedAt": 1762594941,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "1442532",
+        "imdbId": "tt35682199",
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Ricky.Stanicky.2024.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/v7iSZUZU",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Download",
+            "title": "Ricky.Stanicky.2024.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pub-475af27bf5884891ab83c4783006141d.r2.dev/Ricky.Stanicky.2024.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Ricky.Stanicky.2024.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2l2G4Rp1VQKS4aZmMWxLXem2CNC1P9Y7sPh4PXq3uFZXjlVvAy_ysgx_mU1MpivFFndIveg4s9-DUZXyDt6jxKaeRBCjQTMWhdzkYmfmMc1wcZxEeUz6RqOWUq0LH5lskpCz_sqxIYaquFvsna6EV0EYfd-fP3xPHdmRtpVNODwy-kQ-nM993LG2KMnpQvNijAwaRM7EOqrFsLMfsm4wAqmZiS9rKmtMpeR0fgjnLOENk9kZdYExoscjiWzkL_YdVGrrjxy",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Ricky.Stanicky.2024.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/jC8XNbDx",
+            "quality": "720p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Ricky.Stanicky.2024.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lT1FB2eE8LYYLv4rXRlm0fALELkjGlxsO_lwXYj-Opr-OaljBihDUtvXUrtAuAXCFVwfv1sn1I0xxTpMGsDos2XNxT8eQXwbZmSn6C0kktubGHmKM-eP8G7Fodr1G_qho-_2lrscZvZmNFmHdp7rvorQCGoTY07PRUzVgSZvymF4CPlNWwqq_YDFQ1B8gTZkv4Y_g54kbDFJAPs7k-BqZ0ugaJjfRbqDS8MtjOxl5T3lnFZn1ZCJKUiGRuQJODNx2W9jAW",
+            "quality": "720p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Ricky.Stanicky.2024.480p.WEB-DL.Hindi-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/kuAedYVD",
+            "quality": "480p",
+            "size": "403.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Ricky.Stanicky.2024.480p.WEB-DL.Hindi-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kLRLLWNDIyTDHmmPneS3mGW_iFH4rJozs47vjdd1KNRFWwwMgta5QKlO_DkO86XMmYtSL_xZSphYSSAbERKQOqS8NORY1_vlqeqA4DkDn1-_-T2DHoTetNPJvVmwDTW3coiTaE5nMYaRka6GJ2dfL9Vjf4h_-IvSFXu9IRhAbGRhKKXsgLcOKODRqk_j__VZCSRcRx3haMUWWDgN0yZ0NTP1NHHkmSBcS6RXQRsLrvjhEhbEcOuvnQyV0QDgckz5fnnamK",
+            "quality": "480p",
+            "size": "403.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Ricky.Stanicky.2024.480p.WEB-DL.Hindi-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mys6oZcZ4HDJFJLa03RIcLziB_lwIf5KftYEbLjUbIWymKBWRjF5ZuLp_bRGOwPR1Do3FIgXpw-vK5xKFzG7nnaTimCURJZtOZuJf63mx1Pmj_s0Nqd1TiDWRY03zyYtHQ0hzl6u7iH-4YptzwUD_Qp5wfqkbu_g2F8vHqNWDYitlqZ2l4m9XRrOL-SGZrFZHI5JSMGnJlMT2o_h6fMVdZwlbLzoQ7Aweohd0WOXOl_oSSZyJD0kLTZuH2YIUiARMFuWC5",
+            "quality": "480p",
+            "size": "403.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:1442532",
+      "storedAt": 1762594941849,
+      "meta": {
+        "storedAt": 1762594941,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "1442532",
+        "imdbId": "tt35682199",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "The Sticky S01 1080p AMZN WEB-DL DUAL DDP5 1 H 264-WADU\n11.23GB",
+            "url": "https://worker-wandering-band-1aa4.wakejob314.workers.dev/5b4575531265fff6fb05af32de660a46edcfd22dc3f2b58582e25c2ede5922867b6de7d45d2bea0921b1c53f663f4a81b601d2af5306935b1ae7e339c838b99942ff962b6c28d2165337d9cbcdaae85fa8ea5373971528ad1276ab9897da3d065c13a0b23b97eb43df8300727c09b14b3b9913b8736b6bf61b481d03ea83d3be1ec9cd3c7921575c5f8d7a5b956554597bd468198aa9bcdb7a093861c3ad9ccf2780d4e2aa21719b5f271cfda8f5fdb5::906cab5ddbe4acf60e80db014217c973/The.Sticky.S01.1080p.AMZN.WEB-DL.DUAL.DDP5.1.H.264-WADU.zip",
+            "quality": "1080p",
+            "size": "11.23GB",
+            "fileName": "The.Sticky.S01.1080p.AMZN.WEB-DL.DUAL.DDP5.1.H.264-WADU.zip",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:149",
+      "storedAt": 1762594714468,
+      "meta": {
+        "storedAt": 1762594714,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "149",
+        "imdbId": "tt0094625",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "A Summer Story (1988) 1080p BluRay REMUX AVC [Org VCD Hindi DD 2.0 + English FLAC 2.0] x264 (FraMeSToR-4KHDHub)\n20.35 GB",
+            "url": "https://star.server-7.workers.dev/b9a417c72b7ccdfd147a6deea1f5e8782603f0c6a01148b244dd2f8969bf1e361371307b0d45bbd8334d7447f3ab9258::c4c5f13fd6671e4d69ce46be06fc6e91/1397326452/A%20Summer%20Story%20(1988)%201080p%20BluRay%20REMUX%20AVC%20[Org%20VCD%20Hindi%20DD%202.0%20+%20English%20FLAC%202.0]%20x264%20(FraMeSToR-4KHDHub).mkv",
+            "quality": "1080p",
+            "size": "20.35 GB",
+            "fileName": "A Summer Story (1988) 1080p BluRay REMUX AVC [Org VCD Hindi DD 2.0 + English FLAC 2.0] x264 (FraMeSToR-4KHDHub)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "88QjkSXL\n8.94 GB",
+            "url": "https://pixeldrain.net/api/file/88QjkSXL",
+            "quality": "1080p",
+            "size": "8.94 GB",
+            "fileName": "88QjkSXL",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:149",
+      "storedAt": 1762594713877,
+      "meta": {
+        "storedAt": 1762594713,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "149",
+        "imdbId": "tt0094625",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies JPN BluRay REMUX HEVC TrueHD 5 1-FGT",
+            "url": "https://a.111477.xyz/movies/Akira%20(1988)/Akira.1988.JAPANESE.2160p.JPN.BluRay.REMUX.HEVC.TrueHD.5.1-FGT.mkv",
+            "quality": "2160p | REMUX",
+            "size": "83.58 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Akira.1988.JAPANESE.2160p.JPN.BluRay.REMUX.HEVC.TrueHD.5.1-FGT.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x264-NOELLE",
+            "url": "https://a.111477.xyz/movies/Akira%20(1988)/Akira.1988.iNTERNAL.1080p.BluRay.x264-NOELLE.mkv",
+            "quality": "1080p",
+            "size": "24.32 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Akira.1988.iNTERNAL.1080p.BluRay.x264-NOELLE.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:17379",
+      "storedAt": 1762594712488,
+      "meta": {
+        "storedAt": 1762594712,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "17379",
+        "imdbId": "tt0408985",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Last Holiday (2006) 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English TrueHD 5.1] (decibeL-Ionicboy)\n28.02 GB",
+            "url": "https://spring-flower-afad.terapiyo238.workers.dev/f63694640e00bba2d54402c4a74f7e260a5d6de435d560dcb0150285cd1d6f214b595a7c09aae62825836fdcb23f101f::d69b95cc07f787e6381749fd0cdbd84f/1397326452/Last%20Holiday%20(2006)%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%205.1%20+%20English%20TrueHD%205.1]%20(decibeL-Ionicboy).mkv",
+            "quality": "1080p",
+            "size": "28.02 GB",
+            "fileName": "Last Holiday (2006) 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English TrueHD 5.1] (decibeL-Ionicboy)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Last Holiday (2006) 1080p BluRay [Hindi DDP 5.1 + English DTS 5.1] x264 (playHD-Ionicboy)\n17.86 GB",
+            "url": "https://frosty-star-a866.xatem334794489.workers.dev/346a32561c5c4e4866912b0cc2fa9c22b33e8e6fd5329b1d8b13cfb7ab6bee973a30c6c070bda6ae0423546dba247fef::03e4b31f957694d9a66fc46f34682c79/1397326452/Last%20Holiday%20(2006)%201080p%20BluRay%20[Hindi%20DDP%205.1%20+%20English%20DTS%205.1]%20x264%20(playHD-Ionicboy).mkv",
+            "quality": "1080p",
+            "size": "17.86 GB",
+            "fileName": "Last Holiday (2006) 1080p BluRay [Hindi DDP 5.1 + English DTS 5.1] x264 (playHD-Ionicboy)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "QmsdiSBq\n5.46 GB",
+            "url": "https://pixeldrain.net/api/file/QmsdiSBq",
+            "quality": "1080p",
+            "size": "5.46 GB",
+            "fileName": "QmsdiSBq",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:17379",
+      "storedAt": 1762594712122,
+      "meta": {
+        "storedAt": 1762594712,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "17379",
+        "imdbId": "tt0408985",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ] [YTS AM]",
+            "url": "https://a.111477.xyz/movies/Last%20Holiday%20(2006)/Last%20Holiday%20(2006)%20[BluRay]%20[1080p]%20[YTS.AM].mp4",
+            "quality": "1080p",
+            "size": "1.78 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Last Holiday (2006) [BluRay] [1080p] [YTS.AM].mp4"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:17379",
+      "storedAt": 1762594713797,
+      "meta": {
+        "storedAt": 1762594713,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "17379",
+        "imdbId": "tt0408985",
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Last.Holiday.2006.1080p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/u/uTurJ7gE",
+            "quality": "1080p",
+            "size": "2.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Last.Holiday.2006.1080p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lD96zckAcIziFPbNHanu8y5i6aPdLHk2ElqvowVueIWIeW3nDfI9uH2JlBKs5gI6tVM0X2kRES_9wSLcNLKddwZ2clENmzPx4JKijKy6aj4WixbbmiBTU6uZ9IttmvdXZWEaq8Di4SXEUf7QiUheMbVp4UU3m65aElo1y0ZQQRd9w9smpuViqqXaLn1hDjAwC7M8wpwqsBL6MGS2-G1WFqzrsZE6MX7BrSBlLDFFKtezzEy0a8WOSz-4L8ndfTmZqKGlnb",
+            "quality": "1080p",
+            "size": "2.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Last.Holiday.2006.720p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/u/LEYtKzAN",
+            "quality": "720p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Last.Holiday.2006.720p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nkf1GJsGt7mFmsdPtj7sP2dQkZjtGUG3HE9FkBW0PlEc4BqW16ViTMZUftu0m-7jAzN8oVlH94vBAb-C2tns2jAKjsjf-FJusvKIwLJWDBFWuJRiYdCnIRMaDe3I4vBtLJwNwaiWfTzortY0jl7rvspDqsBgg3Mr1D11C1cwL_8gRxpxhtDwukEjt7ULNhMmjshrfkqJTuTmoZfHe_MqBeM3S-AKkBsqsEZjpTDWeciuI5Va6ZAotjR1jOb0TJUnmTzL6s",
+            "quality": "720p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:415842",
+      "storedAt": 1762594512156,
+      "meta": {
+        "storedAt": 1762594512,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "415842",
+        "imdbId": "tt1961175",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "American Woman (2018) 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English DTS-HD.MA 5.1] (FraMeSToR-4kHdHub.com)\n18.33 GB",
+            "url": "https://dl.files.earthcdn.workers.dev/b26f7141141a204e122765decb74748aa8e6e7d947149c58e9c7fabb788ec148cf1cac9edac966c6f2ae72387f0801af::09233d6e6ac4f2e7bd4de6ce45601a74/1397326452/American%20Woman%20(2018)%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%205.1%20+%20English%20DTS-HD.MA%205.1]%20(FraMeSToR-4kHdHub.com).mkv",
+            "quality": "1080p",
+            "size": "18.33 GB",
+            "fileName": "American Woman (2018) 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English DTS-HD.MA 5.1] (FraMeSToR-4kHdHub.com)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Nf51MLZ3\n13.05 GB",
+            "url": "https://pixeldrain.net/api/file/Nf51MLZ3",
+            "quality": "1080p",
+            "size": "13.05 GB",
+            "fileName": "Nf51MLZ3",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:415842",
+      "storedAt": 1762594511862,
+      "meta": {
+        "storedAt": 1762594511,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "415842",
+        "imdbId": "tt1961175",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies TrueHD Atmos 7 1 DV HEVC REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/American%20Assassin%20(2017)/American.Assassin.2017.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.REMUX-FraMeSToR.mkv",
+            "quality": "2160p | DV | REMUX",
+            "size": "62.22 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "American.Assassin.2017.UHD.BluRay.2160p.TrueHD.Atmos.7.1.DV.HEVC.REMUX-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies TrueHD Atmos 7 1 HEVC REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/American%20Assassin%20(2017)/American.Assassin.2017.UHD.BluRay.2160p.TrueHD.Atmos.7.1.HEVC.REMUX-FraMeSToR.mkv",
+            "quality": "2160p | REMUX",
+            "size": "55.86 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "American.Assassin.2017.UHD.BluRay.2160p.TrueHD.Atmos.7.1.HEVC.REMUX-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Blu-ray AVC DTS-HD MA 7 1-LEGi0N-Rakuvfinhel",
+            "url": "https://a.111477.xyz/movies/American%20Assassin%20(2017)/American.Assassin.2017.REMUX.1080p.Blu-ray.AVC.DTS-HD.MA.7.1-LEGi0N-Rakuvfinhel.mkv",
+            "quality": "1080p | REMUX",
+            "size": "22.56 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "American.Assassin.2017.REMUX.1080p.Blu-ray.AVC.DTS-HD.MA.7.1-LEGi0N-Rakuvfinhel.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:111188:s1e1",
+      "storedAt": 1762594982826,
+      "meta": {
+        "storedAt": 1762594982,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "111188",
+        "imdbId": "tt12392504",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Scam.1992.S01.E01.Hindi.720p.WEB-DL.x264-HDHubu4u.Link.mkv",
+            "url": "https://pixeldrain.dev/u/ySYG86JF",
+            "quality": "720p",
+            "size": "382.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Scam.1992.S01.E01.Hindi.720p.WEB-DL.x264-HDHubu4u.Link.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Scam.1992.S01.E01.Hindi.720p.WEB-DL.x264-HDHubu4u.Link.mkv?token=1762594980",
+            "quality": "720p",
+            "size": "382.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Scam.1992.S01.E01.Hindi.720p.WEB-DL.x264-HDHubu4u.Link.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lBj95xjg3GLluJyRW0STq7GiggKUQd_VS0g5sXc0aFBahzqFH6tqaIYbtb7lxkgqU70FBN7NTuI2Dj_UuyO7PJaD4xB-yVUXOZwRfXHbexZnChVZ_QjEXxpXTtaouk6RFQXCIviXJCdv5IOk8_AeKHzAJVDrVsylcPzewcc7x6DL-wv67f9XIR6ZTHJVll_h67W8S_eWDkQ6oFcuHLEfi49z0HYkyeebFdAxxC5GJBIug1kOAZqWY4ANLb8oW3_uzGS-sU",
+            "quality": "720p",
+            "size": "382.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:87282:s2e20",
+      "storedAt": 1762594716576,
+      "meta": {
+        "storedAt": 1762594716,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "87282",
+        "imdbId": "tt8792866",
+        "season": 2,
+        "episode": 20,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/472096?token=7b846ad4bf71196f31a822c927d8aaab&expires=1767778716&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-08T09:43:11.865Z",
+    "totalOriginalEntries": 12,
+    "newItemsInThisBatch": 12,
+    "format": "compact_v1"
+  }
+}
