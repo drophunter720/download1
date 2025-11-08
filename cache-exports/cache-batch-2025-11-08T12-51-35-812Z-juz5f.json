@@ -1,0 +1,80 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:movie:437586",
+      "storedAt": 1762605981618,
+      "meta": {
+        "storedAt": 1762605981,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "437586",
+        "imdbId": "tt5613484",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x264-nikt0",
+            "url": "https://a.111477.xyz/movies/mid90s%20(2018)/Mid90s.2018.1080p.BluRay.x264-nikt0.mkv",
+            "quality": "1080p",
+            "size": "3.81 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Mid90s.2018.1080p.BluRay.x264-nikt0.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay H264 AAC",
+            "url": "https://a.111477.xyz/movies/mid90s%20(2018)/Mid90s.2018.PROPER.1080p.BluRay.H264.AAC.mp4",
+            "quality": "1080p",
+            "size": "1.63 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Mid90s.2018.PROPER.1080p.BluRay.H264.AAC.mp4"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:2290:s1e1",
+      "storedAt": 1762606268461,
+      "meta": {
+        "storedAt": 1762606268,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "2290",
+        "imdbId": "tt0374455",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS-HD MA 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Stargate%20Atlantis/Season%201/Stargate.Atlantis.S01E01E02.Rising.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "15.57 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Stargate.Atlantis.S01E01E02.Rising.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-08T12:51:35.812Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
