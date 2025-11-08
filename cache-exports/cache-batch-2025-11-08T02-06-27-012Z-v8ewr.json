@@ -1,0 +1,41 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:560527",
+      "storedAt": 1762567341093,
+      "meta": {
+        "storedAt": 1762567341,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "560527",
+        "imdbId": "tt9759978",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "vgNFfCtd\n3.27 GB",
+            "url": "https://pixeldrain.net/api/file/vgNFfCtd",
+            "quality": "1080p",
+            "size": "3.27 GB",
+            "fileName": "vgNFfCtd",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-08T02:06:27.012Z",
+    "totalOriginalEntries": 1,
+    "newItemsInThisBatch": 1,
+    "format": "compact_v1"
+  }
+}
