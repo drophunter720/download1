@@ -1,0 +1,126 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:572151",
+      "storedAt": 1762609934370,
+      "meta": {
+        "storedAt": 1762609934,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "572151",
+        "imdbId": "tt9765144",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/484921?token=ce5df1f4f1599efa174f9adfc5ecd6f7&expires=1767793933&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1405:s4e5",
+      "storedAt": 1762609492188,
+      "meta": {
+        "storedAt": 1762609492,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1405",
+        "imdbId": "tt0773262",
+        "season": 4,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][TrueHD 5 1][h264]-BTN",
+            "url": "https://a.111477.xyz/tvs/Dexter/Season%204/Dexter%20(2006)%20-%20S04E05%20-%20Dirty%20Harry%20[Bluray-1080p%20Remux][TrueHD%205.1][h264]-BTN.mkv",
+            "quality": "1080p | REMUX",
+            "size": "9.00 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Dexter (2006) - S04E05 - Dirty Harry [Bluray-1080p Remux][TrueHD 5.1][h264]-BTN.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC TrueHD 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Dexter/Season%204/Dexter.S04E05.1080p.BluRay.REMUX.AVC.TrueHD.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "9.00 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Dexter.S04E05.1080p.BluRay.REMUX.AVC.TrueHD.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1405:s4e5",
+      "storedAt": 1762609495098,
+      "meta": {
+        "storedAt": 1762609495,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1405",
+        "imdbId": "tt0773262",
+        "season": 4,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Dexter S4E5 - 5. Dirty Harry",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/dexter/s4/Dexter.S04E05.Dirty.Harry.BR720p.350MB-PaHe.in.mkv",
+            "quality": "1080p",
+            "size": "49min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Dexter S4E5 - 5. Dirty Harry",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/dexter/s4/Dexter.S04E05.Dirty.Harry.BR720p.350MB-PaHe.in.mkv",
+            "quality": "1080p",
+            "size": "49min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-08T13:52:52.193Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
