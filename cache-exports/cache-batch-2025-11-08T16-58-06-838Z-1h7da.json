@@ -1,0 +1,103 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:movie:10398",
+      "storedAt": 1762620811564,
+      "meta": {
+        "storedAt": 1762620811,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "10398",
+        "imdbId": "tt0150377",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DTS-HD MA5 1 x265 10bit-BeiTai",
+            "url": "https://a.111477.xyz/movies/Double%20Jeopardy%20(1999)/Double.Jeopardy.1999.BluRay.1080p.DTS-HD.MA5.1.x265.10bit-BeiTai.mkv",
+            "quality": "1080p",
+            "size": "12.36 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Double.Jeopardy.1999.BluRay.1080p.DTS-HD.MA5.1.x265.10bit-BeiTai.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:153195:s1e5",
+      "storedAt": 1762621022046,
+      "meta": {
+        "storedAt": 1762621022,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "153195",
+        "imdbId": "tt15459278",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/79071?token=02dc74b46a4b322e576b09336c9660fb&expires=1767805021&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:549:s11e5",
+      "storedAt": 1762620829704,
+      "meta": {
+        "storedAt": 1762620829,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "549",
+        "imdbId": "tt0098844",
+        "season": 11,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/242213?token=9dd44389a9888ce9406bc5ded9f949d9&expires=1767804829&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-08T16:58:06.838Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
