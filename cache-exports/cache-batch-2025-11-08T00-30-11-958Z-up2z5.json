@@ -1,0 +1,75 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:streamflix:tv:14658:s49e6",
+      "storedAt": 1762561470010,
+      "meta": {
+        "storedAt": 1762561470,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "14658",
+        "imdbId": "tt0239195",
+        "season": 49,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Survivor S49E6 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1641111532/s49/episode6.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:66203:s1e65",
+      "storedAt": 1762561414153,
+      "meta": {
+        "storedAt": 1762561414,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "66203",
+        "imdbId": "tt5189554",
+        "season": 1,
+        "episode": 65,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/226142?token=013d02166c0ab8bd17f263e1cce36635&expires=1767745413&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-08T00:30:11.959Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
