@@ -1,0 +1,102 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:uhdmovies:movie:76640",
+      "storedAt": 1762613808993,
+      "meta": {
+        "storedAt": 1762613808,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "76640",
+        "imdbId": "tt1549920",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "The Last Stand (2013) 1080p BluRay 10bit HEVC [Hindi AAC 2 0 + English AAC 7 1] x265 (Tigole-UHDMovies)\n2.38GB",
+            "url": "https://worker-quiet-union-701d.tirowe8949.workers.dev/f2c17993e9dc05863eea21f66a6ab8a8950d873765694ccbd781b92dd9be09ee93c6a2220d29d199ed05c8f19535d1fb248ebc3ad3449c028ab820fc57b6a3c7fa440a3a1c1a4004987c9f18551f6a86ab7fdf73d6fc867658b0d15f511a9d5b016b2c371d450709819fa8126a1412d275bd492a50954c4d3929abb6e2320331a7df7a2f4ff913768a5f62ae9a851eb84279b25eb1b4c4e7d365e36345f7a9b702be6f2996002e6be236b5ec69f715b6::1264ac4cd5a0ca17d491ed79af02e22f/The Last Stand (2013) 1080p BluRay 10bit HEVC [Hindi AAC 2.0  English AAC 7.1] x265 (Tigole-UHDMovies).mkv",
+            "quality": "1080p | BluRay",
+            "size": "2.38GB",
+            "fileName": "The Last Stand (2013) 1080p BluRay 10bit HEVC [Hindi AAC 2.0 + English AAC 7.1] x265 (Tigole-UHDMovies).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:139798:s3e1",
+      "storedAt": 1762613520506,
+      "meta": {
+        "storedAt": 1762613520,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "139798",
+        "imdbId": "tt16283666",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/182697?token=c61e5c3a7b0a14eec1b90e2469a76dbb&expires=1767797520&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:39388:s2e5",
+      "storedAt": 1762613587268,
+      "meta": {
+        "storedAt": 1762613587,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "39388",
+        "imdbId": "tt1841108",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/326835?token=40dbb10e96c45d3e7f57d2e366559bed&expires=1767797586&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-08T14:56:55.625Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
