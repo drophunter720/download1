@@ -1,0 +1,112 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:44184",
+      "storedAt": 1762661296104,
+      "meta": {
+        "storedAt": 1762661296,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "44184",
+        "imdbId": "tt0275039",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/236786?token=28e49c52a9a324c0ac1c68581945e29f&expires=1767845295&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:653349",
+      "storedAt": 1762661379851,
+      "meta": {
+        "storedAt": 1762661379,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "653349",
+        "imdbId": "tt3626476",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Help I Shrunk My Friends (2021) 1080p BluRay REMUX [Org Hindi DDP 2.0 + German DTS-HD MA 5.1] x264 (HDT-4kHdHub)\n24.34 GB",
+            "url": "https://odd-star-946a.veces411654274.workers.dev/c3017dadcc2a37904287f93ededf417078241f396944291b00e81f51fbc68f9fe5243b235b54b0bea95f9cbaa5e098c5::4f1040ff63a86c4e1fd746f85446131e/1397326521/Help%20I%20Shrunk%20My%20Friends%20(2021)%201080p%20BluRay%20REMUX%20[Org%20Hindi%20DDP%202.0%20+%20German%20DTS-HD%20MA%205.1]%20x264%20(HDT-4kHdHub).mkv",
+            "quality": "1080p",
+            "size": "24.34 GB",
+            "fileName": "Help I Shrunk My Friends (2021) 1080p BluRay REMUX [Org Hindi DDP 2.0 + German DTS-HD MA 5.1] x264 (HDT-4kHdHub)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Mi1nCnSp\n7.72 GB",
+            "url": "https://pixeldrain.net/api/file/Mi1nCnSp",
+            "quality": "1080p",
+            "size": "7.72 GB",
+            "fileName": "Mi1nCnSp",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:653349",
+      "storedAt": 1762661379725,
+      "meta": {
+        "storedAt": 1762661379,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "653349",
+        "imdbId": "tt3626476",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip x265",
+            "url": "https://a.111477.xyz/movies/Vacation%20Friends%20(2021)/Vacation.Friends.2021.1080p.WEBRip.x265.mp4",
+            "quality": "1080p",
+            "size": "1.61 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Vacation.Friends.2021.1080p.WEBRip.x265.mp4"
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-09T04:14:48.363Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
