@@ -1,0 +1,74 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:tv:95057:s3e6",
+      "storedAt": 1762730602191,
+      "meta": {
+        "storedAt": 1762730602,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "95057",
+        "imdbId": "tt11192306",
+        "season": 3,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies 10bit BluRay AAC5 1 HEVC-Vyndros",
+            "url": "https://a.111477.xyz/tvs/Superman%20&%20Lois/Season%203/Superman.&.Lois.S03E06.Of.Sound.Mind.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv",
+            "quality": "1080p",
+            "size": "929.27 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Superman.&amp;.Lois.S03E06.Of.Sound.Mind.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:95057:s3e6",
+      "storedAt": 1762730603721,
+      "meta": {
+        "storedAt": 1762730603,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "95057",
+        "imdbId": "tt11192306",
+        "season": 3,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Superman & Lois S3E6 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1679469624/s3/episode6.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-09T23:28:30.206Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
