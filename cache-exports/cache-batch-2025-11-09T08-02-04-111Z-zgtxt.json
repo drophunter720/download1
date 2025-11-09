@@ -1,0 +1,477 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:1091508",
+      "storedAt": 1762675231988,
+      "meta": {
+        "storedAt": 1762675231,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1091508",
+        "imdbId": "tt21067242",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/387562?token=647a0b2b9cc54cbbf9585e2486b29846&expires=1767859231&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:7445",
+      "storedAt": 1762674844642,
+      "meta": {
+        "storedAt": 1762674844,
+        "urlCount": 7,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "7445",
+        "imdbId": "tt0765010",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Surrogates 2009 2160p 4K UHD SDR AI UPSCALED BluRay x265 10bit HEVC [Org VCD Hindi DD 2.0 ~ 224Kbps + English DTS-HD MA 5.1] ESub ~ ZAX-4kHDHub.com\n19.4 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Surrogates%202009%202160p%204K%20UHD%20SDR%20AI%20UPSCALED%20BluRay%20x265%2010bit%20HEVC%20[Org%20VCD%20Hindi%20DD%202.0%20~%20224Kbps%20+%20English%20DTS-HD%20MA%205.1]%20ESub%20~%20ZAX-4kHDHub.com.mkv?token=1762674844",
+            "quality": "2160p",
+            "size": "19.4 GB",
+            "fileName": "Surrogates 2009 2160p 4K UHD SDR AI UPSCALED BluRay x265 10bit HEVC [Org VCD Hindi DD 2.0 ~ 224Kbps + English DTS-HD MA 5.1] ESub ~ ZAX-4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Surrogates 2009 1080p BluRay REMUX x264 AVC [Org VCD Hindi DD 2.0 ~ 224Kbps + English DTS-HDMA 5.1] ESub ~ FraMeSToR-4kHDHub.com\n18.62 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Surrogates%202009%201080p%20BluRay%20REMUX%20x264%20AVC%20[Org%20VCD%20Hindi%20DD%202.0%20~%20224Kbps%20+%20English%20DTS-HDMA%205.1]%20ESub%20~%20FraMeSToR-4kHDHub.com.mkv?token=1762674844",
+            "quality": "1080p",
+            "size": "18.62 GB",
+            "fileName": "Surrogates 2009 1080p BluRay REMUX x264 AVC [Org VCD Hindi DD 2.0 ~ 224Kbps + English DTS-HDMA 5.1] ESub ~ FraMeSToR-4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "5RNVuthT\n11.84 GB",
+            "url": "https://pixeldrain.net/api/file/5RNVuthT",
+            "quality": "1080p",
+            "size": "11.84 GB",
+            "fileName": "5RNVuthT",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Surrogates 2009 1080p BluRay x264 AVC [Org VCD Hindi DD 2.0 ~ 224Kbps + English DTS-HDMA 5.1] ESub ~ HDH-4kHDHub.com\n11.84 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Surrogates%202009%201080p%20BluRay%20x264%20AVC%20[Org%20VCD%20Hindi%20DD%202.0%20~%20224Kbps%20+%20English%20DTS-HDMA%205.1]%20ESub%20~%20HDH-4kHDHub.com.mkv?token=1762674844",
+            "quality": "1080p",
+            "size": "11.84 GB",
+            "fileName": "Surrogates 2009 1080p BluRay x264 AVC [Org VCD Hindi DD 2.0 ~ 224Kbps + English DTS-HDMA 5.1] ESub ~ HDH-4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "6rATWPXB\n7.37 GB",
+            "url": "https://pixeldrain.net/api/file/6rATWPXB",
+            "quality": "1080p",
+            "size": "7.37 GB",
+            "fileName": "6rATWPXB",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Surrogates 2009 1080p BluRay x265 10bit HEVC [Org VCD Hindi DD 2.0 ~ 224Kbps + English DTS-HD MA 5.1] ESub ~ xtrem3x [TAoE]-4kHDHub.com\n7.37 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Surrogates%202009%201080p%20BluRay%20x265%2010bit%20HEVC%20[Org%20VCD%20Hindi%20DD%202.0%20~%20224Kbps%20+%20English%20DTS-HD%20MA%205.1]%20ESub%20~%20xtrem3x%20[TAoE]-4kHDHub.com.mkv?token=1762674844",
+            "quality": "1080p",
+            "size": "7.37 GB",
+            "fileName": "Surrogates 2009 1080p BluRay x265 10bit HEVC [Org VCD Hindi DD 2.0 ~ 224Kbps + English DTS-HD MA 5.1] ESub ~ xtrem3x [TAoE]-4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Yz9cgba4\n7.27 GB",
+            "url": "https://pixeldrain.net/api/file/Yz9cgba4",
+            "quality": "1080p",
+            "size": "7.27 GB",
+            "fileName": "Yz9cgba4",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 7
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:7445",
+      "storedAt": 1762674844109,
+      "meta": {
+        "storedAt": 1762674844,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "7445",
+        "imdbId": "tt0765010",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies bluray YTS",
+            "url": "https://a.111477.xyz/movies/Brothers%20(2009)/Brothers%202009%201080p%20bluray%20YTS.mp4",
+            "quality": "1080p",
+            "size": "1.93 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Brothers 2009 1080p bluray YTS.mp4"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DTS-HD MA 5 1 AVC REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/Brothers%20(2009)/Brothers.2009.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": "15.67 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Brothers.2009.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:7445",
+      "storedAt": 1762674844549,
+      "meta": {
+        "storedAt": 1762674844,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "7445",
+        "imdbId": "tt0765010",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Brothers - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2015/brothers.mkv",
+            "quality": "1080p",
+            "size": "2h 36m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Brothers - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2015/brothers.mkv",
+            "quality": "1080p",
+            "size": "2h 36m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Brothers - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2015/brothers.mkv",
+            "quality": "720p",
+            "size": "2h 36m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Brothers - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2015/brothers.mkv",
+            "quality": "720p",
+            "size": "2h 36m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:66732:s1e4",
+      "storedAt": 1762675019297,
+      "meta": {
+        "storedAt": 1762675019,
+        "urlCount": 11,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "66732",
+        "imdbId": "tt4574334",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "gcoQdUJN\n10.13 GB",
+            "url": "https://pixeldrain.net/api/file/gcoQdUJN",
+            "quality": "1080p",
+            "size": "10.13 GB",
+            "fileName": "gcoQdUJN",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Stranger Things 2016 S01E04 1080p BluRay REMUX x264 AVC [Hindi DDP 5.1 640Kbps + English TruHD 5.1] ESub  FraMeSToR\n10.13 GB",
+            "url": "https://i.love-aiplex.click/Stranger%20Things%202016%20S01E04%201080p%20BluRay%20REMUX%20x264%20AVC%20[Hindi%20DDP%205.1%20640Kbps%20+%20English%20TruHD%205.1]%20ESub%20%20FraMeSToR.mkv?token=1762673689",
+            "quality": "1080p",
+            "size": "10.13 GB",
+            "fileName": "Stranger Things 2016 S01E04 1080p BluRay REMUX x264 AVC [Hindi DDP 5.1 640Kbps + English TruHD 5.1] ESub  FraMeSToR",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "y3VG2oam\n3.5 GB",
+            "url": "https://pixeldrain.net/api/file/y3VG2oam",
+            "quality": "1080p",
+            "size": "3.5 GB",
+            "fileName": "y3VG2oam",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Stranger Things 2016 S01E04 1080p BluRay x264 [Hindi DDP 5.1 640Kbps + English DD 5.1] ESub  SHORTBREHD\n3.5 GB",
+            "url": "https://i.love-aiplex.click/Stranger%20Things%202016%20S01E04%201080p%20BluRay%20x264%20[Hindi%20DDP%205.1%20640Kbps%20+%20English%20DD%205.1]%20ESub%20%20SHORTBREHD.mkv?token=1762673702",
+            "quality": "1080p",
+            "size": "3.5 GB",
+            "fileName": "Stranger Things 2016 S01E04 1080p BluRay x264 [Hindi DDP 5.1 640Kbps + English DD 5.1] ESub  SHORTBREHD",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "RUcpj4qR\n14 GB",
+            "url": "https://pixeldrain.net/api/file/RUcpj4qR",
+            "quality": "2160p",
+            "size": "14 GB",
+            "fileName": "RUcpj4qR",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Stranger Things 2016 S01E04 2160p 4K SDR BluRay REMUX x265 10bit HEVC [Hindi DDP 5.1 640Kbps + English DD 5.1] ESub ~ FGT\n14 GB",
+            "url": "https://i.love-aiplex.click/Stranger%20Things%202016%20S01E04%202160p%204K%20SDR%20BluRay%20REMUX%20x265%2010bit%20HEVC%20[Hindi%20DDP%205.1%20640Kbps%20+%20English%20DD%205.1]%20ESub%20~%20FGT.mkv?token=1762673714",
+            "quality": "2160p",
+            "size": "14 GB",
+            "fileName": "Stranger Things 2016 S01E04 2160p 4K SDR BluRay REMUX x265 10bit HEVC [Hindi DDP 5.1 640Kbps + English DD 5.1] ESub ~ FGT",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "QaGzbKLG\n733.48 MB",
+            "url": "https://pixeldrain.net/api/file/QaGzbKLG",
+            "quality": "1080p",
+            "size": "733.48 MB",
+            "fileName": "QaGzbKLG",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Stranger Things S01E04 - [Ch. 4 ~ The Body] 1080p 10bit BluRay Hindi+Eng DDP 5.1Ch HEVC ESubs ~ Joy [Strange]\n733.48 MB",
+            "url": "https://i.love-aiplex.click/Stranger%20Things%20S01E04%20-%20[Ch.%204%20~%20The%20Body]%201080p%2010bit%20BluRay%20Hindi+Eng%20DDP%205.1Ch%20HEVC%20ESubs%20~%20Joy%20[Strange].mkv?token=1762673727",
+            "quality": "1080p",
+            "size": "733.48 MB",
+            "fileName": "Stranger Things S01E04 - [Ch. 4 ~ The Body] 1080p 10bit BluRay Hindi+Eng DDP 5.1Ch HEVC ESubs ~ Joy [Strange]",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "CgL6CHt5\n2.42 GB",
+            "url": "https://pixeldrain.net/api/file/CgL6CHt5",
+            "quality": "1080p",
+            "size": "2.42 GB",
+            "fileName": "CgL6CHt5",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Stranger.Things.S01E04.Chapter.Four.the.Body.1080p.NF.WEB-DL.DDP5.1.HDR.HEVC-ShiNobi\n2.42 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Stranger.Things.S01E04.Chapter.Four.the.Body.1080p.NF.WEB-DL.DDP5.1.HDR.HEVC-ShiNobi.mkv?token=1762673739",
+            "quality": "1080p",
+            "size": "2.42 GB",
+            "fileName": "Stranger.Things.S01E04.Chapter.Four.the.Body.1080p.NF.WEB-DL.DDP5.1.HDR.HEVC-ShiNobi",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "cmu2tsaC\n1.7 GB",
+            "url": "https://pixeldrain.net/api/file/cmu2tsaC",
+            "quality": "2160p",
+            "size": "1.7 GB",
+            "fileName": "cmu2tsaC",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 11
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:66732:s1e4",
+      "storedAt": 1762675019859,
+      "meta": {
+        "storedAt": 1762675019,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "66732",
+        "imdbId": "tt4574334",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Stranger Things S1E4 - 4. Chapter Four: The Body",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/strangerthinngs/s1/Stranger.Things.S01E04.720p.Hindi.Eng.mkv",
+            "quality": "1080p",
+            "size": "51min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Stranger Things S1E4 - 4. Chapter Four: The Body",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/strangerthinngs/s1/Stranger.Things.S01E04.720p.Hindi.Eng.mkv",
+            "quality": "1080p",
+            "size": "51min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:66732:s1e4",
+      "storedAt": 1762675024351,
+      "meta": {
+        "storedAt": 1762675024,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "66732",
+        "imdbId": "tt4574334",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Stranger Things S01E04 Chapter Four the Body 1080p NF WEB-DL DDP5 1 HDR HEVC-TombDoc\n2.42GB",
+            "url": "https://hello-world-empty-shadow-b7e0.liciy56051.workers.dev/8583687f459045d2e9a1e6040ac360b3c3911a475154fe45e3f5f0d4c0f9d4b0c1bb64517e9b1f8800df6d05c3cd170b11c5455156f0e0561e7ec06efb9ce0bfd66469ed8452c09f00b362d76eebaa7f6e7ccbbc8994ac3518354a2b9961134071f39fa2b6d3567151918ef453b5b930733e3d643b92fa6e5402713b5fbbdd59a204167e8db587463616953bc5580040903db55bde3736dd510b8327f13202daa79da9acbef1323b4fd96293e6581c36::d206e69e0071d65613212aa9a806e54b/Stranger.Things.S01E04.Chapter.Four.the.Body.1080p.NF.WEB-DL.DDP5.1.HDR.HEVC-TombDoc.mkv",
+            "quality": "1080p | HDR",
+            "size": "2.42GB",
+            "fileName": "Stranger.Things.S01E04.Chapter.Four.the.Body.1080p.NF.WEB-DL.DDP5.1.HDR.HEVC-TombDoc.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-09T08:02:04.111Z",
+    "totalOriginalEntries": 7,
+    "newItemsInThisBatch": 7,
+    "format": "compact_v1"
+  }
+}
