@@ -1,0 +1,106 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:tv:155269:s2e1",
+      "storedAt": 1762704855439,
+      "meta": {
+        "storedAt": 1762704855,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "155269",
+        "imdbId": "tt15733338",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/240679?token=eac46a599a899d8a749a12ca556291fd&expires=1767888854&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:32716:s1e1",
+      "storedAt": 1762705220352,
+      "meta": {
+        "storedAt": 1762705220,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "32716",
+        "imdbId": "tt1765622",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 2 0][h264]-SOMERSAULT",
+            "url": "https://a.111477.xyz/tvs/Kickin",
+            "quality": "1080p",
+            "size": "1.36 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Kickin&#x27; It (2011) - S01E01 - Wasabi Warriors [WEBDL-1080p][AAC 2.0][h264]-SOMERSAULT.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:39272:s1e7",
+      "storedAt": 1762705160265,
+      "meta": {
+        "storedAt": 1762705160,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "39272",
+        "imdbId": "tt1843230",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Once Upon a Time in Hollywood S1E7 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1639550811/s1/episode7.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-09T16:22:15.442Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
