@@ -1,0 +1,260 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:374416",
+      "storedAt": 1762696848575,
+      "meta": {
+        "storedAt": 1762696848,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "374416",
+        "imdbId": "tt5290524",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/68305?token=f1dea2e067f84c41f9e3ec087fe50a7f&expires=1767880847&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:225647:s1e6",
+      "storedAt": 1762696734640,
+      "meta": {
+        "storedAt": 1762696734,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "225647",
+        "imdbId": "tt27987047",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "QBp292pF\n1.74 GB",
+            "url": "https://pixeldrain.net/api/file/QBp292pF",
+            "quality": "1080p",
+            "size": "1.74 GB",
+            "fileName": "QBp292pF",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Boots.S01E06.The.Things.We.Carry.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.264-4kHdHub.Com\n1.74 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Boots.S01E06.The.Things.We.Carry.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv?token=1762696734",
+            "quality": "1080p",
+            "size": "1.74 GB",
+            "fileName": "Boots.S01E06.The.Things.We.Carry.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n1.74 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=zdhsdig1hRTZ&n=E2pxkT6T&fn=Boots.S01E06.The.Things.We.Carry.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv",
+            "quality": "1080p",
+            "size": "1.74 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "E1ew9BCp\n3.65 GB",
+            "url": "https://pixeldrain.net/api/file/E1ew9BCp",
+            "quality": "2160p",
+            "size": "3.65 GB",
+            "fileName": "E1ew9BCp",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "g\n3.65 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=PJtuqw5DlTrK&n=WpoRSZRJ&fn=Boots%20S01E06%202160p%20NF%2010bit%20WEB-DL%20SDR%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DDPA%205.1]%20H.265%20(HHWEB-Ionicboy).mkv",
+            "quality": "2160p",
+            "size": "3.65 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "kwoS9jSC\n5.79 GB",
+            "url": "https://pixeldrain.net/api/file/kwoS9jSC",
+            "quality": "2160p",
+            "size": "5.79 GB",
+            "fileName": "kwoS9jSC",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:225647:s1e6",
+      "storedAt": 1762696734104,
+      "meta": {
+        "storedAt": 1762696734,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "225647",
+        "imdbId": "tt27987047",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][x264]-ETHEL",
+            "url": "https://a.111477.xyz/tvs/Boots/Season%201/Boots%20(2025)%20-%20S01E06%20-%20The%20Things%20We%20Carry%20[WEBDL-1080p][EAC3%20Atmos%205.1][x264]-ETHEL.mkv",
+            "quality": "1080p",
+            "size": "1.56 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Boots (2025) - S01E06 - The Things We Carry [WEBDL-1080p][EAC3 Atmos 5.1][x264]-ETHEL.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:225647:s1e6",
+      "storedAt": 1762696734592,
+      "meta": {
+        "storedAt": 1762696734,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "225647",
+        "imdbId": "tt27987047",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Puss in Boots S1E6 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1704682319/s1/episode6.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:387:s5e8",
+      "storedAt": 1762696626354,
+      "meta": {
+        "storedAt": 1762696626,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "387",
+        "imdbId": "tt0206512",
+        "season": 5,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 2 0][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/SpongeBob%20SquarePants/Season%205/SpongeBob%20SquarePants%20(1999)%20-%20S05E08%20-%20Good%20Ol%20Whatshisname%20[Bluray-1080p][EAC3%202.0][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": "112.13 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "SpongeBob SquarePants (1999) - S05E08 - Good Ol Whatshisname [Bluray-1080p][EAC3 2.0][x265]-iVy.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:81922:s1e9",
+      "storedAt": 1762697038116,
+      "meta": {
+        "storedAt": 1762697038,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "81922",
+        "imdbId": "tt7942774",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/492113?token=213f3b428fc8937f2b3696b8fa75da16&expires=1767881037&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-09T14:05:06.357Z",
+    "totalOriginalEntries": 6,
+    "newItemsInThisBatch": 6,
+    "format": "compact_v1"
+  }
+}
