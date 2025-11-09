@@ -1,0 +1,609 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:1259",
+      "storedAt": 1762715848918,
+      "meta": {
+        "storedAt": 1762715848,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1259",
+        "imdbId": "tt0465551",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/202351?token=3bf8190a028331f4bf6b645b96b651e7&expires=1767899848&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:615453",
+      "storedAt": 1762715804926,
+      "meta": {
+        "storedAt": 1762715804,
+        "urlCount": 13,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "615453",
+        "imdbId": "tt10627720",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Ne.Zha.2019.UHD.BluRay.2160p.English.TrueHD.Atmos.7.1.-Chinese.DTS-HD.MA.5.1.DV.HDR10.HEVC.REMUX-FraMeSToR\n52.96 GB",
+            "url": "https://i.love-aiplex.click/Ne.Zha.2019.UHD.BluRay.2160p.English.TrueHD.Atmos.7.1.-Chinese.DTS-HD.MA.5.1.DV.HDR10.HEVC.REMUX-FraMeSToR.mkv?token=1762713565",
+            "quality": "2160p",
+            "size": "52.96 GB",
+            "fileName": "Ne.Zha.2019.UHD.BluRay.2160p.English.TrueHD.Atmos.7.1.-Chinese.DTS-HD.MA.5.1.DV.HDR10.HEVC.REMUX-FraMeSToR",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Ne.Zha.2019.1080p.BluRay.REMUX.AVC.English.TrueHD.Atmos.7.1.-Chinese.DTS-HD.MA.5.1-FGT\n31.88 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Ne.Zha.2019.1080p.BluRay.REMUX.AVC.English.TrueHD.Atmos.7.1.-Chinese.DTS-HD.MA.5.1-FGT.mkv?token=1762713570",
+            "quality": "1080p",
+            "size": "31.88 GB",
+            "fileName": "Ne.Zha.2019.1080p.BluRay.REMUX.AVC.English.TrueHD.Atmos.7.1.-Chinese.DTS-HD.MA.5.1-FGT",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n31.88 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=mSDEkAknGLCD&n=dVt1ERDQ&fn=Ne.Zha.2019.1080p.BluRay.REMUX.AVC.English.TrueHD.Atmos.7.1.-Chinese.DTS-HD.MA.5.1-FGT.mkv",
+            "quality": "1080p",
+            "size": "31.88 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Ne.Zha.2019.2160p.BluRay.x265.10bit.SDR.English.TrueHD.Atmos.7.1.-Chinese.DTS-HD.MA.5.1-SWTYBLZ\n24.01 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Ne.Zha.2019.2160p.BluRay.x265.10bit.SDR.English.TrueHD.Atmos.7.1.-Chinese.DTS-HD.MA.5.1-SWTYBLZ.mkv?token=1762713449",
+            "quality": "2160p",
+            "size": "24.01 GB",
+            "fileName": "Ne.Zha.2019.2160p.BluRay.x265.10bit.SDR.English.TrueHD.Atmos.7.1.-Chinese.DTS-HD.MA.5.1-SWTYBLZ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "g\n24.01 GB",
+            "url": "https://bt7.api.mega.co.nz/cs/g?x=FKAGRuwRBJSZ&n=YqhXURyD&fn=Ne.Zha.2019.2160p.BluRay.x265.10bit.SDR.English.TrueHD.Atmos.7.1.-Chinese.DTS-HD.MA.5.1-SWTYBLZ.mkv",
+            "quality": "2160p",
+            "size": "24.01 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "jMX5qJgS\n14.71 GB",
+            "url": "https://pixeldrain.net/api/file/jMX5qJgS",
+            "quality": "1080p",
+            "size": "14.71 GB",
+            "fileName": "jMX5qJgS",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Ne.Zha.2019.1080p.BluRay.x264.English.TrueHD.Atmos.7.1.-Chinese.DTS-HD.MA.5.1-FGT\n14.71 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Ne.Zha.2019.1080p.BluRay.x264.English.TrueHD.Atmos.7.1.-Chinese.DTS-HD.MA.5.1-FGT.mkv?token=1762713456",
+            "quality": "1080p",
+            "size": "14.71 GB",
+            "fileName": "Ne.Zha.2019.1080p.BluRay.x264.English.TrueHD.Atmos.7.1.-Chinese.DTS-HD.MA.5.1-FGT",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "w3XxKE1R\n11.25 GB",
+            "url": "https://pixeldrain.net/api/file/w3XxKE1R",
+            "quality": "2160p",
+            "size": "11.25 GB",
+            "fileName": "w3XxKE1R",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Ne.Zha.2019.2160p.UHD.BluRay.X265.10bit.HDR.English.TrueHD.Atmos.7.1.-Chinese.DTS-HD.MA.5.1-WhiteRhino\n11.25 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Ne.Zha.2019.2160p.UHD.BluRay.X265.10bit.HDR.English.TrueHD.Atmos.7.1.-Chinese.DTS-HD.MA.5.1-WhiteRhino.mkv?token=1762713459",
+            "quality": "2160p",
+            "size": "11.25 GB",
+            "fileName": "Ne.Zha.2019.2160p.UHD.BluRay.X265.10bit.HDR.English.TrueHD.Atmos.7.1.-Chinese.DTS-HD.MA.5.1-WhiteRhino",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "SLGndxeQ\n7.08 GB",
+            "url": "https://pixeldrain.net/api/file/SLGndxeQ",
+            "quality": "1080p",
+            "size": "7.08 GB",
+            "fileName": "SLGndxeQ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Ne Zha zhi mo tong jiang shi 2019 1080p UHD BluRay Chinese DD 5.1 + English DDP 7.1 HDR x265-DON\n7.08 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Ne%20Zha%20zhi%20mo%20tong%20jiang%20shi%202019%201080p%20UHD%20BluRay%20Chinese%20DD%205.1%20+%20English%20DDP%207.1%20HDR%20x265-DON.mkv?token=1762713462",
+            "quality": "1080p",
+            "size": "7.08 GB",
+            "fileName": "Ne Zha zhi mo tong jiang shi 2019 1080p UHD BluRay Chinese DD 5.1 + English DDP 7.1 HDR x265-DON",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "HvEAx4BQ\n4.17 GB",
+            "url": "https://pixeldrain.net/api/file/HvEAx4BQ",
+            "quality": "1080p",
+            "size": "4.17 GB",
+            "fileName": "HvEAx4BQ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Ne Zha 2019 1080p BluRay x265 HEVC 10bit Chinese AAC 5.1 + English AAC 7.1 Tigole [QxR]\n4.17 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Ne%20Zha%202019%201080p%20BluRay%20x265%20HEVC%2010bit%20Chinese%20AAC%205.1%20+%20English%20AAC%207.1%20Tigole%20[QxR].mkv?token=1762713465",
+            "quality": "1080p",
+            "size": "4.17 GB",
+            "fileName": "Ne Zha 2019 1080p BluRay x265 HEVC 10bit Chinese AAC 5.1 + English AAC 7.1 Tigole [QxR]",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 13
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:615453",
+      "storedAt": 1762715804648,
+      "meta": {
+        "storedAt": 1762715804,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "615453",
+        "imdbId": "tt10627720",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DTS-HD MA 5 1 DV HEVC REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/Ne%20Zha%20(2019)/Ne.Zha.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.REMUX-FraMeSToR.mkv",
+            "quality": "2160p | DV | REMUX",
+            "size": "52.96 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Ne.Zha.2019.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.REMUX-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEB-DL H264 AC3-EVO",
+            "url": "https://a.111477.xyz/movies/Ne%20Zha%20(2019)/Ne.Zha.2019.1080p.WEB-DL.H264.AC3-EVO.mkv",
+            "quality": "1080p",
+            "size": "3.73 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Ne.Zha.2019.1080p.WEB-DL.H264.AC3-EVO.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:615453",
+      "storedAt": 1762715806821,
+      "meta": {
+        "storedAt": 1762715806,
+        "urlCount": 14,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "615453",
+        "imdbId": "tt10627720",
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Ne.Zha.2019.1080p.10Bit.BluRay.English.5.1-Chinese.5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/GjbNfCgB",
+            "quality": "1080p",
+            "size": "1.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Ne.Zha.2019.1080p.10Bit.BluRay.English.5.1-Chinese.5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Ne.Zha.2019.1080p.10Bit.BluRay.English.5.1-Chinese.5.1.HEVC.x265-HDHub4u.Ms.mkv?token=1762715805",
+            "quality": "1080p",
+            "size": "1.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Ne.Zha.2019.1080p.10Bit.BluRay.English.5.1-Chinese.5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2l6PIpBsYmIXxMPQeJcsrSPFXX55GpUkjHcRvF258dtPmhc09Ji1rhFlG9DAkFKSSkOcr7oPwqCZzP9wCEdqfg26_Hjq1VqXRqjvHe1IVqqD3wUbM0WypbERqaC2aLrzEYOBOUL7OsYHErrzF0KLJTAwFeY1wkIlXGO8v_jwUFPvRnYY-NneVRd-qlcKm_kCSMZcUhnQfeGOvp0xW4h4izSphSbBbmRuTHwoZnClceOE32nJf7625qmZ-QfMYOoIQb8W-De",
+            "quality": "1080p",
+            "size": "1.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Ne.Zha.2019.1080p.10Bit.BluRay.English.5.1-Chinese.5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kMEyVmX_lBs6JNBvssgpIMwV9RODkeNOgWMXaNY8hNzrvseVDXeTCfjkffW6mln_yBfyFvMVl3CK2Z98JDiT3yvqCvfmvG8fcce8SM1GSEeGK48vtLJ-Ni-YbKVTEQAbZq15pXD4p6zm-nQipD9NDmv227-xCj55li13wIcNspjCe2f4-MDjLw5x5pTdmJQCIPq97RfHzImfsFdlKJmuHfvNRw-R4jM5S11GeHyuFLMmzLOV96qwjxl2B1nqd-2Pc8pcpv",
+            "quality": "1080p",
+            "size": "1.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Ne.Zha.2019.1080p.BluRay.English.5.1-Chinese.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/T6tHXsy6",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Ne.Zha.2019.1080p.BluRay.English.5.1-Chinese.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Ne.Zha.2019.1080p.BluRay.English.5.1-Chinese.5.1.ESub.x264-HDHub4u.Ms.mkv?token=1762715805",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Ne.Zha.2019.1080p.BluRay.English.5.1-Chinese.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mKXxNlx9mG6-skAnm3d8Siu87Mk58Ba2oD-iN11TLLBNqohOAikE7Pcb4nd6MobF35EGq7ccQkiITOimmyMyHU4ZS4agNzK-0D0dWRm1_Yqub_ntNbrSCVW3xlhNi4FY-wFUQsUrbPMG13mqHr_HEmjVzyAcHiZtjoqj6nplc7Los5wlgcZ8ENnjPNjyZFjeht9j9ogMkf_bC3x0mg-BaY1jxsBV9VQpvDiYwf_kauSfVg-znmY-RSkg-8lT8wT_Aw3ySG",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Ne.Zha.2019.720p.10Bit.BluRay.English.2.0-Chinese.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/uA42m9P8",
+            "quality": "720p",
+            "size": "681.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Ne.Zha.2019.720p.10Bit.BluRay.English.2.0-Chinese.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Ne.Zha.2019.720p.10Bit.BluRay.English.2.0-Chinese.HEVC.x265-HDHub4u.Ms.mkv?token=1762715805",
+            "quality": "720p",
+            "size": "681.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Ne.Zha.2019.720p.10Bit.BluRay.English.2.0-Chinese.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kCqn4Cxtk-UknLTq4tJ_z2bLel1weWPI8SUmWyMprZQRyjwhQLhG7nKNj0mWn_407mH8TQJprp_obINPAjNlTDKyo-uEmKNhyXI_6FvqqzDY6PM8fWHBQ6YAahba5CKs4gk-TRumodKLVsw-QpDdNbogdR10IgOcukPAtNgRD7XqwEP-tZjm9W1CimVSLAoXYHa7RHNny8VfqMCv71Wj-qNOHtGprfBBd_PZ__no3_W-GKhf2JLiAGTTGA0o8VDLYNjZpO",
+            "quality": "720p",
+            "size": "681.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Ne.Zha.2019.720p.10Bit.BluRay.English.2.0-Chinese.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lQb-Dnmz_KaO0RY3Q4nwUFgT86m7F1RsSQIBzroZR2RMQMfSHACmThMG7zBuuO3ieUB3K2LPZzk9AA_awbMzelo1mhO6kE0o-dGLw0yCehLDz80hAs0dwSAlK6sUyuvvSxnWLFBDA_14ZZl63gtKLQzDOP1wAjl9BI9raGoihNslp2L5SKCANwOuImL-0_F75k4AH8RWas77G-fBJ5fnuMhsf_gbVtX3Ab0dxgoUQ-iFCYai41awDqH-oqG2DqQ_3bvQIW",
+            "quality": "720p",
+            "size": "681.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Ne.Zha.2019.720p.BluRay.English.5.1-Chinese.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/NfBqpukz",
+            "quality": "720p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Ne.Zha.2019.720p.BluRay.English.5.1-Chinese.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Ne.Zha.2019.720p.BluRay.English.5.1-Chinese.5.1.ESub.x264-HDHub4u.Ms.mkv?token=1762715805",
+            "quality": "720p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Ne.Zha.2019.720p.BluRay.English.5.1-Chinese.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nQl2SKMTXCltGfO_YnZeyGJGinOq4D2R34l6VaCoVRhNTDRLcPI0V1h5qFV0KClybBMskMh2HPEHEBdr0Tmr3LfhMZK2vetDiiklGPvc9whVEIa4KQbNRA-hYIEeKUtbky1SpERMKDoqMq0Gbk97LgK5stqTjeVN4KeF5IsYqHudlzW8o51kBgyTPqWdI3iUwkuz7KuSTJfAFQsnpSC3IEht1wHqcHtsUvo3ykk70SnQPicSs",
+            "quality": "720p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 14
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:615453",
+      "storedAt": 1762715805267,
+      "meta": {
+        "storedAt": 1762715805,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "615453",
+        "imdbId": "tt10627720",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Ne Zha 2 - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2025/NeZha2.mkv",
+            "quality": "1080p",
+            "size": "2h 24m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Ne Zha 2 - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2025/NeZha2.mkv",
+            "quality": "1080p",
+            "size": "2h 24m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Ne Zha 2 - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2025/NeZha2.mkv",
+            "quality": "720p",
+            "size": "2h 24m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Ne Zha 2 - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2025/NeZha2.mkv",
+            "quality": "720p",
+            "size": "2h 24m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:615453",
+      "storedAt": 1762715826722,
+      "meta": {
+        "storedAt": 1762715826,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "615453",
+        "imdbId": "tt10627720",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Ne Zha 2 (2025) 2160p HC WEB-DL DV HDR 10bit HEVC [Hindi DD 5 1 + Mandarin DD 5 1] x265 (DRX-UHDMovies) (1)\n21.84GB",
+            "url": "https://worker-damp-dust-38f0.kedakof960.workers.dev/2e449a16056d549091436c0a9ec4733ea5c985e84a9eb431d135e337feacda49fcc6af4aeca68a674e8edc058e62cb8bb031b6d029a043b048b2493bf3767c0a4252081565be988a5178728821f9140f83cf9a13defecb2324d15d42320db3013e76c78c0a56ff2adae3586506f10be145fbc856dc1a6c94c3f07fd09e148c766f2a512e6e0d516959f60f2c2780cbcef30ff349dc2a98e897317f8487871741354030f8eb17e7f8aae8931a2e5b12a2::5022a80651af1bd9c86e9ba6cdbc2794/Ne Zha 2 (2025) 2160p HC WEB-DL DV HDR 10bit HEVC [Hindi DD 5.1  Mandarin DD 5.1] x265 (DRX-UHDMovies) (1).mkv",
+            "quality": "4K | HDR | DV",
+            "size": "21.84GB",
+            "fileName": "Ne Zha 2 (2025) 2160p HC WEB-DL DV HDR 10bit HEVC [Hindi DD 5.1 + Mandarin DD 5.1] x265 (DRX-UHDMovies) (1).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Ne Zha 2 (2025) 2160p WEB-DL SDR 10bit HEVC [Hindi DD 5 1 + Mandarin DD 5 1] x265 (PrerpareForDeath-UHDMovies)\n17.7GB",
+            "url": "https://worker-twilight-mode-e30b.risob94105.workers.dev/39fbda881f6101f2f4fc0d30db77f246fe98e29b046fcf3a4139c67d2d833920eb47b9c60ea3aac1c9878b2660b680d5c8453b98f9b80c3744fc5807ea293a011210a7df27d7f9b3288fef43b76d9adc9ba90c66300ca38942f7937c13c1c340b75279b1b71bb491414e1a9611e38eebdf850d8234f4b59941268f4c1fa9f2221a821f70b47c9d45116c8db1252d01fed08f84572dce7bc5f149779171d830c0447f3b37bdfc54fcf381fb398678bc79::2b6c4d9b6f532aec9f06941c8fbc13c6/Ne Zha 2 (2025) 2160p WEB-DL SDR 10bit HEVC [Hindi DD 5.1  Mandarin DD 5.1] x265 (PrerpareForDeath-UHDMovies).mkv",
+            "quality": "4K",
+            "size": "17.7GB",
+            "fileName": "Ne Zha 2 (2025) 2160p WEB-DL SDR 10bit HEVC [Hindi DD 5.1 + Mandarin DD 5.1] x265 (PrerpareForDeath-UHDMovies).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Ne Zha 2 1080p iT WEB-DL DUAL DD5 1 H 264-Telly\n6.94GB",
+            "url": "https://worker-mute-bar-3077.kadoyag610.workers.dev/ee15b75add8d3a8a7a71bc57cf08bc4cb3a88f6f84c67eb822402e33f15105a1f74d895a0fef4ae1f04b6fdce011dbf3cc139cf199b4a2a9bf53641c49adf0629ee0413bfff7e88bf2cae491815782af565615e8bb77a18f47ba44fd42b968ceb32e1b3d6fbc79d01898129109c3a9906c363c9782dd08f199e3a4d29c86dfbbc59a0e75391560ef5b837f66f1eb4445d2cddf0d0e028299a8090d1adca23c6f16ff0365b5355f27fb4485e4e7b204c2::9148a043e6520440e2bb80da5670d56a/Ne.Zha.2.1080p.iT.WEB-DL.DUAL.DD5.1.H.264-Telly.mkv",
+            "quality": "1080p",
+            "size": "6.94GB",
+            "fileName": "Ne.Zha.2.1080p.iT.WEB-DL.DUAL.DD5.1.H.264-Telly.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Ne Zha 2 (2025) 1080p WEB-DL 10bit HEVC [Hindi DD 5 1 + Mandarin DD 5 1] x265 (BONE-UHDMovies)\n2.32GB",
+            "url": "https://worker-aged-unit-858c.getak43328.workers.dev/cc7113938f95524f318e00daa2ff0b71116a6e4f2ec738ea2b619119b8b9e882eca0171c73c99cedc9364d794ceb4d3f05930d179815287d779a1a16f0a4199df1ca0d3493dc4ec518145c943987bf1e6b5c5aa99b2e2e4c3063888131f6df8f826be60c116c959875428fb90e633269947dd0854e5194d28994cc23c342f590eedeacd0ee5bfcc147b87ef11a47cd9e317c16cffe9661c8ba2762026cee3571ad85b30214cc4b4cb1a8228e75510939::bc69e62e4aaccc1582e50239e33e85e7/Ne Zha 2 (2025) 1080p WEB-DL 10bit HEVC [Hindi DD 5.1  Mandarin DD 5.1] x265 (BONE-UHDMovies).mkv",
+            "quality": "1080p",
+            "size": "2.32GB",
+            "fileName": "Ne Zha 2 (2025) 1080p WEB-DL 10bit HEVC [Hindi DD 5.1 + Mandarin DD 5.1] x265 (BONE-UHDMovies).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:84363:s1e5",
+      "storedAt": 1762715768080,
+      "meta": {
+        "storedAt": 1762715768,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "84363",
+        "imdbId": "tt9350920",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/83690?token=acfc55adb16f35b6d3eddacbcab0915a&expires=1767899767&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-09T19:18:09.907Z",
+    "totalOriginalEntries": 7,
+    "newItemsInThisBatch": 7,
+    "format": "compact_v1"
+  }
+}
