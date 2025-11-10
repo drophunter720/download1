@@ -1,0 +1,102 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:tv:99048:s1e5",
+      "storedAt": 1762808724058,
+      "meta": {
+        "storedAt": 1762808724,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "99048",
+        "imdbId": "tt12867810",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "75ysiVak\n3.01 GB",
+            "url": "https://pixeldrain.net/api/file/75ysiVak",
+            "quality": "1080p",
+            "size": "3.01 GB",
+            "fileName": "75ysiVak",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 720p",
+            "title": "pFgiHvMD\n960.57 MB",
+            "url": "https://pixeldrain.net/api/file/pFgiHvMD",
+            "quality": "720p",
+            "size": "960.57 MB",
+            "fileName": "pFgiHvMD",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:99048:s1e5",
+      "storedAt": 1762808727034,
+      "meta": {
+        "storedAt": 1762808727,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "99048",
+        "imdbId": "tt12867810",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Start-Up.S01.E05.720p.10Bit.WEB-DL.Hindi-Korean.ESubs.x265-HDHub4u.Ltd.mkv",
+            "url": "https://pixeldrain.dev/u/QtraagYa",
+            "quality": "720p",
+            "size": "444.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Start-Up.S01.E05.720p.10Bit.WEB-DL.Hindi-Korean.ESubs.x265-HDHub4u.Ltd.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kbymxgrh8jDoI7YGjuBhcBnEVzc-wOiD7SQseIOsf7fPIuFOCD-82eGaYrALrotpP52aun0XgubCF5hM-yC6WxdLIxh-ltMX6mGkbuIPEwI6Sq5yLikYyUqNlivhghDqiMVBwhpy9LexbyBaOcdLQQysiTB2h0mnzCcVBv_LHNtkCv6D-1VMkI-o6LAUNZqc3jILCNmhCvCXkDqT5CukVPal9vtSqD1k373neydnpY2sPerGO_LTdNTvjxVP2PruneDc0y",
+            "quality": "720p",
+            "size": "444.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 2
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-10T21:11:07.269Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
