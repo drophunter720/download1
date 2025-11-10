@@ -1,0 +1,75 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:tv:1981:s4e2",
+      "storedAt": 1762744814828,
+      "meta": {
+        "storedAt": 1762744814,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1981",
+        "imdbId": "tt0158552",
+        "season": 4,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/336483?token=3c4baded089f929a2ce6362aad2cbb95&expires=1767928814&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:204410:s1e2",
+      "storedAt": 1762744939976,
+      "meta": {
+        "storedAt": 1762744939,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "204410",
+        "imdbId": "tt21045744",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "bjTmdLDm\n1.82 GB",
+            "url": "https://pixeldrain.net/api/file/bjTmdLDm",
+            "quality": "1080p",
+            "size": "1.82 GB",
+            "fileName": "bjTmdLDm",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-10T03:28:14.831Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
