@@ -1,0 +1,74 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:tv:2190:s23e4",
+      "storedAt": 1762803125057,
+      "meta": {
+        "storedAt": 1762803125,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "2190",
+        "imdbId": "tt0121955",
+        "season": 23,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265 Silence)",
+            "url": "https://a.111477.xyz/tvs/South%20Park/Season%2023/South%20Park%20(1992)%20-%20S23E04%20-%20Let%20Them%20Eat%20Goo%20(1080p%20BluRay%20x265%20Silence).mkv",
+            "quality": "1080p",
+            "size": "404.25 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "South Park (1992) - S23E04 - Let Them Eat Goo (1080p BluRay x265 Silence).mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:2190:s23e4",
+      "storedAt": 1762803125624,
+      "meta": {
+        "storedAt": 1762803125,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "2190",
+        "imdbId": "tt0121955",
+        "season": 23,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "South Park: Joining the Panderverse S23E4 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1698819954/s23/episode4.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-10T19:40:05.064Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
