@@ -1,0 +1,71 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:1260040",
+      "storedAt": 1762806371635,
+      "meta": {
+        "storedAt": 1762806371,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1260040",
+        "imdbId": "tt31720896",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/369196?token=e08a234c8b4ceed051db3408def84c50&expires=1767990370&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:154521:s7e2",
+      "storedAt": 1762806751015,
+      "meta": {
+        "storedAt": 1762806751,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "154521",
+        "imdbId": "tt15791630",
+        "season": 7,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-GRACE",
+            "url": "https://a.111477.xyz/tvs/The%20Kardashians/Season%207/The%20Kardashians%20(2022)%20-%20S07E02%20-%20She%20Was%20Such%20a%20Hater%20[WEBDL-1080p][EAC3%205.1][h264]-GRACE.mkv",
+            "quality": "1080p",
+            "size": "2.32 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Kardashians (2022) - S07E02 - She Was Such a Hater [WEBDL-1080p][EAC3 5.1][h264]-GRACE.mkv"
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-10T20:34:11.637Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
