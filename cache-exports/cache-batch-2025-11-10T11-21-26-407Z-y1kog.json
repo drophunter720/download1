@@ -1,0 +1,128 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:1405338",
+      "storedAt": 1762773206404,
+      "meta": {
+        "storedAt": 1762773206,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1405338",
+        "imdbId": "tt35111035",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/290269?token=87d41e6d525e9725052c4c7cd7c602c4&expires=1767957205&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:280946:s1e6",
+      "storedAt": 1762773407086,
+      "meta": {
+        "storedAt": 1762773407,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "280946",
+        "imdbId": "tt36856846",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "iXzsAAwg\n2.48 GB",
+            "url": "https://pixeldrain.net/api/file/iXzsAAwg",
+            "quality": "1080p",
+            "size": "2.48 GB",
+            "fileName": "iXzsAAwg",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "1vXksczq\n1.14 GB",
+            "url": "https://pixeldrain.net/api/file/1vXksczq",
+            "quality": "1080p",
+            "size": "1.14 GB",
+            "fileName": "1vXksczq",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "eGon2S3C\n448.71 MB",
+            "url": "https://pixeldrain.net/api/file/eGon2S3C",
+            "quality": "1080p",
+            "size": "448.71 MB",
+            "fileName": "eGon2S3C",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:280946:s1e6",
+      "storedAt": 1762773406480,
+      "meta": {
+        "storedAt": 1762773406,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "280946",
+        "imdbId": "tt36856846",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 2 0][x264]-Kitsune",
+            "url": "https://a.111477.xyz/tvs/Typhoon%20Family/Season%201/Typhoon%20Family%20(2025)%20-%20S01E06%20-%20The%20Legend%20of%20Ambition%20[WEBDL-1080p][AAC%202.0][x264]-Kitsune.mkv",
+            "quality": "1080p",
+            "size": "2.49 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Typhoon Family (2025) - S01E06 - The Legend of Ambition [WEBDL-1080p][AAC 2.0][x264]-Kitsune.mkv"
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-10T11:21:26.408Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
