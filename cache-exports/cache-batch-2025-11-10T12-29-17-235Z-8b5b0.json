@@ -1,0 +1,87 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:hdhub4u:movie:487297",
+      "storedAt": 1762777575719,
+      "meta": {
+        "storedAt": 1762777575,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "487297",
+        "imdbId": "tt7634968",
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "720p What Men Want 2019 BluRay Hin+Eng.mkv",
+            "url": "https://pixeldrain.dev/u/aKjELADz",
+            "quality": "720p",
+            "size": "1004.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "720p What Men Want 2019 BluRay Hin+Eng.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lnakUhYy04We0qvh0YOkZVefNfAKuCNWdoUgAFezB1kOJCqa2F76pJbL9DHQnUQRuDNz_DQwcFtHy7v-41caq_ts_AXsUnZFnfFDogWuQnkAF-hV9Ny7lMALm9DFeEcgUrq-qTlRRZpIH00vNS6LzsHrIfqpL5fcImtglsDaRIf8g3sQOa3HK_QDABjY-T7fIeFFAd7ENBGRzcLaTFYozbhyUxRUg0Vc3h8nauaEGkSrkhUU8Y7-tBBgncW0YbTh5T7j_P",
+            "quality": "720p",
+            "size": "1004.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:57243:s9e13",
+      "storedAt": 1762777599893,
+      "meta": {
+        "storedAt": 1762777599,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "57243",
+        "imdbId": "tt0436992",
+        "season": 9,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/112771?token=5bc1713b6c3bc5c0b56832a1e0839ffb&expires=1767961599&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-10T12:29:17.235Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
