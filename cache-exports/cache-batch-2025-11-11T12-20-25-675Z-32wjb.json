@@ -1,0 +1,302 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:1280444",
+      "storedAt": 1762863203657,
+      "meta": {
+        "storedAt": 1762863203,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1280444",
+        "imdbId": "tt7230422",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "8SML1TUj\n11.16 GB",
+            "url": "https://pixeldrain.net/api/file/8SML1TUj",
+            "quality": "2160p",
+            "size": "11.16 GB",
+            "fileName": "8SML1TUj",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "rsvKdVif\n6.83 GB",
+            "url": "https://pixeldrain.net/api/file/rsvKdVif",
+            "quality": "1080p",
+            "size": "6.83 GB",
+            "fileName": "rsvKdVif",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The.Occupant.2025.1080p.AMZN.WEB-DL.English.DDP5.1.H.264-4kHDHub.Com\n6.83 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/The.Occupant.2025.1080p.AMZN.WEB-DL.English.DDP5.1.H.264-4kHDHub.Com.mkv?token=1762863203",
+            "quality": "1080p",
+            "size": "6.83 GB",
+            "fileName": "The.Occupant.2025.1080p.AMZN.WEB-DL.English.DDP5.1.H.264-4kHDHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:1280444",
+      "storedAt": 1762863202664,
+      "meta": {
+        "storedAt": 1762863202,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "1280444",
+        "imdbId": "tt7230422",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEB-DL DDP5 1 H 265-BYNDR",
+            "url": "https://a.111477.xyz/movies/The%20Occupant%20(2025)/The.Occupant.2025.2160p.AMZN.WEB-DL.DDP5.1.H.265-BYNDR.mkv",
+            "quality": "2160p",
+            "size": "11.16 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Occupant.2025.2160p.AMZN.WEB-DL.DDP5.1.H.265-BYNDR.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1911:s7e13",
+      "storedAt": 1762863145672,
+      "meta": {
+        "storedAt": 1762863145,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 7,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%207/Bones%20(2005)%20-%20S07E13%20-%20The%20Past%20in%20the%20Present%20[Bluray-1080p][EAC3%205.1][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": "1.03 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones (2005) - S07E13 - The Past in the Present [Bluray-1080p][EAC3 5.1][x265]-iVy.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265-INFINITY",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%207/Bones.S07E13.1080p.BluRay.x265-INFINITY.mp4",
+            "quality": "1080p",
+            "size": "696.87 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones.S07E13.1080p.BluRay.x265-INFINITY.mp4"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1911:s7e13",
+      "storedAt": 1762863147078,
+      "meta": {
+        "storedAt": 1762863147,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 7,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Bones and All S7E13 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1684689602/s7/episode13.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1911:s8e1",
+      "storedAt": 1762863391642,
+      "meta": {
+        "storedAt": 1762863391,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 8,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-EPSiLON",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%208/Bones%20(2005)%20-%20S08E01%20-%20The%20Future%20in%20the%20Past%20[Bluray-1080p%20Remux][DTS-HD%20MA%205.1][AVC]-EPSiLON.mkv",
+            "quality": "1080p | REMUX",
+            "size": "8.58 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones (2005) - S08E01 - The Future in the Past [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-EPSiLON.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265-INFINITY",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%208/Bones.S08E01.1080p.BluRay.x265-INFINITY.mp4",
+            "quality": "1080p",
+            "size": "698.66 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones.S08E01.1080p.BluRay.x265-INFINITY.mp4"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:1911:s8e1",
+      "storedAt": 1762863394717,
+      "meta": {
+        "storedAt": 1762863394,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 8,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Shadow.and.Bone.S02.E01.720p.WEB-DL.Hindi.5.1-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/NjYTS4Kx",
+            "quality": "720p",
+            "size": "492.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Shadow.and.Bone.S02.E01.720p.WEB-DL.Hindi.5.1-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Shadow.and.Bone.S02.E01.720p.WEB-DL.Hindi.5.1-English.ESub.x264-HDHub4u.Tv.mkv?token=1762863393",
+            "quality": "720p",
+            "size": "492.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Shadow.and.Bone.S02.E01.720p.WEB-DL.Hindi.5.1-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nmR7z_aqpLdbSdwpvEMa468FUrP6ZDSSYVDacbkecaGQu_O2C8ZspOTnQAtY2eOgge0HZ-jMoq0UkDny0XiwVeBaLYWnE59jAdTJxWAu5ihK-rUrUP2CD-fbO0BWSZMnzlhemCYDsAiYZMp60OJBL6YPobz3qNTf2FXQTShkV_D0-gibMR-A_shZx_Fk1WedvuRHjY4V4j-2S1nEqIc0FM0yuamf_x6w8WYr-ZMc-xgVlBI4o",
+            "quality": "720p",
+            "size": "492.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1911:s8e1",
+      "storedAt": 1762863392363,
+      "meta": {
+        "storedAt": 1762863392,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 8,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Bones and All S8E1 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1684689602/s8/episode1.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-11T12:20:25.677Z",
+    "totalOriginalEntries": 7,
+    "newItemsInThisBatch": 7,
+    "format": "compact_v1"
+  }
+}
