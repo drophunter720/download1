@@ -1,0 +1,132 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:1330435",
+      "storedAt": 1762867848606,
+      "meta": {
+        "storedAt": 1762867848,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1330435",
+        "imdbId": "tt33305290",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "V7ncqtpu\n4.17 GB",
+            "url": "https://pixeldrain.net/api/file/V7ncqtpu",
+            "quality": "1080p",
+            "size": "4.17 GB",
+            "fileName": "V7ncqtpu",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:1330435",
+      "storedAt": 1762867851480,
+      "meta": {
+        "storedAt": 1762867851,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "1330435",
+        "imdbId": "tt33305290",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Ghost Killer 2024 1080p AMZN WEB-DL DDP5 1 H 264-BYNDR\n4.17GB",
+            "url": "https://worker-old-brook-1a69.rovave6017.workers.dev/58c263a0bec6ddee79cdf8ddc62924b411dafbbc79848968f09d23bd37710fa6386e9a91bb17443f7885a43a5102aeb87a3e7d214142ce68a3cdd39f10047909d5e2a5572bd5017e0ba4d758433248b17065c33dd4448594922011717239730523083a09da923a81fb3d940b48cd9efe3ce102798d549aad357e3f7a1316ecb427f2323c8fe14c02506f4dc0716b9ed2f68af55c85be0659dc283133932af9ed9d0adeefc683dbb0ae06d34910f3f0fc::7df8116b98283a0b78d5b403cfded853/Ghost.Killer.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264-BYNDR.mkv",
+            "quality": "1080p",
+            "size": "4.17GB",
+            "fileName": "Ghost.Killer.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264-BYNDR.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:582883",
+      "storedAt": 1762868036113,
+      "meta": {
+        "storedAt": 1762868036,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "582883",
+        "imdbId": "tt8193790",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/310275?token=065cdf1cc9eb348e1cc9dee0ef61b8c6&expires=1768052035&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:70593:s2e5",
+      "storedAt": 1762867792134,
+      "meta": {
+        "storedAt": 1762867792,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "70593",
+        "imdbId": "tt6611916",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Kingdom S2E5 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1741641445/s2/episode5.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-11T13:35:36.584Z",
+    "totalOriginalEntries": 4,
+    "newItemsInThisBatch": 4,
+    "format": "compact_v1"
+  }
+}
