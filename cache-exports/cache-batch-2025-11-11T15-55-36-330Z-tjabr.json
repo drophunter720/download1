@@ -1,0 +1,125 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:19625",
+      "storedAt": 1762876056327,
+      "meta": {
+        "storedAt": 1762876056,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "19625",
+        "imdbId": "tt0374887",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "qpRJW32J\n14.94 GB",
+            "url": "https://pixeldrain.net/api/file/qpRJW32J",
+            "quality": "1080p",
+            "size": "14.94 GB",
+            "fileName": "qpRJW32J",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "mjDoKG6N\n8.74 GB",
+            "url": "https://pixeldrain.net/api/file/mjDoKG6N",
+            "quality": "1080p",
+            "size": "8.74 GB",
+            "fileName": "mjDoKG6N",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "m3GAyr7e\n5.37 GB",
+            "url": "https://pixeldrain.net/api/file/m3GAyr7e",
+            "quality": "1080p",
+            "size": "5.37 GB",
+            "fileName": "m3GAyr7e",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:550022",
+      "storedAt": 1762876124906,
+      "meta": {
+        "storedAt": 1762876124,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "550022",
+        "imdbId": "tt9033628",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/492502?token=353278d68098d62c2429966c39a13978&expires=1768060124&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:194766:s2e1",
+      "storedAt": 1762876190604,
+      "meta": {
+        "storedAt": 1762876190,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "194766",
+        "imdbId": "tt14016500",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "The Summer I Turned Pretty S02E01 Love Lost 1080p AMZN WEB-DL DDP5 1 H 264-SEXLELO\n4.17GB",
+            "url": "https://worker-little-star-7f02.gecobi8468.workers.dev/7f2c48fab4559f61a7f98ef1a97d30f6a019ec1134e0e42d0b8c4f73e7fae58a88a44cec5ebb05c57a05092ee893666d0cd80d436e07433e4c5b5975a18aa46d0efd58019e493d8a4feaba89da1bf85b66fd22cd703d42842d435657f81d7539854fc1383c171c86604be5533274b79bf325fe898df00546594c3cd4cfb26ef25fe840887c5579c1e876aa938a9613703d1044f4ceb21136ecd41e19a580243a6bc8187bc8889fc2e131c60ec1303f8d::2ca45be8e45f7d6ff032d232536a2316/The.Summer.I.Turned.Pretty.S02E01.Love.Lost.1080p.AMZN.WEB-DL.DDP5.1.H.264-SEXLELO.mkv",
+            "quality": "1080p",
+            "size": "4.17GB",
+            "fileName": "The.Summer.I.Turned.Pretty.S02E01.Love.Lost.1080p.AMZN.WEB-DL.DDP5.1.H.264-SEXLELO.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-11T15:55:36.331Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
