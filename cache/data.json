@@ -479,12 +479,206 @@
         ],
         "count": 3
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:335777",
+      "storedAt": 1762980029762,
+      "meta": {
+        "storedAt": 1762980029,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "335777",
+        "imdbId": "tt3486626",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/280493?token=17a447a29ad7cd07b8daed6231468197&expires=1768164026&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:347866",
+      "storedAt": 1762980110946,
+      "meta": {
+        "storedAt": 1762980110,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "347866",
+        "imdbId": "tt3416536",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "At First Light (2018) 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English DTS-HD.MA 5.1] (FraMeSToR-Ionicboy)\n20.27 GB",
+            "url": "https://spring-tree-7af2.genet319598570.workers.dev/4639a0adde696813068e68545810e4e1fa454d0940b7765e9b590a2d6d6536f37b15f2c3d85940c7de17bd191a3df809::b35dd8b2dd6fb0ca9ab3babdb7dae744/1397326728/At%20First%20Light%20(2018)%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%205.1%20+%20English%20DTS-HD.MA%205.1]%20(FraMeSToR-Ionicboy).mkv",
+            "quality": "1080p",
+            "size": "20.27 GB",
+            "fileName": "At First Light (2018) 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English DTS-HD.MA 5.1] (FraMeSToR-Ionicboy)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "HgYBJVMJ\n11.06 GB",
+            "url": "https://pixeldrain.net/api/file/HgYBJVMJ",
+            "quality": "1080p",
+            "size": "11.06 GB",
+            "fileName": "HgYBJVMJ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "DDMvvvHs\n5.21 GB",
+            "url": "https://pixeldrain.net/api/file/DDMvvvHs",
+            "quality": "1080p",
+            "size": "5.21 GB",
+            "fileName": "DDMvvvHs",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:38693:s2e3",
+      "storedAt": 1762980142102,
+      "meta": {
+        "storedAt": 1762980142,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "38693",
+        "imdbId": "tt1871731",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/244026?token=ef7915e86eb716d1ffb7f37da53b3394&expires=1768164139&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:60735:s3e13",
+      "storedAt": 1762979686694,
+      "meta": {
+        "storedAt": 1762979686,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "60735",
+        "imdbId": "tt3107288",
+        "season": 3,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Flash S3E13 - 13. Attack on Gorilla City (1)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/flash/s3/The.Flash.S03.E13.BluRay.720p.English.AAC.5.1.x264.ESub.mkv",
+            "quality": "1080p",
+            "size": "42min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Flash S3E13 - 13. Attack on Gorilla City (1)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/flash/s3/The.Flash.S03.E13.BluRay.720p.English.AAC.5.1.x264.ESub.mkv",
+            "quality": "1080p",
+            "size": "42min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:90521:s7e10",
+      "storedAt": 1762980150342,
+      "meta": {
+        "storedAt": 1762980150,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "90521",
+        "imdbId": "tt8819906",
+        "season": 7,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/477956?token=6acff5177f01ce2785de47337909f463&expires=1768164149&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-12T20:34:36.402Z",
-    "totalOriginalEntries": 14,
-    "newItemsInThisBatch": 0,
+    "exportedAt": "2025-11-12T20:42:45.083Z",
+    "totalOriginalEntries": 19,
+    "newItemsInThisBatch": 5,
     "format": "compact_v1"
   }
 }
