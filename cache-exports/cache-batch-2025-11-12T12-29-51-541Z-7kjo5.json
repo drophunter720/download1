@@ -1,0 +1,71 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:movie:1280089",
+      "storedAt": 1762950223956,
+      "meta": {
+        "storedAt": 1762950223,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "1280089",
+        "imdbId": "tt33479839",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEB-DL DD 5 1 Atmos DoVi H 265-playWEB",
+            "url": "https://a.111477.xyz/movies/The%20Siege%20at%20Thorn%20High%20(2025)/Pengepungan.di.Bukit.Duri.2025.2160p.AMZN.WEB-DL.DD.5.1.Atmos.DoVi.H.265-playWEB.mkv",
+            "quality": "2160p",
+            "size": "16.82 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Pengepungan.di.Bukit.Duri.2025.2160p.AMZN.WEB-DL.DD.5.1.Atmos.DoVi.H.265-playWEB.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:207461:s1e5",
+      "storedAt": 1762950111537,
+      "meta": {
+        "storedAt": 1762950111,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "207461",
+        "imdbId": "tt15292942",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/132710?token=27c9a9ae6f32504ae31f51b704e5d8a0&expires=1768134111&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-12T12:29:51.543Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
