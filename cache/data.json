@@ -358,12 +358,133 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:279991:s1e1",
+      "storedAt": 1762978688638,
+      "meta": {
+        "storedAt": 1762978688,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "279991",
+        "imdbId": "tt34991330",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/351287?token=9da2760d8c8bccb56bfdab2c5920ee61&expires=1768162687&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:60585:s1e3",
+      "storedAt": 1762979103847,
+      "meta": {
+        "storedAt": 1762979103,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "60585",
+        "imdbId": "tt3502248",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/264262?token=bcf653681d2c628e857d10cfa57ae531&expires=1768163101&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:66103:s1e1",
+      "storedAt": 1762979106305,
+      "meta": {
+        "storedAt": 1762979106,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "66103",
+        "imdbId": "tt5603356",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "LDtv31RS\n258.85 MB",
+            "url": "https://pixeldrain.net/api/file/LDtv31RS",
+            "quality": "1080p",
+            "size": "258.85 MB",
+            "fileName": "LDtv31RS",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "28.Moons.Hindi.S01E01.Episode.1.2160p.PF.WEB-DL.AAC2.0.x.264-4kHdHub.Com\n416.23 MB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/28.Moons.Hindi.S01E01.Episode.1.2160p.PF.WEB-DL.AAC2.0.x.264-4kHdHub.Com.mkv?token=1762979104",
+            "quality": "2160p",
+            "size": "416.23 MB",
+            "fileName": "28.Moons.Hindi.S01E01.Episode.1.2160p.PF.WEB-DL.AAC2.0.x.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "58sRriWc\n416.23 MB",
+            "url": "https://pixeldrain.net/api/file/58sRriWc",
+            "quality": "2160p",
+            "size": "416.23 MB",
+            "fileName": "58sRriWc",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-12T20:18:09.196Z",
-    "totalOriginalEntries": 11,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-12T20:26:11.089Z",
+    "totalOriginalEntries": 14,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
