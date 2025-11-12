@@ -1004,12 +1004,257 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:1462471",
+      "storedAt": 1762984004286,
+      "meta": {
+        "storedAt": 1762984004,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1462471",
+        "imdbId": "tt36617682",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "uxkzbD66\n5.51 GB",
+            "url": "https://pixeldrain.net/api/file/uxkzbD66",
+            "quality": "1080p",
+            "size": "5.51 GB",
+            "fileName": "uxkzbD66",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Wanted Hot Roommate 2025 1080p AMZN WEB-DL [Org NR Hindi DD 2.0 + English DDP 2.0] H.264 KyoGo-4KHDHub\n5.51 GB",
+            "url": "https://pub-7ab624c34fb34e4ba74dd51a60d43bac.r2.dev/Wanted%20Hot%20Roommate%202025%201080p%20AMZN%20WEB-DL%20[Org%20NR%20Hindi%20DD%202.0%20+%20English%20DDP%202.0]%20H.264%20KyoGo-4KHDHub.mkv",
+            "quality": "1080p",
+            "size": "5.51 GB",
+            "fileName": "Wanted Hot Roommate 2025 1080p AMZN WEB-DL [Org NR Hindi DD 2.0 + English DDP 2.0] H.264 KyoGo-4KHDHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "FRxpNHSG\n1.44 GB",
+            "url": "https://pixeldrain.net/api/file/FRxpNHSG",
+            "quality": "1080p",
+            "size": "1.44 GB",
+            "fileName": "FRxpNHSG",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:1462471",
+      "storedAt": 1762984018621,
+      "meta": {
+        "storedAt": 1762984018,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "1462471",
+        "imdbId": "tt36617682",
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Wanted.Man.2024.1080p.10Bit.BluRay.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/f1iTLE3B",
+            "quality": "1080p",
+            "size": "1.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Wanted.Man.2024.1080p.10Bit.BluRay.Hindi.2.0-English.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nhN39Ha7AQ2-udUnPmcO8k89l54p4yUi8B7tcnxUEV4BPMjvFoN3Tb9xT6BQ6NMoR5xWg4TeoamQBEVszJxd3jJxcWFh44N5ugvaIAAuZRjQiJVxiss6LdDEL9c-Tapr6IayzQdzDcmSZzX2rInOZvCELfH55fBGLGvH2vMe2c4B4krhwxxQvg91JGS52sSO8Zer_qh7qDx3p6dBSchoiGHm3rYoyyEgW7iBe5Y5rT6Km4Y8AFTdP7kUPNLCp2eIv2bX_V",
+            "quality": "1080p",
+            "size": "1.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Wanted.Man.2024.1080p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/kk9KuHvR",
+            "quality": "1080p",
+            "size": "1.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Wanted.Man.2024.1080p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2my3vCgbHsLGhlsIgmBHd1pANnJuf62cKrxtZ7iCK_37_h1v4WQLn6Rs3vKEpbudZP4PwucHQrsJFkneoJ-LRHfJFNKsaXFiHp4yxSDMhDeP6tlBSjqnLMOZBl0BlS5JWZzmJUNlRQ2QHFw12WNeIxakitJbSyBNLzkNgwUEXY14z8yi2aSlKmibx3LDg-K28bTvyCtH-Io86ihb9LiZ6pTS-kP7isNr3oefbAVlDx3HHePE88kph80ilHJ6Bb0y8qb9soO",
+            "quality": "1080p",
+            "size": "1.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Wanted.Man.2024.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/44Shk6iR",
+            "quality": "720p",
+            "size": "577.7 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Wanted.Man.2024.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2l-3fjKvSiA_mK-x1OGyZZKb-hg_mOjNQMTprEHijqG0xBdoC1uqUfuZB7EtOMG2Wo7LnNHruNCUiQn37jbZZEb8NW-EnZtLeXjfl50-OvXF7slUfkRASaD14gLyyCQXUU8KWXjEu7kcAMq8xvyyz8gN0gFcd_u3HMtVk8hFQN54U3rk3kizVqH4cNrJKlvHSDgXQCMAXIkcz2uol-7DltLJZKfPEI2WNN1UWE9FiA0J8czrVEQOzcYAJ4ozO2QFe0Z-ykF",
+            "quality": "720p",
+            "size": "577.7 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Wanted.Man.2024.720p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/rCMmEByD",
+            "quality": "720p",
+            "size": "828.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Wanted.Man.2024.720p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2k1vDOrRJ0NlEnFuuqdYCUYFkhXPmTS_NCw7fDUAAEyVq5jD44VHUlHnP9KC2cCjgjLVXVxTsvkY3VYh41BUE23oFtrsXSRNj4PLpwMFh43tBL6_ex8VyM2WECkW-vIAykAXUG2ryyUk_YxRLVxlYlGl8S0u3gYoeJSHW06KVGJVj9ERqZoAw48zj5Ov9_4303kV8zbkUdK5pncc1vwwuRArMDbU0rO3AFRo7mZ3fIeesx3hGU",
+            "quality": "720p",
+            "size": "828.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:1462471",
+      "storedAt": 1762984025411,
+      "meta": {
+        "storedAt": 1762984025,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "1462471",
+        "imdbId": "tt36617682",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Wanted - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2008/wanted.mkv",
+            "quality": "1080p",
+            "size": "1h 50m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Wanted - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2008/wanted.mkv",
+            "quality": "1080p",
+            "size": "1h 50m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Wanted - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2008/wanted.mkv",
+            "quality": "720p",
+            "size": "1h 50m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Wanted - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2008/wanted.mkv",
+            "quality": "720p",
+            "size": "1h 50m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-12T21:34:09.194Z",
-    "totalOriginalEntries": 27,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-12T21:54:47.583Z",
+    "totalOriginalEntries": 30,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
