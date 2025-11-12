@@ -2346,12 +2346,87 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:47388",
+      "storedAt": 1762990686955,
+      "meta": {
+        "storedAt": 1762990686,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "47388",
+        "imdbId": "tt4176340",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "A Silent Voice 2016 JPN Hybrid 1080p Blu-Ray AVC DTS-HD MA - BluDragon\n31.26 GB",
+            "url": "https://myfiles.directfile1.workers.dev/9af35c11d56c8b14c4ba84179ac9a648aae1d2d85f8e3f59e49caa53b40d0cb106b1770628441519f418eb964a807bb0::a09d7c9244f8eaf444cc4d4b1ae27e6e/1397326728/A%20Silent%20Voice%202016%20JPN%20Hybrid%201080p%20Blu-Ray%20AVC%20DTS-HD%20MA%20-%20BluDragon.mkv",
+            "quality": "1080p",
+            "size": "31.26 GB",
+            "fileName": "A Silent Voice 2016 JPN Hybrid 1080p Blu-Ray AVC DTS-HD MA - BluDragon",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "vg1xsuxe\n9.41 GB",
+            "url": "https://pixeldrain.net/api/file/vg1xsuxe",
+            "quality": "1080p",
+            "size": "9.41 GB",
+            "fileName": "vg1xsuxe",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:94954:s2e6",
+      "storedAt": 1762990651132,
+      "meta": {
+        "storedAt": 1762990650,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "94954",
+        "imdbId": "tt7216636",
+        "season": 2,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/499709?b=1&token=94682890997d225dadb290aeaf360fb0&expires=1768174647&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-12T23:28:55.187Z",
-    "totalOriginalEntries": 56,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-12T23:38:53.313Z",
+    "totalOriginalEntries": 58,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
