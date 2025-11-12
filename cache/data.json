@@ -1249,12 +1249,85 @@
         ],
         "count": 4
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1668:s3e11",
+      "storedAt": 1762985259949,
+      "meta": {
+        "storedAt": 1762985259,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1668",
+        "imdbId": "tt0108778",
+        "season": 3,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DV HDR10][10bit][HEVC][DTS-HD MA 5 1]-SiCFoI",
+            "url": "https://a.111477.xyz/tvs/Friends/Season%203/Friends%20(1994)%20-%20S03E11%20-%20The%20One%20Where%20Chandler%20Cant%20Remember%20Which%20Sister%20[Bluray-2160p%20Remux][DV%20HDR10][10bit][HEVC][DTS-HD%20MA%205.1]-SiCFoI.mkv",
+            "quality": "2160p | DV | HDR | REMUX",
+            "size": "7.92 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Friends (1994) - S03E11 - The One Where Chandler Cant Remember Which Sister [Bluray-2160p Remux][DV HDR10][10bit][HEVC][DTS-HD MA 5.1]-SiCFoI.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Bluray REMUX AVC DD 5 1-4K4U",
+            "url": "https://a.111477.xyz/tvs/Friends/Season%203/Friends.S03E11.The.One.Where.Chandler.Can",
+            "quality": "1080p | REMUX",
+            "size": "2.50 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Friends.S03E11.The.One.Where.Chandler.Can&#x27;t.Remember.Which.Sister.1080p.Bluray.REMUX.AVC.DD.5.1-4K4U.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:54344:s1e7",
+      "storedAt": 1762985357961,
+      "meta": {
+        "storedAt": 1762985357,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "54344",
+        "imdbId": "tt2699128",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/266580?token=25cce7152abd187e019e3d5dbd4f6537&expires=1768169353&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-12T22:03:46.392Z",
-    "totalOriginalEntries": 30,
-    "newItemsInThisBatch": 0,
+    "exportedAt": "2025-11-12T22:12:14.622Z",
+    "totalOriginalEntries": 32,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
