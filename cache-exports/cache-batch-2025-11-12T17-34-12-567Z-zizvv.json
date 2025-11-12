@@ -1,0 +1,106 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:tv:62:s33e14",
+      "storedAt": 1762968559280,
+      "meta": {
+        "storedAt": 1762968559,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "62",
+        "imdbId": "tt0176095",
+        "season": 33,
+        "episode": 14,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/470362?token=8ab1ea854e07d6c910297f93ed977d6d&expires=1768152558&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:72071:s1e3",
+      "storedAt": 1762968805353,
+      "meta": {
+        "storedAt": 1762968805,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "72071",
+        "imdbId": "tt6294706",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-NTb",
+            "url": "https://a.111477.xyz/tvs/The%20Chi/Season%201/The%20Chi%20(2018)%20-%20S01E03%20-%20Ghosts%20[WEBDL-1080p][EAC3%205.1][h264]-NTb.mkv",
+            "quality": "1080p",
+            "size": "2.97 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Chi (2018) - S01E03 - Ghosts [WEBDL-1080p][EAC3 5.1][h264]-NTb.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:72071:s1e3",
+      "storedAt": 1762968777016,
+      "meta": {
+        "storedAt": 1762968777,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "72071",
+        "imdbId": "tt6294706",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Machinist S1E3 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1669086597/s1/episode3.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-12T17:34:12.569Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
