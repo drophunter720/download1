@@ -6594,11 +6594,438 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:575",
+      "storedAt": 1763006839961,
+      "meta": {
+        "storedAt": 1763006839,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "575",
+        "imdbId": "tt0250258",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/373536?token=5ba78642167164f631ee43b01f0844f6&expires=1768190839&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:1399:s6e9",
+      "storedAt": 1763007071967,
+      "meta": {
+        "storedAt": 1763007071,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 6,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Game of Thrones (2011) S06E09 2160p UHD BluRay REMUX DoVi HDR [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] HEVC (FraMeSToR-4kHDHUB.com)\n26.99 GB",
+            "url": "https://drive.jodise8832.workers.dev/4a2cb53e25722f4b2f7e3427212eabe129f76e25132df8c9e03889a87efe8878b582ed7fcf401e1c2f75b3cef18d1e70::3e56183bce54c2fca6031efd774dfebc/1397326797/Game%20of%20Thrones%20(2011)%20S06E09%202160p%20UHD%20BluRay%20REMUX%20DoVi%20HDR%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20HEVC%20(FraMeSToR-4kHDHUB.com).mkv",
+            "quality": "2160p",
+            "size": "26.99 GB",
+            "fileName": "Game of Thrones (2011) S06E09 2160p UHD BluRay REMUX DoVi HDR [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] HEVC (FraMeSToR-4kHDHUB.com)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Game of Thrones (2011) S06E09 2160p UHD SDR BluRay x265 10bit [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] HEVC (SWTYBLZ-4kHDHUB.com)\n20.06 GB",
+            "url": "https://empty-waterfall-5c90.pojitet1356748.workers.dev/862a830b23c7b4b6d5bd92611086436c6566b27375bc7dfb6c29f92c24b14ed4d617056dcbc9c06f8cef308d69bbd1f4::122306849e0897f0777204aa9db4d898/1397326797/Game%20of%20Thrones%20(2011)%20S06E09%202160p%20UHD%20SDR%20BluRay%20x265%2010bit%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20HEVC%20(SWTYBLZ-4kHDHUB.com).mkv",
+            "quality": "2160p",
+            "size": "20.06 GB",
+            "fileName": "Game of Thrones (2011) S06E09 2160p UHD SDR BluRay x265 10bit [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] HEVC (SWTYBLZ-4kHDHUB.com)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "3JiPe5Z8\n10.14 GB",
+            "url": "https://pixeldrain.net/api/file/3JiPe5Z8",
+            "quality": "1080p",
+            "size": "10.14 GB",
+            "fileName": "3JiPe5Z8",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Game of Thrones 2011 S06E09 1080p BluRay [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English DTS-HDMA 5.1] x264 PiR8-4kHDHUB.com\n5.1 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Game%20of%20Thrones%202011%20S06E09%201080p%20BluRay%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20DTS-HDMA%205.1]%20x264%20PiR8-4kHDHUB.com.mkv?token=1763007071",
+            "quality": "1080p",
+            "size": "5.1 GB",
+            "fileName": "Game of Thrones 2011 S06E09 1080p BluRay [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English DTS-HDMA 5.1] x264 PiR8-4kHDHUB.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "6PTKZiZc\n5.1 GB",
+            "url": "https://pixeldrain.net/api/file/6PTKZiZc",
+            "quality": "1080p",
+            "size": "5.1 GB",
+            "fileName": "6PTKZiZc",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "gwW9G8gg\n4.41 GB",
+            "url": "https://pixeldrain.net/api/file/gwW9G8gg",
+            "quality": "1080p",
+            "size": "4.41 GB",
+            "fileName": "gwW9G8gg",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1399:s6e9",
+      "storedAt": 1763007068436,
+      "meta": {
+        "storedAt": 1763007068,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 6,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][HDR10][TrueHD Atmos 7 1][h265]-d3g",
+            "url": "https://a.111477.xyz/tvs/Game%20of%20Thrones/Season%206/Game%20of%20Thrones%20(2011)%20-%20S06E09%20-%20Battle%20of%20the%20Bastards%20[Bluray-1080p][HDR10][TrueHD%20Atmos%207.1][h265]-d3g.mkv",
+            "quality": "1080p | HDR",
+            "size": "6.78 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Game of Thrones (2011) - S06E09 - Battle of the Bastards [Bluray-1080p][HDR10][TrueHD Atmos 7.1][h265]-d3g.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][h264]-TWASERiES",
+            "url": "https://a.111477.xyz/tvs/Game%20of%20Thrones/Season%206/Game%20of%20Thrones%20(2011)%20-%20S06E09%20-%20Battle%20of%20the%20Bastards%20[WEBDL-1080p][AC3%205.1][h264]-TWASERiES.mkv",
+            "quality": "1080p",
+            "size": "1.48 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Game of Thrones (2011) - S06E09 - Battle of the Bastards [WEBDL-1080p][AC3 5.1][h264]-TWASERiES.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:1399:s6e9",
+      "storedAt": 1763007071336,
+      "meta": {
+        "storedAt": 1763007071,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 6,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Game.of.Thrones.S06E09.720p.10Bit.BluRay.Hindi.ORG-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Game.of.Thrones.S06E09.720p.10Bit.BluRay.Hindi.ORG-English.HEVC.x265-HDHub4u.Tv.mkv?token=1763006973",
+            "quality": "720p",
+            "size": "464.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Game.of.Thrones.S06E09.720p.10Bit.BluRay.Hindi.ORG-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/D3A5DMHk",
+            "quality": "720p",
+            "size": "464.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Game.of.Thrones.S06E09.720p.10Bit.BluRay.Hindi.ORG-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lw8cvQSn4NBtx_7esgkhLWTyJ_tzLTif2WkASr2wBk7WSGxbJGnSFug_e8JPKCki5eD-05UQJv-BCtyizpLyKTLCCeCzgTnlFKCREIwyfxxbmYRSlbG61eh-8OSdfkXBzn0yQLZOObGJUsYIK9cL8tN3ZIn8kyV3HQwXamMPjAgbS9LKWAnINZTyEoyTegAHxy3dWuxeithRBcgCxQsdSl7tidgkKdE4nraN5RFKBzatW39WOzsQS0O_6X6kLuBeIQ6VsS",
+            "quality": "720p",
+            "size": "464.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:1399:s6e10",
+      "storedAt": 1763007226193,
+      "meta": {
+        "storedAt": 1763007226,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 6,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Game of Thrones 2011 S06E10 2160p UHD BluRay REMUX DoVi HDR [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] HEVC FraMeSToR-4kHDHUB.com\n32.22 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Game%20of%20Thrones%202011%20S06E10%202160p%20UHD%20BluRay%20REMUX%20DoVi%20HDR%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20HEVC%20FraMeSToR-4kHDHUB.com.mkv?token=1763007224",
+            "quality": "2160p",
+            "size": "32.22 GB",
+            "fileName": "Game of Thrones 2011 S06E10 2160p UHD BluRay REMUX DoVi HDR [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] HEVC FraMeSToR-4kHDHUB.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Game of Thrones 2011 S06E10 2160p UHD SDR BluRay x265 10bit [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] HEVC SWTYBLZ-4kHDHUB.com\n21.14 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Game%20of%20Thrones%202011%20S06E10%202160p%20UHD%20SDR%20BluRay%20x265%2010bit%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20HEVC%20SWTYBLZ-4kHDHUB.com.mkv?token=1763007224",
+            "quality": "2160p",
+            "size": "21.14 GB",
+            "fileName": "Game of Thrones 2011 S06E10 2160p UHD SDR BluRay x265 10bit [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] HEVC SWTYBLZ-4kHDHUB.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Game of Thrones 2011 S06E10 1080p BluRay REMUX AVC [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English DTS-HDMA 5.1] FraMeSToR-4kHDHUB.Com\n11.44 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Game%20of%20Thrones%202011%20S06E10%201080p%20BluRay%20REMUX%20AVC%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20DTS-HDMA%205.1]%20FraMeSToR-4kHDHUB.Com.mkv?token=1763007224",
+            "quality": "1080p",
+            "size": "11.44 GB",
+            "fileName": "Game of Thrones 2011 S06E10 1080p BluRay REMUX AVC [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English DTS-HDMA 5.1] FraMeSToR-4kHDHUB.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "YJFoAZEo\n11.44 GB",
+            "url": "https://pixeldrain.net/api/file/YJFoAZEo",
+            "quality": "1080p",
+            "size": "11.44 GB",
+            "fileName": "YJFoAZEo",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Game of Thrones 2011 S06E10 1080p BluRay [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English DTS-HDMA 5.1] x264 PiR8-4kHDHUB.com\n5.8 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Game%20of%20Thrones%202011%20S06E10%201080p%20BluRay%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20DTS-HDMA%205.1]%20x264%20PiR8-4kHDHUB.com.mkv?token=1763007224",
+            "quality": "1080p",
+            "size": "5.8 GB",
+            "fileName": "Game of Thrones 2011 S06E10 1080p BluRay [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English DTS-HDMA 5.1] x264 PiR8-4kHDHUB.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "xCtndxHi\n5.8 GB",
+            "url": "https://pixeldrain.net/api/file/xCtndxHi",
+            "quality": "1080p",
+            "size": "5.8 GB",
+            "fileName": "xCtndxHi",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Game of Thrones 2011 S06E10 1080p BluRay 10bit HEVC [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] x265 Absinth-4kHDHUB.Com\n4.36 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Game%20of%20Thrones%202011%20S06E10%201080p%20BluRay%2010bit%20HEVC%20[Hindi-Tamil-Telugu-Kannada%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20Absinth-4kHDHUB.Com.mkv?token=1763007225",
+            "quality": "1080p",
+            "size": "4.36 GB",
+            "fileName": "Game of Thrones 2011 S06E10 1080p BluRay 10bit HEVC [Hindi-Tamil-Telugu-Kannada DDP 2.0 + English TrueHD Atmos 7.1] x265 Absinth-4kHDHUB.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ehjHWn7i\n4.36 GB",
+            "url": "https://pixeldrain.net/api/file/ehjHWn7i",
+            "quality": "1080p",
+            "size": "4.36 GB",
+            "fileName": "ehjHWn7i",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1399:s6e10",
+      "storedAt": 1763007223348,
+      "meta": {
+        "storedAt": 1763007223,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 6,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 5 1][x265]-RARBG",
+            "url": "https://a.111477.xyz/tvs/Game%20of%20Thrones/Season%206/Game%20of%20Thrones%20(2011)%20-%20S06E10%20-%20The%20Winds%20of%20Winter%20[Bluray-1080p][AAC%205.1][x265]-RARBG.mp4",
+            "quality": "1080p",
+            "size": "1.06 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Game of Thrones (2011) - S06E10 - The Winds of Winter [Bluray-1080p][AAC 5.1][x265]-RARBG.mp4"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][HDR10][TrueHD Atmos 7 1][h265]-d3g",
+            "url": "https://a.111477.xyz/tvs/Game%20of%20Thrones/Season%206/Game%20of%20Thrones%20(2011)%20-%20S06E10%20-%20The%20Winds%20of%20Winter%20[Bluray-1080p][HDR10][TrueHD%20Atmos%207.1][h265]-d3g.mkv",
+            "quality": "1080p | HDR",
+            "size": "7.56 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Game of Thrones (2011) - S06E10 - The Winds of Winter [Bluray-1080p][HDR10][TrueHD Atmos 7.1][h265]-d3g.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1399:s6e10",
+      "storedAt": 1763007227385,
+      "meta": {
+        "storedAt": 1763007227,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 6,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Game of Thrones S6E10 - 10. The Winds of Winter",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/gameofthrones/s6/Game Of Thrones Season 6 {Hindi-English} 720p BluRay ESub [BollyFlix]/Game Of Thrones S06E10 {Hindi-English} 720p BluRay ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "68min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Game of Thrones S6E10 - 10. The Winds of Winter",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/gameofthrones/s6/Game Of Thrones Season 6 {Hindi-English} 720p BluRay ESub [BollyFlix]/Game Of Thrones S06E10 {Hindi-English} 720p BluRay ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "68min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T04:06:22.987Z",
-    "totalOriginalEntries": 138,
+    "exportedAt": "2025-11-13T04:16:36.771Z",
+    "totalOriginalEntries": 145,
     "newItemsInThisBatch": 7,
     "format": "compact_v1"
   }
