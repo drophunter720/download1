@@ -12823,12 +12823,888 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1114967",
+      "storedAt": 1763022395612,
+      "meta": {
+        "storedAt": 1763022395,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1114967",
+        "imdbId": "tt27543578",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/483759?token=173a7039a5cfe77b30e824544559c926&expires=1768206395&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:330723",
+      "storedAt": 1763022644441,
+      "meta": {
+        "storedAt": 1763022644,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "330723",
+        "imdbId": "tt0312688",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "My Favorite Martian 1999 1080p AMZN WEB-DL [Hindi DDP 2.0 + English DDP 5.1] H.264 spartanec163-4kHDHub.com\n9.15 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/My%20Favorite%20Martian%201999%201080p%20AMZN%20WEB-DL%20[Hindi%20DDP%202.0%20+%20English%20DDP%205.1]%20H.264%20spartanec163-4kHDHub.com.mkv?token=1763022644",
+            "quality": "1080p",
+            "size": "9.15 GB",
+            "fileName": "My Favorite Martian 1999 1080p AMZN WEB-DL [Hindi DDP 2.0 + English DDP 5.1] H.264 spartanec163-4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "8SHmoykJ\n9.15 GB",
+            "url": "https://pixeldrain.net/api/file/8SHmoykJ",
+            "quality": "1080p",
+            "size": "9.15 GB",
+            "fileName": "8SHmoykJ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "My Favorite Martian 1999 10bit HEVC [Hindi DDP 2.0 + English DDP 5.1] H.265 SkumDog-4kHDHub.com\n3.67 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/My%20Favorite%20Martian%201999%2010bit%20HEVC%20[Hindi%20DDP%202.0%20+%20English%20DDP%205.1]%20H.265%20SkumDog-4kHDHub.com.mkv?token=1763022644",
+            "quality": "2160p",
+            "size": "3.67 GB",
+            "fileName": "My Favorite Martian 1999 10bit HEVC [Hindi DDP 2.0 + English DDP 5.1] H.265 SkumDog-4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "vWNNRb2m\n3.67 GB",
+            "url": "https://pixeldrain.net/api/file/vWNNRb2m",
+            "quality": "2160p",
+            "size": "3.67 GB",
+            "fileName": "vWNNRb2m",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:1396:s4e5",
+      "storedAt": 1763022581894,
+      "meta": {
+        "storedAt": 1763022581,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 4,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "56Vzve9D\n7.26 GB",
+            "url": "https://pixeldrain.net/api/file/56Vzve9D",
+            "quality": "1080p",
+            "size": "7.26 GB",
+            "fileName": "56Vzve9D",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Breaking Bad S04E05 1080p BluRay [Hindi  DD2.0 + English DTS] x264 decibel-wAgen 4kHdHub com\n4.21 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Breaking%20Bad%20S04E05%201080p%20BluRay%20[Hindi%20%20DD2.0%20+%20English%20DTS]%20x264%20decibel-wAgen%204kHdHub%20com.mkv?token=1763022580",
+            "quality": "1080p",
+            "size": "4.21 GB",
+            "fileName": "Breaking Bad S04E05 1080p BluRay [Hindi  DD2.0 + English DTS] x264 decibel-wAgen 4kHdHub com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "8XefcqWb\n4.21 GB",
+            "url": "https://pixeldrain.net/api/file/8XefcqWb",
+            "quality": "1080p",
+            "size": "4.21 GB",
+            "fileName": "8XefcqWb",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Breaking Bad S04E05 1080p BluRay 10bit x265 [Hindi  DD2.0 + English AAC 5.1 Silence-wAgen 4kHdHub.com\n1.34 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Breaking%20Bad%20S04E05%201080p%20BluRay%2010bit%20x265%20[Hindi%20%20DD2.0%20+%20English%20AAC%205.1%20Silence-wAgen%204kHdHub.com.mkv?token=1763022580",
+            "quality": "1080p",
+            "size": "1.34 GB",
+            "fileName": "Breaking Bad S04E05 1080p BluRay 10bit x265 [Hindi  DD2.0 + English AAC 5.1 Silence-wAgen 4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "trxatZBe\n1.34 GB",
+            "url": "https://pixeldrain.net/api/file/trxatZBe",
+            "quality": "1080p",
+            "size": "1.34 GB",
+            "fileName": "trxatZBe",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1396:s4e5",
+      "storedAt": 1763022577850,
+      "meta": {
+        "storedAt": 1763022577,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 4,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux Proper][DTS-HD MA 5 1][AVC]-FraMeSToR",
+            "url": "https://a.111477.xyz/tvs/Breaking%20Bad/Season%204/Breaking%20Bad%20(2008)%20-%20S04E05%20-%20Shotgun%20[Bluray-1080p%20Remux%20Proper][DTS-HD%20MA%205.1][AVC]-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": "7.48 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Breaking Bad (2008) - S04E05 - Shotgun [Bluray-1080p Remux Proper][DTS-HD MA 5.1][AVC]-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS-HD MA 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Breaking%20Bad/Season%204/Breaking.Bad.S04E05.Shotgun.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "7.19 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Breaking.Bad.S04E05.Shotgun.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:1396:s4e5",
+      "storedAt": 1763022592812,
+      "meta": {
+        "storedAt": 1763022592,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 4,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Breaking.Bad.S04.E05.1080p.BluRay.Hindi.DD2.0-English.5.1.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/ffTKXV2E",
+            "quality": "1080p",
+            "size": "874.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Breaking.Bad.S04.E05.1080p.BluRay.Hindi.DD2.0-English.5.1.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kSnEAvOu2PZ1HveEZ1DjxpaGvTgXdOYlMKKmyUSKBfS8LUNOhkr-IA1ZJiBMFFVyJIjw4YtaLGBqBL6jWNh7rqmShsmoMlDVZ8jXi4Ku4ZSf9xECYGCINSZWB5nxRywQD6oVo6n1WLNzPapqFJyfJLmkmUM2Mga29Oetz4zjHI87wLSCc7V_66dTzNi64n3ngnWfhX2wrKCrD1j3gWJp5CQLmVMS0zFFdAha2C_dLvY1NaIussID8e15mCZmaFAXBp__W9",
+            "quality": "1080p",
+            "size": "874.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Breaking.Bad.S04.E05.720p.BluRay.Hindi.ORG.2.0-English.x264-HDHub4u.Tv.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Breaking.Bad.S04.E05.720p.BluRay.Hindi.ORG.2.0-English.x264-HDHub4u.Tv.mkv?token=1763018985",
+            "quality": "720p",
+            "size": "425.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Breaking.Bad.S04.E05.720p.BluRay.Hindi.ORG.2.0-English.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/CKg2zmVf",
+            "quality": "720p",
+            "size": "425.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Breaking.Bad.S04.E05.720p.BluRay.Hindi.ORG.2.0-English.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2llo2tp9tNDJQC2QQx9S4328YLWzWPtpGOE6n5uYmYimLCTjF9qmMBRBIleH_AIeqqluiKKcQLcucIXWIo1o-IcwZ1CJ-ak-13jH0D0p9mogGfAGNBKa3ctLtBAmHEgFV_3vBrslBD164dKIZjclKjmUp3UwD1MWO1SH5YCaT8bjBMAVZ9FF5Ptgb8nDZyKvLBx7cScfFbEGxw4E2ZWVzYSn0H-bephcADmEhuTw90lP-cOqfyPhxhOHiDvzrlAXPgipXRt",
+            "quality": "720p",
+            "size": "425.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1396:s4e5",
+      "storedAt": 1763022580853,
+      "meta": {
+        "storedAt": 1763022580,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 4,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Breaking Bad S4E5 - 5. Shotgun",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/breakingbad/s4/breaking bad s04e05 720p brrip sujaidr.mkv",
+            "quality": "1080p",
+            "size": "47min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Breaking Bad S4E5 - 5. Shotgun",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/breakingbad/s4/breaking bad s04e05 720p brrip sujaidr.mkv",
+            "quality": "1080p",
+            "size": "47min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:1396:s4e5",
+      "storedAt": 1763022585083,
+      "meta": {
+        "storedAt": 1763022585,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 4,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Breaking Bad S04E05 1080p BluRay [Hindi DD2 0 + English DTS] x264 ~(IONICBOY)~decibel\n4.21GB",
+            "url": "https://worker-dark-dream-b0b2.tepeh90861.workers.dev/cba378ee783f4991517eb7d8c769103f26af3e31d0a1e281e2eb2b0bfc2d15116ace7df5d195afbbcd5e5c063fa745370aff5be357e28d8eb084209cc2bf2f990ee35018c7aee2aa9556d27e448458ef046be6dcc7f9bb5c332a138789061ac8b61dff709527217a34b0905f839b5e8ac6451a9d0a2cc9f2456687bdc7de2f9f06ba81f568dd24a0b070943418edf3149ae4f22abbaf767faa601856aabd144072e790da8eea4bf77b00677c567c1ddf::7b18000f8947e27994efe50f74879864/Breaking.Bad.S04E05.1080p.BluRay.[Hindi DD2.0  English DTS].x264 (IONICBOY)decibel.mkv",
+            "quality": "1080p | BluRay",
+            "size": "4.21GB",
+            "fileName": "Breaking.Bad.S04E05.1080p.BluRay.[Hindi DD2.0 + English DTS].x264 ~(IONICBOY)~decibel.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:1396:s4e6",
+      "storedAt": 1763022673923,
+      "meta": {
+        "storedAt": 1763022673,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 4,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Breaking Bad S04E06 1080p BluRay REMUX AVC [Hindi DD 2.0 + English DTS-HD.MA 5.1] FraMeSToR-wAgen 4kHdHub.com\n7.09 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Breaking%20Bad%20S04E06%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DD%202.0%20+%20English%20DTS-HD.MA%205.1]%20FraMeSToR-wAgen%204kHdHub.com.mkv?token=1763022673",
+            "quality": "1080p",
+            "size": "7.09 GB",
+            "fileName": "Breaking Bad S04E06 1080p BluRay REMUX AVC [Hindi DD 2.0 + English DTS-HD.MA 5.1] FraMeSToR-wAgen 4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "H8dQEN47\n7.09 GB",
+            "url": "https://pixeldrain.net/api/file/H8dQEN47",
+            "quality": "1080p",
+            "size": "7.09 GB",
+            "fileName": "H8dQEN47",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "UzGMZvTm\n4.21 GB",
+            "url": "https://pixeldrain.net/api/file/UzGMZvTm",
+            "quality": "1080p",
+            "size": "4.21 GB",
+            "fileName": "UzGMZvTm",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "jwjZ2gb4\n1.26 GB",
+            "url": "https://pixeldrain.net/api/file/jwjZ2gb4",
+            "quality": "1080p",
+            "size": "1.26 GB",
+            "fileName": "jwjZ2gb4",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1396:s4e6",
+      "storedAt": 1763022669411,
+      "meta": {
+        "storedAt": 1763022669,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 4,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux Proper][DTS-HD MA 5 1][AVC]-FraMeSToR",
+            "url": "https://a.111477.xyz/tvs/Breaking%20Bad/Season%204/Breaking%20Bad%20(2008)%20-%20S04E06%20-%20Cornered%20[Bluray-1080p%20Remux%20Proper][DTS-HD%20MA%205.1][AVC]-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": "7.31 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Breaking Bad (2008) - S04E06 - Cornered [Bluray-1080p Remux Proper][DTS-HD MA 5.1][AVC]-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS-HD MA 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Breaking%20Bad/Season%204/Breaking.Bad.S04E06.Cornered.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "7.02 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Breaking.Bad.S04E06.Cornered.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:1396:s4e6",
+      "storedAt": 1763022674159,
+      "meta": {
+        "storedAt": 1763022674,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 4,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Breaking.Bad.S04.E06.1080p.BluRay.Hindi.DD2.0-English.5.1.x264-HDHub4u.Tv.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Breaking.Bad.S04.E06.1080p.BluRay.Hindi.DD2.0-English.5.1.x264-HDHub4u.Tv.mkv?token=1763018984",
+            "quality": "1080p",
+            "size": "889.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Breaking.Bad.S04.E06.1080p.BluRay.Hindi.DD2.0-English.5.1.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/Vr4QHPak",
+            "quality": "1080p",
+            "size": "889.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Breaking.Bad.S04.E06.1080p.BluRay.Hindi.DD2.0-English.5.1.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mhfcQfr0VDCo7ST0_ZdfEJSQ_2OtyKGDCP1AVhX_thsG5SnB6z2INq3AndrDWpYjyFy2J80w_-o1espf8txcapX7nuDYDI9vE9r4iF3rk_TkEIJ6SxSLXckGF2f4kmZsC34GZXsuOzFSuRtIu5b0V071h8Es-yCXJmwuZ2EHWOn17NEvdlfAWTctO_iRv59RYxDW8KSxXsC8A9UgzsGlmdKlCycvvjygpSFzsPcnH1vh7659uDMWZmq5rueZoi8UFq_y8_",
+            "quality": "1080p",
+            "size": "889.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Breaking.Bad.S04.E06.720p.BluRay.Hindi.ORG.2.0-English.x264-HDHub4u.Tv.mkv",
+            "url": "https://fsl.cdnbaba.rest/Breaking.Bad.S04.E06.720p.BluRay.Hindi.ORG.2.0-English.x264-HDHub4u.Tv.mkv?token=1763018985",
+            "quality": "720p",
+            "size": "419.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Breaking.Bad.S04.E06.720p.BluRay.Hindi.ORG.2.0-English.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/FeesTH6s",
+            "quality": "720p",
+            "size": "419.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Breaking.Bad.S04.E06.720p.BluRay.Hindi.ORG.2.0-English.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2m_hMX8YHhsW2CRu_6UWZDbmoo9xo4bVQtim6LqXZy1C1rWF2SJEeuEum2ey2T9glknqYNmjyFWKwrRAG7uLM9FeHXPYO1o8DKAoPGbAMvV0WYfCjhgaMiyH1ec2dz6XFdE7v5eFXJrT0nD45h0tO-T9vk4GA7bfT5jDG8J2A1nwmjCt68bmuLAQNA2WWo7pjqpY194irSud2B63-o1ITGHkKUtrAcogc_fO9qNi6UvibCMdezm5IGQyFYht-LXTq1_Af4_",
+            "quality": "720p",
+            "size": "419.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1396:s4e6",
+      "storedAt": 1763022676537,
+      "meta": {
+        "storedAt": 1763022676,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 4,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Breaking Bad S4E6 - 6. Cornered",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/breakingbad/s4/breaking bad s04e06 720p brrip sujaidr.mkv",
+            "quality": "1080p",
+            "size": "47min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Breaking Bad S4E6 - 6. Cornered",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/breakingbad/s4/breaking bad s04e06 720p brrip sujaidr.mkv",
+            "quality": "1080p",
+            "size": "47min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:1396:s4e7",
+      "storedAt": 1763022786835,
+      "meta": {
+        "storedAt": 1763022786,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 4,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "dzBx9JWu\n7.08 GB",
+            "url": "https://pixeldrain.net/api/file/dzBx9JWu",
+            "quality": "1080p",
+            "size": "7.08 GB",
+            "fileName": "dzBx9JWu",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "fDUqiHAt\n4.21 GB",
+            "url": "https://pixeldrain.net/api/file/fDUqiHAt",
+            "quality": "1080p",
+            "size": "4.21 GB",
+            "fileName": "fDUqiHAt",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "nTgoMJTu\n1.41 GB",
+            "url": "https://pixeldrain.net/api/file/nTgoMJTu",
+            "quality": "1080p",
+            "size": "1.41 GB",
+            "fileName": "nTgoMJTu",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1396:s4e7",
+      "storedAt": 1763022782453,
+      "meta": {
+        "storedAt": 1763022782,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 4,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux Proper][DTS-HD MA 5 1][AVC]-FraMeSToR",
+            "url": "https://a.111477.xyz/tvs/Breaking%20Bad/Season%204/Breaking%20Bad%20(2008)%20-%20S04E07%20-%20Problem%20Dog%20[Bluray-1080p%20Remux%20Proper][DTS-HD%20MA%205.1][AVC]-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": "7.35 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Breaking Bad (2008) - S04E07 - Problem Dog [Bluray-1080p Remux Proper][DTS-HD MA 5.1][AVC]-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS-HD MA 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Breaking%20Bad/Season%204/Breaking.Bad.S04E07.Problem.Dog.Minute.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "7.02 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Breaking.Bad.S04E07.Problem.Dog.Minute.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:1396:s4e7",
+      "storedAt": 1763022787074,
+      "meta": {
+        "storedAt": 1763022787,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 4,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Breaking.Bad.S04.E07.1080p.BluRay.Hindi.DD2.0-English.5.1.x264-HDHub4u.Tv.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Breaking.Bad.S04.E07.1080p.BluRay.Hindi.DD2.0-English.5.1.x264-HDHub4u.Tv.mkv?token=1763018985",
+            "quality": "1080p",
+            "size": "873.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Breaking.Bad.S04.E07.1080p.BluRay.Hindi.DD2.0-English.5.1.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/jDKCBLDW",
+            "quality": "1080p",
+            "size": "873.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Breaking.Bad.S04.E07.1080p.BluRay.Hindi.DD2.0-English.5.1.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kQncrx5XDQhJh8OKRXGmXq12ChtdVNBM2xZSDP_rZjQwKXW0OcmTUsc7Yxz1UWK3VwqgGV80w1uLqVIQdzu95RWUQDCt532dbya_vcnwp7CP9l5uw8nhhUetFDHrbipm_kqBCTE84rLTn0v_n0zn9f_zvYsaLlVh9k0afPrnzBJh6SabFqNfOuja2SnVsMg_Pro6L0BkwZCEH9IajtZokJ0c-nQp5FM7eKsmCFbG4XfBv4iCU",
+            "quality": "1080p",
+            "size": "873.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Breaking.Bad.S04.E07.720p.BluRay.Hindi.ORG.2.0-English.x264-HDHub4u.Tv.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Breaking.Bad.S04.E07.720p.BluRay.Hindi.ORG.2.0-English.x264-HDHub4u.Tv.mkv?token=1763018985",
+            "quality": "720p",
+            "size": "420.2 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Breaking.Bad.S04.E07.720p.BluRay.Hindi.ORG.2.0-English.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/ku43yAN7",
+            "quality": "720p",
+            "size": "420.2 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Breaking.Bad.S04.E07.720p.BluRay.Hindi.ORG.2.0-English.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lJql0FLDH9j4JiXvd3vg48YMIC_XX6pEfi_ppTC-fh9Gt-2leYIMQ2tcG6fTXazl7UqDHNvLs3r3vl3MRyNrwkz5vWNbk_OW8rZM18GqPRD4OuRaXkNuSoPRulj_fQ_6_g57Grf4eRrM3GqlV3o1ICA9Rafx81u409q1LA-c8dmlDArAYjegl-0jW8CYoCSVa4zy7p72H2YkI4W0Fz2pxV2bnIertd6LEovrGZsOwiMpTq5Z1hL4XtvepJDm8H3FXcKw61w4Z_mKLKiy-lq7nMrhVysv4-bceIRMHXshDvC69BPzAfJlSqfu4ovV5M3vDVD8IFCe19SP-XCU_GsNKnobbUuI0UtQrBlG0CLygJAWF_dkZY3uudO3dVmEzAMjXQeZjI-V4Lnt1KfJ8JnNRvTK8qeqRyZqhy9X1i9mq2VKbbAs3ub6cXPfkC8_bQy8ZQFrdCwN8AbV4pG83QtBaJKKH_9_7aRhKs4DbAE3XG6LD-5Tr7LA2HZK8MkEF6sUPriHUwd458Qtwn7GQw7bNrz_W-P3ppMDSjcwhr8mS4qbdNwb2jMBS5frN1ixwdAAwPtV29gKpW-oAyUeNetyORqaOedjZjgDDBRprMwVT5L4PiUfdfNSwEfQdFwlRUBbYAp-HQXyl6pr8XnnV50Zw--pQ6qEzItqtlW1F2ztue-cUIBnigxEEwgAVxJgV5Pg1DwHjqAQiPjDhQtl5OsqileNyEaUCTnKsxJafD4Wl99Rl2a0XO658Oy3VC1CbwhJsOIN0lm20EfJ8yBJtmUtW7sDfbvjqdkyipNKwrE92H7IlLUpx0ZiHBwsnkXchtnVaRY90M4XVunBC8mikbamd5oazxSSqmR9SjCgzzMSOWQZaxLWxvnlv3ZshTjjJ14Mg3H-CNbPZ34-mBRMajMpYblNULQ3xhWoddKTelzqI7sd6MudFXEebtsN06SmsPieAeUKhNSHnivN5ApJYcwk3weB8i_LL33Eoh6IF-5F7V1mtmBBxYg75dyxohnyYKEx1NHF0-eboROOhETThutEkBkxZ9Fluez6cISEtsCYIsqVONpVSWMhCjm-vPrYpxRsuNfVYv",
+            "quality": "720p",
+            "size": "420.2 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1396:s4e7",
+      "storedAt": 1763022786157,
+      "meta": {
+        "storedAt": 1763022786,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 4,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Breaking Bad S4E7 - 7. Problem Dog",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/breakingbad/s4/breaking bad s04e07 720p brrip sujaidr.mkv",
+            "quality": "1080p",
+            "size": "47min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Breaking Bad S4E7 - 7. Problem Dog",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/breakingbad/s4/breaking bad s04e07 720p brrip sujaidr.mkv",
+            "quality": "1080p",
+            "size": "47min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T07:56:59.929Z",
-    "totalOriginalEntries": 238,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-13T08:34:18.357Z",
+    "totalOriginalEntries": 253,
+    "newItemsInThisBatch": 15,
     "format": "compact_v1"
   }
 }
