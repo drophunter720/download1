@@ -32255,12 +32255,156 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:tv:95479:s2e4",
+      "storedAt": 1763053264074,
+      "meta": {
+        "storedAt": 1763053264,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "95479",
+        "imdbId": "tt12343534",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "M9Hwxhrm\n601.16 MB",
+            "url": "https://pixeldrain.net/api/file/M9Hwxhrm",
+            "quality": "1080p",
+            "size": "601.16 MB",
+            "fileName": "M9Hwxhrm",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 720p",
+            "title": "Bft6unY1\n263.84 MB",
+            "url": "https://pixeldrain.net/api/file/Bft6unY1",
+            "quality": "720p",
+            "size": "263.84 MB",
+            "fileName": "Bft6unY1",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "wNpyve1w\n6.8 GB",
+            "url": "https://pixeldrain.net/api/file/wNpyve1w",
+            "quality": "1080p",
+            "size": "6.8 GB",
+            "fileName": "wNpyve1w",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "HApViEMJ\n1.54 GB",
+            "url": "https://pixeldrain.net/api/file/HApViEMJ",
+            "quality": "1080p",
+            "size": "1.54 GB",
+            "fileName": "HApViEMJ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "5Vx54b9t\n1.66 GB",
+            "url": "https://pixeldrain.net/api/file/5Vx54b9t",
+            "quality": "1080p",
+            "size": "1.66 GB",
+            "fileName": "5Vx54b9t",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:95479:s2e4",
+      "storedAt": 1763053262238,
+      "meta": {
+        "storedAt": 1763053262,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "95479",
+        "imdbId": "tt12343534",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Jujutsu Kaisen S2E4 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1695815701/s2/episode4.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:95479:s2e4",
+      "storedAt": 1763053266702,
+      "meta": {
+        "storedAt": 1763053266,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "95479",
+        "imdbId": "tt12343534",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Jujutsu Kaisen (2023) - 04 - Hidden Inventory 4 [1080p BD REMUX AVC FLAC] [Multi Audio] [Shroud] ~ HunTer\n6.52GB",
+            "url": "https://worker-flat-moon-7e83.fatemi6790.workers.dev/a5697602bd6ea69b513b908b1228bb5ca9b7a7deb8b4ad70c0ce094f0b8088decfe60307ed3b531e62368f85266d250a9d8c817fe0cacc7b213485e2921369bd828cb8af083362a3d3bc9bf62c731cb54107e12117be4808bd3c831ece61671a649327d824d8f65da789f215306a036b23d6e91be3436725463e03e526c59fe5db527e0396508ed6cdc63bf9ec88fc2533cd776367f9c26c6375e542403e73391b705e94cec7746f0a8deb89f2beab3e::7a667af071a88991b30e59d976b9dc26/Jujutsu Kaisen (2023) - 04 - Hidden Inventory 4 [1080p BD REMUX AVC FLAC] [Multi Audio] [Shroud]  HunTer.mkv",
+            "quality": "1080p",
+            "size": "6.52GB",
+            "fileName": "Jujutsu Kaisen (2023) - 04 - Hidden Inventory 4 [1080p BD REMUX AVC FLAC] [Multi Audio] [Shroud] ~ HunTer.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T16:53:19.646Z",
-    "totalOriginalEntries": 564,
-    "newItemsInThisBatch": 7,
+    "exportedAt": "2025-11-13T17:01:39.193Z",
+    "totalOriginalEntries": 567,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
