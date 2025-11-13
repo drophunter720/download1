@@ -4872,12 +4872,118 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:72748:s5e2",
+      "storedAt": 1763003243071,
+      "meta": {
+        "storedAt": 1763003243,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "72748",
+        "imdbId": "tt4276618",
+        "season": 5,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-NTb",
+            "url": "https://a.111477.xyz/tvs/Strike/Season%205/Strike%20(2017)%20-%20S05E02%20-%20Episode%202%20[WEBDL-1080p][EAC3%205.1][h264]-NTb.mkv",
+            "quality": "1080p",
+            "size": "4.14 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Strike (2017) - S05E02 - Episode 2 [WEBDL-1080p][EAC3 5.1][h264]-NTb.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 2 0][x265]-SiQ",
+            "url": "https://a.111477.xyz/tvs/Strike/Season%205/Strike%20(2017)%20-%20S05E02%20-%20Episode%202%20[WEBRip-1080p][AAC%202.0][x265]-SiQ.mkv",
+            "quality": "1080p",
+            "size": "376.78 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Strike (2017) - S05E02 - Episode 2 [WEBRip-1080p][AAC 2.0][x265]-SiQ.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:72748:s5e2",
+      "storedAt": 1763003244803,
+      "meta": {
+        "storedAt": 1763003244,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "72748",
+        "imdbId": "tt4276618",
+        "season": 5,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Empire Strikes Back S5E2 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1669821804/s5/episode2.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:78036:s2e1",
+      "storedAt": 1763003410264,
+      "meta": {
+        "storedAt": 1763003410,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "78036",
+        "imdbId": "tt7573024",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/278975?token=c5d45f5ce6d05dc35f9ac63516b29b91&expires=1768187409&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T03:04:31.376Z",
-    "totalOriginalEntries": 110,
-    "newItemsInThisBatch": 7,
+    "exportedAt": "2025-11-13T03:15:08.154Z",
+    "totalOriginalEntries": 113,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
