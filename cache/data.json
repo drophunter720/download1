@@ -23009,12 +23009,687 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1231064",
+      "storedAt": 1763042817461,
+      "meta": {
+        "storedAt": 1763042817,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1231064",
+        "imdbId": "tt31070766",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/283369?token=c4a608f660dd3236cd654e9ea870d117&expires=1768226816&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:823464",
+      "storedAt": 1763042925238,
+      "meta": {
+        "storedAt": 1763042925,
+        "urlCount": 7,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "823464",
+        "imdbId": "tt14539740",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Godzilla.x.Kong.The.New.Empire.2024.BluRay.2160p.UHD.REMUX.DV.HDR.[Hindi DDP5.1 + English TrueHD 7.1 Atmos] HEVC~AishaRFX-Ionicboy 4KHDHub.com\n61.41 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Godzilla.x.Kong.The.New.Empire.2024.BluRay.2160p.UHD.REMUX.DV.HDR.[Hindi%20DDP5.1%20+%20English%20TrueHD%207.1%20Atmos]%20HEVC~AishaRFX-Ionicboy%204KHDHub.com.mkv?token=1763038047",
+            "quality": "2160p",
+            "size": "61.41 GB",
+            "fileName": "Godzilla.x.Kong.The.New.Empire.2024.BluRay.2160p.UHD.REMUX.DV.HDR.[Hindi DDP5.1 + English TrueHD 7.1 Atmos] HEVC~AishaRFX-Ionicboy 4KHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Godzilla x Kong The New Empire 2024 BluRay 2160p 10bit DV HDR [Hindi DDP5.1 + English TrueHD7.1] x265~CHD-Ionicboy 4KHDHub.com\n28.29 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Godzilla%20x%20Kong%20The%20New%20Empire%202024%20BluRay%202160p%2010bit%20DV%20HDR%20[Hindi%20DDP5.1%20+%20English%20TrueHD7.1]%20x265~CHD-Ionicboy%204KHDHub.com.mkv?token=1763038047",
+            "quality": "2160p",
+            "size": "28.29 GB",
+            "fileName": "Godzilla x Kong The New Empire 2024 BluRay 2160p 10bit DV HDR [Hindi DDP5.1 + English TrueHD7.1] x265~CHD-Ionicboy 4KHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Godzilla x Kong The New Empire (2024) 1080p BluRay REMUX AVC [Hindi DDP5.1 + English TrueHD 7.1 Atmos] ~(eXterminator-Ionicboy) (4KHDHub.com)\n25.39 GB",
+            "url": "https://aged-scene-2b67.terapiyo249.workers.dev/2f60a002876262bade11e5fc8edc039b06951278ef11fe43ad1ac2fdfe13ca6cefef68db669ebc6cfbed80f14e0775db::2abac6cf81398028cde05017ee056649/1397326797/Godzilla%20x%20Kong%20The%20New%20Empire%20(2024)%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP5.1%20+%20English%20TrueHD%207.1%20Atmos]%20~(eXterminator-Ionicboy)%20(4KHDHub.com).mkv",
+            "quality": "1080p",
+            "size": "25.39 GB",
+            "fileName": "Godzilla x Kong The New Empire (2024) 1080p BluRay REMUX AVC [Hindi DDP5.1 + English TrueHD 7.1 Atmos] ~(eXterminator-Ionicboy) (4KHDHub.com)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "FMaDYUFC\n15.3 GB",
+            "url": "https://pixeldrain.net/api/file/FMaDYUFC",
+            "quality": "1080p",
+            "size": "15.3 GB",
+            "fileName": "FMaDYUFC",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "LZ7TtWEb\n13.99 GB",
+            "url": "https://pixeldrain.net/api/file/LZ7TtWEb",
+            "quality": "2160p",
+            "size": "13.99 GB",
+            "fileName": "LZ7TtWEb",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "4oqo4TTt\n12.41 GB",
+            "url": "https://pixeldrain.net/api/file/4oqo4TTt",
+            "quality": "1080p",
+            "size": "12.41 GB",
+            "fileName": "4oqo4TTt",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "k4rkhJqH\n7.85 GB",
+            "url": "https://pixeldrain.net/api/file/k4rkhJqH",
+            "quality": "1080p",
+            "size": "7.85 GB",
+            "fileName": "k4rkhJqH",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 7
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:823464",
+      "storedAt": 1763042924408,
+      "meta": {
+        "storedAt": 1763042924,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "823464",
+        "imdbId": "tt14539740",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX MULTi Atmos 7 1 H265-BTM",
+            "url": "https://a.111477.xyz/movies/Godzilla%20x%20Kong%20The%20New%20Empire%20(2024)/Godzilla.x.Kong.The.New.Empire.2024.1080p.BluRay.REMUX.MULTi.Atmos.7.1.H265-BTM.mkv",
+            "quality": "1080p | REMUX",
+            "size": "29.94 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Godzilla.x.Kong.The.New.Empire.2024.1080p.BluRay.REMUX.MULTi.Atmos.7.1.H265-BTM.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip x265-DH",
+            "url": "https://a.111477.xyz/movies/Godzilla%20x%20Kong%20The%20New%20Empire%20(2024)/Godzilla.x.Kong.The.New.Empire.2024.1080p.WEBRip.x265-DH.mkv",
+            "quality": "1080p",
+            "size": "3.36 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Godzilla.x.Kong.The.New.Empire.2024.1080p.WEBRip.x265-DH.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:823464",
+      "storedAt": 1763042928038,
+      "meta": {
+        "storedAt": 1763042928,
+        "urlCount": 20,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "823464",
+        "imdbId": "tt14539740",
+        "streams": [
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Godzilla.x.Kong.The.New.Empire.2024.2160p.AMZN.WEB-DL.Hindi.AAC5.1-English.DDP5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Godzilla.x.Kong.The.New.Empire.2024.2160p.AMZN.WEB-DL.Hindi.AAC5.1-English.DDP5.1.ESub.x265-HDHub4u.Tv.mkv?token=1763042925",
+            "quality": "4K",
+            "size": "12.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Godzilla.x.Kong.The.New.Empire.2024.2160p.AMZN.WEB-DL.Hindi.AAC5.1-English.DDP5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/MrarTiBe",
+            "quality": "4K",
+            "size": "12.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Godzilla.x.Kong.The.New.Empire.2024.2160p.AMZN.WEB-DL.Hindi.AAC5.1-English.DDP5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2niu5UoqRqrWRVaXnMFH94wJLgWDfVPeDxKMVYVl4I9ekstrFI3ePlGw1YVBRYNLX9G9diI1SaJdcgbGURD6nolc_Px_yetmMuiMI8X7Bvkw1qbYes4GLzqFBEgcKgz8pXTzEwwzgzUvsV053BjYT-zfxJpaZQWB192Z09GISSg6vXqAlchtpGIyF0WiUa5_9LTdZhv5oXTIXPP2liJq9JoLcLi2FZuZR_3vHH45rxUPUx3O6TgXHjpN0wcaMrNgCHQZUwf",
+            "quality": "4K",
+            "size": "12.8 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Godzilla.x.Kong.The.New.Empire.2024.1080p.10Bit.PROPER.WEB-DL.Hindi.5.1-English.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/mtG5QWF9",
+            "quality": "1080p",
+            "size": "2.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Download",
+            "title": "Godzilla.x.Kong.The.New.Empire.2024.1080p.10Bit.PROPER.WEB-DL.Hindi.5.1-English.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pub-4caebd384cd94f73a528ea164be154d6.r2.dev/Godzilla.x.Kong.The.New.Empire.2024.1080p.10Bit.PROPER.WEB-DL.Hindi.5.1-English.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "quality": "1080p",
+            "size": "2.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Godzilla.x.Kong.The.New.Empire.2024.1080p.10Bit.PROPER.WEB-DL.Hindi.5.1-English.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kCLYadI3dAyLGHnRKEcPsVONRlfmWNuVGEvOxb1nB3NUYSmiJLGs-T31EmVhzLD2798UMsCnB2AEIONjVGvf-woqO7h1Bfo3F5EiB0qTNkfZH1PUJXaeBXk5vMPjcGShMzOJyYWPalpTjrlaPLkNhhVFZD1LkRBSMnEAbHWke4ukKgCOo-hsZPMF1PR65mUJlkndMOyuOFgjqLYZqjtE6tWOA7t8AMDPfpzUUMgOU1jYJjDWc",
+            "quality": "1080p",
+            "size": "2.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Godzilla.x.Kong.The.New.Empire.2024.1080p.10Bit.PROPER.WEB-DL.Hindi.5.1-English.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kmFzDzXQ_TTnC86IdH3saZ7RTj1lRyWWuBKKko3bX8xC2k1pzbhjiG2hodCe1z_Umq_ILS0mqCINE2Fm5QZWctatS08M1es8GI_-ej3gkJ5pcS-vmG9nhnKLV_BBA1NY4V0HUz1REz4s48BxMf03l8cfgS9EpXeUFX7f-mjCH3SLh4TFMitOqsPCBiThFAT28kmHEWyVOh74WA2o1jKP1ZsJdM0VAb73fyaYn5tM4Z5xhgt60",
+            "quality": "1080p",
+            "size": "2.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Godzilla.x.Kong.The.New.Empire.2024.1080p.PROPER.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Godzilla.x.Kong.The.New.Empire.2024.1080p.PROPER.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv?token=1763042925",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Godzilla.x.Kong.The.New.Empire.2024.1080p.PROPER.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/2WXWDRjF",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Godzilla.x.Kong.The.New.Empire.2024.1080p.PROPER.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2n46GZupAspbb6Gj7oHSSa9hlw5TO-dqCWf_ZjerCNNaLdemEqFE2grTkV5YG2XyMeH9h512RD_CLSrWzjZzSTSPJqIicRFrlm0MW0CEzIWOcKZ1eTizXlx5RhhBaAM4lPg4aEJroxGnVB1_VImMhpUIBViynl0tXxgVxDW47Kksz2jAX_qM28UbAH3MtN0snNHkyHtZlb4C8MZTq5ulUiNjvECRjUR-zTBzuWH5YJxav51k6zeJ50T0MD6iIdurX9oi2iW",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Godzilla.x.Kong.The.New.Empire.2024.1080p.PROPER.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lCPXJIo-H-1OMOtsN95DutJU13aPN5ca2S9QiqKvRYHIVBFnxb-m1yAdIbl1QFDRuU3O7lB6MrdLoddJ1cQdhsW5U9lfc7YtSyOJTRIILj22OcASVlB7L7C-mz_yS9YiuXng3qwITjj_TwnuY8Bk13QnucSx2RLd5HE182U98nzjHXEFp5SnBvouaW7__2EOcUASCkKhVjYBSXFsvv8MzNZ144B4oRXeXJmV_YbV2xLpD9uE9mrYDslqFIz837TZ6RLJi8",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Godzilla.x.Kong.The.New.Empire.2024.1080p.AMZN.WEB-DL.Hindi.AAC5.1-English.DDP5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Godzilla.x.Kong.The.New.Empire.2024.1080p.AMZN.WEB-DL.Hindi.AAC5.1-English.DDP5.1.ESub.x264-HDHub4u.Tv.mkv?token=1763042925",
+            "quality": "1080p",
+            "size": "8.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Godzilla.x.Kong.The.New.Empire.2024.1080p.AMZN.WEB-DL.Hindi.AAC5.1-English.DDP5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/eHqobNAS",
+            "quality": "1080p",
+            "size": "8.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Godzilla.x.Kong.The.New.Empire.2024.1080p.AMZN.WEB-DL.Hindi.AAC5.1-English.DDP5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nQeGhnabg9xZymg660kP0ONf1YqvNkPaoXy_nojubRfQX5GQ4nTLCTylluOc2cuxdsA0VuVrLZLEwA1ER7gBv4ypiST_qX0WcrCjBp532Pfh6c7dTk2JwgSBmzFnSP3G0NKjPLNMZGhL4a4ouFu9ipWCacaavl8ZFhftFkJ-2JOW7dsokdtO6SYPNqQD6KSDBBcmAeGGdmU1Nlg-hQQ03Lt_u7icInROJciURa7e1AOy3sRgr7Sy4xkRGmxxjaYq0wbIlS",
+            "quality": "1080p",
+            "size": "8.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Godzilla.x.Kong.The.New.Empire.2024.720p.10Bit.PROPER.WEB-DL.Hindi.5.1-English.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Godzilla.x.Kong.The.New.Empire.2024.720p.10Bit.PROPER.WEB-DL.Hindi.5.1-English.5.1.HEVC.x265-HDHub4u.Tv.mkv?token=1763042925",
+            "quality": "720p",
+            "size": "807.7 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Godzilla.x.Kong.The.New.Empire.2024.720p.10Bit.PROPER.WEB-DL.Hindi.5.1-English.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/oE2ggidu",
+            "quality": "720p",
+            "size": "807.7 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Godzilla.x.Kong.The.New.Empire.2024.720p.10Bit.PROPER.WEB-DL.Hindi.5.1-English.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mmaEMOIiL_zmnMEPfzj9bYvsqO-1aureuatfibcdPmRr-ZzYrASJ9h_ZoiUyUG5xm57UnrFDg2MuJvcIdDELgDCQhI4HZeiBD-07rM9nX4FRlAIoEueaRRuuR0P0VfScJ-tjRqKZHc2wURaFG90yJKAziSeP82pID1r0SToLih7HJMujdsfX_J414yi669SF8Ac4Bsi-4nQkWID6Axy5XZA52GmRrk7CIlpxqzH_6NRn3xBf8",
+            "quality": "720p",
+            "size": "807.7 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Godzilla.x.Kong.The.New.Empire.2024.720p.PROPER.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/T9vn7Ebd",
+            "quality": "720p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Godzilla.x.Kong.The.New.Empire.2024.720p.PROPER.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nnJs5R0SPZ0ommQZDOLj_ZCkq1fPwCcIpUGz3eT7CLxYw2f1P6BQaUPm5Vq--ivCnNAlcv-XQCoFOqIf1ecZ69qTq2e18Lb1_IA4n_x2POPLXHODvWNZe2TqdHwuaE5Vnp88eOwecR_wh15TKPwZ5TqoL5DT9OqykL7oLiC0Z2chS_Gq4-QDZS7aTdehx1DRv0h3xkOsQ-tFhJQjrIcGhtNNw5mI0NC6RQXrO4wQ364RItymE",
+            "quality": "720p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Godzilla.x.Kong.The.New.Empire.2024.720p.PROPER.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2n68WlHWq-h4Ak0pU-ndMbp4XUJOJeSWdoGkEbdmur650V_3qrP1fCZ_Bn6jCnRTPDeuYJUPNwVRTqiOKdp0B4ocA_IXTIwUcLO1wjJTdO-3DQ2vzNRWkyxDfVanMqA_4ZN3ThqlR1GD6BzZaJP76ska6PRJOiiM-SSG1p9YbkelXMXrmWesUN9HADCVlgNSNFJf8ixhRmqD1kJVZdYrhYtBMRRs60HchUcJ3lGmnA6B8thqCG7nmIJrj41Xf7ItZg0qdp7",
+            "quality": "720p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 20
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:823464",
+      "storedAt": 1763042924407,
+      "meta": {
+        "storedAt": 1763042924,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "823464",
+        "imdbId": "tt14539740",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Godzilla x Kong: The New Empire - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2024/godzillaxkong.mkv",
+            "quality": "1080p",
+            "size": "1h 55m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Godzilla x Kong: The New Empire - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2024/godzillaxkong.mkv",
+            "quality": "1080p",
+            "size": "1h 55m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Godzilla x Kong: The New Empire - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2024/godzillaxkong.mkv",
+            "quality": "720p",
+            "size": "1h 55m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Godzilla x Kong: The New Empire - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2024/godzillaxkong.mkv",
+            "quality": "720p",
+            "size": "1h 55m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:823464",
+      "storedAt": 1763042929273,
+      "meta": {
+        "storedAt": 1763042929,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "823464",
+        "imdbId": "tt14539740",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Godzilla x Kong The New Empire 2024 BluRay 2160p UHD REMUX DV HDR [Hindi DDP5 1 + English TrueHD 7 1 Atmos] HEVC~(AishaRFX-Ionicboy)\n61.41GB",
+            "url": "https://worker-wispy-dust-e0b1.basoj89140.workers.dev/4213f43670332b202664d4e1fcd0609aaac281c47b5404fff4398e6b1b757a3bac8d6647dea91d185fc792f557bc89e013ba679981af09d00c062afe6efd9e36c9b80465adf76e23a9b7b25f1c01741f276fe9a604d8c9887706c9a516ce74d25f9cab3956b6a8152cf0d74ab654f1725fb493682413323b82ad0834b6e129174f92d724689bb9432870b9d0f288789b1597e9259958caf35611c03278f9d88803d9bccfd59fadd544ada0cb98d292a6::9cfe3322b8eb08c86d60fb7e36854336/Godzilla.x.Kong.The.New.Empire.2024.BluRay.2160p.UHD.REMUX.DV.HDR.[Hindi DDP5.1  English TrueHD 7.1 Atmos] HEVC(AishaRFX-Ionicboy).mkv",
+            "quality": "4K | HDR | DV | BluRay",
+            "size": "61.41GB",
+            "fileName": "Godzilla.x.Kong.The.New.Empire.2024.BluRay.2160p.UHD.REMUX.DV.HDR.[Hindi DDP5.1 + English TrueHD 7.1 Atmos] HEVC~(AishaRFX-Ionicboy).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Godzilla x Kong The New Empire (2024) 1080p BluRay REMUX AVC [Hindi DDP5 1 + English TrueHD 7 1 Atmos] ~(eXterminator-Ionicboy)\n25.39GB",
+            "url": "https://worker-aged-unit-858c.getak43328.workers.dev/289c000795c2bf1f774c4e004e1f2720b10ca404947ab8619ba54d6929718814498fa074819f3790f098cf7e8fe68e8492b837ccc499c8aac8df577780013bd9226bb3b0e6d60ac34e54ad8a9bf191cc1f570924f9dc5ef641f616eb1053789cb19bbd6a622e1724327d75b9e4622ebe5dcdb23d45cfc31e94419b8cd0b9064ca2280634645c0bdb7743a47071f501aca9c3e32d7ade94977626aff920bb674f39b922117cdbb9c979e408f3da7bc077::e1a6c92ab4ad2ca0c2b20e47c3db32d6/Godzilla x Kong The New Empire (2024) 1080p BluRay REMUX AVC [Hindi DDP5.1  English TrueHD 7.1 Atmos] (eXterminator-Ionicboy).mkv",
+            "quality": "1080p | BluRay",
+            "size": "25.39GB",
+            "fileName": "Godzilla x Kong The New Empire (2024) 1080p BluRay REMUX AVC [Hindi DDP5.1 + English TrueHD 7.1 Atmos] ~(eXterminator-Ionicboy).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Godzilla x Kong The New Empire (2024) UHD BluRay 2160p DV HDR [Hindi DDP5 1 + English DDP 7 1] x265 ~(Hallowed-Ionicboy)\n13.99GB",
+            "url": "https://worker-twilight-mode-e30b.risob94105.workers.dev/da45707bc417c531a69b407005e787ee51b0f617814d28ef734bbf3675e47f65042c2adfd73f26076cf8773322dda654ac0b5db87cc735327754338a53e09c39639b42a90b9055111734bcea8ce4937a2aeb68b3ac6e9ac53e43662a53dd451894d2392ea71c7c7033dc1709936ded0526194446ea629d7221257a4f6bb9041d027ee3bcd4dd82cfc1f89e22451ecc9788f465d5c1520895193833a35d060edefe3621640c5086c6f5dcaccce0ece932::0b6b8ed872058c3b7801087a8a2bfc94/Godzilla x Kong The New Empire (2024) UHD BluRay 2160p DV HDR [Hindi DDP5.1  English DDP.7.1] x265 (Hallowed-Ionicboy).mkv",
+            "quality": "4K | HDR | DV | BluRay",
+            "size": "13.99GB",
+            "fileName": "Godzilla x Kong The New Empire (2024) UHD BluRay 2160p DV HDR [Hindi DDP5.1 + English DDP.7.1] x265 ~(Hallowed-Ionicboy).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Godzilla x Kong The New Empire (2024) BluRay 1080p 10bit [Hindi DDP5 1 + English TrueHD7 1] x265 ~(CHD-Ionicboy)\n7.85GB",
+            "url": "https://worker-broken-disk-3774.xoweli6940.workers.dev/8cc94007e594c4f16427c1a8aab23641dd95871211efa983991cb180b305cdd1080bfacd598eee74739557f5b06a41a84322b27c774ec5ce754692acaf4d3e1bdcd9c7a270438de54dd2e9a58a3be8d616db42cab71d16f19a7466c7f01790d9a71c552d0a9cb668f2992fa3ea4365103f8463ff1f6628a90b6ae7caa8fdb8249f9026678793be8583ee66d5b8d07b5e059afe8b611dfaa76d05927c46e9233a3c70b34f222ac25d15a96316f2911684::8ef8f131b23e197b9a708bc64627ddde/Godzilla x Kong The New Empire (2024) BluRay 1080p 10bit [Hindi DDP5.1  English TrueHD7.1] x265 (CHD-Ionicboy).mkv",
+            "quality": "1080p | BluRay",
+            "size": "7.85GB",
+            "fileName": "Godzilla x Kong The New Empire (2024) BluRay 1080p 10bit [Hindi DDP5.1 + English TrueHD7.1] x265 ~(CHD-Ionicboy).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:82452:s1e1",
+      "storedAt": 1763042558711,
+      "meta": {
+        "storedAt": 1763042558,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "82452",
+        "imdbId": "tt9018736",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "EPbvV7Hc\n2.73 GB",
+            "url": "https://pixeldrain.net/api/file/EPbvV7Hc",
+            "quality": "1080p",
+            "size": "2.73 GB",
+            "fileName": "EPbvV7Hc",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "zrEGpDLi\n5.65 GB",
+            "url": "https://pixeldrain.net/api/file/zrEGpDLi",
+            "quality": "2160p",
+            "size": "5.65 GB",
+            "fileName": "zrEGpDLi",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "jFZGvV5X\n8.8 GB",
+            "url": "https://pixeldrain.net/api/file/jFZGvV5X",
+            "quality": "2160p",
+            "size": "8.8 GB",
+            "fileName": "jFZGvV5X",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:82452:s1e1",
+      "storedAt": 1763042559920,
+      "meta": {
+        "storedAt": 1763042559,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "82452",
+        "imdbId": "tt9018736",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Avatar the Last Airbender S1E1 - 1. Aang",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/avatarthelastairbender/s1/Avatar The Last Airbender Season 1 {Hindi-English} 720p WEB-DL ESub [BollyFlix]/Avatar The Last Airbender S01E01 {Hindi-English} 720p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "64min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Avatar the Last Airbender S1E1 - 1. Aang",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/avatarthelastairbender/s1/Avatar The Last Airbender Season 1 {Hindi-English} 720p WEB-DL ESub [BollyFlix]/Avatar The Last Airbender S01E01 {Hindi-English} 720p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "64min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T14:01:35.607Z",
-    "totalOriginalEntries": 430,
-    "newItemsInThisBatch": 4,
+    "exportedAt": "2025-11-13T14:10:39.849Z",
+    "totalOriginalEntries": 438,
+    "newItemsInThisBatch": 8,
     "format": "compact_v1"
   }
 }
