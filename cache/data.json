@@ -23684,12 +23684,86 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:4khdhub:tv:2691:s2e2",
+      "storedAt": 1763043488068,
+      "meta": {
+        "storedAt": 1763043488,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "2691",
+        "imdbId": "tt0369179",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Q2GeeCuW\n1.5 GB",
+            "url": "https://pixeldrain.net/api/file/Q2GeeCuW",
+            "quality": "1080p",
+            "size": "1.5 GB",
+            "fileName": "Q2GeeCuW",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:2691:s2e2",
+      "storedAt": 1763043487574,
+      "meta": {
+        "storedAt": 1763043487,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "2691",
+        "imdbId": "tt0369179",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][8bit][x264][EAC3 2 0]-DAWN",
+            "url": "https://a.111477.xyz/tvs/Two%20and%20a%20Half%20Men/Season%202/Two%20and%20a%20Half%20Men%20(2003)%20-%20S02E02%20-%20Enjoy%20Those%20Garlic%20Balls%20[WEBDL-1080p][8bit][x264][EAC3%202.0]-DAWN.mkv",
+            "quality": "1080p",
+            "size": "2.21 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Two and a Half Men (2003) - S02E02 - Enjoy Those Garlic Balls [WEBDL-1080p][8bit][x264][EAC3 2.0]-DAWN.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 2 0][x264]-DAWN",
+            "url": "https://a.111477.xyz/tvs/Two%20and%20a%20Half%20Men/Season%202/Two%20and%20a%20Half%20Men%20(2003)%20-%20S02E02%20-%20Enjoy%20Those%20Garlic%20Balls%20[WEBDL-1080p][EAC3%202.0][x264]-DAWN.mkv",
+            "quality": "1080p",
+            "size": "2.21 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Two and a Half Men (2003) - S02E02 - Enjoy Those Garlic Balls [WEBDL-1080p][EAC3 2.0][x264]-DAWN.mkv"
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T14:10:39.849Z",
-    "totalOriginalEntries": 438,
-    "newItemsInThisBatch": 8,
+    "exportedAt": "2025-11-13T14:19:00.056Z",
+    "totalOriginalEntries": 440,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
