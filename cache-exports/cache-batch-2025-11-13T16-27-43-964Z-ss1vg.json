@@ -1,0 +1,423 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:557968",
+      "storedAt": 1763051092338,
+      "meta": {
+        "storedAt": 1763051092,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "557968",
+        "imdbId": "tt9426186",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/492412?token=4c9bc96320b5768e4878446bf81d49cf&expires=1768235091&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:608812",
+      "storedAt": 1763050902515,
+      "meta": {
+        "storedAt": 1763050902,
+        "urlCount": 9,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "608812",
+        "imdbId": "tt10346304",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Cinderella (2015) 2160p 10bit HDR DV HYBRID BluRay REMUX HEVC x265 [Hindi HDTV DDP 2.0 224kbps+ English TrueHD Atmos 5.1] ESub-(FraMeSToR-4kHdHub)\n51.18 GB",
+            "url": "https://files.herokuapps.workers.dev/0380c10b076f087e11b75b47e43a1f8b7389517797cc7c5ae70e10c4e6b379d6803c22b4ed9be92c4f68b31f54e5a5f4::2fccc092acb179ab806f8854585e2a57/1397326797/Cinderella%20(2015)%202160p%2010bit%20HDR%20DV%20HYBRID%20BluRay%20REMUX%20HEVC%20x265%20[Hindi%20HDTV%20DDP%202.0%20224kbps+%20English%20TrueHD%20Atmos%205.1]%20ESub-(FraMeSToR-4kHdHub).mkv",
+            "quality": "2160p",
+            "size": "51.18 GB",
+            "fileName": "Cinderella (2015) 2160p 10bit HDR DV HYBRID BluRay REMUX HEVC x265 [Hindi HDTV DDP 2.0 224kbps+ English TrueHD Atmos 5.1] ESub-(FraMeSToR-4kHdHub)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Cinderella (2015) 1080p BluRay REMUX AVC x264 [Hindi HDTV DDP 2.0 224kbps+ English DTS-HD MA 7.1] ESub-(FraMeSToR-4kHdHub)\n26.16 GB",
+            "url": "https://tiny-king-90e4.terapiyo231.workers.dev/f6bd441f1b7aefcec2544564600ab183e5ec6231fbfe04aa8aabf0b9488ad4d70abd71373dd1ed3c7600f8795504f59e::bf53ee24a4e87315aa5bdbeb0505a137/1397326797/Cinderella%20(2015)%201080p%20BluRay%20REMUX%20AVC%20x264%20[Hindi%20HDTV%20DDP%202.0%20224kbps+%20English%20DTS-HD%20MA%207.1]%20ESub-(FraMeSToR-4kHdHub).mkv",
+            "quality": "1080p",
+            "size": "26.16 GB",
+            "fileName": "Cinderella (2015) 1080p BluRay REMUX AVC x264 [Hindi HDTV DDP 2.0 224kbps+ English DTS-HD MA 7.1] ESub-(FraMeSToR-4kHdHub)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Cinderella (2015) 2160p 10bit HDR BluRay HEVC x265 [Hindi HDTV DDP 2.0 224kbps+ English TrueHD Atmos 5.1] ESub-(TERMiNAL-4kHdHub)\n18.24 GB",
+            "url": "https://movies.goldmies.workers.dev/f1d9961291cd86a90cfcf4d175246ad37a225f2ede17122785cc07aa274e182f9ddf318a622e21efbf8e37e0974bfeab::ee5fdd7e35264216a213926f8461a912/1397326797/Cinderella%20(2015)%202160p%2010bit%20HDR%20BluRay%20HEVC%20x265%20[Hindi%20HDTV%20DDP%202.0%20224kbps+%20English%20TrueHD%20Atmos%205.1]%20ESub-(TERMiNAL-4kHdHub).mkv",
+            "quality": "2160p",
+            "size": "18.24 GB",
+            "fileName": "Cinderella (2015) 2160p 10bit HDR BluRay HEVC x265 [Hindi HDTV DDP 2.0 224kbps+ English TrueHD Atmos 5.1] ESub-(TERMiNAL-4kHdHub)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "dLqQayJ9\n15.63 GB",
+            "url": "https://pixeldrain.net/api/file/dLqQayJ9",
+            "quality": "1080p",
+            "size": "15.63 GB",
+            "fileName": "dLqQayJ9",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "FShix8oK\n12.49 GB",
+            "url": "https://pixeldrain.net/api/file/FShix8oK",
+            "quality": "1080p",
+            "size": "12.49 GB",
+            "fileName": "FShix8oK",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "vGpGk3Ax\n8.48 GB",
+            "url": "https://pixeldrain.net/api/file/vGpGk3Ax",
+            "quality": "2160p",
+            "size": "8.48 GB",
+            "fileName": "vGpGk3Ax",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "9bjTKB5T\n4.8 GB",
+            "url": "https://pixeldrain.net/api/file/9bjTKB5T",
+            "quality": "1080p",
+            "size": "4.8 GB",
+            "fileName": "9bjTKB5T",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "hjd5u3R3\n2.4 GB",
+            "url": "https://pixeldrain.net/api/file/hjd5u3R3",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "fileName": "hjd5u3R3",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Cinderella 2015 1080p 10bit BluRay HEVC x265 [Hindi HDTV DDP 2.0 224kbps+ English AAC 5.1] ESub-PSA-4kHdHub\n2.4 GB",
+            "url": "https://pub-04e7ca40d6a64124baaac042d8638fbb.r2.dev/Cinderella%202015%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20HDTV%20DDP%202.0%20224kbps+%20English%20AAC%205.1]%20ESub-PSA-4kHdHub.mkv",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "fileName": "Cinderella 2015 1080p 10bit BluRay HEVC x265 [Hindi HDTV DDP 2.0 224kbps+ English AAC 5.1] ESub-PSA-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 9
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:137893:s1e2",
+      "storedAt": 1763050959261,
+      "meta": {
+        "storedAt": 1763050959,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "137893",
+        "imdbId": "tt15837600",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][x264]-FLUX[EN+AR+CA+CS+DA+DE+EL+ES+EU+FI+FIL+FR+GL+HE+HR+HU+ID+IT+JA+KO+MS+NB+NL+PL+PT+RO+RU+SV+TH+TR+UK+VI+ZH]",
+            "url": "https://a.111477.xyz/tvs/Griselda/Season%201/Griselda%20(2024)%20-%20S01E02%20-%20Rich%20White%20People%20[WEBDL-1080p][EAC3%20Atmos%205.1][x264]-FLUX[EN+AR+CA+CS+DA+DE+EL+ES+EU+FI+FIL+FR+GL+HE+HR+HU+ID+IT+JA+KO+MS+NB+NL+PL+PT+RO+RU+SV+TH+TR+UK+VI+ZH].mkv",
+            "quality": "1080p",
+            "size": "3.11 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Griselda (2024) - S01E02 - Rich White People [WEBDL-1080p][EAC3 Atmos 5.1][x264]-FLUX[EN+AR+CA+CS+DA+DE+EL+ES+EU+FI+FIL+FR+GL+HE+HR+HU+ID+IT+JA+KO+MS+NB+NL+PL+PT+RO+RU+SV+TH+TR+UK+VI+ZH].mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][x264]-HiggsBoson",
+            "url": "https://a.111477.xyz/tvs/Griselda/Season%201/Griselda%20(2024)%20-%20S01E02%20-%20Rich%20White%20People%20[WEBDL-1080p][EAC3%20Atmos%205.1][x264]-HiggsBoson.mkv",
+            "quality": "1080p",
+            "size": "3.41 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Griselda (2024) - S01E02 - Rich White People [WEBDL-1080p][EAC3 Atmos 5.1][x264]-HiggsBoson.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Griselda/Season%201/Griselda%20(2024)%20-%20S01E02%20-%20Rich%20White%20People%20[WEBRip-1080p][EAC3%20Atmos%205.1][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": "1.12 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Griselda (2024) - S01E02 - Rich White People [WEBRip-1080p][EAC3 Atmos 5.1][x265]-iVy.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:137893:s1e2",
+      "storedAt": 1763050959993,
+      "meta": {
+        "storedAt": 1763050959,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "137893",
+        "imdbId": "tt15837600",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Griselda S1E2 - 2. Rich White People",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/griselda/s1/Griselda S01E02 {Hindi-English} 720p (10bit) WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "56min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Griselda S1E2 - 2. Rich White People",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/griselda/s1/Griselda S01E02 {Hindi-English} 720p (10bit) WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "56min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:17937:s23e11",
+      "storedAt": 1763051166509,
+      "meta": {
+        "storedAt": 1763051166,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "17937",
+        "imdbId": "tt1319900",
+        "season": 23,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/469105?token=30295c3f00f5124102e7fa0d5c09e62f&expires=1768235165&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:223438:s2e6",
+      "storedAt": 1763050845711,
+      "meta": {
+        "storedAt": 1763050845,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "223438",
+        "imdbId": "tt27369122",
+        "season": 2,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/375114?token=95b30728623e812d22bc6bf1d53ba8f6&expires=1768234845&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2692:s2e7",
+      "storedAt": 1763051154329,
+      "meta": {
+        "storedAt": 1763051154,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2692",
+        "imdbId": "tt0273855",
+        "season": 2,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/199124?token=b2b55e121b7d60f3d6445ebf6b7d76bb&expires=1768235153&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:32798:s2e10",
+      "storedAt": 1763050849419,
+      "meta": {
+        "storedAt": 1763050849,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "32798",
+        "imdbId": "tt1600194",
+        "season": 2,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/239700?token=a7a020c80aff20d3bec8fd07e82f7190&expires=1768234849&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:84234:s1e6",
+      "storedAt": 1763051091860,
+      "meta": {
+        "storedAt": 1763051091,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "84234",
+        "imdbId": "tt9293466",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/245029?token=f8bd510988162d10d0f063370eab7ab4&expires=1768235090&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-13T16:27:43.966Z",
+    "totalOriginalEntries": 9,
+    "newItemsInThisBatch": 9,
+    "format": "compact_v1"
+  }
+}
