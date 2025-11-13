@@ -11953,12 +11953,217 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:15079:s1e3",
+      "storedAt": 1763016776581,
+      "meta": {
+        "storedAt": 1763016776,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "15079",
+        "imdbId": "tt1181917",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/240708?token=8d2880beb21f90df4316b6412f65db3a&expires=1768200776&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:60059:s4e10",
+      "storedAt": 1763016540000,
+      "meta": {
+        "storedAt": 1763016539,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "60059",
+        "imdbId": "tt3032476",
+        "season": 4,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "kfc8AHzh\n11.57 GB",
+            "url": "https://pixeldrain.net/api/file/kfc8AHzh",
+            "quality": "1080p",
+            "size": "11.57 GB",
+            "fileName": "kfc8AHzh",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "CitQUXt2\n5.69 GB",
+            "url": "https://pixeldrain.net/api/file/CitQUXt2",
+            "quality": "1080p",
+            "size": "5.69 GB",
+            "fileName": "CitQUXt2",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "4PFobbeD\n2.24 GB",
+            "url": "https://pixeldrain.net/api/file/4PFobbeD",
+            "quality": "1080p",
+            "size": "2.24 GB",
+            "fileName": "4PFobbeD",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:60059:s4e10",
+      "storedAt": 1763016538693,
+      "meta": {
+        "storedAt": 1763016538,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "60059",
+        "imdbId": "tt3032476",
+        "season": 4,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Proper][DTS 5 1][x264]-ROVERS",
+            "url": "https://a.111477.xyz/tvs/Better%20Call%20Saul/Season%204/Better%20Call%20Saul%20(2015)%20-%20S04E10%20-%20Winner%20[Bluray-1080p%20Proper][DTS%205.1][x264]-ROVERS.mkv",
+            "quality": "1080p",
+            "size": "4.37 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Better Call Saul (2015) - S04E10 - Winner [Bluray-1080p Proper][DTS 5.1][x264]-ROVERS.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-EPSiLON",
+            "url": "https://a.111477.xyz/tvs/Better%20Call%20Saul/Season%204/Better%20Call%20Saul%20(2015)%20-%20S04E10%20-%20Winner%20[Bluray-1080p%20Remux][DTS-HD%20MA%205.1][AVC]-EPSiLON.mkv",
+            "quality": "1080p | REMUX",
+            "size": "11.53 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Better Call Saul (2015) - S04E10 - Winner [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-EPSiLON.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:60059:s4e10",
+      "storedAt": 1763016545746,
+      "meta": {
+        "storedAt": 1763016545,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "60059",
+        "imdbId": "tt3032476",
+        "season": 4,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Better Call Saul S4E10 - 10. Winner",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/bettercallsaul/s4/better.call.saul.s04e10.720p.bluray.x264-pahe.in.mkv",
+            "quality": "1080p",
+            "size": "60min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Better Call Saul S4E10 - 10. Winner",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/bettercallsaul/s4/better.call.saul.s04e10.720p.bluray.x264-pahe.in.mkv",
+            "quality": "1080p",
+            "size": "60min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:60059:s4e10",
+      "storedAt": 1763016546655,
+      "meta": {
+        "storedAt": 1763016546,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "60059",
+        "imdbId": "tt3032476",
+        "season": 4,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Better Call Saul S04E10 1080p BluRay 10Bit [Hindi DDP 2 0 + English AAC 5 1] x265 (Silence-UHDMovies)\n2.24GB",
+            "url": "https://worker-jolly-lake-df2a.moreh57823.workers.dev/b790c2c84f8c509f5dd8e6a7ec53dda6eb5af1b96cc9e0da09a741ae085a80694f632cf7cbfda51097f2eb77b6b95be4c038f983ebfea10c2d4a668c18c034daab37888893fb5beeabe5339cb9bffa4ac2964a608ceba8bd2394e9ad05a47bdff5a9d6567dcabd72ab7042754394ba99c82fd77e91c4a01fe26d0086eeb0078b273253841e5a6d46167086ebe342999e5daddd299f989997317882c1b2d78199c6a84fbccb2eca11ba62e8b446684d26::98f37c6573d10afb4a5521371f039e80/Better Call Saul S04E10 1080p BluRay 10Bit [Hindi DDP 2.0  English AAC 5.1] x265 (Silence-UHDMovies).mkv",
+            "quality": "1080p | BluRay",
+            "size": "2.24GB",
+            "fileName": "Better Call Saul S04E10 1080p BluRay 10Bit [Hindi DDP 2.0 + English AAC 5.1] x265 (Silence-UHDMovies).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T06:45:49.828Z",
-    "totalOriginalEntries": 218,
-    "newItemsInThisBatch": 8,
+    "exportedAt": "2025-11-13T06:56:59.575Z",
+    "totalOriginalEntries": 223,
+    "newItemsInThisBatch": 5,
     "format": "compact_v1"
   }
 }
