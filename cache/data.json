@@ -2625,12 +2625,136 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:13192",
+      "storedAt": 1762994710488,
+      "meta": {
+        "storedAt": 1762994710,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "13192",
+        "imdbId": "tt0095655",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "mfk1fvZH\n13.97 GB",
+            "url": "https://pixeldrain.net/api/file/mfk1fvZH",
+            "quality": "1080p",
+            "size": "13.97 GB",
+            "fileName": "mfk1fvZH",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:13192",
+      "storedAt": 1762994703176,
+      "meta": {
+        "storedAt": 1762994703,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "13192",
+        "imdbId": "tt0095655",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay HEVC x265 5 1 BONE",
+            "url": "https://a.111477.xyz/movies/Moonwalker%20(1988)/Moonwalker%201988%201080p%20BluRay%20HEVC%20x265%205.1%20BONE.mkv",
+            "quality": "1080p",
+            "size": "1.29 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Moonwalker 1988 1080p BluRay HEVC x265 5.1 BONE.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:255055:s2e1",
+      "storedAt": 1762994497377,
+      "meta": {
+        "storedAt": 1762994496,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "255055",
+        "imdbId": "tt26748321",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/352170?token=661c2c7591f8a32a70ef3ef3a562bb7c&expires=1768178492&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:3452:s9e3",
+      "storedAt": 1762994762423,
+      "meta": {
+        "storedAt": 1762994762,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "3452",
+        "imdbId": "tt0106004",
+        "season": 9,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/289971?token=72bb9d21d41bc118415147b6433dc723&expires=1768178756&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T00:35:43.729Z",
-    "totalOriginalEntries": 64,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-13T00:46:23.808Z",
+    "totalOriginalEntries": 68,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
