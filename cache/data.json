@@ -28709,12 +28709,1501 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:1226304",
+      "storedAt": 1763048357778,
+      "meta": {
+        "storedAt": 1763048357,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1226304",
+        "imdbId": "tt31157326",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "dGUCzEkj\n16.85 GB",
+            "url": "https://pixeldrain.net/api/file/dGUCzEkj",
+            "quality": "1080p",
+            "size": "16.85 GB",
+            "fileName": "dGUCzEkj",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "v9ZAjUfZ\n11.53 GB",
+            "url": "https://pixeldrain.net/api/file/v9ZAjUfZ",
+            "quality": "1080p",
+            "size": "11.53 GB",
+            "fileName": "v9ZAjUfZ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "w6B18JVN\n5.46 GB",
+            "url": "https://pixeldrain.net/api/file/w6B18JVN",
+            "quality": "1080p",
+            "size": "5.46 GB",
+            "fileName": "w6B18JVN",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:1226304",
+      "storedAt": 1763048684367,
+      "meta": {
+        "storedAt": 1763048684,
+        "urlCount": 11,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "1226304",
+        "imdbId": "tt31157326",
+        "streams": [
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Go.Go.Cory.Carson.Chrissy.Takes.the.Wheel.2021.1080p.Web-DL.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Go.Go.Cory.Carson.Chrissy.Takes.the.Wheel.2021.1080p.Web-DL.Hindi.English.DD5.1.x264.ESubs.mkv?token=1763048357",
+            "quality": "1080p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Go.Go.Cory.Carson.Chrissy.Takes.the.Wheel.2021.1080p.Web-DL.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/u/q365cgKm",
+            "quality": "1080p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Go.Go.Cory.Carson.Chrissy.Takes.the.Wheel.2021.1080p.Web-DL.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lmku1LaU8pWznl82R4tevwtPu8UDEyDiXsfAUbyLld4_-ZxgOkd5FQH8uo-rZIeaGEG4lnr12gq0j6tmVhy97Pi6ZU9fpdaEfgpHzLrqJZL8HaprL2Z8Ic345cj92EHaYwzibMxHufGdfSaK-U72_J7ga96z0ihqCzNIlpOoVJTRT7Liqvqy65fxG4EJeg3RT4GrTdqlG4oEvznPDOR6-fHlG5MfZNMcX7tPJP9svmr5Li1QOscgILWaOqfx1MPBEnc54s",
+            "quality": "1080p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Go.Go.Cory.Carson.Chrissy.Takes.the.Wheel.2021.1080p.Web-DL.Hindi.English.DD5.1.x264.ESubs.Untouch.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Go.Go.Cory.Carson.Chrissy.Takes.the.Wheel.2021.1080p.Web-DL.Hindi.English.DD5.1.x264.ESubs.Untouch.mkv?token=1763048357",
+            "quality": "1080p",
+            "size": "2.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Go.Go.Cory.Carson.Chrissy.Takes.the.Wheel.2021.1080p.Web-DL.Hindi.English.DD5.1.x264.ESubs.Untouch.mkv",
+            "url": "https://pixeldrain.dev/u/dHDg6PeH",
+            "quality": "1080p",
+            "size": "2.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Go.Go.Cory.Carson.Chrissy.Takes.the.Wheel.2021.1080p.Web-DL.Hindi.English.DD5.1.x264.ESubs.Untouch.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nqRJVzNFsMoCqgPWpFqsTnqLVtJ-VXYJI_9p7oCFIKXx00j1QIs4U14u7vl1Ym2z21S4vSN_2uEPklncQwQ-KTNuDMECnO96RZ9Mw_OrH4QzEH5fD3ICkWFVFrLieF9l9G40PtakESES9nm9S8Ht2_XcgbJgJhpCZ6q-fryNsIvAVar91EEVE14mcMBUY17iDhL6G117Ag8D9tDuof7e2IpzcaEGUbCXGdWSvHSMmVbGf3s55_N6mhV1efUUDVBB9mXtg-",
+            "quality": "1080p",
+            "size": "2.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Go.Go.Cory.Carson.Chrissy.Takes.the.Wheel.2021.720p.Web-DL.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Go.Go.Cory.Carson.Chrissy.Takes.the.Wheel.2021.720p.Web-DL.Hindi.English.DD5.1.x264.ESubs.mkv?token=1763048358",
+            "quality": "720p",
+            "size": "552.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Go.Go.Cory.Carson.Chrissy.Takes.the.Wheel.2021.720p.Web-DL.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/u/K77DgkQC",
+            "quality": "720p",
+            "size": "552.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Go.Go.Cory.Carson.Chrissy.Takes.the.Wheel.2021.720p.Web-DL.Hindi.English.DD5.1.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mY6fs_4utyMPBkZ6dwu9k8_EAGuLzwFDgxkFj3oC8BCYoDGWHMEJUeKZcsRpm5Wjdnux2Q2CYphe6zyG7OBo6CNDr2W5WC48myFMEZN1Kpmh-HGP3p9buiKoPkft1kBW4cvVox7GNgdcfUshi_Pm9abCXaUSGpI4oIcR6CRETNqrauK2CFzMjYW7i8bvwG-o9vb1eu0UqTbvlmithjcmq6btqmEsOZGhafGuLDdbrm4i5YJvqdIZRfFepqGkEIg1PnbK18",
+            "quality": "720p",
+            "size": "552.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Go.Go.Cory.Carson.Chrissy.Takes.the.Wheel.2021.480p.Web-DL.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/u/81EWvzS6",
+            "quality": "480p",
+            "size": "207.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Go.Go.Cory.Carson.Chrissy.Takes.the.Wheel.2021.480p.Web-DL.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nwyRChgWb4J8feM6eiHeO40FlB-AFMrBhzDMJfLJQu4-f0VGYiA9zeQ2etzBAyF0Pmlae3peUP7-_JWXHdvT8wEHDIUc1mvqyTk8ltWZpbxDnHvKEFhXSSG-eNBiSZmPYK4Qeneppn99az6OQudJgGVbU_FiDgnvOAP21rSQ0nGnP0zsyF2SdFp-z7EVitJoYRt1roOQpgH_hiVgKNRVwU-6ngOZr6902fBTxpc6auyRcX27UsNC8nB3mzOPD1yW5MCopD",
+            "quality": "480p",
+            "size": "207.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 11
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:1229910",
+      "storedAt": 1763048633601,
+      "meta": {
+        "storedAt": 1763048633,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1229910",
+        "imdbId": "tt22697898",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "vR4qi9JD\n17.3 GB",
+            "url": "https://pixeldrain.net/api/file/vR4qi9JD",
+            "quality": "1080p",
+            "size": "17.3 GB",
+            "fileName": "vR4qi9JD",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "9Rk15kJH\n14.47 GB",
+            "url": "https://pixeldrain.net/api/file/9Rk15kJH",
+            "quality": "1080p",
+            "size": "14.47 GB",
+            "fileName": "9Rk15kJH",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:1229910",
+      "storedAt": 1763048636475,
+      "meta": {
+        "storedAt": 1763048636,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "1229910",
+        "imdbId": "tt22697898",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Kryptic 2024 1080p AMZN WEB-DL DDP5 1 H 264-BYNDR\n7.06GB",
+            "url": "https://worker-quiet-union-701d.tirowe8949.workers.dev/4ed16f7cbbaafe40235d2ee1761e092e1b79efa4f43e522708f4e9ffb4cba839cfe22c2050920ce98b0cdcd39b46a77f77d32f0e20d3785bec13965ff54dc43de0b763cc6ee1c84e9102dcb27ee54ca37390351bd0995a7abbb1fd5c915383017ee2883d9bdd9a2585153e234c95591ffb7e62f4cf03420ac62b076e9b2c029d34a5b78208055f633a41304b092e3ef66dd421f3e419b60adbd510de7a24b74a3db1a19b86f8ebff603938fbd07ddc5d::dcf8d6d7bb67be534bfb96a1d45a2158/Kryptic.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264-BYNDR.mkv",
+            "quality": "1080p",
+            "size": "7.06GB",
+            "fileName": "Kryptic.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264-BYNDR.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:1283181",
+      "storedAt": 1763048625377,
+      "meta": {
+        "storedAt": 1763048625,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1283181",
+        "imdbId": "tt31914240",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "S5UErX3G\n2.49 GB",
+            "url": "https://pixeldrain.net/api/file/S5UErX3G",
+            "quality": "1080p",
+            "size": "2.49 GB",
+            "fileName": "S5UErX3G",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 720p",
+            "title": "kmJP77P1\n1.32 GB",
+            "url": "https://pixeldrain.net/api/file/kmJP77P1",
+            "quality": "720p",
+            "size": "1.32 GB",
+            "fileName": "kmJP77P1",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Dxy93Siq\n1.11 GB",
+            "url": "https://pixeldrain.net/api/file/Dxy93Siq",
+            "quality": "1080p",
+            "size": "1.11 GB",
+            "fileName": "Dxy93Siq",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n1.11 GB",
+            "url": "https://mega.hubcloud.fyi/cs/g?x=juyWKIsFkL4C&n=Sc9h2D7Q&fn=BOCCHI.THE.ROCK.Recap.Part.1.2024.1080p.AMZN.WEB-DL.Japanese.DDP2.0.H.265-4kHdHub.Com.mkv",
+            "quality": "1080p",
+            "size": "1.11 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 720p",
+            "title": "fPM1JfVx\n483.28 MB",
+            "url": "https://pixeldrain.net/api/file/fPM1JfVx",
+            "quality": "720p",
+            "size": "483.28 MB",
+            "fileName": "fPM1JfVx",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:1283181",
+      "storedAt": 1763048627363,
+      "meta": {
+        "storedAt": 1763048627,
+        "urlCount": 16,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "1283181",
+        "imdbId": "tt31914240",
+        "streams": [
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Trisha.on.the.Rocks.2024.1080p.HEVC.WEB-DL.Hindi.5.1-Gujarati.5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Trisha.on.the.Rocks.2024.1080p.HEVC.WEB-DL.Hindi.5.1-Gujarati.5.1.ESub.x265-HDHub4u.Tv.mkv?token=1763048625",
+            "quality": "1080p",
+            "size": "2.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Trisha.on.the.Rocks.2024.1080p.HEVC.WEB-DL.Hindi.5.1-Gujarati.5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/4dzQr2M3",
+            "quality": "1080p",
+            "size": "2.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Trisha.on.the.Rocks.2024.1080p.HEVC.WEB-DL.Hindi.5.1-Gujarati.5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mPchlOnrCsPid6lX0uZeRoTDuuq37ag27GwPCwMBgQMXx4Fp8KaU0Qc6y5ouIjdfgM3lPY6uJHv-d4jOS4YPzLvawGDqI9RppyNyZYqUGJVxtiod8YYO1HTDdpE3daPdiFjIWWb9DBW6llwXRqlSUWfox3IkcEujLru4nOZtdt_3vd7sT-klxKuGJZFHLKE6OpcQ7TjEWYjJrBsCmq4x8fAT1M6xNugjl60HIToksakO3CcKQ",
+            "quality": "1080p",
+            "size": "2.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Trisha.on.the.Rocks.2024.1080p.WEB-DL.Hindi.5.1-Gujarati.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Trisha.on.the.Rocks.2024.1080p.WEB-DL.Hindi.5.1-Gujarati.5.1.ESub.x264-HDHub4u.Tv.mkv?token=1763048625",
+            "quality": "1080p",
+            "size": "3.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Trisha.on.the.Rocks.2024.1080p.WEB-DL.Hindi.5.1-Gujarati.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/XHQDtNu3",
+            "quality": "1080p",
+            "size": "3.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Trisha.on.the.Rocks.2024.1080p.WEB-DL.Hindi.5.1-Gujarati.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2n0c_oJPbZri3BintDjjvRVW2zscY9SJa-QH9Ctga3Q_a_qWSloJLTuGjh6lAudMx_owkMXeWeIrgyRMaPZS8vwDSh0o1FkMwXGQxb6qvvx5jdVlxqvOvLfdQXn85JNINtCz10OmcSGC95pmdN7dpLjBFcB72A_2xG-U6swaOmryPwLXWiOuBOGNhz2u-8Bu-P3OpcqoBEbtTvLXAyCDpg_gc0CoWbBtDjRw_FQJN-6duNG7j8AQ4HW7xNmAFQ-7H6KuGX0",
+            "quality": "1080p",
+            "size": "3.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Trisha.on.the.Rocks.2024.1080p.AMZN.WEB-DL.Hindi.DDP5.1-Gujarati.DDP5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Trisha.on.the.Rocks.2024.1080p.AMZN.WEB-DL.Hindi.DDP5.1-Gujarati.DDP5.1.ESub.x264-HDHub4u.Tv.mkv?token=1763048625",
+            "quality": "1080p",
+            "size": "9.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Trisha.on.the.Rocks.2024.1080p.AMZN.WEB-DL.Hindi.DDP5.1-Gujarati.DDP5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/cFjLnmT4",
+            "quality": "1080p",
+            "size": "9.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Trisha.on.the.Rocks.2024.1080p.AMZN.WEB-DL.Hindi.DDP5.1-Gujarati.DDP5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nH67V88doKZ_wnq_txBnlGcHBnQblpmXKOt0W8umNTceETla3sVDpiMJ41jWiMR97vbJoF0Ngbe-PqDWVDHy1f5pMFuMKsuXWNGmvYo9C1A9py5za4T7OuIhTzrB9PUnYsqE8ka9J3vGCdEEpTECQE8SR2l3bbnD7-eqCJ_pFjnwLdyEWroGl-RqUcQyik59mc-ktrbT0h_CGaJeCmpl_lTp5jbEd5VFrssGSc1kmUTOdpFTg",
+            "quality": "1080p",
+            "size": "9.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Trisha.on.the.Rocks.2024.720p.HEVC.WEB-DL.Hindi.5.1-Gujarati.5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Trisha.on.the.Rocks.2024.720p.HEVC.WEB-DL.Hindi.5.1-Gujarati.5.1.ESub.x265-HDHub4u.Tv.mkv?token=1763048625",
+            "quality": "720p",
+            "size": "997.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Trisha.on.the.Rocks.2024.720p.HEVC.WEB-DL.Hindi.5.1-Gujarati.5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/Z7F4ur9M",
+            "quality": "720p",
+            "size": "997.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Trisha.on.the.Rocks.2024.720p.HEVC.WEB-DL.Hindi.5.1-Gujarati.5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kKIS5xPmWIFR-u9Pn4autfPrWtsodLEza4djRDZ7WmIIlwo36oD53vohLYXvJuM7Yg84cFj_U76f-kWS4rhwK2Utf1zw6Y1EpVNC7jAeScdcySdHzu_dozdLWrF43gZPD4XezzvsTynazDzf69KOBkHbHLj21CBBTeW3Pob4T0nqGm3z5FLgkxqVfwVDHxGE1WD04v-kKSfiDpjv4xIuVkAZUmUyp-JHszeoB7Ki0wjJWdX8y5b-J6bYj3G5iX269E-UXu",
+            "quality": "720p",
+            "size": "997.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Trisha.on.the.Rocks.2024.720p.WEB-DL.Hindi.5.1-Gujarati.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Trisha.on.the.Rocks.2024.720p.WEB-DL.Hindi.5.1-Gujarati.5.1.ESub.x264-HDHub4u.Tv.mkv?token=1763048625",
+            "quality": "720p",
+            "size": "1.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Trisha.on.the.Rocks.2024.720p.WEB-DL.Hindi.5.1-Gujarati.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/cdYNGCrU",
+            "quality": "720p",
+            "size": "1.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Trisha.on.the.Rocks.2024.720p.WEB-DL.Hindi.5.1-Gujarati.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2l9mId6HWttHs93N4e_pHGvxQ4cXB00LOqTKR8ngq9ouAJZhUArDUHE-lb3G92llpfxP3wN7Q0tpiwp2vkRLiG28EJmVe9FVasaYLnpGgcZvEwjXAFabfo8kmBm1RMOotHXSI1i34fYei0dXRJzPyRkMqiBcmm26KRzapJ2F3hvR3B8puFFkioYUpoZYSDuOkb3xI2Fm6CkSleKD0FONUChM7FenpQEe2NiGNy89UPcsBIyvEo",
+            "quality": "720p",
+            "size": "1.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Trisha.on.the.Rocks.2024.720p.WEB-DL.Hindi.5.1-Gujarati.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nEvUBdX8ij30SopVcBUKpbTGUxRrWzroh4Zja49YgEjLdY64WMHciI7ebKLDWEsvGIMfd0J0gVJdRWplIpIv2BzLLsd0r7ngXL56aIGpZuXE2kOk6YFKYwP0QgoiXItz9hAneoktMTVEU2C5abmGqv4z_zko1ShVaf9Ztxu6B8jexCocMrYfK8blz8yFZAo1cc3M-8ZdYXUdT6yxCgYOo2zprLhImmDrFA--O1YNTE7MVwls7q6aTK00JV86TZ8SZsRe-A",
+            "quality": "720p",
+            "size": "1.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 16
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:1423906",
+      "storedAt": 1763048514795,
+      "meta": {
+        "storedAt": 1763048514,
+        "urlCount": 7,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1423906",
+        "imdbId": null,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Problemista 2023 2160p 10bit HDR10+ DV iTunes WEB-DL HEVC x265 [Hindi NF DDP 5.1 640kbps + English DDP Atmos 5.1] ESub-FLUX-4kHdHub\n18.69 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Problemista%202023%202160p%2010bit%20HDR10+%20DV%20iTunes%20WEB-DL%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DDP%20Atmos%205.1]%20ESub-FLUX-4kHdHub.mkv?token=1763048514",
+            "quality": "2160p",
+            "size": "18.69 GB",
+            "fileName": "Problemista 2023 2160p 10bit HDR10+ DV iTunes WEB-DL HEVC x265 [Hindi NF DDP 5.1 640kbps + English DDP Atmos 5.1] ESub-FLUX-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Problemista 2023 2160p SDR AMZN WEB-DL HEVC x265 [Hindi NF DDP 5.1 640kbps + English DDP Atmos 5.1] ESub-FLUX-4kHdHub\n11.94 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Problemista%202023%202160p%20SDR%20AMZN%20WEB-DL%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DDP%20Atmos%205.1]%20ESub-FLUX-4kHdHub.mkv?token=1763048514",
+            "quality": "2160p",
+            "size": "11.94 GB",
+            "fileName": "Problemista 2023 2160p SDR AMZN WEB-DL HEVC x265 [Hindi NF DDP 5.1 640kbps + English DDP Atmos 5.1] ESub-FLUX-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "7yAmbkLw\n11.94 GB",
+            "url": "https://pixeldrain.net/api/file/7yAmbkLw",
+            "quality": "2160p",
+            "size": "11.94 GB",
+            "fileName": "7yAmbkLw",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Problemista 2023 1080p AMZN WEB-DL x264 [Hindi NF DDP 5.1 640kbps + English DDP Atmos 5.1] ESub-FLUX-4kHdHub\n7.54 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Problemista%202023%201080p%20AMZN%20WEB-DL%20x264%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DDP%20Atmos%205.1]%20ESub-FLUX-4kHdHub.mkv?token=1763048514",
+            "quality": "1080p",
+            "size": "7.54 GB",
+            "fileName": "Problemista 2023 1080p AMZN WEB-DL x264 [Hindi NF DDP 5.1 640kbps + English DDP Atmos 5.1] ESub-FLUX-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "iyXDAcQL\n7.54 GB",
+            "url": "https://pixeldrain.net/api/file/iyXDAcQL",
+            "quality": "1080p",
+            "size": "7.54 GB",
+            "fileName": "iyXDAcQL",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Problemista 2023 1080p 10bit AMZN WEBRip HEVC x265 [Hindi NF DDP 5.1 640kbps + English AAC 5.1] ESub-PSA-4kHdHub\n2.01 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Problemista%202023%201080p%2010bit%20AMZN%20WEBRip%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20AAC%205.1]%20ESub-PSA-4kHdHub.mkv?token=1763048514",
+            "quality": "1080p",
+            "size": "2.01 GB",
+            "fileName": "Problemista 2023 1080p 10bit AMZN WEBRip HEVC x265 [Hindi NF DDP 5.1 640kbps + English AAC 5.1] ESub-PSA-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "uhwnyhW6\n2.01 GB",
+            "url": "https://pixeldrain.net/api/file/uhwnyhW6",
+            "quality": "1080p",
+            "size": "2.01 GB",
+            "fileName": "uhwnyhW6",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 7
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:359410",
+      "storedAt": 1763048764855,
+      "meta": {
+        "storedAt": 1763048764,
+        "urlCount": 11,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "359410",
+        "imdbId": "tt3359350",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Road.House.2024.2024.2160p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.265-4kHdHub.Com\n13.84 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Road.House.2024.2024.2160p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.265-4kHdHub.Com.mkv?token=1763048764",
+            "quality": "2160p",
+            "size": "13.84 GB",
+            "fileName": "Road.House.2024.2024.2160p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "vGdZpyGj\n13.84 GB",
+            "url": "https://pixeldrain.net/api/file/vGdZpyGj",
+            "quality": "2160p",
+            "size": "13.84 GB",
+            "fileName": "vGdZpyGj",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "G5xRdwLF\n13.73 GB",
+            "url": "https://pixeldrain.net/api/file/G5xRdwLF",
+            "quality": "2160p",
+            "size": "13.73 GB",
+            "fileName": "G5xRdwLF",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Road.House.2024.2024.1080p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.264-4kHdHub.Com\n8.68 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Road.House.2024.2024.1080p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.264-4kHdHub.Com.mkv?token=1763048764",
+            "quality": "1080p",
+            "size": "8.68 GB",
+            "fileName": "Road.House.2024.2024.1080p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "iKH9wEow\n8.68 GB",
+            "url": "https://pixeldrain.net/api/file/iKH9wEow",
+            "quality": "1080p",
+            "size": "8.68 GB",
+            "fileName": "iKH9wEow",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Road.House.2024.2024.1080p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.265-4kHdHub.Com\n5.29 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Road.House.2024.2024.1080p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.265-4kHdHub.Com.mkv?token=1763048764",
+            "quality": "1080p",
+            "size": "5.29 GB",
+            "fileName": "Road.House.2024.2024.1080p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "iH4RB8ew\n5.29 GB",
+            "url": "https://pixeldrain.net/api/file/iH4RB8ew",
+            "quality": "1080p",
+            "size": "5.29 GB",
+            "fileName": "iH4RB8ew",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 720p",
+            "title": "Road.House.2024.2024.720p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.264-4kHdHub.Com\n4.96 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Road.House.2024.2024.720p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.264-4kHdHub.Com.mkv?token=1763048764",
+            "quality": "720p",
+            "size": "4.96 GB",
+            "fileName": "Road.House.2024.2024.720p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 720p",
+            "title": "Kwczyrvy\n4.96 GB",
+            "url": "https://pixeldrain.net/api/file/Kwczyrvy",
+            "quality": "720p",
+            "size": "4.96 GB",
+            "fileName": "Kwczyrvy",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 720p",
+            "title": "Road.House.2024.2024.720p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.265-4kHdHub.Com\n1.98 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Road.House.2024.2024.720p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.265-4kHdHub.Com.mkv?token=1763048764",
+            "quality": "720p",
+            "size": "1.98 GB",
+            "fileName": "Road.House.2024.2024.720p.AMZN.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 720p",
+            "title": "rKH7X61b\n1.98 GB",
+            "url": "https://pixeldrain.net/api/file/rKH7X61b",
+            "quality": "720p",
+            "size": "1.98 GB",
+            "fileName": "rKH7X61b",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 11
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:359410",
+      "storedAt": 1763048764098,
+      "meta": {
+        "storedAt": 1763048764,
+        "urlCount": 7,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "359410",
+        "imdbId": "tt3359350",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEB-DL SDR H265-AOC",
+            "url": "https://a.111477.xyz/movies/Road%20House%20(2024)/Road.House.2024.MULTI.2160p.WEB-DL.SDR.H265-AOC.mkv",
+            "quality": "2160p",
+            "size": "25.43 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Road.House.2024.MULTI.2160p.WEB-DL.SDR.H265-AOC.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ] [WEBRip] [5 1] [YTS MX]",
+            "url": "https://a.111477.xyz/movies/Road%20House%20(2024)/Road%20House%20(2024)%20[1080p]%20[WEBRip]%20[5.1]%20[YTS.MX].mp4",
+            "quality": "1080p",
+            "size": "2.27 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Road House (2024) [1080p] [WEBRip] [5.1] [YTS.MX].mp4"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEB-DL DDP5 1 H 264-FLUX",
+            "url": "https://a.111477.xyz/movies/Road%20House%20(2024)/Road.House.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv",
+            "quality": "1080p",
+            "size": "8.12 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Road.House.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEBRip DDP5 1 x265 10bit-GalaxyRG265[TGx]-xpost",
+            "url": "https://a.111477.xyz/movies/Road%20House%20(2024)/Road.House.2024.1080p.AMZN.WEBRip.DDP5.1.x265.10bit-GalaxyRG265[TGx]-xpost.mkv",
+            "quality": "1080p",
+            "size": "3.17 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Road.House.2024.1080p.AMZN.WEBRip.DDP5.1.x265.10bit-GalaxyRG265[TGx]-xpost.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEBRip DDP5 1 x265 10bit-LAMA",
+            "url": "https://a.111477.xyz/movies/Road%20House%20(2024)/Road.House.2024.1080p.AMZN.WEBRip.DDP5.1.x265.10bit-LAMA.mkv",
+            "quality": "1080p",
+            "size": "3.17 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Road.House.2024.1080p.AMZN.WEBRip.DDP5.1.x265.10bit-LAMA.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip DDP 5 1 10bit H 265-iVy",
+            "url": "https://a.111477.xyz/movies/Road%20House%20(2024)/Road.House.2024.1080p.WEBRip.DDP.5.1.10bit.H.265-iVy.mkv",
+            "quality": "1080p",
+            "size": "2.53 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Road.House.2024.1080p.WEBRip.DDP.5.1.10bit.H.265-iVy.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DDP 5 1 HDR x265-SM737",
+            "url": "https://a.111477.xyz/movies/Road%20House%20(2024)/Road.House.2024.UHD.WEBRip.1080p.DDP.5.1.HDR.x265-SM737.mkv",
+            "quality": "1080p | HDR",
+            "size": "4.88 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Road.House.2024.UHD.WEBRip.1080p.DDP.5.1.HDR.x265-SM737.mkv"
+          }
+        ],
+        "count": 7
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:359410",
+      "storedAt": 1763048768113,
+      "meta": {
+        "storedAt": 1763048768,
+        "urlCount": 14,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "359410",
+        "imdbId": "tt3359350",
+        "streams": [
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Road.House.2024.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://fsl.cdnbaba.rest/Road.House.2024.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv?token=1763048765",
+            "quality": "1080p",
+            "size": "2.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Road.House.2024.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/gBCbpQG8",
+            "quality": "1080p",
+            "size": "2.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Road.House.2024.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2k6vZ5_oY7YWZgJZvDorA6aMbmNcCAV-q3s9IyG_kSG7pfFpa3l_plp6lBMmSVg8bsLKBhhqIBzpSJD6sNSw6iBrE-8aux_3mIlkyMWrtnjS4nvpA_u0BZDeAC13-g-ReD6eIkiov_RbLxWQac4Kqe75XlCq7CDSMVmkNHBQ94EwLXE6N9XYyV2wi1BRLeBw_UNozMtGaRvWCGc3SXj75Qe6fkmUYtVXin6MoZsEpxlNTjX-9yWHsi7VxK8YreCQLt4lXSw",
+            "quality": "1080p",
+            "size": "2.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Road.House.2024.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kpHxZwrCF5MspgSAquPTuVQKeHTOM1KM0gM2yDIQrohcyFV8T4ML8plDXubCYvjHvoChOHKt69biEZfBDEY4vO99jHHqLSuzycYOcAvkpQMUwg3zcd9uuhqirM6diUlF3V3VG8JLSPZVgUhQBTELl033r4b2Z7p7AeMFN-ixAnRMuQWFqlOShkfCPI1RnNvdVcZ3aoouesOl_e_NY0qKQ7UxWbb5CA3Gl6co96s08-N0PmxrJ3zWUbuAae_mgesOfu9YwW",
+            "quality": "1080p",
+            "size": "2.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Road.House.2024.720p.HEVC.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Road.House.2024.720p.HEVC.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Tv.mkv?token=1763048766",
+            "quality": "720p",
+            "size": "871.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Road.House.2024.720p.HEVC.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/kSChgxCK",
+            "quality": "720p",
+            "size": "871.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Road.House.2024.720p.HEVC.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mrpibAzOvUsiKLOA4ONyduQV6KPpz31TM61P52KRxNd7XocYofIFTB8epC48Y7F6fPSxVke27moCbEKEXG3SKCA3Kgm-xSHUpEEOcvsjF0830T6bPjun6KdV8PDPqrQpkQQC0nh9la9T0OYdrGwurRGsTRrHjnqmDH7FtWHobXaRtdrPNZhsPCT0Kp2E7IBr6L20ctLSxSjNnv-cKgjbtLPUQoB4RCT0h8hMhEG4rCAHkStFg",
+            "quality": "720p",
+            "size": "871.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Road.House.2024.720p.HEVC.WEB-DL.Hindi.5.1-English.5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mQWdlxi2ir6h94jjeRSmKGLkgJhrSMqkGO8NfwXK9aCUUv-QlzxhaGdtES3V1gnjJi968D3AIoj-BLehx9DT0CsmnpYrx0lOAtYFlCEPGU5qQji4vInL0NSFSLDlK-FDgh9yJYpWL0ets8drfIE0WMMICJLl_QhzUDsS-5bM3KAaz9HK-iEq18Q2Spn-RJWdxUlE-DyVhgcZaGXivWyG8bdZNOjHCqgR1Pzbk3YN16lySJ1Lz5-m302PZigpw190yMDOHL",
+            "quality": "720p",
+            "size": "871.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Road.House.2024.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://fsl.cdnbaba.rest/Road.House.2024.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv?token=1763048765",
+            "quality": "720p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Road.House.2024.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/ywwzfiN4",
+            "quality": "720p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Road.House.2024.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lEKuZybyodmwaUgpgT9ytjgEeh5RTXHoX6FOG717i58FyJam7d_JHsTbvJOxlNYcgtq6jTWr-UaVwUpHefQNQ_sBj3R51J2RyEalMjeT_9RZkjbXtGxzF-t9vNt175wJJNLpRK8dpaB3sWwmqiB7B7Un7tmDLP9JsSFKKLx-CZ52FEPJ_SwBvOny5jrrw4nRlgiKEXGlnLQuMuwITVvmrIkJUPvfZ662OgovS71ifbioxbEBOPZWYfrZgKe_bs_PvrKJNA",
+            "quality": "720p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Road.House.2024.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nrAL2TC1xq5cumUdRArZvQNaNGH6hDGp_DTkAx-_RQCsfJ2pWpZLlIOsOUQtG5XZau1D-jk94ePxv58F5I5FCOR3XzijWmC78wi5wsCdXWyukEdS08VbnS8b7CoID5T4QCJs_I5fBpQLnPVAK_jMJqJmQ-Lp6xL5YPZmU936owWL7RUMe0DUDcdDqQrW08CsNMTkBfxSEFXJ3vnu61M0ihPjAHYNgX1zU_e-dRa7SqiTYTzUkiDyZ5uMCExjt8yk-eoUnt",
+            "quality": "720p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Road.House.2024.480p.WEB-DL.Hindi-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/pKPFkCb9",
+            "quality": "480p",
+            "size": "441.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Road.House.2024.480p.WEB-DL.Hindi-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kN9teJ3Ot-EuhPjQ3zsKGbgOdYQ6YfL69L4QtWzh4iV40rFuE_kTURuw1kxtcfBN62OtTDYGuqrDzHIfDFh7sEZcHFhihyd47Z-XrffxbaVIN8PY6xPWJhwVT0lhmp5uslpBV4mrLItSAM1RXaRsEQFq9iYbCGfHDA-FinbpyaM4QHVaSKAdxeZfQSgEabQI3fZju_GJbxPTXDuYVtxNLduWGhIQWL1Pb0pEzP7Q5xe_wxDdL63GAInzt0bjoNLhaRYeQh",
+            "quality": "480p",
+            "size": "441.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 14
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:359410",
+      "storedAt": 1763048763954,
+      "meta": {
+        "storedAt": 1763048763,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "359410",
+        "imdbId": "tt3359350",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Road House 2: Last Call - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2006/RoadHouse2LastCall.mkv",
+            "quality": "1080p",
+            "size": "1h 26m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Road House 2: Last Call - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2006/RoadHouse2LastCall.mkv",
+            "quality": "1080p",
+            "size": "1h 26m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Road House 2: Last Call - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2006/RoadHouse2LastCall.mkv",
+            "quality": "720p",
+            "size": "1h 26m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Road House 2: Last Call - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2006/RoadHouse2LastCall.mkv",
+            "quality": "720p",
+            "size": "1h 26m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:533514",
+      "storedAt": 1763048460827,
+      "meta": {
+        "storedAt": 1763048460,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "533514",
+        "imdbId": "tt8652818",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "NqygDuJ8\n6.04 GB",
+            "url": "https://pixeldrain.net/api/file/NqygDuJ8",
+            "quality": "1080p",
+            "size": "6.04 GB",
+            "fileName": "NqygDuJ8",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "gyHpPBVJ\n1.7 GB",
+            "url": "https://pixeldrain.net/api/file/gyHpPBVJ",
+            "quality": "1080p",
+            "size": "1.7 GB",
+            "fileName": "gyHpPBVJ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "N2qu5Ms6\n1.69 GB",
+            "url": "https://pixeldrain.net/api/file/N2qu5Ms6",
+            "quality": "1080p",
+            "size": "1.69 GB",
+            "fileName": "N2qu5Ms6",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:533514",
+      "storedAt": 1763048461584,
+      "meta": {
+        "storedAt": 1763048461,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "533514",
+        "imdbId": "tt8652818",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies UHD BluRay x265 10bit HDR DV TrueHD 7 1 Atmos SURCODE SURCODE ORARBG",
+            "url": "https://a.111477.xyz/movies/Violet%20Evergarden%20The%20Movie%20(2020)/Violet%20Evergarden%20The%20Movie%202020%202160p%20UHD%20BluRay%20x265%2010bit%20HDR%20DV%20TrueHD%207%201%20Atmos%20SURCODE%20SURCODE%20ORARBG.mkv",
+            "quality": "2160p | DV | HDR",
+            "size": "22.15 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Violet Evergarden The Movie 2020 2160p UHD BluRay x265 10bit HDR DV TrueHD 7 1 Atmos SURCODE SURCODE ORARBG.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:592695",
+      "storedAt": 1763048797548,
+      "meta": {
+        "storedAt": 1763048797,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "592695",
+        "imdbId": "tt8550054",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS HD MA 7 1 FGT ORARBG",
+            "url": "https://a.111477.xyz/movies/Pleasure%20(2021)/Pleasure%202021%201080p%20BluRay%20REMUX%20AVC%20DTS%20HD%20MA%207%201%20FGT%20ORARBG.mkv",
+            "quality": "1080p | REMUX",
+            "size": "18.61 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Pleasure 2021 1080p BluRay REMUX AVC DTS HD MA 7 1 FGT ORARBG.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS-HD MA 7 1-FGT-AsRequested",
+            "url": "https://a.111477.xyz/movies/Pleasure%20(2021)/Pleasure.2021.1080p.BluRay.REMUX.AVC.DTS-HD.MA.7.1-FGT-AsRequested.mkv",
+            "quality": "1080p | REMUX",
+            "size": "18.61 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Pleasure.2021.1080p.BluRay.REMUX.AVC.DTS-HD.MA.7.1-FGT-AsRequested.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay DD+7 1 x264-EA",
+            "url": "https://a.111477.xyz/movies/Pleasure%20(2021)/Pleasure.2021.REPACK.1080p.BluRay.DD+7.1.x264-EA.mkv",
+            "quality": "1080p",
+            "size": "12.45 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Pleasure.2021.REPACK.1080p.BluRay.DD+7.1.x264-EA.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:592695",
+      "storedAt": 1763048796103,
+      "meta": {
+        "storedAt": 1763048796,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "592695",
+        "imdbId": "tt8550054",
+        "streams": [
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Pleasure.2021.720p.Web.DL.ENG.2.0.x264.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Pleasure.2021.720p.Web.DL.ENG.2.0.x264.mkv?token=1763048794",
+            "quality": "720p",
+            "size": "795.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Pleasure.2021.720p.Web.DL.ENG.2.0.x264.mkv",
+            "url": "https://pixeldrain.dev/u/jusXgLg6",
+            "quality": "720p",
+            "size": "795.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Pleasure.2021.720p.Web.DL.ENG.2.0.x264.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nGSv8FEednu8RPP2bQmN3bE3f7KCWqi1p8jLbQEroyCHJFkcYfWneaVoN3WutkotfozsrJnuo8m3sbzXJ9LIXCK6coDbTj7xRlPxUfKFqKKCPTJ956rXmXK6MQsy9NF3aDMnsT5ItW2yo2JMCsy9evAJtv3-Gy2l7G6LDQ8bhAh6xyk4PscXF4Guf14EHW2OVTtuaespTiVIep8cPx4yMjElwRJSRhvWnU5KVXuW7VDfUMpR4",
+            "quality": "720p",
+            "size": "795.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Pleasure.2021.480p.Web.DL.ENG.2.0.x264.mkv",
+            "url": "https://pixeldrain.dev/u/o4pMDMMo",
+            "quality": "480p",
+            "size": "341.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Pleasure.2021.480p.Web.DL.ENG.2.0.x264.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mFUT4-nf0rBJ3b1kUyBtAw-hpqQ365voP0FdDp4MAhKKpJ00edyuK4CijOd7lAG--8VIbFe8-qbd-4EUyw6G9OarelUV4O8V21mt-4qv6w0nTg-8ZaYowZCTZS2aJ21MhkeFyU-pPWn1B5UD8gtGgGcac8xIkbczffvwCHweyZ0Dk5QNBHSSUzE52xoE7iQ0DHCH_8SGkrRtPjPqz-8_mBO73UQ1vtue9OlgqruvzS3qCn9ZrHrh-r1XnNMp1gVrL5gmtj",
+            "quality": "480p",
+            "size": "341.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:592695",
+      "storedAt": 1763048792711,
+      "meta": {
+        "storedAt": 1763048792,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "592695",
+        "imdbId": "tt8550054",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Pleasure or Pain - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2013/PleasureorPain.mkv",
+            "quality": "1080p",
+            "size": "1h 42m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Pleasure or Pain - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2013/PleasureorPain.mkv",
+            "quality": "1080p",
+            "size": "1h 42m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Pleasure or Pain - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2013/PleasureorPain.mkv",
+            "quality": "720p",
+            "size": "1h 42m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Pleasure or Pain - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2013/PleasureorPain.mkv",
+            "quality": "720p",
+            "size": "1h 42m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T15:39:05.011Z",
-    "totalOriginalEntries": 511,
-    "newItemsInThisBatch": 15,
+    "exportedAt": "2025-11-13T15:47:05.330Z",
+    "totalOriginalEntries": 527,
+    "newItemsInThisBatch": 16,
     "format": "compact_v1"
   }
 }
