@@ -1,0 +1,72 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:tv:14814:s3e2",
+      "storedAt": 1763027890325,
+      "meta": {
+        "storedAt": 1763027890,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "14814",
+        "imdbId": "tt1086761",
+        "season": 3,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/54103?token=2c05d0b7d55cf76632a83c349a87b09d&expires=1768211889&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:92749:s1e2",
+      "storedAt": 1763027578924,
+      "meta": {
+        "storedAt": 1763027578,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "92749",
+        "imdbId": "tt10234724",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Moon Knight S01E02 UHD BluRay 2160p REMUX DoVi HDR [Hindi DDP5 1+English TrueHD Atmos 7 1] HEVC~(FraMeSToR-IONICBOY)\n24.07GB",
+            "url": "https://worker-dark-dream-b0b2.tepeh90861.workers.dev/5f22ed1ba159bb7f9e5da9f99f47239469179a109b783b01330c2a657b8f9da2b4073d1ab95ef6fc63321ebcf64795bdf3a833c47f10f49216c780debec42d4a1cbfeaf413b9775a21e7a67ef8a6ad2e685de45171e1bd7e36dc55312541c3a58a0afb3f763364e8829d98388f3f262ef8f568bf234fdc238f866af03a1078776aefcb680631ba8fefea6a01a1cc15b2e221bf06dc9cf4bbfeebc04355e6def77bbfec3909a82549925387207a31296f::48e582da0a0ca0bf951f9ff9016dae74/Moon.Knight.S01E02.UHD.BluRay.2160p.REMUX.DoVi.HDR.[Hindi.DDP5.1English.TrueHD.Atmos.7.1].HEVC(FraMeSToR-IONICBOY).mkv",
+            "quality": "4K | HDR | DV | BluRay",
+            "size": "24.07GB",
+            "fileName": "Moon.Knight.S01E02.UHD.BluRay.2160p.REMUX.DoVi.HDR.[Hindi.DDP5.1+English.TrueHD.Atmos.7.1].HEVC~(FraMeSToR-IONICBOY).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-13T10:00:58.927Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
