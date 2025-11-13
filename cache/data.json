@@ -24172,12 +24172,151 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:movie:460555",
+      "storedAt": 1763045194639,
+      "meta": {
+        "storedAt": 1763045194,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "460555",
+        "imdbId": "tt6878882",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS HD MA 7 1 FGT ORARBG",
+            "url": "https://a.111477.xyz/movies/Operation%20Red%20Sea%20(2018)/Operation%20Red%20Sea%202018%20CHINESE%201080p%20BluRay%20REMUX%20AVC%20DTS%20HD%20MA%207%201%20FGT%20ORARBG.mkv",
+            "quality": "1080p | REMUX",
+            "size": "37.16 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Operation Red Sea 2018 CHINESE 1080p BluRay REMUX AVC DTS HD MA 7 1 FGT ORARBG.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:460555",
+      "storedAt": 1763045196848,
+      "meta": {
+        "storedAt": 1763045196,
+        "urlCount": 7,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "460555",
+        "imdbId": "tt6878882",
+        "streams": [
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Operation.Red.Sea.2018.1080p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Operation.Red.Sea.2018.1080p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv?token=1763045195",
+            "quality": "1080p",
+            "size": "3.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Operation.Red.Sea.2018.1080p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/u/wFMrWwUR",
+            "quality": "1080p",
+            "size": "3.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Operation.Red.Sea.2018.1080p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lalGV796_sDO4v1Lr5mDKTu55r7gj9CFiJN6EcfuCvVoOZTJWS3ebrqra2L3dSdhSi3B29isLT5PCllNTfeDeBjv9zehOisZL1iJ2PCdjawrSzMTXe_o36z30p3aDGopYFkvKW1Hk-eJpmqC3KW2cwBtiDk1j71rhEe5C9WKWUXSNb7zgFD5RAfoCHhP3ITFcJ9tx9Bcbe2lvzkbxHiTPfRLqKe_UHSw1pLGEbeV6ZO8mp0xKJC7nxZEyqeH0zM4DYfhrY",
+            "quality": "1080p",
+            "size": "3.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Operation.Red.Sea.2018.720p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/u/41NS768u",
+            "quality": "720p",
+            "size": "1.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Operation.Red.Sea.2018.720p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mqEbUGD9krCuqB13eOBK1mhtdvkW42iASMCWpWc87QeumQdXRtbJD2D1IqKql9eGzij3N4oIqppAQMbnXLjPqjKQNi-hoLw-YYIIUaJwFNw2UEiccn6PdlQyeG3xLW1iIdPrujIk-j13IPUa5BA9CSXs01kXdcIr-J_oILsd7E63idUmFqd4xX1mW67dY5a5FfcJo2A5VPS7RTTT6hDP_HCXn_XLx4-yNJZAEjMlkIdJAKGqSzlhymiGPSIR_-DWZ9BI2C",
+            "quality": "720p",
+            "size": "1.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Operation.Red.Sea.2018.480p.BluRay.Hindi.English.DD.2.0.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/u/D3bXjvtU",
+            "quality": "480p",
+            "size": "468.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Operation.Red.Sea.2018.480p.BluRay.Hindi.English.DD.2.0.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kQRFZzfPj1gpYpzLtjxyGLiE1biBm-V7o90Ycgh9Lstif88DbPIHdBzm_s4gXmgloAfvd1NKKvG1YAryRycJ6y81aAlBfVQJS0XvVRYfYRPSZSXUHn3gLwgh6jlUFDUODmEsw0IqatB5qifpRxyEow2TCtQ2goVgGd-1DDMUiuzB4q-I8l4E9t6OvyDYcGFGyW5B4vVhtRZoMWeXl2YIW8UcZUZApg-zWJkJVctoF_sixNU0IVcw2AGx1T3V2YbewyTcWY",
+            "quality": "480p",
+            "size": "468.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 7
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T14:46:31.146Z",
-    "totalOriginalEntries": 452,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-13T14:54:35.885Z",
+    "totalOriginalEntries": 454,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
