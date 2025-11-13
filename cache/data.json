@@ -22562,11 +22562,128 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1421:s2e3",
+      "storedAt": 1763039764924,
+      "meta": {
+        "storedAt": 1763039764,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1421",
+        "imdbId": "tt1442437",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-EPSiLON",
+            "url": "https://a.111477.xyz/tvs/Modern%20Family/Season%202/Modern%20Family%20(2009)%20-%20S02E03%20-%20Earthquake%20[Bluray-1080p%20Remux][DTS-HD%20MA%205.1][AVC]-EPSiLON.mkv",
+            "quality": "1080p | REMUX",
+            "size": "4.10 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Modern Family (2009) - S02E03 - Earthquake [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-EPSiLON.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS-HD MA 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Modern%20Family/Season%202/Modern.Family.S02E03.Earthquake.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "4.06 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Modern.Family.S02E03.Earthquake.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1421:s2e3",
+      "storedAt": 1763039768568,
+      "meta": {
+        "storedAt": 1763039768,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1421",
+        "imdbId": "tt1442437",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Modern Family S2E3 - 3. Earthquake",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/modernfamily/s2/Modern.Family.S02E03.720p.BluRay.x264.150MB-Pahe.in.mkv",
+            "quality": "1080p",
+            "size": "25min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Modern Family S2E3 - 3. Earthquake",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/modernfamily/s2/Modern.Family.S02E03.720p.BluRay.x264.150MB-Pahe.in.mkv",
+            "quality": "1080p",
+            "size": "25min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:65856:s1e1",
+      "storedAt": 1763040026855,
+      "meta": {
+        "storedAt": 1763040026,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "65856",
+        "imdbId": "tt5706996",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Girlboss/Season%201/Girlboss%20(2017)%20-%20S01E01%20-%20Sophia%20[WEBRip-1080p][EAC3%205.1][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": "478.56 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Girlboss (2017) - S01E01 - Sophia [WEBRip-1080p][EAC3 5.1][x265]-iVy.mkv"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T13:15:15.500Z",
-    "totalOriginalEntries": 418,
+    "exportedAt": "2025-11-13T13:24:06.650Z",
+    "totalOriginalEntries": 421,
     "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
