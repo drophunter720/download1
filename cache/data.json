@@ -40400,11 +40400,166 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1043766",
+      "storedAt": 1763075922847,
+      "meta": {
+        "storedAt": 1763075922,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1043766",
+        "imdbId": "tt22004186",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/470554?token=17281c92c8e23388c46b76a7b1b2de2f&expires=1768259922&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:36095",
+      "storedAt": 1763075902218,
+      "meta": {
+        "storedAt": 1763075902,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "36095",
+        "imdbId": "tt0123948",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Shiki FLAC RUS liosaa",
+            "url": "https://a.111477.xyz/movies/Cure%20(1997)/CURE.1997.CRITERION.4K.BDRemux.1080p.Shiki.FLAC.RUS.liosaa.mkv",
+            "quality": "1080p | REMUX",
+            "size": "29.91 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "CURE.1997.CRITERION.4K.BDRemux.1080p.Shiki.FLAC.RUS.liosaa.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:131013:s2e4",
+      "storedAt": 1763076185235,
+      "meta": {
+        "storedAt": 1763076185,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "131013",
+        "imdbId": "tt5960322",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/433582?token=24c9a7ab8eaa20c3972d648c9d22306c&expires=1768260184&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:18053:s6e5",
+      "storedAt": 1763076221247,
+      "meta": {
+        "storedAt": 1763076221,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "18053",
+        "imdbId": "tt1190689",
+        "season": 6,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/287833?token=4750c53fc9ea26455a0e7a0e60df614b&expires=1768260220&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:227496:s1e1",
+      "storedAt": 1763076029793,
+      "meta": {
+        "storedAt": 1763076029,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "227496",
+        "imdbId": "tt26738706",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/366967?token=653eebbe2494645dac93219079565ab5&expires=1768260029&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T23:14:54.274Z",
-    "totalOriginalEntries": 760,
+    "exportedAt": "2025-11-13T23:26:23.473Z",
+    "totalOriginalEntries": 765,
     "newItemsInThisBatch": 5,
     "format": "compact_v1"
   }
