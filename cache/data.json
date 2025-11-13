@@ -4618,12 +4618,266 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:67557:s3e1",
+      "storedAt": 1763002922139,
+      "meta": {
+        "storedAt": 1763002922,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "67557",
+        "imdbId": "tt5712554",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/171504?token=0ebaae9ddd49d12cdbe42eb8fc451460&expires=1768186921&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:72748:s4e3",
+      "storedAt": 1763002583670,
+      "meta": {
+        "storedAt": 1763002583,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "72748",
+        "imdbId": "tt4276618",
+        "season": 4,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][h264]-SCONES",
+            "url": "https://a.111477.xyz/tvs/Strike/Season%204/Strike%20(2017)%20-%20S04E03%20-%20Episode%203%20[WEBDL-1080p][AC3%205.1][h264]-SCONES.mkv",
+            "quality": "1080p",
+            "size": "3.53 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Strike (2017) - S04E03 - Episode 3 [WEBDL-1080p][AC3 5.1][h264]-SCONES.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 5 1][x265]-SiQ",
+            "url": "https://a.111477.xyz/tvs/Strike/Season%204/Strike%20(2017)%20-%20S04E03%20-%20Episode%203%20[WEBRip-1080p][AAC%205.1][x265]-SiQ.mkv",
+            "quality": "1080p",
+            "size": "792.79 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Strike (2017) - S04E03 - Episode 3 [WEBRip-1080p][AAC 5.1][x265]-SiQ.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:72748:s4e3",
+      "storedAt": 1763002585114,
+      "meta": {
+        "storedAt": 1763002585,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "72748",
+        "imdbId": "tt4276618",
+        "season": 4,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Empire Strikes Back S4E3 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1669821804/s4/episode3.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:72748:s4e4",
+      "storedAt": 1763002664040,
+      "meta": {
+        "storedAt": 1763002664,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "72748",
+        "imdbId": "tt4276618",
+        "season": 4,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 5 1][x265]-SiQ",
+            "url": "https://a.111477.xyz/tvs/Strike/Season%204/Strike%20(2017)%20-%20S04E04%20-%20Episode%204%20[WEBRip-1080p][AAC%205.1][x265]-SiQ.mkv",
+            "quality": "1080p",
+            "size": "856.37 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Strike (2017) - S04E04 - Episode 4 [WEBRip-1080p][AAC 5.1][x265]-SiQ.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][HEVC]-d3g",
+            "url": "https://a.111477.xyz/tvs/Strike/Season%204/Strike%20(2017)%20-%20S04E04%20-%20Episode%204%20[WEBRip-1080p][AC3%205.1][HEVC]-d3g.mkv",
+            "quality": "1080p",
+            "size": "1.87 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Strike (2017) - S04E04 - Episode 4 [WEBRip-1080p][AC3 5.1][HEVC]-d3g.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:72748:s4e4",
+      "storedAt": 1763002664891,
+      "meta": {
+        "storedAt": 1763002664,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "72748",
+        "imdbId": "tt4276618",
+        "season": 4,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Empire Strikes Back S4E4 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1669821804/s4/episode4.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:72748:s5e1",
+      "storedAt": 1763002958969,
+      "meta": {
+        "storedAt": 1763002958,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "72748",
+        "imdbId": "tt4276618",
+        "season": 5,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-NTb",
+            "url": "https://a.111477.xyz/tvs/Strike/Season%205/Strike%20(2017)%20-%20S05E01%20-%20Episode%201%20[WEBDL-1080p][EAC3%205.1][h264]-NTb.mkv",
+            "quality": "1080p",
+            "size": "4.05 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Strike (2017) - S05E01 - Episode 1 [WEBDL-1080p][EAC3 5.1][h264]-NTb.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 2 0][x265]-SiQ",
+            "url": "https://a.111477.xyz/tvs/Strike/Season%205/Strike%20(2017)%20-%20S05E01%20-%20Episode%201%20[WEBRip-1080p][AAC%202.0][x265]-SiQ.mkv",
+            "quality": "1080p",
+            "size": "438.92 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Strike (2017) - S05E01 - Episode 1 [WEBRip-1080p][AAC 2.0][x265]-SiQ.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:72748:s5e1",
+      "storedAt": 1763002960079,
+      "meta": {
+        "storedAt": 1763002960,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "72748",
+        "imdbId": "tt4276618",
+        "season": 5,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Empire Strikes Back S5E1 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1669821804/s5/episode1.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T02:54:06.682Z",
-    "totalOriginalEntries": 103,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-13T03:04:31.376Z",
+    "totalOriginalEntries": 110,
+    "newItemsInThisBatch": 7,
     "format": "compact_v1"
   }
 }
