@@ -12158,12 +12158,159 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:481840",
+      "storedAt": 1763017354011,
+      "meta": {
+        "storedAt": 1763017354,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "481840",
+        "imdbId": null,
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Marshall (2017) 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English DTS-HD MA 5.1] (TDD-Ionicboy)\n29.37 GB",
+            "url": "https://hubcloud-dl.sumitbotdl1.workers.dev/5a31a40b0d1f0786173e30b0025eac2174525e2b67a78887a1615ca929b31de56fb4758e0a957ef4a67ee49e610e8d8a::2bb2089f5847db94742e8de246236932/1397326797/Marshall%20(2017)%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%205.1%20+%20English%20DTS-HD%20MA%205.1]%20(TDD-Ionicboy).mkv",
+            "quality": "1080p",
+            "size": "29.37 GB",
+            "fileName": "Marshall (2017) 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English DTS-HD MA 5.1] (TDD-Ionicboy)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "pNQBnAqt\n13.84 GB",
+            "url": "https://pixeldrain.net/api/file/pNQBnAqt",
+            "quality": "1080p",
+            "size": "13.84 GB",
+            "fileName": "pNQBnAqt",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "WbWHV6gW\n3.3 GB",
+            "url": "https://pixeldrain.net/api/file/WbWHV6gW",
+            "quality": "1080p",
+            "size": "3.3 GB",
+            "fileName": "WbWHV6gW",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:60059:s4e10",
+      "storedAt": 1763017268631,
+      "meta": {
+        "storedAt": 1763017268,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "60059",
+        "imdbId": "tt3032476",
+        "season": 4,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Better.Call.Saul.S04.E10.1080p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mYDeWSi-0_U5WvWjxhE-RMXI1mbKE8aZtGrvNL_Imme_lScWFCRNkVD0l63-z5ptQ6XqDbu4ayRISMh80wIAAhEfUtj9VnXplvhsh8RsILYUfdcT1e0Gp7yw7BSrW7G9430iOKkyDh0aJbTSxinfywqTtPk6GZX8YJvymAtYKHN80DVwsjFjNsmL2nQuZx8Bo190u2apfJ7orrYYPCCklr5RExQpSUcdGGZz_XzuRc8n3vAhA",
+            "quality": "1080p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Better.Call.Saul.S04.E10.720p.BluRay.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2muCx7VarlsC4KvhnwvGi2biAkNd4eX_C45_OaLjm3I65rdeLQJoThfD73GfQGQAbN-V1bFk_DXt2l298-6WnvJeYJvuNgoCUc1FGFKSpcczOkDg1aklPq3gLo1O454kWONWE4hKmddjsPk4O_0b1RQ6rKRA6Tau5TybLsB3AsyuP_pzKz96tWe7Zy9tjfYZ8ZS3asSJRokc9xuseLpPJbR4CWTwwzQk5MEJcBEc3_XxhmnXFdra4lY6JgUKtGQHzFRBJWq",
+            "quality": "720p",
+            "size": "583.5 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Better.Call.Saul.S04.E10.480p.BluRay.Hindi.ORG-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mwx1xiGuJdubS6P853DqiyCJxlOMZ5coxTg7LDXwXRVkGZ3Y1ZYv1QZkDAC8LVs16OP4N63TVJXJ9cev615a8PT5DGVit1q9dzeMQI13sEuXIFRdQWSLfaizYnI0pujFmMzRrLn_MjEjN31NQPIbfq4Z4WTvhS76llXBza-7GrMjqqrjbAzxsj-3Lm39zgP9-pk055EKP-2v8LeKUcU4JpZL2QfboX8WiWnUGP9vGmcfzsUOUYBXdu5XrZkYnUGvwVTeLd",
+            "quality": "480p",
+            "size": "218.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:67639:s1e4",
+      "storedAt": 1763017090852,
+      "meta": {
+        "storedAt": 1763017090,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "67639",
+        "imdbId": "tt6231158",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/310031?token=ee0240be3b55850e88b93854e4613b2f&expires=1768201090&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T06:56:59.575Z",
-    "totalOriginalEntries": 223,
-    "newItemsInThisBatch": 5,
+    "exportedAt": "2025-11-13T07:05:02.309Z",
+    "totalOriginalEntries": 226,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
