@@ -20671,12 +20671,210 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:145316",
+      "storedAt": 1763030761702,
+      "meta": {
+        "storedAt": 1763030761,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "145316",
+        "imdbId": "tt2100093",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/202629?token=5883586328e65c316074bdcaff0849b2&expires=1768214760&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:9992",
+      "storedAt": 1763030726575,
+      "meta": {
+        "storedAt": 1763030726,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "9992",
+        "imdbId": "tt0344854",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Last Holiday (2006) 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English TrueHD 5.1] (decibeL-Ionicboy)\n28.02 GB",
+            "url": "https://files.g0ldmine.workers.dev/09800ace1308c770f7e365fa8b4638fee174274458b1c33bb64b6b018728f67d484b7fd9b197613f8e336233c3ec0c6d::fca567cc75481664e6f64a85086b1506/1397326797/Last%20Holiday%20(2006)%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%205.1%20+%20English%20TrueHD%205.1]%20(decibeL-Ionicboy).mkv",
+            "quality": "1080p",
+            "size": "28.02 GB",
+            "fileName": "Last Holiday (2006) 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English TrueHD 5.1] (decibeL-Ionicboy)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Last Holiday (2006) 1080p BluRay [Hindi DDP 5.1 + English DTS 5.1] x264 (playHD-Ionicboy)\n17.86 GB",
+            "url": "https://wild-dream-6ec3.ciyok383764175.workers.dev/58fc47a06ed66e823c711170eb16ae2716ec4d6e3c46b811d621c794b2ff93d185b369f424f7ff52f569017c8c5cc799::065cc4ce79e37f9f967037dee314d4a7/1397326797/Last%20Holiday%20(2006)%201080p%20BluRay%20[Hindi%20DDP%205.1%20+%20English%20DTS%205.1]%20x264%20(playHD-Ionicboy).mkv",
+            "quality": "1080p",
+            "size": "17.86 GB",
+            "fileName": "Last Holiday (2006) 1080p BluRay [Hindi DDP 5.1 + English DTS 5.1] x264 (playHD-Ionicboy)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "QmsdiSBq\n5.46 GB",
+            "url": "https://pixeldrain.net/api/file/QmsdiSBq",
+            "quality": "1080p",
+            "size": "5.46 GB",
+            "fileName": "QmsdiSBq",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:9992",
+      "storedAt": 1763030726153,
+      "meta": {
+        "storedAt": 1763030726,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "9992",
+        "imdbId": "tt0344854",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay DTS x264-TUSAHD",
+            "url": "https://a.111477.xyz/movies/Arthur%20and%20the%20Invisibles%20(2006)/Arthur.And.The.Invisibles.2006.NORDIC.1080p.BluRay.DTS.x264-TUSAHD.mkv",
+            "quality": "1080p",
+            "size": "5.49 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Arthur.And.The.Invisibles.2006.NORDIC.1080p.BluRay.DTS.x264-TUSAHD.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BDRip AC3 x265 10bit-MarkII",
+            "url": "https://a.111477.xyz/movies/Arthur%20and%20the%20Invisibles%20(2006)/Arthur.and.the.Invisibles.2006.1080p.BDRip.AC3.x265.10bit-MarkII.mkv",
+            "quality": "1080p",
+            "size": "2.94 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Arthur.and.the.Invisibles.2006.1080p.BDRip.AC3.x265.10bit-MarkII.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1395:s2e14",
+      "storedAt": 1763030804885,
+      "meta": {
+        "storedAt": 1763030804,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1395",
+        "imdbId": "tt0397442",
+        "season": 2,
+        "episode": 14,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x264]-TrollHD",
+            "url": "https://a.111477.xyz/tvs/Gossip%20Girl/Season%202/Gossip%20Girl%20(2007)%20-%20S02E14%20-%20In%20The%20Realm%20of%20the%20Basses%20[WEBDL-1080p][EAC3%205.1][x264]-TrollHD.mkv",
+            "quality": "1080p",
+            "size": "4.40 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Gossip Girl (2007) - S02E14 - In The Realm of the Basses [WEBDL-1080p][EAC3 5.1][x264]-TrollHD.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip x265-HiQVE",
+            "url": "https://a.111477.xyz/tvs/Gossip%20Girl/Season%202/Gossip.Girl.S02E14.1080p.WEBRip.x265-HiQVE.mkv",
+            "quality": "1080p",
+            "size": "1.30 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Gossip.Girl.S02E14.1080p.WEBRip.x265-HiQVE.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1395:s2e14",
+      "storedAt": 1763030805915,
+      "meta": {
+        "storedAt": 1763030805,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1395",
+        "imdbId": "tt0397442",
+        "season": 2,
+        "episode": 14,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Gossip Girl S2E14 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1741344658/s2/episode14.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T10:38:32.677Z",
-    "totalOriginalEntries": 376,
-    "newItemsInThisBatch": 6,
+    "exportedAt": "2025-11-13T10:48:25.045Z",
+    "totalOriginalEntries": 381,
+    "newItemsInThisBatch": 5,
     "format": "compact_v1"
   }
 }
