@@ -23758,12 +23758,182 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:1415:s6e10",
+      "storedAt": 1763043589611,
+      "meta": {
+        "storedAt": 1763043589,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1415",
+        "imdbId": "tt2191671",
+        "season": 6,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/185837?token=6e2944fe44b213df05a589a7ea5c43a7&expires=1768227589&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1911:s8e14",
+      "storedAt": 1763043602584,
+      "meta": {
+        "storedAt": 1763043602,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 8,
+        "episode": 14,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%208/Bones%20(2005)%20-%20S08E14%20-%20The%20Doll%20in%20the%20Derby%20[Bluray-1080p][EAC3%205.1][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": "978.35 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones (2005) - S08E14 - The Doll in the Derby [Bluray-1080p][EAC3 5.1][x265]-iVy.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265-INFINITY",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%208/Bones.S08E14.1080p.BluRay.x265-INFINITY.mp4",
+            "quality": "1080p",
+            "size": "690.39 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones.S08E14.1080p.BluRay.x265-INFINITY.mp4"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1911:s8e14",
+      "storedAt": 1763043603665,
+      "meta": {
+        "storedAt": 1763043603,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 8,
+        "episode": 14,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Bones and All S8E14 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1684689602/s8/episode14.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:49297:s4e1",
+      "storedAt": 1763043881314,
+      "meta": {
+        "storedAt": 1763043881,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "49297",
+        "imdbId": "tt2136396",
+        "season": 4,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/240912?token=680224f9f35a2d594a544a8fba3a8674&expires=1768227880&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:72027:s1e5",
+      "storedAt": 1763043801984,
+      "meta": {
+        "storedAt": 1763043801,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "72027",
+        "imdbId": "tt6311972",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/199306?token=9c4793314b1cf30a15a610742650f73c&expires=1768227801&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T14:19:00.056Z",
-    "totalOriginalEntries": 440,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-13T14:27:51.004Z",
+    "totalOriginalEntries": 445,
+    "newItemsInThisBatch": 5,
     "format": "compact_v1"
   }
 }
