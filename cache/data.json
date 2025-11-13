@@ -3339,12 +3339,79 @@
         ],
         "count": 5
       }
+    },
+    {
+      "key": "prov:streamflix:movie:1008308",
+      "storedAt": 1762998885123,
+      "meta": {
+        "storedAt": 1762998885,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "1008308",
+        "imdbId": "tt19309370",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Aladdin and the King of Thieves - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/1996/aladim.mkv",
+            "quality": "1080p",
+            "size": "1h 21m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Aladdin and the King of Thieves - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/1996/aladim.mkv",
+            "quality": "1080p",
+            "size": "1h 21m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Aladdin and the King of Thieves - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/1996/aladim.mkv",
+            "quality": "720p",
+            "size": "1h 21m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Aladdin and the King of Thieves - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/1996/aladim.mkv",
+            "quality": "720p",
+            "size": "1h 21m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T01:50:10.059Z",
-    "totalOriginalEntries": 78,
-    "newItemsInThisBatch": 6,
+    "exportedAt": "2025-11-13T02:00:56.242Z",
+    "totalOriginalEntries": 79,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
