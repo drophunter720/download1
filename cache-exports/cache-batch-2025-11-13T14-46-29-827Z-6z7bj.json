@@ -1,0 +1,116 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:tv:1911:s8e15",
+      "storedAt": 1763045014340,
+      "meta": {
+        "storedAt": 1763045014,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 8,
+        "episode": 15,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%208/Bones%20(2005)%20-%20S08E15%20-%20The%20Shot%20in%20the%20Dark%20[Bluray-1080p][EAC3%205.1][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": "918.61 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones (2005) - S08E15 - The Shot in the Dark [Bluray-1080p][EAC3 5.1][x265]-iVy.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265-INFINITY",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%208/Bones.S08E15.1080p.BluRay.x265-INFINITY.mp4",
+            "quality": "1080p",
+            "size": "700.79 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones.S08E15.1080p.BluRay.x265-INFINITY.mp4"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1911:s8e15",
+      "storedAt": 1763045016857,
+      "meta": {
+        "storedAt": 1763045016,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 8,
+        "episode": 15,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Bones and All S8E15 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1684689602/s8/episode15.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:219246:s1e8",
+      "storedAt": 1763045044031,
+      "meta": {
+        "storedAt": 1763045044,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "219246",
+        "imdbId": "tt26471411",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/293980?token=24d5823759e26036fcc41a5cda5131a3&expires=1768229043&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-13T14:46:29.828Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
