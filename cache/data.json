@@ -21350,12 +21350,315 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:648043",
+      "storedAt": 1763033215392,
+      "meta": {
+        "storedAt": 1763033215,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "648043",
+        "imdbId": "tt9272568",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/466385?token=2ed93043d872fda63ca134d465154e31&expires=1768217214&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:129552:s1e4",
+      "storedAt": 1763033108588,
+      "meta": {
+        "storedAt": 1763033108,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "129552",
+        "imdbId": "tt13918776",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/154516?token=d5271e73aa40ff9410374900de6ae988&expires=1768217108&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:237565:s1e1",
+      "storedAt": 1763033118865,
+      "meta": {
+        "storedAt": 1763033118,
+        "urlCount": 9,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "237565",
+        "imdbId": "tt30365813",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Family.Matters.S01E01.Episode.One.1080p.AMZN.WEB-DL.Multi.DDP2.0.H.264-4kHdHub.Com\n2.55 GB",
+            "url": "https://fsl.cdnbaba.rest/Family.Matters.S01E01.Episode.One.1080p.AMZN.WEB-DL.Multi.DDP2.0.H.264-4kHdHub.Com.mkv?token=1763033118",
+            "quality": "1080p",
+            "size": "2.55 GB",
+            "fileName": "Family.Matters.S01E01.Episode.One.1080p.AMZN.WEB-DL.Multi.DDP2.0.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "9sRzxU3k\n2.55 GB",
+            "url": "https://pixeldrain.net/api/file/9sRzxU3k",
+            "quality": "1080p",
+            "size": "2.55 GB",
+            "fileName": "9sRzxU3k",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n2.55 GB",
+            "url": "https://mega.hubcloud.fyi/cs/g?x=9i6LO8pTxSwZ&n=ispBwYzY&fn=Family.Matters.S01E01.Episode.One.1080p.AMZN.WEB-DL.Multi.DDP2.0.H.264-4kHdHub.Com.mkv",
+            "quality": "1080p",
+            "size": "2.55 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Family.Matters.S01E01.Episode.One.1080p.AMZN.WEB-DL.Multi.DDP2.0.H.265-4kHdHub.Com\n864.16 MB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Family.Matters.S01E01.Episode.One.1080p.AMZN.WEB-DL.Multi.DDP2.0.H.265-4kHdHub.Com.mkv?token=1763033118",
+            "quality": "1080p",
+            "size": "864.16 MB",
+            "fileName": "Family.Matters.S01E01.Episode.One.1080p.AMZN.WEB-DL.Multi.DDP2.0.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "XjSDnzGy\n864.16 MB",
+            "url": "https://pixeldrain.net/api/file/XjSDnzGy",
+            "quality": "1080p",
+            "size": "864.16 MB",
+            "fileName": "XjSDnzGy",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n864.16 MB",
+            "url": "https://mega.hubcloud.fyi/cs/g?x=9DiwX9Y2DB4T&n=flY20JoT&fn=Family.Matters.S01E01.Episode.One.1080p.AMZN.WEB-DL.Multi.DDP2.0.H.265-4kHdHub.Com.mkv",
+            "quality": "1080p",
+            "size": "864.16 MB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Family Matters 2024 S01E01 2160p CPNG 10bit WEB-DL SDR HEVC [Hin-Tam-Tel DDP 2.0 + Korean HE-AAC 5.1] H.265 Marky-4kHDHub.com\n2.7 GB",
+            "url": "https://fsl.cdnbaba.rest/Family%20Matters%202024%20S01E01%202160p%20CPNG%2010bit%20WEB-DL%20SDR%20HEVC%20[Hin-Tam-Tel%20DDP%202.0%20+%20Korean%20HE-AAC%205.1]%20H.265%20Marky-4kHDHub.com.mkv?token=1763033118",
+            "quality": "2160p",
+            "size": "2.7 GB",
+            "fileName": "Family Matters 2024 S01E01 2160p CPNG 10bit WEB-DL SDR HEVC [Hin-Tam-Tel DDP 2.0 + Korean HE-AAC 5.1] H.265 Marky-4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "ZR6vkX9X\n2.7 GB",
+            "url": "https://pixeldrain.net/api/file/ZR6vkX9X",
+            "quality": "2160p",
+            "size": "2.7 GB",
+            "fileName": "ZR6vkX9X",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "g\n2.7 GB",
+            "url": "https://mega.hubcloud.fyi/cs/g?x=LHDwGwRGkBAD&n=D8BUWTbC&fn=Family%20Matters%20(2024)%20S01E01%202160p%20CPNG%2010bit%20WEB-DL%20SDR%20HEVC%20[Hin-Tam-Tel%20DDP%202.0%20+%20Korean%20HE-AAC%205.1]%20H.265%20(Marky-4kHDHub.com).mkv",
+            "quality": "2160p",
+            "size": "2.7 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 9
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:31941:s1e1",
+      "storedAt": 1763032903606,
+      "meta": {
+        "storedAt": 1763032903,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "31941",
+        "imdbId": "tt1344204",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DTS 5 1][x264]-HD4U",
+            "url": "https://a.111477.xyz/tvs/Blue%20Mountain%20State/Season%201/Blue%20Mountain%20State%20(2010)%20-%20S01E01%20-%20Its%20Called%20Hazing%20Look%20It%20Up%20[Bluray-1080p][DTS%205.1][x264]-HD4U.mkv",
+            "quality": "1080p",
+            "size": "2.18 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Blue Mountain State (2010) - S01E01 - Its Called Hazing Look It Up [Bluray-1080p][DTS 5.1][x264]-HD4U.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Blue%20Mountain%20State/Season%201/Blue%20Mountain%20State%20(2010)%20-%20S01E01%20-%20Its%20Called%20Hazing%20Look%20It%20Up%20[Bluray-1080p][EAC3%205.1][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": "936.61 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Blue Mountain State (2010) - S01E01 - Its Called Hazing Look It Up [Bluray-1080p][EAC3 5.1][x265]-iVy.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:31941:s1e2",
+      "storedAt": 1763033322532,
+      "meta": {
+        "storedAt": 1763033322,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "31941",
+        "imdbId": "tt1344204",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DTS 5 1][x264]-HD4U",
+            "url": "https://a.111477.xyz/tvs/Blue%20Mountain%20State/Season%201/Blue%20Mountain%20State%20(2010)%20-%20S01E02%20-%20Promise%20Ring%20[Bluray-1080p][DTS%205.1][x264]-HD4U.mkv",
+            "quality": "1080p",
+            "size": "1.46 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Blue Mountain State (2010) - S01E02 - Promise Ring [Bluray-1080p][DTS 5.1][x264]-HD4U.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Blue%20Mountain%20State/Season%201/Blue%20Mountain%20State%20(2010)%20-%20S01E02%20-%20Promise%20Ring%20[Bluray-1080p][EAC3%205.1][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": "795.85 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Blue Mountain State (2010) - S01E02 - Promise Ring [Bluray-1080p][EAC3 5.1][x265]-iVy.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:66732:s2e8",
+      "storedAt": 1763033002481,
+      "meta": {
+        "storedAt": 1763033002,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "66732",
+        "imdbId": "tt4574334",
+        "season": 2,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Stranger Things S02E08 Chapter Eight the Mind Flayer 1080p NF WEB-DL DDP5 1 HDR HEVC-TombDoc\n2.17GB",
+            "url": "https://worker-odd-paper-3e12.paheha9858.workers.dev/26fbdba9f7aaab7b2d6eaee7644c8c37890ae3c2a4f28ab8b18796ebefcad48ded8ce784cff7308de836da25603a21ff8aba98137d958a6bdfe0de319e29108334b19733730b8ff8aac9051ddfafa364faa2c578266b4ba7c11d4517d6f0dd087db680e29b7959df41a44d9e2685a3ce28e6fcaf47d63fce96daca5870a93d215be633c9aa1812ed25fe833517d835a19b8ec9ab8f6c6d068c2ff4815621a26b3ce0ae659936e83e95eecdb9b159bb4e::57505350cc64a0726e79855214960ee8/Stranger.Things.S02E08.Chapter.Eight.the.Mind.Flayer.1080p.NF.WEB-DL.DDP5.1.HDR.HEVC-TombDoc.mkv",
+            "quality": "1080p | HDR",
+            "size": "2.17GB",
+            "fileName": "Stranger.Things.S02E08.Chapter.Eight.the.Mind.Flayer.1080p.NF.WEB-DL.DDP5.1.HDR.HEVC-TombDoc.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T11:07:22.081Z",
-    "totalOriginalEntries": 391,
-    "newItemsInThisBatch": 10,
+    "exportedAt": "2025-11-13T11:29:44.994Z",
+    "totalOriginalEntries": 397,
+    "newItemsInThisBatch": 6,
     "format": "compact_v1"
   }
 }
