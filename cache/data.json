@@ -4544,11 +4544,85 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:72748:s4e2",
+      "storedAt": 1763002412093,
+      "meta": {
+        "storedAt": 1763002412,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "72748",
+        "imdbId": "tt4276618",
+        "season": 4,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 5 1][x265]-SiQ",
+            "url": "https://a.111477.xyz/tvs/Strike/Season%204/Strike%20(2017)%20-%20S04E02%20-%20Episode%202%20[WEBRip-1080p][AAC%205.1][x265]-SiQ.mkv",
+            "quality": "1080p",
+            "size": "804.61 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Strike (2017) - S04E02 - Episode 2 [WEBRip-1080p][AAC 5.1][x265]-SiQ.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][HEVC]-d3g",
+            "url": "https://a.111477.xyz/tvs/Strike/Season%204/Strike%20(2017)%20-%20S04E02%20-%20Episode%202%20[WEBRip-1080p][AC3%205.1][HEVC]-d3g.mkv",
+            "quality": "1080p",
+            "size": "1.86 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Strike (2017) - S04E02 - Episode 2 [WEBRip-1080p][AC3 5.1][HEVC]-d3g.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:72748:s4e2",
+      "storedAt": 1763002413389,
+      "meta": {
+        "storedAt": 1763002413,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "72748",
+        "imdbId": "tt4276618",
+        "season": 4,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Empire Strikes Back S4E2 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1669821804/s4/episode2.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T02:45:31.675Z",
-    "totalOriginalEntries": 101,
+    "exportedAt": "2025-11-13T02:54:06.682Z",
+    "totalOriginalEntries": 103,
     "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
