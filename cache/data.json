@@ -21808,12 +21808,115 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1214130",
+      "storedAt": 1763035092491,
+      "meta": {
+        "storedAt": 1763035092,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1214130",
+        "imdbId": "tt26720001",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/477560?token=ba7aefc31b43ed18f4b5f4e026d18978&expires=1768219091&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:228477:s1e1",
+      "storedAt": 1763035220538,
+      "meta": {
+        "storedAt": 1763035220,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "228477",
+        "imdbId": "tt20252368",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/278415?token=ff151e335e544919f319ef52116c1d28&expires=1768219220&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:31941:s1e10",
+      "storedAt": 1763034882820,
+      "meta": {
+        "storedAt": 1763034882,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "31941",
+        "imdbId": "tt1344204",
+        "season": 1,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DTS 5 1][x264]-HD4U",
+            "url": "https://a.111477.xyz/tvs/Blue%20Mountain%20State/Season%201/Blue%20Mountain%20State%20(2010)%20-%20S01E10%20-%20Marathon%20Monday%20[Bluray-1080p][DTS%205.1][x264]-HD4U.mkv",
+            "quality": "1080p",
+            "size": "1.45 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Blue Mountain State (2010) - S01E10 - Marathon Monday [Bluray-1080p][DTS 5.1][x264]-HD4U.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Blue%20Mountain%20State/Season%201/Blue%20Mountain%20State%20(2010)%20-%20S01E10%20-%20Marathon%20Monday%20[Bluray-1080p][EAC3%205.1][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": "876.67 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Blue Mountain State (2010) - S01E10 - Marathon Monday [Bluray-1080p][EAC3 5.1][x265]-iVy.mkv"
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T11:38:00.705Z",
-    "totalOriginalEntries": 401,
-    "newItemsInThisBatch": 4,
+    "exportedAt": "2025-11-13T12:02:44.336Z",
+    "totalOriginalEntries": 404,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
