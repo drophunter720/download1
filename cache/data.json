@@ -5674,12 +5674,419 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:70523:s3e8",
+      "storedAt": 1763005434617,
+      "meta": {
+        "storedAt": 1763005434,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "70523",
+        "imdbId": "tt5753856",
+        "season": 3,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/320387?token=c9c3516543f233f9aed5209189257ea5&expires=1768189434&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:72748:s6e1",
+      "storedAt": 1763005698004,
+      "meta": {
+        "storedAt": 1763005697,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "72748",
+        "imdbId": "tt4276618",
+        "season": 6,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 2 0][h264]-RAWR",
+            "url": "https://a.111477.xyz/tvs/Strike/Season%206/Strike%20(2017)%20-%20S06E01%20-%20Episode%201%20[WEBDL-1080p][AAC%202.0][h264]-RAWR.mkv",
+            "quality": "1080p",
+            "size": "1.18 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Strike (2017) - S06E01 - Episode 1 [WEBDL-1080p][AAC 2.0][h264]-RAWR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 2 0][x264]-CBFM",
+            "url": "https://a.111477.xyz/tvs/Strike/Season%206/Strike%20(2017)%20-%20S06E01%20-%20Episode%201%20[WEBRip-1080p][AAC%202.0][x264]-CBFM.mkv",
+            "quality": "1080p",
+            "size": "1.12 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Strike (2017) - S06E01 - Episode 1 [WEBRip-1080p][AAC 2.0][x264]-CBFM.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:72748:s6e1",
+      "storedAt": 1763005701605,
+      "meta": {
+        "storedAt": 1763005701,
+        "urlCount": 9,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "72748",
+        "imdbId": "tt4276618",
+        "season": 6,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Dune.Prophecy.S01E01.1080p.WEB-DL.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/tkChKugu",
+            "quality": "1080p",
+            "size": "1.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Dune.Prophecy.S01E01.1080p.WEB-DL.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kIDqYabGLktMhzNL1FYDTHOCEP5pxRh1K-4UPByng8lBSH25D_W8R9oBXQVEhIMc5S9og3cmC7v1VysUIhswRyMNZHtmoXYbIk4iDNIgFCUBsQ8QqWk1BzBxWKP2aWyNGODLIaYstaqCstLPKz2M8vrJK_bMYgudbcPLTIIGRmQoA754FKXYMysE_jQ2pATZONyjdXW6Vu10PgTJ4uisS_rw7et9RlpeM58KL8peu9v7YG9B7AnRnt8G_Kn_gQ2cyyFOwB",
+            "quality": "1080p",
+            "size": "1.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Dune.Prophecy.S01E01.1080p.WEB-DL.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/t7z1sBNy",
+            "quality": "1080p",
+            "size": "1.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Dune.Prophecy.S01E01.1080p.WEB-DL.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mphI7iV9XiKTbIKU0rlkvZi9GGXIfd7NBomuC9eDZcvTEXK3D5FcGZsOzAvEEnpirfk1fDt0MJAfJGF1uYHScTR8hk3es86tKxVSm1Y9OOHR02ncRlzyhGI0EjwJ71xq-I2-fus5zMCjnItxRgF9ELd3AwZD1Mihs59OPiTIWHMdAFJksVvN4IO_1F6-zfOPrKrnJkmiBatzQUk1FhtQjNLF2uCirU6t9WgrjOxkDATil8U4V2xFBJxzi-wwH8HlBkYlKu",
+            "quality": "1080p",
+            "size": "1.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "C.B.Strike.The.Ink.Black.Heart.S06E01.720p.WEB-DL.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/CkWNd95h",
+            "quality": "720p",
+            "size": "575.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "C.B.Strike.The.Ink.Black.Heart.S06E01.720p.WEB-DL.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kU73dxFxoe01OEg4hmEY-wUfZTsHj0KqwV-DlsMAByexyY0G6h4gMcxSSvZP9nKmfa_CcN5Ep3YWyjN5kUAJ_0cRqxfECEtPPQwtQ2KzaBgIxu-0Owt6Qh0eW8zTsmSFbnniEKoq3QvXaA_HoZgTaJ5I8FFBbmuQ-TgQR7rrGYfAlQtpeoFtbHG9yzU9-H7YGHzmBBV1CEXm8Hoz9NqSt1OwyKI5BmlHg1hK0ATU7eauIkXCFC_pDIpi68F5Dvuv6uDG2l",
+            "quality": "720p",
+            "size": "575.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "C.B.Strike.The.Ink.Black.Heart.S06E01.480p.WEB-DL.Hindi-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/8FktncXr",
+            "quality": "480p",
+            "size": "238.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "C.B.Strike.The.Ink.Black.Heart.S06E01.480p.WEB-DL.Hindi-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2m6eElBH_b1sexvlRCcBDBfBEH5onhT2ir4nk8kW38GFut8U7FGbv4s21pDUpFhc0_KgQJ6u3ItkXsKob9R0Qr1J1FVXXzpGtAqtlVxPSqyn7S60LNwksPXbLyOSPYsMymlndPod29b7DSocAvLNkmuX4C_QNRdGClHcglE1nDX46qtC9W7sLjM5CkLze0K30GoNyLDot3iF6FqzMh_72oUSMYjZaWldGGQjkjDA8nPQ7zIyTPQQ1_Q5qN4OKr-PO--_v5Q",
+            "quality": "480p",
+            "size": "238.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "C.B.Strike.The.Ink.Black.Heart.S06E01.480p.WEB-DL.Hindi-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mkqGa4OHoYUBrEnBQFlC4m-WlcOymvQcoZFYRWT8jcDWxt9PUBSo_yqCF4iw96ob7jRKXdWVBZHG4eRh06jFg-nV1GUl63JFOXzMG82Z_TmZmRMQg1mibu8F60vTqxV8UFQ5ZIMRuaZTuGbbfMR1EdtfNscpRWw-hofjo8DX2N2Wkad8DJBQSky5oVhjUNNyul4RLsJQjUzOuGjKdKrsi6rF6UPVIfxjgvZls22I_ehVuXo9Bz47MefDhiX-RokcHaLpxn",
+            "quality": "480p",
+            "size": "238.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 9
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:72748:s6e1",
+      "storedAt": 1763005700660,
+      "meta": {
+        "storedAt": 1763005700,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "72748",
+        "imdbId": "tt4276618",
+        "season": 6,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Empire Strikes Back S6E1 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1669821804/s6/episode1.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:72748:s6e2",
+      "storedAt": 1763005751640,
+      "meta": {
+        "storedAt": 1763005751,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "72748",
+        "imdbId": "tt4276618",
+        "season": 6,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 2 0][h264]-RAWR",
+            "url": "https://a.111477.xyz/tvs/Strike/Season%206/Strike%20(2017)%20-%20S06E02%20-%20Episode%202%20[WEBDL-1080p][AAC%202.0][h264]-RAWR.mkv",
+            "quality": "1080p",
+            "size": "1.17 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Strike (2017) - S06E02 - Episode 2 [WEBDL-1080p][AAC 2.0][h264]-RAWR.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:72748:s6e2",
+      "storedAt": 1763005754227,
+      "meta": {
+        "storedAt": 1763005754,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "72748",
+        "imdbId": "tt4276618",
+        "season": 6,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "C.B.Strike.The.Ink.Black.Heart.S06E02.1080p.WEB-DL.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/P2ufyd6W",
+            "quality": "1080p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "C.B.Strike.The.Ink.Black.Heart.S06E02.1080p.WEB-DL.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lYMswTbqqK5iFOQARuRH1gV8jdIyDEk8STjyzW28ffHBDL6PbEnJevTqEGJX9v6FMKZUHhF_60w-fjofX9XDbYXQquBu7NCW2vNeEojoat1wWEos0jMhN4443e6YoGuYINXyGGu2ef9aLHA0jrFqiVUTAVj44wbCZTlyzlUkm_XEl9XdkJqvXxkmN6Z6-Hv1P1-44Z2E9pAFpV072txH_bcJHntnpVGJ67slGM5Sfb908CSZcYNzsFTHjTg1EHoSRbQXI8",
+            "quality": "1080p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "C.B.Strike.The.Ink.Black.Heart.S06E02.720p.WEB-DL.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/ufs6YuLs",
+            "quality": "720p",
+            "size": "567.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "C.B.Strike.The.Ink.Black.Heart.S06E02.720p.WEB-DL.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2k3U5WuE6HKwt5UxEQuLcYWvQMPQ_TfASf-3-fTDtCR3W2Td0QGVFIqquhsy22I_J4_ljEOJGQIdTttKxRhM2Uf7xud9vORQ2qgqqdMMHHjQtlfjdlXswI-nQ7MhGSY9An7g_EcUFk_kxVXsh8WiDF8vxJ7G3WI_52_EXlgWSaY_cjIQFAtX28eFX1zZIrYGPDMA4D_Vl7M80QiJKPcndA1RNizTILneswgXty_0yhCiCg2FioaF9Ph96pmCRRW0rVWywGb",
+            "quality": "720p",
+            "size": "567.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "C.B.Strike.The.Ink.Black.Heart.S06E02.480p.WEB-DL.Hindi-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/9YQF2KRu",
+            "quality": "480p",
+            "size": "235.7 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "C.B.Strike.The.Ink.Black.Heart.S06E02.480p.WEB-DL.Hindi-English.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mw5396N9IeWnfWo_X3tiPBU_NVr8QfTKRFLzWET9s7GCn8pJ_Yv9VjcBAziMd4iguhf4Tuj-934gj0HNZeetsdeyTOsMeohY--pICNLEe7XOMuBJjybacdFqY11QMHjLpQxLRvfWNykn5LUbJ0LB7stWwwtO6GdwpfInJCgkyz8fKkR3PcKBcRCu94M9CO7oQ9ObmUoY4GjGCBetoIYx2SBtSRAempumS0a4gQKPaLRFR91RI79M0hGTdsq-49U6HujXxg",
+            "quality": "480p",
+            "size": "235.7 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:72748:s6e2",
+      "storedAt": 1763005752631,
+      "meta": {
+        "storedAt": 1763005752,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "72748",
+        "imdbId": "tt4276618",
+        "season": 6,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Empire Strikes Back S6E2 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1669821804/s6/episode2.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T03:40:48.506Z",
-    "totalOriginalEntries": 124,
-    "newItemsInThisBatch": 4,
+    "exportedAt": "2025-11-13T03:51:55.694Z",
+    "totalOriginalEntries": 131,
+    "newItemsInThisBatch": 7,
     "format": "compact_v1"
   }
 }
