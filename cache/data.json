@@ -3406,12 +3406,105 @@
         ],
         "count": 4
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:111815:s1e13",
+      "storedAt": 1762999755433,
+      "meta": {
+        "storedAt": 1762999755,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "111815",
+        "imdbId": "tt13302848",
+        "season": 1,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/447912?token=720489df27c10b42364ec1ccb9dd69a7&expires=1768183754&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:1399:s6e5",
+      "storedAt": 1763000013109,
+      "meta": {
+        "storedAt": 1763000013,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 6,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Game of Thrones S06E05 1080p BluRay x264 [Hindi DD 2 0 - Eng DD 5 1]-MSubs~(Tom) WiKi\n5.13GB",
+            "url": "https://worker-sweet-base-c034.wodava8443.workers.dev/d3dd857e839740355e404c2fff8500f20a358b1965879694cd7b8e8e3eb68bf948a91b901f1d650136fdaf24234431c337862068e36d9eecb0e25998e6f8d22812cad57f59c80290e64952668b1d1ec38ecb4f5fdb133ba5014025954c012728ca6face979f1da6f13a095a15f3d796dd734e206584fd992fc260ece3bd410d0f6bafb36d0df64baf8ac155c1b656c894b8dc9d01c873a908d7aee9deffd19d141e532a73242fe8993ba0b9c61611475::7241532126a25d6371ce9fb9cff88f96/Game.of.Thrones.S06E05.1080p.BluRay.x264.[Hindi DD 2.0 - Eng DD 5.1]-MSubs(Tom) WiKi.mkv",
+            "quality": "1080p | BluRay",
+            "size": "5.13GB",
+            "fileName": "Game.of.Thrones.S06E05.1080p.BluRay.x264.[Hindi DD 2.0 - Eng DD 5.1]-MSubs~(Tom) WiKi.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:40351:s1e1",
+      "storedAt": 1762999891035,
+      "meta": {
+        "storedAt": 1762999891,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "40351",
+        "imdbId": "tt1724587",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux",
+            "url": "https://a.111477.xyz/tvs/Green%20Lantern%20-%20The%20Animated%20Series/Season%201/Green%20Lantern%20-%20The%20Animated%20Series%20-%20S01E01%20-%20Beware%20My%20Power%20(1)%20Bluray-1080p%20Remux.mkv",
+            "quality": "1080p | REMUX",
+            "size": "3.68 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Green Lantern - The Animated Series - S01E01 - Beware My Power (1) Bluray-1080p Remux.mkv"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T02:00:56.242Z",
-    "totalOriginalEntries": 79,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-13T02:16:15.708Z",
+    "totalOriginalEntries": 82,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
