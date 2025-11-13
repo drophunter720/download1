@@ -19512,12 +19512,413 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:tv:303173:s1e2",
+      "storedAt": 1763027069464,
+      "meta": {
+        "storedAt": 1763027069,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "303173",
+        "imdbId": "tt38696262",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "MARINES.S01E02.Contested.Waters.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.264-4kHdHub.Com\n2.28 GB",
+            "url": "https://fsl.cdnbaba.rest/MARINES.S01E02.Contested.Waters.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv?token=1763027068",
+            "quality": "1080p",
+            "size": "2.28 GB",
+            "fileName": "MARINES.S01E02.Contested.Waters.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.Atmos.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "oaoxhnYn\n2.28 GB",
+            "url": "https://pixeldrain.net/api/file/oaoxhnYn",
+            "quality": "1080p",
+            "size": "2.28 GB",
+            "fileName": "oaoxhnYn",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:303173:s1e2",
+      "storedAt": 1763027071406,
+      "meta": {
+        "storedAt": 1763027071,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "303173",
+        "imdbId": "tt38696262",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Tujhpe.Main.Fida.S01E02.720p.Hindi.WEB-DL.2.0.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/XBARrfLD",
+            "quality": "720p",
+            "size": "282.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Tujhpe.Main.Fida.S01E02.720p.Hindi.WEB-DL.2.0.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mJvNVr_46c8ggf0jGzjzn919a1bXta5ulBhhe6QvojMrzGV8qVPCMrlCJUsbYq8znqaUoEbfD-8x3VfHSj8NouYjHh0I2-U5ZOnTfJO-DCj6rYq27oQn3x3EArfIqiEGUHxEIhM4AUJpjkNASdJolhdylbU_aCWb1jkZASruUuEFR1gu0Pxc1UstpVkpFhOAKXz5DI2GEL1Tq-5giVZSAKzNFP15tAmRYqWDOXjkjxbHHcMxsMgjE22BVvdhCEw2YY0zqU",
+            "quality": "720p",
+            "size": "282.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:303173:s1e2",
+      "storedAt": 1763027071521,
+      "meta": {
+        "storedAt": 1763027071,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "303173",
+        "imdbId": "tt38696262",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "MARINES S01E02 1080p NF WEB-DL DDP5 1 Atmos H 264-PrimeFix\n2.08GB",
+            "url": "https://worker-quiet-sun-01c1.padisaw461.workers.dev/539ec59c7c89767397c3d35088b68b39b159f1f8a67389cd065eebb9ddf0392db25491468a597bcf8a7fc1b6df92683bb166ea3670bae8cfe8d78a663272baaa3c6b52663fd2ed72218e2be3569deddc02202f58461f4981db87ff474371b06ac19882681d97dd24d5d34c4b7b1ad8b76912705a1e9fe83a2d71b647bcaedc5421bc0905316453055ab6bab5cbb44fb223be5c6d157966dcaf32f9d92d2d87008982ddc26e4f89aea9b686f3d34940b3::9079696071c2b8f106a388b2046660c3/MARINES.S01E02.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-PrimeFix.mkv",
+            "quality": "1080p",
+            "size": "2.08GB",
+            "fileName": "MARINES.S01E02.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-PrimeFix.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:66732:s1e5",
+      "storedAt": 1763027393867,
+      "meta": {
+        "storedAt": 1763027393,
+        "urlCount": 11,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "66732",
+        "imdbId": "tt4574334",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Stranger Things 2016 S01E05 1080p BluRay REMUX x264 AVC [Hindi DDP 5.1 640Kbps + English TruHD 5.1] ESub ~ FraMeSToR\n10.7 GB",
+            "url": "https://fsl.cdnbaba.rest/Stranger%20Things%202016%20S01E05%201080p%20BluRay%20REMUX%20x264%20AVC%20[Hindi%20DDP%205.1%20640Kbps%20+%20English%20TruHD%205.1]%20ESub%20~%20FraMeSToR.mkv?token=1763027393",
+            "quality": "1080p",
+            "size": "10.7 GB",
+            "fileName": "Stranger Things 2016 S01E05 1080p BluRay REMUX x264 AVC [Hindi DDP 5.1 640Kbps + English TruHD 5.1] ESub ~ FraMeSToR",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "aGwRxrs4\n10.7 GB",
+            "url": "https://pixeldrain.net/api/file/aGwRxrs4",
+            "quality": "1080p",
+            "size": "10.7 GB",
+            "fileName": "aGwRxrs4",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Stranger Things 2016 S01E05 1080p BluRay x264 [Hindi DDP 5.1 640Kbps + English DD 5.1] ESub - SHORTBREHD\n3.51 GB",
+            "url": "https://fsl.cdnbaba.rest/Stranger%20Things%202016%20S01E05%201080p%20BluRay%20x264%20[Hindi%20DDP%205.1%20640Kbps%20+%20English%20DD%205.1]%20ESub%20-%20SHORTBREHD.mkv?token=1763027393",
+            "quality": "1080p",
+            "size": "3.51 GB",
+            "fileName": "Stranger Things 2016 S01E05 1080p BluRay x264 [Hindi DDP 5.1 640Kbps + English DD 5.1] ESub - SHORTBREHD",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Ha6yaSjY\n3.51 GB",
+            "url": "https://pixeldrain.net/api/file/Ha6yaSjY",
+            "quality": "1080p",
+            "size": "3.51 GB",
+            "fileName": "Ha6yaSjY",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Stranger Things 2016 S01E05 2160p 4K SDR BluRay REMUX x265 10bit HEVC [Hindi DDP 5.1 640Kbps + English DD 5.1] ESub ~ FGT\n15.45 GB",
+            "url": "https://fsl.cdnbaba.rest/Stranger%20Things%202016%20S01E05%202160p%204K%20SDR%20BluRay%20REMUX%20x265%2010bit%20HEVC%20[Hindi%20DDP%205.1%20640Kbps%20+%20English%20DD%205.1]%20ESub%20~%20FGT.mkv?token=1763027393",
+            "quality": "2160p",
+            "size": "15.45 GB",
+            "fileName": "Stranger Things 2016 S01E05 2160p 4K SDR BluRay REMUX x265 10bit HEVC [Hindi DDP 5.1 640Kbps + English DD 5.1] ESub ~ FGT",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "MpoWFsNT\n15.45 GB",
+            "url": "https://pixeldrain.net/api/file/MpoWFsNT",
+            "quality": "2160p",
+            "size": "15.45 GB",
+            "fileName": "MpoWFsNT",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Stranger Things S01E05 - [Ch. 5 ~ The Flea Acrobat] 1080p 10bit BluRay Hindi+Eng DDP 5.1Ch HEVC ESubs ~ Joy [Strange]\n771.96 MB",
+            "url": "https://fsl.cdnbaba.rest/Stranger%20Things%20S01E05%20-%20[Ch.%205%20~%20The%20Flea%20Acrobat]%201080p%2010bit%20BluRay%20Hindi+Eng%20DDP%205.1Ch%20HEVC%20ESubs%20~%20Joy%20[Strange].mkv?token=1763027393",
+            "quality": "1080p",
+            "size": "771.96 MB",
+            "fileName": "Stranger Things S01E05 - [Ch. 5 ~ The Flea Acrobat] 1080p 10bit BluRay Hindi+Eng DDP 5.1Ch HEVC ESubs ~ Joy [Strange]",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "A3Rxg9XN\n771.96 MB",
+            "url": "https://pixeldrain.net/api/file/A3Rxg9XN",
+            "quality": "1080p",
+            "size": "771.96 MB",
+            "fileName": "A3Rxg9XN",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Stranger.Things.S01E05.Chapter.Five.the.Flea.and.the.Acrobat.1080p.NF.WEB-DL.DDP5.1.HDR.HEVC-ShiNobi\n2.53 GB",
+            "url": "https://fsl.cdnbaba.rest/Stranger.Things.S01E05.Chapter.Five.the.Flea.and.the.Acrobat.1080p.NF.WEB-DL.DDP5.1.HDR.HEVC-ShiNobi.mkv?token=1763027393",
+            "quality": "1080p",
+            "size": "2.53 GB",
+            "fileName": "Stranger.Things.S01E05.Chapter.Five.the.Flea.and.the.Acrobat.1080p.NF.WEB-DL.DDP5.1.HDR.HEVC-ShiNobi",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "DP8jz6ax\n2.53 GB",
+            "url": "https://pixeldrain.net/api/file/DP8jz6ax",
+            "quality": "1080p",
+            "size": "2.53 GB",
+            "fileName": "DP8jz6ax",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "6tDFBQCn\n1.81 GB",
+            "url": "https://pixeldrain.net/api/file/6tDFBQCn",
+            "quality": "2160p",
+            "size": "1.81 GB",
+            "fileName": "6tDFBQCn",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 11
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:66732:s1e5",
+      "storedAt": 1763027393086,
+      "meta": {
+        "storedAt": 1763027393,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "66732",
+        "imdbId": "tt4574334",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][10bit][HEVC][TrueHD 5 1]-FraMeSToR",
+            "url": "https://a.111477.xyz/tvs/Stranger%20Things/Season%201/Stranger%20Things%20(2016)%20-%20S01E05%20-%20Chapter%20Five%20The%20Flea%20and%20the%20Acrobat%20[Bluray-2160p%20Remux][10bit][HEVC][TrueHD%205.1]-FraMeSToR.mkv",
+            "quality": "2160p | REMUX",
+            "size": "16.32 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Stranger Things (2016) - S01E05 - Chapter Five The Flea and the Acrobat [Bluray-2160p Remux][10bit][HEVC][TrueHD 5.1]-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][TrueHD 5 1][AVC]-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Stranger%20Things/Season%201/Stranger%20Things%20(2016)%20-%20S01E05%20-%20Chapter%20Five%20The%20Flea%20and%20the%20Acrobat%20[Bluray-1080p%20Remux][TrueHD%205.1][AVC]-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "10.46 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Stranger Things (2016) - S01E05 - Chapter Five The Flea and the Acrobat [Bluray-1080p Remux][TrueHD 5.1][AVC]-NOGRP.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][x264]-WiKi",
+            "url": "https://a.111477.xyz/tvs/Stranger%20Things/Season%201/Stranger%20Things%20(2016)%20-%20S01E05%20-%20Chapter%20Five%20The%20Flea%20and%20the%20Acrobat%20[Bluray-1080p][AC3%205.1][x264]-WiKi.mkv",
+            "quality": "1080p",
+            "size": "4.63 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Stranger Things (2016) - S01E05 - Chapter Five The Flea and the Acrobat [Bluray-1080p][AC3 5.1][x264]-WiKi.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:66732:s1e5",
+      "storedAt": 1763027394676,
+      "meta": {
+        "storedAt": 1763027394,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "66732",
+        "imdbId": "tt4574334",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Stranger Things S1E5 - 5. Chapter Five: The Flea and the Acrobat",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/strangerthinngs/s1/Stranger.Things.S01E05.720p.Hindi.Eng.mkv",
+            "quality": "1080p",
+            "size": "54min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Stranger Things S1E5 - 5. Chapter Five: The Flea and the Acrobat",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/strangerthinngs/s1/Stranger.Things.S01E05.720p.Hindi.Eng.mkv",
+            "quality": "1080p",
+            "size": "54min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:66732:s1e5",
+      "storedAt": 1763027397023,
+      "meta": {
+        "storedAt": 1763027397,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "66732",
+        "imdbId": "tt4574334",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Stranger Things S01E05 Chapter Five the Flea and the Acrobat 1080p NF WEB-DL DDP5 1 HDR HEVC-TombDoc\n2.53GB",
+            "url": "https://worker-jolly-mode-4f04.nejad26208.workers.dev/eba6de9901dcbccfcd1fee79daddfcb6bd578a537cb4990b6d4d0a0308d1340620d0f31ddf6ac7442837e73ff4c7e5114861c0f01d7fd9828c524085bea41749419b2cf34cc4e9b8f34b05154e3c889ce1b1c804c44c665fac1de07dcb1dfd175da000ac891ccfddf5300cb832e5a86879f9194c4666ca6cd4bacd87d9c2a7ead6ebce11f5de9837ff07cc03e7d412eafa6021da62a34fca2a1aa92562934c803ef19d18c0630da1eb54d01909469e78::5c07132611eed2567230819b81a27769/Stranger.Things.S01E05.Chapter.Five.the.Flea.and.the.Acrobat.1080p.NF.WEB-DL.DDP5.1.HDR.HEVC-TombDoc.mkv",
+            "quality": "1080p | HDR",
+            "size": "2.53GB",
+            "fileName": "Stranger.Things.S01E05.Chapter.Five.the.Flea.and.the.Acrobat.1080p.NF.WEB-DL.DDP5.1.HDR.HEVC-TombDoc.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-13T09:43:38.658Z",
-    "totalOriginalEntries": 350,
-    "newItemsInThisBatch": 6,
+    "exportedAt": "2025-11-13T09:52:30.798Z",
+    "totalOriginalEntries": 357,
+    "newItemsInThisBatch": 7,
     "format": "compact_v1"
   }
 }
