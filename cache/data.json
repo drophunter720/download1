@@ -83466,12 +83466,182 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:559937",
+      "storedAt": 1763149944021,
+      "meta": {
+        "storedAt": 1763149944,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "559937",
+        "imdbId": "tt9243442",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/273423?token=44b93c6fe2f64088e6e91e3337c79c7d&expires=1768333943&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:2352:s1e14",
+      "storedAt": 1763150421640,
+      "meta": {
+        "storedAt": 1763150421,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "2352",
+        "imdbId": "tt0106080",
+        "season": 1,
+        "episode": 14,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 2 0][x264]-squalor",
+            "url": "https://a.111477.xyz/tvs/The%20Nanny/Season%201/The%20Nanny%20(1993)%20-%20S01E14%20-%20The%20Family%20Plumbing%20[WEBDL-1080p][AC3%202.0][x264]-squalor.mkv",
+            "quality": "1080p",
+            "size": "1.40 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Nanny (1993) - S01E14 - The Family Plumbing [WEBDL-1080p][AC3 2.0][x264]-squalor.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:79696:s2e6",
+      "storedAt": 1763149949276,
+      "meta": {
+        "storedAt": 1763149949,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "79696",
+        "imdbId": "tt8421350",
+        "season": 2,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "fa6sMRSe\n775.33 MB",
+            "url": "https://pixeldrain.net/api/file/fa6sMRSe",
+            "quality": "1080p",
+            "size": "775.33 MB",
+            "fileName": "fa6sMRSe",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:79696:s2e6",
+      "storedAt": 1763149951132,
+      "meta": {
+        "storedAt": 1763149951,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "79696",
+        "imdbId": "tt8421350",
+        "season": 2,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Manifest S2E6 - 6. Return Trip",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/mainfest/s2/Manifest S02E06 {English} 720p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "44min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Manifest S2E6 - 6. Return Trip",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/mainfest/s2/Manifest S02E06 {English} 720p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "44min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:97546:s2e5",
+      "storedAt": 1763150389038,
+      "meta": {
+        "storedAt": 1763150389,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "97546",
+        "imdbId": "tt10986410",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h265]-d3g",
+            "url": "https://a.111477.xyz/tvs/Ted%20Lasso/Season%202/Ted%20Lasso%20(2020)%20-%20S02E05%20-%20Rainbow%20[WEBRip-1080p][EAC3%205.1][h265]-d3g.mkv",
+            "quality": "1080p",
+            "size": "1.20 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Ted Lasso (2020) - S02E05 - Rainbow [WEBRip-1080p][EAC3 5.1][h265]-d3g.mkv"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-14T19:48:54.525Z",
-    "totalOriginalEntries": 1673,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-14T20:00:25.719Z",
+    "totalOriginalEntries": 1678,
+    "newItemsInThisBatch": 5,
     "format": "compact_v1"
   }
 }
