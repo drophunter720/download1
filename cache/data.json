@@ -83265,12 +83265,85 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1421:s1e9",
+      "storedAt": 1763148414207,
+      "meta": {
+        "storedAt": 1763148414,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1421",
+        "imdbId": "tt1442437",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux Proper][DTS-HD MA 5 1][AVC]-EPSiLON",
+            "url": "https://a.111477.xyz/tvs/Modern%20Family/Season%201/Modern%20Family%20(2009)%20-%20S01E09%20-%20Fizbo%20[Bluray-1080p%20Remux%20Proper][DTS-HD%20MA%205.1][AVC]-EPSiLON.mkv",
+            "quality": "1080p | REMUX",
+            "size": "4.41 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Modern Family (2009) - S01E09 - Fizbo [Bluray-1080p Remux Proper][DTS-HD MA 5.1][AVC]-EPSiLON.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS-HD MA 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Modern%20Family/Season%201/Modern.Family.S01E09.Fizbo.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "4.37 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Modern.Family.S01E09.Fizbo.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:4586:s2e10",
+      "storedAt": 1763148208103,
+      "meta": {
+        "storedAt": 1763148208,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4586",
+        "imdbId": "tt0238784",
+        "season": 2,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/310891?token=28439b50ee1debc9d822daf74dea5c68&expires=1768332207&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-14T19:22:13.179Z",
-    "totalOriginalEntries": 1667,
-    "newItemsInThisBatch": 4,
+    "exportedAt": "2025-11-14T19:31:29.893Z",
+    "totalOriginalEntries": 1669,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
