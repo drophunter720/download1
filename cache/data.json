@@ -86079,12 +86079,185 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:512895",
+      "storedAt": 1763164080761,
+      "meta": {
+        "storedAt": 1763164080,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "512895",
+        "imdbId": "tt8096832",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/202714?token=fb163cf4195e875bb155d2681dc8a6d4&expires=1768348080&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:2288:s4e19",
+      "storedAt": 1763164167824,
+      "meta": {
+        "storedAt": 1763164167,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "2288",
+        "imdbId": "tt0455275",
+        "season": 4,
+        "episode": 19,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "B3Y7RaNv\n7.58 GB",
+            "url": "https://pixeldrain.net/api/file/B3Y7RaNv",
+            "quality": "1080p",
+            "size": "7.58 GB",
+            "fileName": "B3Y7RaNv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "6NcAgXG6\n4.36 GB",
+            "url": "https://pixeldrain.net/api/file/6NcAgXG6",
+            "quality": "1080p",
+            "size": "4.36 GB",
+            "fileName": "6NcAgXG6",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "FysQW6jD\n1.52 GB",
+            "url": "https://pixeldrain.net/api/file/FysQW6jD",
+            "quality": "1080p",
+            "size": "1.52 GB",
+            "fileName": "FysQW6jD",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:2288:s4e19",
+      "storedAt": 1763164167438,
+      "meta": {
+        "storedAt": 1763164167,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "2288",
+        "imdbId": "tt0455275",
+        "season": 4,
+        "episode": 19,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-EPSiLON",
+            "url": "https://a.111477.xyz/tvs/Prison%20Break/Season%204/Prison%20Break%20(2005)%20-%20S04E19%20-%20S.O.B%20[Bluray-1080p%20Remux][DTS-HD%20MA%205.1][AVC]-EPSiLON.mkv",
+            "quality": "1080p | REMUX",
+            "size": "7.58 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Prison Break (2005) - S04E19 - S.O.B [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-EPSiLON.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS-HD MA 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Prison%20Break/Season%204/Prison.Break.S04E19.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "7.52 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Prison.Break.S04E19.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:2288:s4e19",
+      "storedAt": 1763164170195,
+      "meta": {
+        "storedAt": 1763164170,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "2288",
+        "imdbId": "tt0455275",
+        "season": 4,
+        "episode": 19,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Prison Break S4E19 - 19. Cowboys and Indians",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/prisonbreak/s4/Prison Break S04E20 English 720p Bluray ESubs [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "45min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Prison Break S4E19 - 19. Cowboys and Indians",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/prisonbreak/s4/Prison Break S04E20 English 720p Bluray ESubs [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "45min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-14T23:47:37.300Z",
-    "totalOriginalEntries": 1731,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-14T23:56:02.826Z",
+    "totalOriginalEntries": 1735,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
