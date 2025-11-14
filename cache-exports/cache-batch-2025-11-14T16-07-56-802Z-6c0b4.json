@@ -1,0 +1,215 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:1117857",
+      "storedAt": 1763136305579,
+      "meta": {
+        "storedAt": 1763136305,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1117857",
+        "imdbId": "tt27604215",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/507005?token=8247eef909e9663681cf22b6a1b8ccd4&expires=1768320305&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:766208",
+      "storedAt": 1763136350050,
+      "meta": {
+        "storedAt": 1763136350,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "766208",
+        "imdbId": "tt13249100",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Jumanji - The Next Level (2019) 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi DDP 5 1 + English DTS-HDMA 71] x265 (Flights-UHDMovies)\n46.9GB",
+            "url": "https://worker-snowy-cell-60ac.kaxidaj969.workers.dev/1a4f1759169e8d67f0cc5ec313376aa764cac545791e4de17614aadc04c71bee3cb7caa90252d1b91af833cb66beffd192b9d1128c43177652db3d71c83fac443e6c3d51ef6a2a0a284158162d77578fc9b857a3df7d01de733dc137e10e91530bfe36420eb4f930563ce1501ff7e2f6b8e0c708965b672df4222db42b0b54e271e626f0a7927b786f8f8fa180372649efa3d7466a60c14198384459534f71d1a315a1d39c6f8aa07185df86d4ef75e4::eabd77062e68b527a6ff74afcd7ed702/Jumanji - The Next Level (2019) 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi DDP 5.1  English DTS-HDMA 71] x265 (Flights-UHDMovies).mkv",
+            "quality": "4K | HDR | DV | BluRay",
+            "size": "46.9GB",
+            "fileName": "Jumanji - The Next Level (2019) 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi DDP 5.1 + English DTS-HDMA 71] x265 (Flights-UHDMovies).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Jumanji - The Next Level (2019) 1080p BluRay [Hindi DDP 5 1 + English DDP 7 1] x264 (iFT-UHDMovies)\n15.31GB",
+            "url": "https://worker-patient-waterfall-b426.capilyca.workers.dev/640ddec41b00cca20bb76fc560c4b0681ba4ad7420016e24e7e5e0059acd3de3916d0d07ba2c68ea0db9603500be67d8e4b6efc4ce95db6e21eb1768f90b5a542ce2f6fd7ffa2d2a8dc12e1d3e96d8e23a40475a9a73b6008c9c7525fbe5da887967da9674dbd713884c50efddfa3d2f41541e6dce9d5aa4f158804ec4ab18c401efa76141988efe9524c7df3479a4dc469d58369eee274d338c67fec9e767fd65ecef9c52c7912cee8a65261f2f1790::bb7c010faab13d12b0012d5368671314/Jumanji - The Next Level (2019) 1080p BluRay [Hindi DDP 5.1  English DDP 7.1] x264 (iFT-UHDMovies).mkv",
+            "quality": "1080p | BluRay",
+            "size": "15.31GB",
+            "fileName": "Jumanji - The Next Level (2019) 1080p BluRay [Hindi DDP 5.1 + English DDP 7.1] x264 (iFT-UHDMovies).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:90811:s1e2",
+      "storedAt": 1763136038637,
+      "meta": {
+        "storedAt": 1763136038,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "90811",
+        "imdbId": "tt10234362",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "uC7iEJbc\n1.83 GB",
+            "url": "https://pixeldrain.net/api/file/uC7iEJbc",
+            "quality": "1080p",
+            "size": "1.83 GB",
+            "fileName": "uC7iEJbc",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "LHE8524H\n684.44 MB",
+            "url": "https://pixeldrain.net/api/file/LHE8524H",
+            "quality": "1080p",
+            "size": "684.44 MB",
+            "fileName": "LHE8524H",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "kLZaCBFX\n4.14 GB",
+            "url": "https://pixeldrain.net/api/file/kLZaCBFX",
+            "quality": "2160p",
+            "size": "4.14 GB",
+            "fileName": "kLZaCBFX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "rEZtKyZe\n5.35 GB",
+            "url": "https://pixeldrain.net/api/file/rEZtKyZe",
+            "quality": "2160p",
+            "size": "5.35 GB",
+            "fileName": "rEZtKyZe",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:90811:s1e3",
+      "storedAt": 1763136145171,
+      "meta": {
+        "storedAt": 1763136145,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "90811",
+        "imdbId": "tt10234362",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "sEzp31Lz\n2.48 GB",
+            "url": "https://pixeldrain.net/api/file/sEzp31Lz",
+            "quality": "1080p",
+            "size": "2.48 GB",
+            "fileName": "sEzp31Lz",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "U25YcZB6\n1.11 GB",
+            "url": "https://pixeldrain.net/api/file/U25YcZB6",
+            "quality": "1080p",
+            "size": "1.11 GB",
+            "fileName": "U25YcZB6",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "91ZUe9uf\n5.55 GB",
+            "url": "https://pixeldrain.net/api/file/91ZUe9uf",
+            "quality": "2160p",
+            "size": "5.55 GB",
+            "fileName": "91ZUe9uf",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "uH1hxXLX\n7.15 GB",
+            "url": "https://pixeldrain.net/api/file/uH1hxXLX",
+            "quality": "2160p",
+            "size": "7.15 GB",
+            "fileName": "uH1hxXLX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-14T16:07:56.803Z",
+    "totalOriginalEntries": 4,
+    "newItemsInThisBatch": 4,
+    "format": "compact_v1"
+  }
+}
