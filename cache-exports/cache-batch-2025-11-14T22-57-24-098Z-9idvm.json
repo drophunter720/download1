@@ -1,0 +1,75 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:tv:197449:s3e3",
+      "storedAt": 1763160611951,
+      "meta": {
+        "storedAt": 1763160611,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "197449",
+        "imdbId": "tt14271498",
+        "season": 3,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/464407?token=42198ba4cb0bc236c6b32524ec619264&expires=1768344611&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:65733:s1e1",
+      "storedAt": 1763160564095,
+      "meta": {
+        "storedAt": 1763160564,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "65733",
+        "imdbId": "tt4083422",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Stand by Me Doraemon 2 S1E1 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1640875685/s1/episode1.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-14T22:57:24.098Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
