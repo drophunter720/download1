@@ -80590,11 +80590,110 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:617786",
+      "storedAt": 1763138691201,
+      "meta": {
+        "storedAt": 1763138691,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "617786",
+        "imdbId": "tt7737734",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "3ccJaJC3\n13.33 GB",
+            "url": "https://pixeldrain.net/api/file/3ccJaJC3",
+            "quality": "2160p",
+            "size": "13.33 GB",
+            "fileName": "3ccJaJC3",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "4XD5HEBD\n10.3 GB",
+            "url": "https://pixeldrain.net/api/file/4XD5HEBD",
+            "quality": "2160p",
+            "size": "10.3 GB",
+            "fileName": "4XD5HEBD",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Yo5J2Jou\n5.33 GB",
+            "url": "https://pixeldrain.net/api/file/Yo5J2Jou",
+            "quality": "1080p",
+            "size": "5.33 GB",
+            "fileName": "Yo5J2Jou",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "vB4j5urC\n2.4 GB",
+            "url": "https://pixeldrain.net/api/file/vB4j5urC",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "fileName": "vB4j5urC",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61720:s3e50",
+      "storedAt": 1763138401681,
+      "meta": {
+        "storedAt": 1763138401,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61720",
+        "imdbId": "tt2171665",
+        "season": 3,
+        "episode": 50,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/193593?token=bd3326e903e21fb4f8b91493103c0299&expires=1768322400&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-14T16:36:20.951Z",
-    "totalOriginalEntries": 1612,
+    "exportedAt": "2025-11-14T16:46:12.533Z",
+    "totalOriginalEntries": 1614,
     "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
