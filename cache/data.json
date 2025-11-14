@@ -85785,12 +85785,180 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:617134",
+      "storedAt": 1763161547044,
+      "meta": {
+        "storedAt": 1763161547,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "617134",
+        "imdbId": "tt10594884",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/475218?token=966a023560ccfbb6815087440734ef7e&expires=1768345546&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1405:s6e10",
+      "storedAt": 1763161118606,
+      "meta": {
+        "storedAt": 1763161118,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1405",
+        "imdbId": "tt0773262",
+        "season": 6,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC TrueHD 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Dexter/Season%206/Dexter.S06E10.Ricochet.Rabbit.1080p.BluRay.REMUX.AVC.TrueHD.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "8.91 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Dexter.S06E10.Ricochet.Rabbit.1080p.BluRay.REMUX.AVC.TrueHD.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1405:s6e10",
+      "storedAt": 1763161117376,
+      "meta": {
+        "storedAt": 1763161117,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1405",
+        "imdbId": "tt0773262",
+        "season": 6,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Dexter S6E10 - 10. Ricochet Rabbit",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/dexter/s6/Dexter.S06E10.Ricochet.Rabbit.BR720p.350MB-PaHe.in.mkv",
+            "quality": "1080p",
+            "size": "49min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Dexter S6E10 - 10. Ricochet Rabbit",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/dexter/s6/Dexter.S06E10.Ricochet.Rabbit.BR720p.350MB-PaHe.in.mkv",
+            "quality": "1080p",
+            "size": "49min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:1405:s6e10",
+      "storedAt": 1763161120044,
+      "meta": {
+        "storedAt": 1763161120,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "1405",
+        "imdbId": "tt0773262",
+        "season": 6,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Dexter New Blood S01E10 Sins of the Father 2160p WEB-DL DDP5 1 DoVi H 265-NTb\n6.02GB",
+            "url": "https://worker-calm-salad-79d1.secyvu.workers.dev/049517eb14f53928f6a01022ef6f7960bdba27fb20de25d092282facc5a5fb4f31b163ee42c86250c71c26fc44652c0a0fe6c56048e3a1ce4199e217b1b676de2005c1fd9c872c01b63715441614d433e8f4e477a1ab5c8e8c15ee6a72e5101db6716fce7192a383886ded9baebc1597d9f5daa6f689fe3877b27ea59c66bde9ef3cd96d0bf8d9e0aa9b2b7b8701e62084cef446ba674f01dcc456e025624ad85dbe1304a2ca125839b12249a9b31016::9e1d54f151f6f69fd2c8a6334d72cf2a/Dexter.New.Blood.S01E10.Sins.of.the.Father.2160p.WEB-DL.DDP5.1.DoVi.H.265-NTb.mkv",
+            "quality": "Unknown Quality",
+            "size": "6.02GB",
+            "fileName": "Dexter.New.Blood.S01E10.Sins.of.the.Father.2160p.WEB-DL.DDP5.1.DoVi.H.265-NTb.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:78173:s2e6",
+      "storedAt": 1763161075393,
+      "meta": {
+        "storedAt": 1763161075,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "78173",
+        "imdbId": "tt4816058",
+        "season": 2,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/168139?token=fa58c8d024f3039c6c14d85f9af38592&expires=1768345075&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-14T22:57:25.773Z",
-    "totalOriginalEntries": 1722,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-14T23:05:57.243Z",
+    "totalOriginalEntries": 1727,
+    "newItemsInThisBatch": 5,
     "format": "compact_v1"
   }
 }
