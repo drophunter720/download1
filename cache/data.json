@@ -79818,12 +79818,206 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:movie:1054867",
+      "storedAt": 1763135127671,
+      "meta": {
+        "storedAt": 1763135127,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "1054867",
+        "imdbId": "tt30144839",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies h264 English-MWR",
+            "url": "https://a.111477.xyz/movies/One%20Battle%20After%20Another%20(2025)/WEC.2025.Round08.Bahrain.8Hr.Qualifying.STAN.WEB-DL.1080p.h264.English-MWR.mkv",
+            "quality": "1080p",
+            "size": "5.23 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "WEC.2025.Round08.Bahrain.8Hr.Qualifying.STAN.WEB-DL.1080p.h264.English-MWR.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1100:s3e2",
+      "storedAt": 1763135189873,
+      "meta": {
+        "storedAt": 1763135189,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1100",
+        "imdbId": "tt0460649",
+        "season": 3,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/200166?token=de784fea467866dff72856d47013a4d4&expires=1768319189&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:118570:s1e3",
+      "storedAt": 1763134983888,
+      "meta": {
+        "storedAt": 1763134983,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "118570",
+        "imdbId": "tt11136148",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/442629?token=515d0cd912438462d35cad193fc8a053&expires=1768318983&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:314:s3e20",
+      "storedAt": 1763135107284,
+      "meta": {
+        "storedAt": 1763135107,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "314",
+        "imdbId": "tt0244365",
+        "season": 3,
+        "episode": 20,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/279661?token=2e4442cc3ce46d767180431b3856798d&expires=1768319106&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:90811:s2e1",
+      "storedAt": 1763135188454,
+      "meta": {
+        "storedAt": 1763135188,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "90811",
+        "imdbId": "tt10234362",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ENnBYoAC\n2.37 GB",
+            "url": "https://pixeldrain.net/api/file/ENnBYoAC",
+            "quality": "1080p",
+            "size": "2.37 GB",
+            "fileName": "ENnBYoAC",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "2Kabsnir\n996.01 MB",
+            "url": "https://pixeldrain.net/api/file/2Kabsnir",
+            "quality": "1080p",
+            "size": "996.01 MB",
+            "fileName": "2Kabsnir",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "UwrgWvFQ\n6.11 GB",
+            "url": "https://pixeldrain.net/api/file/UwrgWvFQ",
+            "quality": "2160p",
+            "size": "6.11 GB",
+            "fileName": "UwrgWvFQ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "rgTKjdxR\n7.92 GB",
+            "url": "https://pixeldrain.net/api/file/rgTKjdxR",
+            "quality": "2160p",
+            "size": "7.92 GB",
+            "fileName": "rgTKjdxR",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-14T15:41:26.203Z",
-    "totalOriginalEntries": 1594,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-14T15:49:41.312Z",
+    "totalOriginalEntries": 1599,
+    "newItemsInThisBatch": 5,
     "format": "compact_v1"
   }
 }
