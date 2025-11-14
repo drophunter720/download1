@@ -1,0 +1,91 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:movie:531219",
+      "storedAt": 1763115163989,
+      "meta": {
+        "storedAt": 1763115163,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "531219",
+        "imdbId": "tt0805647",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS HD MA 5 1 FGT ORARBG",
+            "url": "https://a.111477.xyz/movies/Roald%20Dahl",
+            "quality": "1080p | REMUX",
+            "size": "19.06 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Witches 2020 1080p BluRay REMUX AVC DTS HD MA 5 1 FGT ORARBG.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay HEVC x265 10Bit DTS AC3-UKBandit",
+            "url": "https://a.111477.xyz/movies/Roald%20Dahl",
+            "quality": "1080p",
+            "size": "4.32 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Witches.2020.1080p.BluRay.HEVC.x265.10Bit.DTS.AC3-UKBandit.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS-HD MA 5 1-FGT",
+            "url": "https://a.111477.xyz/movies/Roald%20Dahl",
+            "quality": "1080p | REMUX",
+            "size": "19.06 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Witches.2020.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-FGT.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:224505:s1e4",
+      "storedAt": 1763115377892,
+      "meta": {
+        "storedAt": 1763115377,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "224505",
+        "imdbId": "tt27517632",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/354526?token=7b74206296c5d39b9c28f56ae2576ecb&expires=1768299377&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-14T10:16:38.851Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
