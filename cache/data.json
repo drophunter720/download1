@@ -83723,12 +83723,44 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:1395:s1e6",
+      "storedAt": 1763151787724,
+      "meta": {
+        "storedAt": 1763151787,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1395",
+        "imdbId": "tt0397442",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/315062?token=2afc32975682c9ace21b7b3ef9a47584&expires=1768335787&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-14T20:17:11.377Z",
-    "totalOriginalEntries": 1680,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-14T20:26:02.388Z",
+    "totalOriginalEntries": 1681,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
