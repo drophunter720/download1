@@ -51290,11 +51290,104 @@
         ],
         "count": 3
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1235926",
+      "storedAt": 1763099651881,
+      "meta": {
+        "storedAt": 1763099651,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1235926",
+        "imdbId": "tt22506854",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/363826?token=72fd6767fa59fe1c4679763b0e43cbd8&expires=1768283650&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:2942:s1e5",
+      "storedAt": 1763099534843,
+      "meta": {
+        "storedAt": 1763099534,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "2942",
+        "imdbId": "tt0758790",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC TrueHD 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/The%20Tudors/Season%201/The.Tudors.S01E05.1080p.BluRay.REMUX.AVC.TrueHD.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "11.93 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Tudors.S01E05.1080p.BluRay.REMUX.AVC.TrueHD.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61789:s4e10",
+      "storedAt": 1763099830974,
+      "meta": {
+        "storedAt": 1763099830,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61789",
+        "imdbId": "tt3665674",
+        "season": 4,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/201507?token=309e834daa5e88e898b3fc658b315db6&expires=1768283830&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-14T05:49:02.744Z",
-    "totalOriginalEntries": 993,
+    "exportedAt": "2025-11-14T05:58:17.576Z",
+    "totalOriginalEntries": 996,
     "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
