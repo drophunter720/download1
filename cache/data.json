@@ -83636,12 +83636,99 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:1284777",
+      "storedAt": 1763151116022,
+      "meta": {
+        "storedAt": 1763151116,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1284777",
+        "imdbId": "tt34740835",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "WWE.Royal.Rumble.2025.1080p.NF.WEB-DL.Hindi.AAC2.0-English.AAC2.0.H.264-4kHdHub.Com\n11.92 GB",
+            "url": "https://pub-8665238777bb4575af3be7b624141905.r2.dev/WWE.Royal.Rumble.2025.1080p.NF.WEB-DL.Hindi.AAC2.0-English.AAC2.0.H.264-4kHdHub.Com.mkv?token=1763151114",
+            "quality": "1080p",
+            "size": "11.92 GB",
+            "fileName": "WWE.Royal.Rumble.2025.1080p.NF.WEB-DL.Hindi.AAC2.0-English.AAC2.0.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "oLtGatxw\n11.92 GB",
+            "url": "https://pixeldrain.net/api/file/oLtGatxw",
+            "quality": "1080p",
+            "size": "11.92 GB",
+            "fileName": "oLtGatxw",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ZMvE1ab2\n7.47 GB",
+            "url": "https://pixeldrain.net/api/file/ZMvE1ab2",
+            "quality": "1080p",
+            "size": "7.47 GB",
+            "fileName": "ZMvE1ab2",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:65495:s1e1",
+      "storedAt": 1763151175498,
+      "meta": {
+        "storedAt": 1763151175,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "65495",
+        "imdbId": "tt4288182",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/194523?token=be99e02e50eb109efe48711f651b7451&expires=1768335175&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-14T20:08:48.971Z",
-    "totalOriginalEntries": 1678,
-    "newItemsInThisBatch": 0,
+    "exportedAt": "2025-11-14T20:17:11.377Z",
+    "totalOriginalEntries": 1680,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
