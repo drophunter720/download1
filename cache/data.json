@@ -114475,12 +114475,361 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:911926",
+      "storedAt": 1763245782197,
+      "meta": {
+        "storedAt": 1763245782,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "911926",
+        "imdbId": null,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "WQnsQCzB\n3.57 GB",
+            "url": "https://pixeldrain.net/api/file/WQnsQCzB",
+            "quality": "1080p",
+            "size": "3.57 GB",
+            "fileName": "WQnsQCzB",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Lover Kills 2024 1080p AMZN WEB-DL [Org NR Hindi DD 2.0 + English DDP 2.0] H.264 Kitsune-4KHDHub\n3.57 GB",
+            "url": "https://pub-e1f160f1b3aa4e1bacbfd752ea933f76.r2.dev/Lover%20Kills%202024%201080p%20AMZN%20WEB-DL%20[Org%20NR%20Hindi%20DD%202.0%20+%20English%20DDP%202.0]%20H.264%20Kitsune-4KHDHub.mkv",
+            "quality": "1080p",
+            "size": "3.57 GB",
+            "fileName": "Lover Kills 2024 1080p AMZN WEB-DL [Org NR Hindi DD 2.0 + English DDP 2.0] H.264 Kitsune-4KHDHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:911926",
+      "storedAt": 1763245784912,
+      "meta": {
+        "storedAt": 1763245784,
+        "urlCount": 15,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "911926",
+        "imdbId": null,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Everybody.Loves.Me.When.Im.Dead.2025.1080p.10Bit.WEB-DL.Hindi.5.1-English.5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/2XTWDnbR",
+            "quality": "1080p",
+            "size": "2.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Everybody.Loves.Me.When.Im.Dead.2025.1080p.10Bit.WEB-DL.Hindi.5.1-English.5.1.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2n2Qc0U6ivcagAkeZbmuzoQmb9HTfC3SACJeVreBiCJTTcUUFtDrFS_5AGC06oFPwT1ICgn6YEaG1wwTng3BFHcG3L07YKOvcKDjbGR_Qs_mZ7adHS-Sd-brEWoifUIc2qBIf4J5V7i8jgKkSMz0HL7buFx1mP1DxvxdzktLd_tCGwzP1wwZpai9OtAiq6KJF2r6Jr2asE4zrsdbZIKyQbTZRP9KJAFZcNPHkyf1iPkhP54C06mY18kevujcrg3vomVh544",
+            "quality": "1080p",
+            "size": "2.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Everybody.Loves.Me.When.Im.Dead.2025.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/KMXueX1h",
+            "quality": "1080p",
+            "size": "2.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Everybody.Loves.Me.When.Im.Dead.2025.1080p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2n_wOc2VwY5l1zHkZT7vR3GN0lEQoH89osldUfWy99mF4pjSoiZuEEh41Uc40NZau9AboXpUSZF7_wA-dy6XkZg52XQfUbCU2_vjacIricgaqg3ECppkefizC6sHPTlDLxPYMivVlS4g_9XysYbIJoA009X1efAKl59lTAElHsbUcMaGLuCjQXeE_og6HaKQah7oYyXFjB_KKkmOFoHJpfgVgYKfPIq_UAKFnRzzAiyEAHSkb8",
+            "quality": "1080p",
+            "size": "2.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Everybody.Loves.Me.When.Im.Dead.2025.1080p.NF.WEB-DL.Multi.DDP5.1.H.264-4kHdHub.Com.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Everybody.Loves.Me.When.Im.Dead.2025.1080p.NF.WEB-DL.Multi.DDP5.1.H.264-4kHdHub.Com.mkv?token=1763245783",
+            "quality": "1080p",
+            "size": "7.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Everybody.Loves.Me.When.Im.Dead.2025.1080p.NF.WEB-DL.Multi.DDP5.1.H.264-4kHdHub.Com.mkv",
+            "url": "https://pixeldrain.dev/u/ATjTE6ia",
+            "quality": "1080p",
+            "size": "7.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Everybody.Loves.Me.When.Im.Dead.2025.1080p.NF.WEB-DL.Multi.DDP5.1.H.264-4kHdHub.Com.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kiz0dQ7XAa3Jht1T5ILi9-MdomZf-slyN0I9aOGN3S6wEd2D1KvnOyWr5DdXConuyFdN_Pqg0t0i57WDvRqHR6WolN1XQ3tH8Iy8WgAwa9SasokMhrhOJBBc17VqPcM1dMz8DtFU3ZztHh5pmlIV1JrF3Lktyc-_aow5uaB_51PQdaNSChwlqZb93UUoZ7REKoJ6vM_Dft3G0UaHw1eTANd7OJNZmzzzqU5eWqWyZtn4u_guE",
+            "quality": "1080p",
+            "size": "7.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Everybody.Loves.Me.When.Im.Dead.2025.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/4eQqDiWw",
+            "quality": "720p",
+            "size": "890.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Everybody.Loves.Me.When.Im.Dead.2025.720p.10Bit.WEB-DL.Hindi.5.1-English.HEVC.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mrDf9UOuRf9nsMhmyykESNnNhSRsaSfoxtan757ckB5bN8tXY5ancUtYt46vZ53nZW6rqECQUFMnlrGzEAujKKXVS7g8WbNf2Qd_uOLi7r9XOGf8wrJRTtWsGR3x8KziG5ATMQBbkT7VnQkAowd52bmw2xGzdOLrpxeTESRdMlWvdgRboVEjOPAOCXCRy88f3ttMPA8H2DUzkJThcbukOseT2G2J1VQkQenDp737e2M1VG2-voluHgx39m3B8AEZNRtHXA",
+            "quality": "720p",
+            "size": "890.9 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Everybody.Loves.Me.When.Im.Dead.2025.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://fsl.cdnbaba.rest/Everybody.Loves.Me.When.Im.Dead.2025.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv?token=1763245783",
+            "quality": "720p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Everybody.Loves.Me.When.Im.Dead.2025.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/dJDeSPHQ",
+            "quality": "720p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Everybody.Loves.Me.When.Im.Dead.2025.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nsplVs-q1eVFbvJNETxwHwsxWJnT7EBTsgtM-8I09cYIwDcn_S3yeIXQHjCvpnkB853YPYsrOW8Zqv_9HFXfHTkMJ1J3Xv71PRqSeiyKplXc_5xcJQeUDEJzjyICTBmoIbc7bcNYBNguGrfDgdkuo37w53n33nUoPJZuqaGLdQVMZTolTAfWG9uWwCE1PWQrkwH4OiZbMCi4TViW12ov78qPhSXyv9eCvuAfUSrv6k0onHSg0",
+            "quality": "720p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Everybody.Loves.Me.When.Im.Dead.2025.720p.WEB-DL.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kh6qBBCDTdYFwG3PrWrQxX9P81geLfojSBCfFyeIQEqJZlyJOim_TJXXcAyLSriRsl9OAN_98VgX7i9TElvHCYCA4-96JlQ6JmgPNrr0amiFPQS2c6DLTiHRvesX-0Ehyc_-f9LL1dS_-sh9s1kL_H3tnOHeeX5e7NvmC8Pu0g5tzueqwVWF73i5tsIOQFgRIhZuYS0ymCdxZbCRwPGgRh_8mDc1Q7l55zXekeOd_VGtkq8xhB6o4PyLXuYtUeAYwYrL6t",
+            "quality": "720p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Everybody.Loves.Me.When.Im.Dead.2025.480p.WEB-DL.Hindi-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/w2abyqux",
+            "quality": "480p",
+            "size": "485.7 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Everybody.Loves.Me.When.Im.Dead.2025.480p.WEB-DL.Hindi-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nKdxoeYu5dIbyhotavj8zI51TZ9iTyX9ZT4MwV9FXDF4jZ1jQDtYaXEC62NpBJvfIrmy9fU3DDhsYLMguLjfti9ujrki3jTqskyHWL9jnRREXq8cCBOod510YH2DmO9XupXwAKv5wKJkqfCkNf5q-n7QbIw88mOQ5xre__NqfrBns285EhzI4hXqvx1dH5znZDQkFR2nFKhXU5KD6-lvcNQkTaFFBgvSEi1H9n1G1zGUpnl14",
+            "quality": "480p",
+            "size": "485.7 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 15
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:911926",
+      "storedAt": 1763245784925,
+      "meta": {
+        "storedAt": 1763245784,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "911926",
+        "imdbId": null,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Everybody Loves Me When Im Dead 2025 1080p NF WEB-DL MULTi DDP5 1 Atmos H 264-ShiNobi\n7.19GB",
+            "url": "https://worker-sparkling-sun-c37d.hiwosak407.workers.dev/f8f86477e6e220f8270ae291afb2093aa40e7fe172025bca492a63d34ca4f0c963e43259f3beec6f1d71ceecb359e6ec409016e441599ad4c7c4acc6ab7be5659c33e86e9241a9f9fb07c79010795fc92425e106ef0478b1d1f66895e85628361843a0b29edf65606678770d11d959af3b326fe92f58376f72c32be6a396ff171c02980029e2735b924e93b49778682f71e3503a644a1889ba195d8e026616c2ba65a865000340e8ff95f055efda4d71::b2e0eac59ecbf13bf1043578a1aa27a2/Everybody.Loves.Me.When.Im.Dead.2025.1080p.NF.WEB-DL.MULTi.DDP5.1.Atmos.H.264-ShiNobi.mkv",
+            "quality": "1080p",
+            "size": "7.19GB",
+            "fileName": "Everybody.Loves.Me.When.Im.Dead.2025.1080p.NF.WEB-DL.MULTi.DDP5.1.Atmos.H.264-ShiNobi.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:15079:s1e11",
+      "storedAt": 1763245357776,
+      "meta": {
+        "storedAt": 1763245357,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "15079",
+        "imdbId": "tt1181917",
+        "season": 1,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/240716?token=ce974ff6b0e2d610578410aca7bd5899&expires=1768429356&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61381:s5e17",
+      "storedAt": 1763245641517,
+      "meta": {
+        "storedAt": 1763245641,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61381",
+        "imdbId": "tt3487356",
+        "season": 5,
+        "episode": 17,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/198928?token=4bffab390b14d7d02e3ae2037bc1eea7&expires=1768429640&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-15T22:19:26.977Z",
-    "totalOriginalEntries": 2217,
-    "newItemsInThisBatch": 6,
+    "exportedAt": "2025-11-15T22:30:41.473Z",
+    "totalOriginalEntries": 2222,
+    "newItemsInThisBatch": 5,
     "format": "compact_v1"
   }
 }
