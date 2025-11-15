@@ -105408,12 +105408,75 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:1447:s2e7",
+      "storedAt": 1763226050340,
+      "meta": {
+        "storedAt": 1763226050,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1447",
+        "imdbId": "tt0491738",
+        "season": 2,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/124755?token=53e5a09d8850c6fb636dba7fcc48ef7b&expires=1768410049&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:2352:s2e5",
+      "storedAt": 1763225922725,
+      "meta": {
+        "storedAt": 1763225922,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "2352",
+        "imdbId": "tt0106080",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 2 0][x264]-squalor",
+            "url": "https://a.111477.xyz/tvs/The%20Nanny/Season%202/The%20Nanny%20(1993)%20-%20S02E05%20-%20Curse%20of%20the%20Grandmas%20[WEBDL-1080p][AC3%202.0][x264]-squalor.mkv",
+            "quality": "1080p",
+            "size": "1.41 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Nanny (1993) - S02E05 - Curse of the Grandmas [WEBDL-1080p][AC3 2.0][x264]-squalor.mkv"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-15T16:54:59.192Z",
-    "totalOriginalEntries": 2055,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-15T17:03:33.875Z",
+    "totalOriginalEntries": 2057,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
