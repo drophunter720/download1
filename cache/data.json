@@ -110023,12 +110023,53 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:97546:s1e1",
+      "storedAt": 1763235108947,
+      "meta": {
+        "storedAt": 1763235108,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "97546",
+        "imdbId": "tt10986410",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DV HDR10Plus][10bit][h265][EAC3 Atmos 5 1]-CRFW",
+            "url": "https://a.111477.xyz/tvs/Ted%20Lasso/Season%201/Ted%20Lasso%20(2020)%20-%20S01E01%20-%20Pilot%20[WEBDL-2160p][DV%20HDR10Plus][10bit][h265][EAC3%20Atmos%205.1]-CRFW.mkv",
+            "quality": "2160p | DV | HDR",
+            "size": "5.42 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Ted Lasso (2020) - S01E01 - Pilot [WEBDL-2160p][DV HDR10Plus][10bit][h265][EAC3 Atmos 5.1]-CRFW.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][h264]-NTb",
+            "url": "https://a.111477.xyz/tvs/Ted%20Lasso/Season%201/Ted%20Lasso%20(2020)%20-%20S01E01%20-%20Pilot%20[WEBDL-1080p][EAC3%20Atmos%205.1][h264]-NTb.mkv",
+            "quality": "1080p",
+            "size": "2.34 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Ted Lasso (2020) - S01E01 - Pilot [WEBDL-1080p][EAC3 Atmos 5.1][h264]-NTb.mkv"
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-15T19:26:53.328Z",
-    "totalOriginalEntries": 2138,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-15T19:37:14.534Z",
+    "totalOriginalEntries": 2139,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
