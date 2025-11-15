@@ -1,0 +1,694 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:8329",
+      "storedAt": 1763231521756,
+      "meta": {
+        "storedAt": 1763231521,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "8329",
+        "imdbId": "tt1038988",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "kBUEJVeg\n13.4 GB",
+            "url": "https://pixeldrain.net/api/file/kBUEJVeg",
+            "quality": "1080p",
+            "size": "13.4 GB",
+            "fileName": "kBUEJVeg",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "1QhZkkpN\n8.14 GB",
+            "url": "https://pixeldrain.net/api/file/1QhZkkpN",
+            "quality": "1080p",
+            "size": "8.14 GB",
+            "fileName": "1QhZkkpN",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "vdb9RD8m\n5.19 GB",
+            "url": "https://pixeldrain.net/api/file/vdb9RD8m",
+            "quality": "1080p",
+            "size": "5.19 GB",
+            "fileName": "vdb9RD8m",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:8329",
+      "storedAt": 1763231523938,
+      "meta": {
+        "storedAt": 1763231523,
+        "urlCount": 12,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "8329",
+        "imdbId": "tt1038988",
+        "streams": [
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Hunt.for.Red.October.1990.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://fsl.cdnbaba.rest/The.Hunt.for.Red.October.1990.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv?token=1763227700",
+            "quality": "1080p",
+            "size": "2.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Hunt.for.Red.October.1990.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/u/gJ7JYbsh",
+            "quality": "1080p",
+            "size": "2.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Hunt.for.Red.October.1990.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kqfR5pz3BYS2uF82k2Ua-bPg3tpWCaerAyRowxlMGEhRs-TDBUR9IhmwQgkpKGv1lrgT2IUkUCdJxPGSY7PPallTYUtJ9JGUk5bYYk1g3fvi0t9jfn3uNBe1OCrzbuTFZFuZECMEvN3CR5SDdukp56_LE1WcFjFBDPMXBJypYEOwq47PF9IPNtllhvDX4hUX-COOtgiBvY2k8VDJ-7UNASmHMFdYLm6nTft4PG48Wc9kKutepgquKOInaBTUSqXmHT4wHz",
+            "quality": "1080p",
+            "size": "2.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Hunt.for.Red.October.1990.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.Untouch.mkv",
+            "url": "https://fsl.cdnbaba.rest/The.Hunt.for.Red.October.1990.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.Untouch.mkv?token=1763231522",
+            "quality": "1080p",
+            "size": "17.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Hunt.for.Red.October.1990.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.Untouch.mkv",
+            "url": "https://pixeldrain.dev/u/hCuJqZdt",
+            "quality": "1080p",
+            "size": "17.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Hunt.for.Red.October.1990.1080p.BluRay.Hindi.English.DD2.0.x264.ESubs.Untouch.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2l74jOGoEDPTTo6DLI6k-DWPjZo8gAusO8hzBcej3FuTEvH6YxMqn-wQa3vArgL8YgbIn9oYf7LD8vwKS5abxiMIXkvPl_j5OkQIS42c2HgaqHA9DPv40U8hEQNQpjPXMf5dI7vZsDY9AcEkuvpD8d27FfOpNbYQjfstyGguvZa_9XGxLjmyiafvpRZruEmwIEA906hgFNm-qNNRooMpdmDhUi_11SpLyqbi1mD1daUHjM0ntM",
+            "quality": "1080p",
+            "size": "17.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Hunt.for.Red.October.1990.720p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://fsl.cdnbaba.rest/The.Hunt.for.Red.October.1990.720p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv?token=1763231522",
+            "quality": "720p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Hunt.for.Red.October.1990.720p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/u/1esNjBxp",
+            "quality": "720p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Hunt.for.Red.October.1990.720p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lxrOVRDpYQdmXyMZIFlZMgrmZaWSo_-qosP94C1vxzzJzOIkWUdO4ZuVO_2JM0YjueW8Ih1y58SHpzaClgO8wEez9-HxJ5fivU8WB1RYeyw8QHXKGCV5jMLhaw8w3aenMAzj7oC3zeu6Np8QM1Nh7mbrCuYtdiELXgADl0qzPk1DxJQ-wAQLyzXml4td49MgstejOcu2jcEhlp5qaQiw8op2q4YQQOUIK9fSK28G6CK-_8IvfaKHNgd4iv-CM_i1q2klxb",
+            "quality": "720p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "The.Hunt.for.Red.October.1990.480p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://fsl.cdnbaba.rest/The.Hunt.for.Red.October.1990.480p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv?token=1763231096",
+            "quality": "480p",
+            "size": "458.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Hunt.for.Red.October.1990.480p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/u/rUtHHD7V",
+            "quality": "480p",
+            "size": "458.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Hunt.for.Red.October.1990.480p.BluRay.Hindi.English.DD2.0.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kpSeZvMYBvZUgVsDX2vqt0qFBmKHSzR3WZ8mxEpo-f5g--5dhe_8JzDURgXtk4lbuX3bxJlG2CZUEc5vFLGeQXDNhmZa6sdGoV0eAyxo9mSHK0mXy8xBxBGZmdtxmpk_P13d9Gj4wOsvU1dhHIUwkp4aedEys5ZQyrv1TOZz96bUj-t3v3Uol4cEMtxXIt3o1GWKa8F99k-j4GNPPz2lhxmG5XASXs77jYs60r3LlsH1bV9IE",
+            "quality": "480p",
+            "size": "458.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 12
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:9390",
+      "storedAt": 1763231654423,
+      "meta": {
+        "storedAt": 1763231654,
+        "urlCount": 11,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "9390",
+        "imdbId": "tt0116695",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Jerry Maguire (1996) 2160p UHD BluRay REMUX DoVi HDR HEVC [Hindi DDP 5.1 + English TrueHD.Atmos 7.1] (FraMeSToR-4kHDHub.com)\n57.64 GB",
+            "url": "https://sweet-field-64cc.miboge72429228.workers.dev/fcb920db1cb50a49732c4eb435a9e89d9c76172450a3e579f5dc629d032e542f19bc3ea90c8644b03a18d4ed48ae29d9::11637fa61454a3e13c9f7a6542c7b5d7/1397326935/Jerry%20Maguire%20(1996)%202160p%20UHD%20BluRay%20REMUX%20DoVi%20HDR%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20TrueHD.Atmos%207.1]%20(FraMeSToR-4kHDHub.com).mkv",
+            "quality": "2160p",
+            "size": "57.64 GB",
+            "fileName": "Jerry Maguire (1996) 2160p UHD BluRay REMUX DoVi HDR HEVC [Hindi DDP 5.1 + English TrueHD.Atmos 7.1] (FraMeSToR-4kHDHub.com)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Jerry Maguire (1996) 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English TrueHD.Atmos 7.1] (PTP-4kHDHub.com)\n38.09 GB",
+            "url": "https://nf-cdn.movies-server.workers.dev/27a0e4b5acab22d944a1be84c145e5c65889a22f439070bb9b1ff8ac3254ce029d23a658bf13fde8aec748c198f4c9eb::d01795e84c7d510f79e2ccc2cdcfe909/1397326935/Jerry%20Maguire%20(1996)%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%205.1%20+%20English%20TrueHD.Atmos%207.1]%20(PTP-4kHDHub.com).mkv",
+            "quality": "1080p",
+            "size": "38.09 GB",
+            "fileName": "Jerry Maguire (1996) 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English TrueHD.Atmos 7.1] (PTP-4kHDHub.com)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Jerry Maguire (1996) 2160p 10bit UHD BluRay HDR HEVC [Hindi DDP 5.1 + English TrueHD.Atmos 7.1] H.265 (beAst-4kHDHub.com)\n32.14 GB",
+            "url": "https://morning-poetry-ec96.vogisa35193762.workers.dev/a8c6c434f03a7ecf685c9e51acbc1616a233bd9bf63bfca6304d4b40380253b00f7c5ec018103c34c4156ef82af69891::c78f1598c2d7b91dea80d47683bf3c3f/1397326935/Jerry%20Maguire%20(1996)%202160p%2010bit%20UHD%20BluRay%20HDR%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20TrueHD.Atmos%207.1]%20H.265%20(beAst-4kHDHub.com).mkv",
+            "quality": "2160p",
+            "size": "32.14 GB",
+            "fileName": "Jerry Maguire (1996) 2160p 10bit UHD BluRay HDR HEVC [Hindi DDP 5.1 + English TrueHD.Atmos 7.1] H.265 (beAst-4kHDHub.com)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Jerry Maguire (1996) 2160p 10bit UHD BluRay HDR HEVC [Hindi DDP 5.1 + English TrueHD.Atmos 7.1] H.265 (HDS-4kHDHub.com)\n30.41 GB",
+            "url": "https://files.jiomovies.workers.dev/c21039552a2115d9ffdaa7a6eb239451cc8c944e62d997f58f30d3a970dcc4e7e5f59675ca9a71318d863025d54a6fa9::00f54bee23a989a2c24a3f471707ac97/1397326935/Jerry%20Maguire%20(1996)%202160p%2010bit%20UHD%20BluRay%20HDR%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20TrueHD.Atmos%207.1]%20H.265%20(HDS-4kHDHub.com).mkv",
+            "quality": "2160p",
+            "size": "30.41 GB",
+            "fileName": "Jerry Maguire (1996) 2160p 10bit UHD BluRay HDR HEVC [Hindi DDP 5.1 + English TrueHD.Atmos 7.1] H.265 (HDS-4kHDHub.com)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "06c4a2913c1ce8693aefc9875ba330be\n25.19 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/06c4a2913c1ce8693aefc9875ba330be?token=1763224898",
+            "quality": "1080p",
+            "size": "25.19 GB",
+            "fileName": "06c4a2913c1ce8693aefc9875ba330be",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "98a03ae4039f4259279a2105bf2af076\n24.46 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/98a03ae4039f4259279a2105bf2af076?token=1763224898",
+            "quality": "1080p",
+            "size": "24.46 GB",
+            "fileName": "98a03ae4039f4259279a2105bf2af076",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "1f644fce89f5708308bc419f3c0ffa37\n21.43 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/1f644fce89f5708308bc419f3c0ffa37?token=1763224898",
+            "quality": "1080p",
+            "size": "21.43 GB",
+            "fileName": "1f644fce89f5708308bc419f3c0ffa37",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Jerry Maguire (1996) 1080p BluRay [Hindi DDP 5.1 + English DDP 5.1] x264 (playHD-4kHDHub.com)\n19.86 GB",
+            "url": "https://flat-glade-7058.welikap1127100.workers.dev/299de40936fe2273a2446f7f4b87049893f0e70d5ac3ac22f9b1512dbfc6d594aedc9333a24bd3c2ac9a225c940383e9::660a5446fe6a6ddcd2f014ea24c3c599/1397326935/Jerry%20Maguire%20(1996)%201080p%20BluRay%20[Hindi%20DDP%205.1%20+%20English%20DDP%205.1]%20x264%20(playHD-4kHDHub.com).mkv",
+            "quality": "1080p",
+            "size": "19.86 GB",
+            "fileName": "Jerry Maguire (1996) 1080p BluRay [Hindi DDP 5.1 + English DDP 5.1] x264 (playHD-4kHDHub.com)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Jerry Maguire 1996 1080p 10bit BluRay HEVC [Hindi DDP 5.1 + English AAC 5.1] H.265 Tigole-4kHDHub.com\n6.92 GB",
+            "url": "https://pub-8665238777bb4575af3be7b624141905.r2.dev/Jerry%20Maguire%201996%201080p%2010bit%20BluRay%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20AAC%205.1]%20H.265%20Tigole-4kHDHub.com.mkv?token=1763224899",
+            "quality": "1080p",
+            "size": "6.92 GB",
+            "fileName": "Jerry Maguire 1996 1080p 10bit BluRay HEVC [Hindi DDP 5.1 + English AAC 5.1] H.265 Tigole-4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "B6TnmZmd\n6.92 GB",
+            "url": "https://pixeldrain.net/api/file/B6TnmZmd",
+            "quality": "1080p",
+            "size": "6.92 GB",
+            "fileName": "B6TnmZmd",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "PK2L49Ju\n6.62 GB",
+            "url": "https://pixeldrain.net/api/file/PK2L49Ju",
+            "quality": "1080p",
+            "size": "6.62 GB",
+            "fileName": "PK2L49Ju",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 11
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:9390",
+      "storedAt": 1763231652156,
+      "meta": {
+        "storedAt": 1763231652,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "9390",
+        "imdbId": "tt0116695",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX HEVC DTS HD MA TrueHD 7 1 Atmos FGT ORARBG",
+            "url": "https://a.111477.xyz/movies/Jerry%20Maguire%20(1996)/Jerry%20Maguire%201996%20PROPER%202160p%20BluRay%20REMUX%20HEVC%20DTS%20HD%20MA%20TrueHD%207%201%20Atmos%20FGT%20ORARBG.mkv",
+            "quality": "2160p | REMUX",
+            "size": "74.90 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Jerry Maguire 1996 PROPER 2160p BluRay REMUX HEVC DTS HD MA TrueHD 7 1 Atmos FGT ORARBG.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay DD+5 1 x264-NFM",
+            "url": "https://a.111477.xyz/movies/Jerry%20Maguire%20(1996)/Jerry.Maguire.1996.1080p.BluRay.DD+5.1.x264-NFM.mkv",
+            "quality": "1080p",
+            "size": "19.42 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Jerry.Maguire.1996.1080p.BluRay.DD+5.1.x264-NFM.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies UHD BluRay HDR DoVi x265 DD 5 1-SM737",
+            "url": "https://a.111477.xyz/movies/Jerry%20Maguire%20(1996)/Jerry.Maguire.1996.1080p.UHD.BluRay.HDR.DoVi.x265.DD.5.1-SM737.mkv",
+            "quality": "1080p | HDR",
+            "size": "4.82 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Jerry.Maguire.1996.1080p.UHD.BluRay.HDR.DoVi.x265.DD.5.1-SM737.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:9390",
+      "storedAt": 1763231657734,
+      "meta": {
+        "storedAt": 1763231657,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "9390",
+        "imdbId": "tt0116695",
+        "streams": [
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Jerry.Maguire.1996.1080p.BluRay.HIN.ENG.2.0.ESub.x264.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Jerry.Maguire.1996.1080p.BluRay.HIN.ENG.2.0.ESub.x264.mkv?token=1763224632",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Jerry.Maguire.1996.1080p.BluRay.HIN.ENG.2.0.ESub.x264.mkv",
+            "url": "https://pixeldrain.dev/u/uBoDy1i3",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Jerry.Maguire.1996.1080p.BluRay.HIN.ENG.2.0.ESub.x264.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2l3RaJzkE-vIpWWrLnFvN1_tbxtUGdZgwMklZ0nIS0nEiyIJSYlnYGMHd-NWAVFgmgpCpM98GUmjzIgJQ8Iap2Wbkov3EXlKPklpzYRKKni7Qusf0-7A0fY9gZmNnt6SxGtiW9cEA4yR4qdVQOf6LxBFfRDyYm7KpIhVfG2_6Ev6rqV5zgw7s7rD4x49rQwHrvEs4SJnuiTB4GkBNjencETfunj26TMANPix8NHkAXB5DzYjhc",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Jerry.Maguire.1996.720p.BluRay.HIN.ENG.2.0.ESub.x264.mkv",
+            "url": "https://fsl.cdnbaba.rest/Jerry.Maguire.1996.720p.BluRay.HIN.ENG.2.0.ESub.x264.mkv?token=1763229038",
+            "quality": "720p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Jerry.Maguire.1996.720p.BluRay.HIN.ENG.2.0.ESub.x264.mkv",
+            "url": "https://pixeldrain.dev/u/x4meRFrA",
+            "quality": "720p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Jerry.Maguire.1996.720p.BluRay.HIN.ENG.2.0.ESub.x264.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lztW5o80zodrFaiHDjFsXs627qjPmogcOcLQ5j2xW8PgP_jrh57jStTEUW1kF2uzzLDJKVMBARaT-jBz3F6tm9-TDoKQk2OsfUl97M6MR1xql3CVslNd5oAatvvye_v1z2AGAwdGKTcMMGzTwM-6qggQEi5jZlmLiTYJIyCZinz83toNTZJa8gb7HxwNqhBwTaJQktPPs_n2dRo7-bb7FGsFz7HJFWlTMuor3oBIUJk_4-0fp3BQIJK6wDwxVwJQpi5Sii",
+            "quality": "720p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Jerry.Maguire.1996.480p.BluRay.HIN.ENG.2.0.ESub.x264.mkv",
+            "url": "https://pixeldrain.dev/u/UB6XcsKj",
+            "quality": "480p",
+            "size": "465 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Jerry.Maguire.1996.480p.BluRay.HIN.ENG.2.0.ESub.x264.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lfiCpGEmmybVNO-d0jKqkAVDYp3cFlBs78E4eBAfWGSrdEwICf4iXT21xyP4g-b23pTBEakwb6XrJTQTH8WJjYw3IYCyypnapT4WI_GKRLm6-FZUo14KQXwKwsGYzD3riF-Jxobs0knuKcUElcGzsqV21tBxP5ebIBVYfI4DvF7vVBytEHByU4Rex_C-bmj2zGAFndMLmy8LjLfIR8mzsArTEoCzZEjBaHS1b1zyzN22FgW6c",
+            "quality": "480p",
+            "size": "465 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:9390",
+      "storedAt": 1763231651411,
+      "meta": {
+        "storedAt": 1763231651,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "9390",
+        "imdbId": "tt0116695",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Jerry Maguire - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/1996/jerrymaguurw.mkv",
+            "quality": "1080p",
+            "size": "2h 18m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Jerry Maguire - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/1996/jerrymaguurw.mkv",
+            "quality": "1080p",
+            "size": "2h 18m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Jerry Maguire - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/1996/jerrymaguurw.mkv",
+            "quality": "720p",
+            "size": "2h 18m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Jerry Maguire - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/1996/jerrymaguurw.mkv",
+            "quality": "720p",
+            "size": "2h 18m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:32692:s2e7",
+      "storedAt": 1763231471833,
+      "meta": {
+        "storedAt": 1763231471,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "32692",
+        "imdbId": "tt1595859",
+        "season": 2,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/137470?token=95bc872aa353e478fbe5939e4467a4dc&expires=1768415471&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:49011:s6e6",
+      "storedAt": 1763231515806,
+      "meta": {
+        "storedAt": 1763231515,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "49011",
+        "imdbId": "tt2660806",
+        "season": 6,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/206707?token=4f2c689ce042fac2738bd46a86b90c0b&expires=1768415515&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-15T18:39:11.852Z",
+    "totalOriginalEntries": 8,
+    "newItemsInThisBatch": 8,
+    "format": "compact_v1"
+  }
+}
