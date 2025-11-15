@@ -109917,12 +109917,118 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:39185:s10e1",
+      "storedAt": 1763234511028,
+      "meta": {
+        "storedAt": 1763234511,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "39185",
+        "imdbId": "tt1693592",
+        "season": 10,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/225805?token=26db9a3b9f222f648b7e5d859721b296&expires=1768418510&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:81723:s3e1",
+      "storedAt": 1763234330294,
+      "meta": {
+        "storedAt": 1763234330,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "81723",
+        "imdbId": "tt4406178",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-successfulcrab",
+            "url": "https://a.111477.xyz/tvs/The%20Gilded%20Age/Season%203/The%20Gilded%20Age%20(2022)%20-%20S03E01%20-%20Who%20is%20in%20Charge%20Here%20[WEBDL-1080p][EAC3%205.1][h264]-successfulcrab.mkv",
+            "quality": "1080p",
+            "size": "3.48 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Gilded Age (2022) - S03E01 - Who is in Charge Here [WEBDL-1080p][EAC3 5.1][h264]-successfulcrab.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][h264]-FLUX",
+            "url": "https://a.111477.xyz/tvs/The%20Gilded%20Age/Season%203/The%20Gilded%20Age%20(2022)%20-%20S03E01%20-%20Who%20is%20in%20Charge%20Here%20[WEBDL-1080p][EAC3%20Atmos%205.1][h264]-FLUX.mkv",
+            "quality": "1080p",
+            "size": "3.48 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Gilded Age (2022) - S03E01 - Who is in Charge Here [WEBDL-1080p][EAC3 Atmos 5.1][h264]-FLUX.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:81723:s3e1",
+      "storedAt": 1763234331374,
+      "meta": {
+        "storedAt": 1763234331,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "81723",
+        "imdbId": "tt4406178",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Gilded Age S3E1 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1751831976/s3/episode1.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-15T19:16:57.893Z",
-    "totalOriginalEntries": 2135,
-    "newItemsInThisBatch": 4,
+    "exportedAt": "2025-11-15T19:26:53.328Z",
+    "totalOriginalEntries": 2138,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
