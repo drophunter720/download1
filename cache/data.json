@@ -113388,12 +113388,725 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:9794",
+      "storedAt": 1763244297559,
+      "meta": {
+        "storedAt": 1763244297,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "9794",
+        "imdbId": "tt0424993",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "33okNjsB\n13.26 GB",
+            "url": "https://pixeldrain.net/api/file/33okNjsB",
+            "quality": "1080p",
+            "size": "13.26 GB",
+            "fileName": "33okNjsB",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "KQ3GEpGk\n6.96 GB",
+            "url": "https://pixeldrain.net/api/file/KQ3GEpGk",
+            "quality": "1080p",
+            "size": "6.96 GB",
+            "fileName": "KQ3GEpGk",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "mbV6Lu8k\n2.99 GB",
+            "url": "https://pixeldrain.net/api/file/mbV6Lu8k",
+            "quality": "1080p",
+            "size": "2.99 GB",
+            "fileName": "mbV6Lu8k",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:9794",
+      "storedAt": 1763244295067,
+      "meta": {
+        "storedAt": 1763244294,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "9794",
+        "imdbId": "tt0424993",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Employee of the Month - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2022/EmployeeOfTheMonth.mkv",
+            "quality": "1080p",
+            "size": "1h 18m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Employee of the Month - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2022/EmployeeOfTheMonth.mkv",
+            "quality": "1080p",
+            "size": "1h 18m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Employee of the Month - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2022/EmployeeOfTheMonth.mkv",
+            "quality": "720p",
+            "size": "1h 18m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Employee of the Month - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2022/EmployeeOfTheMonth.mkv",
+            "quality": "720p",
+            "size": "1h 18m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:129552:s1e7",
+      "storedAt": 1763244229381,
+      "meta": {
+        "storedAt": 1763244229,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "129552",
+        "imdbId": "tt13918776",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "dpYZ6MjX\n1.96 GB",
+            "url": "https://pixeldrain.net/api/file/dpYZ6MjX",
+            "quality": "1080p",
+            "size": "1.96 GB",
+            "fileName": "dpYZ6MjX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "cU7Cm2rq\n3.87 GB",
+            "url": "https://pixeldrain.net/api/file/cU7Cm2rq",
+            "quality": "2160p",
+            "size": "3.87 GB",
+            "fileName": "cU7Cm2rq",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "5sQu2Nmk\n3.78 GB",
+            "url": "https://pixeldrain.net/api/file/5sQu2Nmk",
+            "quality": "2160p",
+            "size": "3.78 GB",
+            "fileName": "5sQu2Nmk",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:129552:s1e7",
+      "storedAt": 1763244227893,
+      "meta": {
+        "storedAt": 1763244227,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "129552",
+        "imdbId": "tt13918776",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Proper][EAC3 Atmos 5 1][h265]-d3g",
+            "url": "https://a.111477.xyz/tvs/The%20Night%20Agent/Season%201/The%20Night%20Agent%20(2023)%20-%20S01E07%20-%20Best%20Served%20Cold%20[WEBRip-1080p%20Proper][EAC3%20Atmos%205.1][h265]-d3g.mkv",
+            "quality": "1080p",
+            "size": "1.04 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Night Agent (2023) - S01E07 - Best Served Cold [WEBRip-1080p Proper][EAC3 Atmos 5.1][h265]-d3g.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:129552:s1e7",
+      "storedAt": 1763244233866,
+      "meta": {
+        "storedAt": 1763244233,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "129552",
+        "imdbId": "tt13918776",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Night.Agent.S01E07.Best.Served.Cold.REPACK.720p.10bit.WEB-DL.Hindi.AAC.5.1-English.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/5kr5gv7U",
+            "quality": "720p",
+            "size": "270.2 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Night.Agent.S01E07.Best.Served.Cold.REPACK.720p.10bit.WEB-DL.Hindi.AAC.5.1-English.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2l8iiEhWiS-ITvRZCzE0VS9bXZ91vbTalYvg9DIih_LP_ygdQjqPKN6Qai0ZT1TMcJfrayUhJebk131QpTkpGwM8TvQ9PME-TO3treG0yBK0ai90wTOCg4fj93o_1uXo_Pj3pEMsE6X2mISroWyV0-Qt-wrErOvWPQatjZPIvgPbuWl15tSHaAmAc7H7ao5oqjlar4IAPyBzDcG0fSeITh1a7hkuAJigZ1QcddUa7AlJ1HjNFEHNmsZTrnJ5mS7Pu4d2e6U",
+            "quality": "720p",
+            "size": "270.2 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:129552:s1e7",
+      "storedAt": 1763244228485,
+      "meta": {
+        "storedAt": 1763244228,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "129552",
+        "imdbId": "tt13918776",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Night Agent S1E7 - 7. Best Served Cold",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/nightagent/s1/The Night Agent (2023) S01 EP07 720P 10bit HEVC NF WEBRiP [Hindi DDP 5.1 + ENG AAC 2.0] x265 ESubs ~ (ꫝ𝕤υ‌☈) ~ PSA.mkv",
+            "quality": "1080p",
+            "size": "44min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Night Agent S1E7 - 7. Best Served Cold",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/nightagent/s1/The Night Agent (2023) S01 EP07 720P 10bit HEVC NF WEBRiP [Hindi DDP 5.1 + ENG AAC 2.0] x265 ESubs ~ (ꫝ𝕤υ‌☈) ~ PSA.mkv",
+            "quality": "1080p",
+            "size": "44min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:129552:s1e8",
+      "storedAt": 1763244457186,
+      "meta": {
+        "storedAt": 1763244457,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "129552",
+        "imdbId": "tt13918776",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "VfaW9zZz\n1.95 GB",
+            "url": "https://pixeldrain.net/api/file/VfaW9zZz",
+            "quality": "1080p",
+            "size": "1.95 GB",
+            "fileName": "VfaW9zZz",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The Night Agent S01E08 2160p NF 10bit WEB-DL DoVi HDR HEVC [Hindi DDP 5.1 + English DDP.Atmos 5.1] H.265 HONE-4kHDHub.com\n3.25 GB",
+            "url": "https://pub-8665238777bb4575af3be7b624141905.r2.dev/The%20Night%20Agent%20S01E08%202160p%20NF%2010bit%20WEB-DL%20DoVi%20HDR%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DDP.Atmos%205.1]%20H.265%20HONE-4kHDHub.com.mkv?token=1763244456",
+            "quality": "2160p",
+            "size": "3.25 GB",
+            "fileName": "The Night Agent S01E08 2160p NF 10bit WEB-DL DoVi HDR HEVC [Hindi DDP 5.1 + English DDP.Atmos 5.1] H.265 HONE-4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "UwuqjPVV\n3.25 GB",
+            "url": "https://pixeldrain.net/api/file/UwuqjPVV",
+            "quality": "2160p",
+            "size": "3.25 GB",
+            "fileName": "UwuqjPVV",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Rt35Wotz\n3.92 GB",
+            "url": "https://pixeldrain.net/api/file/Rt35Wotz",
+            "quality": "2160p",
+            "size": "3.92 GB",
+            "fileName": "Rt35Wotz",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:129552:s1e8",
+      "storedAt": 1763244453894,
+      "meta": {
+        "storedAt": 1763244453,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "129552",
+        "imdbId": "tt13918776",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][x264]-CAKES",
+            "url": "https://a.111477.xyz/tvs/The%20Night%20Agent/Season%201/The%20Night%20Agent%20(2023)%20-%20S01E08%20-%20Redux%20[WEBDL-1080p][EAC3%20Atmos%205.1][x264]-CAKES.mkv",
+            "quality": "1080p",
+            "size": "1.74 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Night Agent (2023) - S01E08 - Redux [WEBDL-1080p][EAC3 Atmos 5.1][x264]-CAKES.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:129552:s1e8",
+      "storedAt": 1763244458437,
+      "meta": {
+        "storedAt": 1763244458,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "129552",
+        "imdbId": "tt13918776",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Night.Agent.S01E08.Redux.720p.10bit.WEB-DL.Hindi.AAC.5.1-English.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/fPLEEdud",
+            "quality": "720p",
+            "size": "276.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Night.Agent.S01E08.Redux.720p.10bit.WEB-DL.Hindi.AAC.5.1-English.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2n7cIkVIfcTsjgjlBtQwLJhBzLLYBuv4Nf9df9I7-WenuNNqOGtFbbxkiGJWeUjk2ctpozean-3pKxqFbxVDe1VM225AM4Hs9JoVLMyQkDSOdzs4LOzR9Dl6aarHmLR2cEkQwdIHrgvQnl9PrH7VB_eJEPS2ybUz6T4eFXVqeGQI2FHLbjfdiH7-4HJK7W-sw-Sx1EmNoxO2-qVvpPUkRZGZn8mVLt-eokFcRRoLRgY9fSK45dRvfGZusNsfVdevDr1xnAJ",
+            "quality": "720p",
+            "size": "276.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:129552:s1e8",
+      "storedAt": 1763244460005,
+      "meta": {
+        "storedAt": 1763244460,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "129552",
+        "imdbId": "tt13918776",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Night Agent S1E8 - 8. Redux",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/nightagent/s1/The Night Agent (2023) S01 EP08 720P 10bit HEVC NF WEBRiP [Hindi DDP 5.1 + ENG AAC 2.0] x265 ESubs ~ (ꫝ𝕤υ‌☈) ~ PSA.mkv",
+            "quality": "1080p",
+            "size": "45min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Night Agent S1E8 - 8. Redux",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/nightagent/s1/The Night Agent (2023) S01 EP08 720P 10bit HEVC NF WEBRiP [Hindi DDP 5.1 + ENG AAC 2.0] x265 ESubs ~ (ꫝ𝕤υ‌☈) ~ PSA.mkv",
+            "quality": "1080p",
+            "size": "45min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:129552:s1e9",
+      "storedAt": 1763244515695,
+      "meta": {
+        "storedAt": 1763244515,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "129552",
+        "imdbId": "tt13918776",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "9zyTXE2J\n1.94 GB",
+            "url": "https://pixeldrain.net/api/file/9zyTXE2J",
+            "quality": "1080p",
+            "size": "1.94 GB",
+            "fileName": "9zyTXE2J",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "v8jXF3eD\n3.45 GB",
+            "url": "https://pixeldrain.net/api/file/v8jXF3eD",
+            "quality": "2160p",
+            "size": "3.45 GB",
+            "fileName": "v8jXF3eD",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "aJozR6Vc\n3.95 GB",
+            "url": "https://pixeldrain.net/api/file/aJozR6Vc",
+            "quality": "2160p",
+            "size": "3.95 GB",
+            "fileName": "aJozR6Vc",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:129552:s1e9",
+      "storedAt": 1763244512799,
+      "meta": {
+        "storedAt": 1763244512,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "129552",
+        "imdbId": "tt13918776",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][x264]-TV-Multisubs",
+            "url": "https://a.111477.xyz/tvs/The%20Night%20Agent/Season%201/The%20Night%20Agent%20(2023)%20-%20S01E09%20-%20The%20Devil%20We%20Know%20[WEBDL-1080p][EAC3%20Atmos%205.1][x264]-TV-Multisubs.mkv",
+            "quality": "1080p",
+            "size": "777.09 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Night Agent (2023) - S01E09 - The Devil We Know [WEBDL-1080p][EAC3 Atmos 5.1][x264]-TV-Multisubs.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:129552:s1e9",
+      "storedAt": 1763244515726,
+      "meta": {
+        "storedAt": 1763244515,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "129552",
+        "imdbId": "tt13918776",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "The.Night.Agent.S01E09.The.Devil.We.Know.720p.10bit.WEB-DL.Hindi.AAC.5.1-English.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/GLBhoTe7",
+            "quality": "720p",
+            "size": "237.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "The.Night.Agent.S01E09.The.Devil.We.Know.720p.10bit.WEB-DL.Hindi.AAC.5.1-English.ESub.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kZsTUqEC1JqPwI_PpPE5vMrBs_Ui_82rSineru_xnvm-A3IgxkLWWs0v8LyCi7mUDH7gnNUYdPzPeZC0kIFsTzUMyL3X7AI1JoHGHX5cSZrws59Nqm0lW_W4BG9QfF2m8ddJlE4qQB3t3EohP4h2dkEpHODy4GJ80bWXEqYENVhbFL_Na0Cvj4yLE1rRKFYT4ZHuLca_2TvgFpzTYUKou3gTJ3yf7aUD7xGzFH-DIKFYboxXOMCic5ZiawXUsF9jc1llP_",
+            "quality": "720p",
+            "size": "237.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:129552:s1e9",
+      "storedAt": 1763244513690,
+      "meta": {
+        "storedAt": 1763244513,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "129552",
+        "imdbId": "tt13918776",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Night Agent S1E9 - 9. The Devil We Know",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/nightagent/s1/The Night Agent (2023) S01 EP09 720P 10bit HEVC NF WEBRiP [Hindi DDP 5.1 + ENG AAC 2.0] x265 ESubs ~ (ꫝ𝕤υ‌☈) ~ PSA.mkv",
+            "quality": "1080p",
+            "size": "45min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Night Agent S1E9 - 9. The Devil We Know",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/nightagent/s1/The Night Agent (2023) S01 EP09 720P 10bit HEVC NF WEBRiP [Hindi DDP 5.1 + ENG AAC 2.0] x265 ESubs ~ (ꫝ𝕤υ‌☈) ~ PSA.mkv",
+            "quality": "1080p",
+            "size": "45min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:1399:s7e6",
+      "storedAt": 1763244170360,
+      "meta": {
+        "storedAt": 1763244170,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "1399",
+        "imdbId": "tt0944947",
+        "season": 7,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Game Of Thrones S07E06 2160p CRAV WEB-DL SDR 10bit HEVC [Hindi DD 2 0 + English DD 5 1] x265 (YAGAMi-UDMovies)\n6.72GB",
+            "url": "https://worker-patient-math-b867.gadewit266.workers.dev/344c912911f0e12b1c13ea6aad971bf46451df1ffdf2aa06db81ed8c80d46532d648c1e612f1daa81b7500f4f8a7abd46641774fa8ab6afc8db9191111558064219061c4d253fd302354c9ff3a53a44bd8be5a5e2aecda95621c5e07bdddecdb288f6d999b7a6f068980f2eb375fecdf7a26331ec9aa52ca01e541a9760671310ab101a86f71600f48c4e2ec6ab4452c345aa56a25c3b61125de5b170d890251a6e1810195ea9864a79f07bbc28c2275::46f3460f83ac1903300a70f10e5c24a0/Game Of Thrones S07E06 2160p CRAV WEB-DL SDR 10bit HEVC [Hindi DD 2.0  English DD 5.1] x265 (YAGAMi-UDMovies).mkv",
+            "quality": "4K",
+            "size": "6.72GB",
+            "fileName": "Game Of Thrones S07E06 2160p CRAV WEB-DL SDR 10bit HEVC [Hindi DD 2.0 + English DD 5.1] x265 (YAGAMi-UDMovies).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Game of Thrones S07E06 1080p BluRay x264 [Hindi DD 2 0 - Eng DD 5 1]-MSubs~(Tom) WiKi\n5.79GB",
+            "url": "https://worker-super-grass-d760.tedisex254.workers.dev/a4acd1d35b040a0d1ce6c54afedf18917fe84cff15c00776651e27f34187cb87e1e442b896789a52fe20026aa74d1a6b3847cae968111bf113b607773d04ea7a2b67b10485a13dd584387454cab4f54d1869f021fad18190d0adc28617ea64e5c77e9d44ade8275015b5a266cb9768d32cba70eb687a4133fdaa6c60541c3bda9f0152b07d36146ef39983f5360d63ee1505f7f997668676d4bc81c7224d244bf6b3295898071630ac474a6158b82db2::d7309cd049d31098f118dfed78ff39aa/Game.of.Thrones.S07E06.1080p.BluRay.x264.[Hindi DD 2.0 - Eng DD 5.1]-MSubs(Tom) WiKi.mkv",
+            "quality": "1080p | BluRay",
+            "size": "5.79GB",
+            "fileName": "Game.of.Thrones.S07E06.1080p.BluRay.x264.[Hindi DD 2.0 - Eng DD 5.1]-MSubs~(Tom) WiKi.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-15T22:02:47.570Z",
-    "totalOriginalEntries": 2196,
-    "newItemsInThisBatch": 0,
+    "exportedAt": "2025-11-15T22:10:53.877Z",
+    "totalOriginalEntries": 2211,
+    "newItemsInThisBatch": 15,
     "format": "compact_v1"
   }
 }
