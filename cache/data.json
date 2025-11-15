@@ -103024,12 +103024,75 @@
         ],
         "count": 4
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:21510:s1e6",
+      "storedAt": 1763220552676,
+      "meta": {
+        "storedAt": 1763220552,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "21510",
+        "imdbId": "tt1358522",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-EPSiLON",
+            "url": "https://a.111477.xyz/tvs/White%20Collar/Season%201/White%20Collar%20(2009)%20-%20S01E06%20-%20All%20In%20[Bluray-1080p%20Remux][DTS-HD%20MA%205.1][AVC]-EPSiLON.mkv",
+            "quality": "1080p | REMUX",
+            "size": "6.59 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "White Collar (2009) - S01E06 - All In [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-EPSiLON.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:60708:s1e21",
+      "storedAt": 1763220802669,
+      "meta": {
+        "storedAt": 1763220802,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "60708",
+        "imdbId": "tt3749900",
+        "season": 1,
+        "episode": 21,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/236703?token=b863b87484e6dae0cd269a252fc20a58&expires=1768404802&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-15T15:24:36.902Z",
-    "totalOriginalEntries": 2017,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-15T15:34:59.859Z",
+    "totalOriginalEntries": 2019,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
