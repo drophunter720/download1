@@ -93514,12 +93514,205 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:tv:18165:s8e8",
+      "storedAt": 1763188989668,
+      "meta": {
+        "storedAt": 1763188989,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "18165",
+        "imdbId": "tt1405406",
+        "season": 8,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "LRnwdEoJ\n4.6 GB",
+            "url": "https://pixeldrain.net/api/file/LRnwdEoJ",
+            "quality": "1080p",
+            "size": "4.6 GB",
+            "fileName": "LRnwdEoJ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "7btqFMJH\n2.43 GB",
+            "url": "https://pixeldrain.net/api/file/7btqFMJH",
+            "quality": "1080p",
+            "size": "2.43 GB",
+            "fileName": "7btqFMJH",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "7HhcdRLh\n1.52 GB",
+            "url": "https://pixeldrain.net/api/file/7HhcdRLh",
+            "quality": "1080p",
+            "size": "1.52 GB",
+            "fileName": "7HhcdRLh",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:18165:s8e8",
+      "storedAt": 1763188988281,
+      "meta": {
+        "storedAt": 1763188988,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "18165",
+        "imdbId": "tt1405406",
+        "season": 8,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x264-SHORTBREHD",
+            "url": "https://a.111477.xyz/tvs/The%20Vampire%20Diaries/Season%208/The.Vampire.Diaries.S08E08.1080p.BluRay.x264-SHORTBREHD.mkv",
+            "quality": "1080p",
+            "size": "3.28 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Vampire.Diaries.S08E08.1080p.BluRay.x264-SHORTBREHD.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265-RARBG",
+            "url": "https://a.111477.xyz/tvs/The%20Vampire%20Diaries/Season%208/The.Vampire.Diaries.S08E08.1080p.BluRay.x265-RARBG.mp4",
+            "quality": "1080p",
+            "size": "678.18 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Vampire.Diaries.S08E08.1080p.BluRay.x265-RARBG.mp4"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies 10bit BluRay AAC5 1 HEVC-Vyndros",
+            "url": "https://a.111477.xyz/tvs/The%20Vampire%20Diaries/Season%208/The.Vampire.Diaries.S08E08.We.Have.History.Together.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv",
+            "quality": "1080p",
+            "size": "883.95 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Vampire.Diaries.S08E08.We.Have.History.Together.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS-HD MA 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/The%20Vampire%20Diaries/Season%208/The.Vampire.Diaries.S08E08.We.Have.History.Together.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "4.50 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Vampire.Diaries.S08E08.We.Have.History.Together.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:18165:s8e8",
+      "storedAt": 1763188992518,
+      "meta": {
+        "storedAt": 1763188992,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "18165",
+        "imdbId": "tt1405406",
+        "season": 8,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Vampire Diaries S8E8 - 8. We Have History Together",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/vampirediaries/s8/The.Vampire.Diaries.S08.E08.720p.English.AAC.5.1.x264.ESub.mkv",
+            "quality": "1080p",
+            "size": "43min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Vampire Diaries S8E8 - 8. We Have History Together",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/vampirediaries/s8/The.Vampire.Diaries.S08.E08.720p.English.AAC.5.1.x264.ESub.mkv",
+            "quality": "1080p",
+            "size": "43min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:18165:s8e8",
+      "storedAt": 1763189313467,
+      "meta": {
+        "storedAt": 1763189313,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "18165",
+        "imdbId": "tt1405406",
+        "season": 8,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "The Vampire Diaries S08E08 We Have History Together 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON-005\n4.6GB",
+            "url": "https://worker-bold-forest-d413.lokog96868.workers.dev/8984d0ca01fc05959c3d02cae371718391825f562046ccfbf7cc09aa5ab28bc2583724e2e0368f9bf2763ff3b9391dbf9948941bf11013ea1527e21e69d8aedb6ffd0eec4a0e8a9cf77b972be91a0e033ce93bcde687fc671f14aa6ef4f5097c7e29643556931cde054d1e2cf1c967b400106648b3ffcb22c22d1209dd50e41ffda6b7a9f096e3205563ccb246078a72bc3f83c89b12afa297ad0f29b1e13943200971b4c01f1380c824fc32b3b5c94f::883ad1ef1105273b104573908a4e58db/The.Vampire.Diaries.S08E08.We.Have.History.Together.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON-005.mkv",
+            "quality": "1080p",
+            "size": "4.6GB",
+            "fileName": "The.Vampire.Diaries.S08E08.We.Have.History.Together.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON-005.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-15T06:42:46.636Z",
-    "totalOriginalEntries": 1841,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-15T06:51:10.398Z",
+    "totalOriginalEntries": 1845,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
