@@ -86573,12 +86573,152 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:1695:s3e12",
+      "storedAt": 1763166489053,
+      "meta": {
+        "storedAt": 1763166489,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1695",
+        "imdbId": "tt0312172",
+        "season": 3,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/233646?token=866c99d423d5aab95c690b208464e62c&expires=1768350488&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:42025:s2e18",
+      "storedAt": 1763166056146,
+      "meta": {
+        "storedAt": 1763166056,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "42025",
+        "imdbId": "tt2548214",
+        "season": 2,
+        "episode": 18,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/183785?token=41a4fb933bbf4e115965b56e81217b32&expires=1768350055&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:73107:s3e8",
+      "storedAt": 1763166357524,
+      "meta": {
+        "storedAt": 1763166357,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "73107",
+        "imdbId": "tt5348176",
+        "season": 3,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][x264]-NTb",
+            "url": "https://a.111477.xyz/tvs/Barry/Season%203/Barry%20(2018)%20-%20S03E08%20-%20starting%20now%20[WEBDL-1080p][AC3%205.1][x264]-NTb.mkv",
+            "quality": "1080p",
+            "size": "1.76 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Barry (2018) - S03E08 - starting now [WEBDL-1080p][AC3 5.1][x264]-NTb.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:73107:s3e8",
+      "storedAt": 1763166360260,
+      "meta": {
+        "storedAt": 1763166360,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "73107",
+        "imdbId": "tt5348176",
+        "season": 3,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Barry S3E8 - 8. starting now",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/barry/s3/Barry S03E08 {English} 720p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "29min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Barry S3E8 - 8. starting now",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/barry/s3/Barry S03E08 {English} 720p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "29min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-15T00:16:02.748Z",
-    "totalOriginalEntries": 1741,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-15T00:28:57.802Z",
+    "totalOriginalEntries": 1745,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
