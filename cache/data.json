@@ -111781,12 +111781,197 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1013860",
+      "storedAt": 1763240411004,
+      "meta": {
+        "storedAt": 1763240410,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1013860",
+        "imdbId": "tt21094994",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/146617?token=ba66777f0c44d2a7a25f6058b1bb150b&expires=1768424409&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:279935",
+      "storedAt": 1763240827947,
+      "meta": {
+        "storedAt": 1763240827,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "279935",
+        "imdbId": "tt0298300",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Red Dragon 2002 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Org NF Hindi DDP 5.1 + English DTS-HD MA 5.1] x265 (CiNEPHiLES-4kHdHub)\n79.76 GB",
+            "url": "https://still-cloud-afc6.forab43160.workers.dev/aefc4ac02f2d00c443979b47f7595f4be0255cabd92edc9fb3e14b5c2ee8dbc1335d9f36794039ddb96699a1140b1ded::259464a53d42bb0717a6e7b33a31edc9/1397326935/Red%20Dragon%202002%202160p%20UHD%20BluRay%20REMUX%20DV%20HDR%2010bit%20HEVC%20[Org%20NF%20Hindi%20DDP%205.1%20+%20English%20DTS-HD%20MA%205.1]%20x265%20(CiNEPHiLES-4kHdHub).mkv",
+            "quality": "2160p",
+            "size": "79.76 GB",
+            "fileName": "Red Dragon 2002 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Org NF Hindi DDP 5.1 + English DTS-HD MA 5.1] x265 (CiNEPHiLES-4kHdHub)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Red Dragon (2002) 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English DTS-HD MA 5.1] x264 (FraMeSToR-KiNGSMAN)-4kHdHub\n32.39 GB",
+            "url": "https://divine-frost-814d.hegafip5235870.workers.dev/9cad2370d9745afcc68d5a080e549f6fc1c9da785847ba67ad0f5846443e5f1769efeba4bee2cfec7ed11f9f4f413789::ba49c70b4f700dbb6f4cea4d4db28133/1397326935/Red%20Dragon%20(2002)%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%205.1%20+%20English%20DTS-HD%20MA%205.1]%20x264%20(FraMeSToR-KiNGSMAN)-4kHdHub.mkv",
+            "quality": "1080p",
+            "size": "32.39 GB",
+            "fileName": "Red Dragon (2002) 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English DTS-HD MA 5.1] x264 (FraMeSToR-KiNGSMAN)-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Red Dragon (2002) 1080p UHD BluRay DV HDR 10bit HEVC [Hindi DDP 5.1 + English DDP 5.1] x265 (PTer-KiNGSMAN)-4kHdHub\n19.4 GB",
+            "url": "https://young-wood-3c70.vatet33960357.workers.dev/20b48d3d179fb957eb3b3ce4e19b859c8218939dfe4b100dbd23f94e6d0a555699e20f2e30c5b639d2cb0fa0c722e7dd::32577b48865b7c44361707b15f3bd06f/1397326935/Red%20Dragon%20(2002)%201080p%20UHD%20BluRay%20DV%20HDR%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DDP%205.1]%20x265%20(PTer-KiNGSMAN)-4kHdHub.mkv",
+            "quality": "1080p",
+            "size": "19.4 GB",
+            "fileName": "Red Dragon (2002) 1080p UHD BluRay DV HDR 10bit HEVC [Hindi DDP 5.1 + English DDP 5.1] x265 (PTer-KiNGSMAN)-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Red Dragon (2002) Remastered 1080p BluRay [Hindi DDP 5.1 + English DDP 5.1] x264 (PiGNUS-KiNGSMAN)-4kHdHub\n18.69 GB",
+            "url": "https://files.markscans.workers.dev/7804c4cf04642676f3bb41d6d8e3b0ab0d903eae91d43d8dca6250fd8748ee4471240f9ee1fdd7f1ac1c914edab2a15d::4ecf4650685607e86b239d5be3eb1612/1397326935/Red%20Dragon%20(2002)%20Remastered%201080p%20BluRay%20[Hindi%20DDP%205.1%20+%20English%20DDP%205.1]%20x264%20(PiGNUS-KiNGSMAN)-4kHdHub.mkv",
+            "quality": "1080p",
+            "size": "18.69 GB",
+            "fileName": "Red Dragon (2002) Remastered 1080p BluRay [Hindi DDP 5.1 + English DDP 5.1] x264 (PiGNUS-KiNGSMAN)-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "YST7p7AU\n12.79 GB",
+            "url": "https://pixeldrain.net/api/file/YST7p7AU",
+            "quality": "2160p",
+            "size": "12.79 GB",
+            "fileName": "YST7p7AU",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "os1ZKMJ9\n5.53 GB",
+            "url": "https://pixeldrain.net/api/file/os1ZKMJ9",
+            "quality": "1080p",
+            "size": "5.53 GB",
+            "fileName": "os1ZKMJ9",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1432:s1e4",
+      "storedAt": 1763240449621,
+      "meta": {
+        "storedAt": 1763240449,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1432",
+        "imdbId": "tt0412253",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/202383?token=f87ab401de78de1f2d0aafd1574d53ae&expires=1768424449&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:221120:s1e7",
+      "storedAt": 1763240842047,
+      "meta": {
+        "storedAt": 1763240842,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "221120",
+        "imdbId": "tt27415863",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/230516?token=14916029ce26cd0e43548d58f0754055&expires=1768424841&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-15T20:53:14.250Z",
-    "totalOriginalEntries": 2166,
-    "newItemsInThisBatch": 7,
+    "exportedAt": "2025-11-15T21:08:14.051Z",
+    "totalOriginalEntries": 2170,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
