@@ -1,0 +1,100 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:tv:138328:s1e5",
+      "storedAt": 1763184256522,
+      "meta": {
+        "storedAt": 1763184256,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "138328",
+        "imdbId": "tt14167338",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "BpumkVD2\n1.38 GB",
+            "url": "https://pixeldrain.net/api/file/BpumkVD2",
+            "quality": "1080p",
+            "size": "1.38 GB",
+            "fileName": "BpumkVD2",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "yvubwV8h\n2.91 GB",
+            "url": "https://pixeldrain.net/api/file/yvubwV8h",
+            "quality": "2160p",
+            "size": "2.91 GB",
+            "fileName": "yvubwV8h",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:60735:s3e19",
+      "storedAt": 1763184362262,
+      "meta": {
+        "storedAt": 1763184362,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "60735",
+        "imdbId": "tt3107288",
+        "season": 3,
+        "episode": 19,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Flash S3E19 - 19. The Once and Future Flash",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/flash/s3/The.Flash.S03.E19.BluRay.720p.English.AAC.5.1.x264.ESub.mkv",
+            "quality": "1080p",
+            "size": "42min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Flash S3E19 - 19. The Once and Future Flash",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/flash/s3/The.Flash.S03.E19.BluRay.720p.English.AAC.5.1.x264.ESub.mkv",
+            "quality": "1080p",
+            "size": "42min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-15T05:32:16.525Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
