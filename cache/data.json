@@ -114920,12 +114920,178 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:754",
+      "storedAt": 1763247040839,
+      "meta": {
+        "storedAt": 1763247040,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "754",
+        "imdbId": "tt0119094",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Dante's Peak 1997 1080p BluRay x264 AVC [Org VCD Hindi DD 2.0 ~ 224Kbps + English DTS-HDMA 5.1] ESub ~ FGT-4kHDHub.com\n11.91 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Dante's%20Peak%201997%201080p%20BluRay%20x264%20AVC%20[Org%20VCD%20Hindi%20DD%202.0%20~%20224Kbps%20+%20English%20DTS-HDMA%205.1]%20ESub%20~%20FGT-4kHDHub.com.mkv?token=1763247040",
+            "quality": "1080p",
+            "size": "11.91 GB",
+            "fileName": "Dante's Peak 1997 1080p BluRay x264 AVC [Org VCD Hindi DD 2.0 ~ 224Kbps + English DTS-HDMA 5.1] ESub ~ FGT-4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "qJMw4US4\n11.91 GB",
+            "url": "https://pixeldrain.net/api/file/qJMw4US4",
+            "quality": "1080p",
+            "size": "11.91 GB",
+            "fileName": "qJMw4US4",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "wfaP9N7E\n6.3 GB",
+            "url": "https://pixeldrain.net/api/file/wfaP9N7E",
+            "quality": "1080p",
+            "size": "6.3 GB",
+            "fileName": "wfaP9N7E",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Dante's Peak 1997 1080p 10bit BDRip x265 HEVC [Org VCD Hindi DD 2.0 ~ 224Kbps + English DTS-HDMA 5.1] ESub ~ JBENT [TAoE]-4kHDHub.com\n6.3 GB",
+            "url": "https://pub-56bdfa0c60bf47dda84700b1718daff2.r2.dev/Dante's%20Peak%201997%201080p%2010bit%20BDRip%20x265%20HEVC%20[Org%20VCD%20Hindi%20DD%202.0%20~%20224Kbps%20+%20English%20DTS-HDMA%205.1]%20ESub%20~%20JBENT%20[TAoE]-4kHDHub.com.mkv",
+            "quality": "1080p",
+            "size": "6.3 GB",
+            "fileName": "Dante's Peak 1997 1080p 10bit BDRip x265 HEVC [Org VCD Hindi DD 2.0 ~ 224Kbps + English DTS-HDMA 5.1] ESub ~ JBENT [TAoE]-4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:754",
+      "storedAt": 1763247040747,
+      "meta": {
+        "storedAt": 1763247040,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "754",
+        "imdbId": "tt0119094",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Face/Off - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/1997/faceoff.mkv",
+            "quality": "1080p",
+            "size": "2h 18m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Face/Off - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/1997/faceoff.mkv",
+            "quality": "1080p",
+            "size": "2h 18m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Face/Off - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/1997/faceoff.mkv",
+            "quality": "720p",
+            "size": "2h 18m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Face/Off - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/1997/faceoff.mkv",
+            "quality": "720p",
+            "size": "2h 18m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:244047:s1e6",
+      "storedAt": 1763247042394,
+      "meta": {
+        "storedAt": 1763247042,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "244047",
+        "imdbId": "tt30788492",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/369895?token=00a760fefdf665352a3a9a97f5b28ae4&expires=1768431041&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-15T22:48:59.960Z",
-    "totalOriginalEntries": 2225,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-15T22:58:45.483Z",
+    "totalOriginalEntries": 2228,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
