@@ -105304,12 +105304,116 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:256226:s1e5",
+      "storedAt": 1763225583971,
+      "meta": {
+        "storedAt": 1763225583,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "256226",
+        "imdbId": "tt37890201",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 2 0][h264]-DUSKLiGHT",
+            "url": "https://a.111477.xyz/tvs/Dear%20X/Season%201/Dear%20X%20(2025)%20-%20S01E05%20-%20Grant%20me%20The%20Power%20to%20Rise%20to%20the%20Top%20[WEBDL-1080p][AAC%202.0][h264]-DUSKLiGHT.mkv",
+            "quality": "1080p",
+            "size": "480.55 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Dear X (2025) - S01E05 - Grant me The Power to Rise to the Top [WEBDL-1080p][AAC 2.0][h264]-DUSKLiGHT.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:44217:s4e8",
+      "storedAt": 1763225477270,
+      "meta": {
+        "storedAt": 1763225477,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "44217",
+        "imdbId": "tt2306299",
+        "season": 4,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/309382?token=dfb5582536c9a290e7afe135ab5e9707&expires=1768409476&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:790:s5e6",
+      "storedAt": 1763225277249,
+      "meta": {
+        "storedAt": 1763225277,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "790",
+        "imdbId": "tt0094525",
+        "season": 5,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][AC3 2 0][AVC]-EPSiLON",
+            "url": "https://a.111477.xyz/tvs/Agatha%20Christie",
+            "quality": "1080p | REMUX",
+            "size": "8.21 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Agatha Christie&#x27;s Poirot (1989) - S05E06 - The Chocolate Box [Bluray-1080p Remux][AC3 2.0][AVC]-EPSiLON.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 2 0][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Agatha%20Christie",
+            "quality": "1080p",
+            "size": "1.75 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Agatha Christie&#x27;s Poirot (1989) - S05E06 - The Chocolate Box [Bluray-1080p][EAC3 2.0][x265]-iVy.mkv"
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-15T16:45:48.991Z",
-    "totalOriginalEntries": 2052,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-15T16:54:59.192Z",
+    "totalOriginalEntries": 2055,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
