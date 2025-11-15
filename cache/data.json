@@ -88570,12 +88570,345 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1388451",
+      "storedAt": 1763177856050,
+      "meta": {
+        "storedAt": 1763177856,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1388451",
+        "imdbId": "tt34442678",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/342847?token=dde9534b2bdc6aa8ac5168c1001aef79&expires=1768361855&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:2008",
+      "storedAt": 1763178060366,
+      "meta": {
+        "storedAt": 1763178060,
+        "urlCount": 16,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "2008",
+        "imdbId": "tt0417976",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Pride and Prejudice 2005 1080p BluRay REMUX VC-1 [Hindi NF DDP 5.1 640kbps + English DTS-HD MA 5.1] ESub-SPBD-4kHdHub\n31.99 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Pride%20and%20Prejudice%202005%201080p%20BluRay%20REMUX%20VC-1%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DTS-HD%20MA%205.1]%20ESub-SPBD-4kHdHub.mkv?token=1763175972",
+            "quality": "1080p",
+            "size": "31.99 GB",
+            "fileName": "Pride and Prejudice 2005 1080p BluRay REMUX VC-1 [Hindi NF DDP 5.1 640kbps + English DTS-HD MA 5.1] ESub-SPBD-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n31.99 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=gTpgWgJWUDKJ&n=iphkACqB&fn=Pride%20and%20Prejudice%20(2005)%201080p%20BluRay%20REMUX%20VC-1%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DTS-HD%20MA%205.1]%20ESub-(SPBD-4kHdHub).mkv",
+            "quality": "1080p",
+            "size": "31.99 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Pride and Prejudice 2005 1080p BluRay REMUX VC-1 [Hindi NF DDP 5.1 640kbps + English DTS-HD MA 5.1] ESub-SPBD-4kHdHub\n31.99 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Pride%20and%20Prejudice%202005%201080p%20BluRay%20REMUX%20VC-1%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DTS-HD%20MA%205.1]%20ESub-SPBD-4kHdHub.mkv?token=1763178060",
+            "quality": "1080p",
+            "size": "31.99 GB",
+            "fileName": "Pride and Prejudice 2005 1080p BluRay REMUX VC-1 [Hindi NF DDP 5.1 640kbps + English DTS-HD MA 5.1] ESub-SPBD-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n31.99 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=5qhDvow3RLJA&n=OoxHHRIL&fn=Pride%20and%20Prejudice%20(2005)%201080p%20BluRay%20REMUX%20VC-1%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DTS-HD%20MA%205.1]%20ESub-(SPBD-4kHdHub).mkv",
+            "quality": "1080p",
+            "size": "31.99 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Pride and Prejudice 2005 1080p BluRay x264 [Hindi NF DDP 5.1 640kbps + English DD 5.1] ESub-DON-4kHdHub\n15.66 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Pride%20and%20Prejudice%202005%201080p%20BluRay%20x264%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DD%205.1]%20ESub-DON-4kHdHub.mkv?token=1763175972",
+            "quality": "1080p",
+            "size": "15.66 GB",
+            "fileName": "Pride and Prejudice 2005 1080p BluRay x264 [Hindi NF DDP 5.1 640kbps + English DD 5.1] ESub-DON-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "dzqr2cjd\n15.66 GB",
+            "url": "https://pixeldrain.net/api/file/dzqr2cjd",
+            "quality": "1080p",
+            "size": "15.66 GB",
+            "fileName": "dzqr2cjd",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n15.66 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=0cAh2kZmxZBL&n=W9hm0BYZ&fn=Pride%20and%20Prejudice%20(2005)%201080p%20BluRay%20x264%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DD%205.1]%20ESub-(DON-4kHdHub).mkv",
+            "quality": "1080p",
+            "size": "15.66 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Pride and Prejudice 2005 1080p BluRay x264 [Hindi NF DDP 5.1 640kbps + English DD 5.1] ESub-DON-4kHdHub\n15.66 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Pride%20and%20Prejudice%202005%201080p%20BluRay%20x264%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DD%205.1]%20ESub-DON-4kHdHub.mkv?token=1763178060",
+            "quality": "1080p",
+            "size": "15.66 GB",
+            "fileName": "Pride and Prejudice 2005 1080p BluRay x264 [Hindi NF DDP 5.1 640kbps + English DD 5.1] ESub-DON-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Pride and Prejudice 2005 2160p 10bit SDR NF WEB-DL HEVC x265 [Hindi NF DDP 5.1 640kbps + English DTS-HD MA 5.1] ESub-FLUX-4kHdHub\n15.15 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Pride%20and%20Prejudice%202005%202160p%2010bit%20SDR%20NF%20WEB-DL%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DTS-HD%20MA%205.1]%20ESub-FLUX-4kHdHub.mkv?token=1763175972",
+            "quality": "2160p",
+            "size": "15.15 GB",
+            "fileName": "Pride and Prejudice 2005 2160p 10bit SDR NF WEB-DL HEVC x265 [Hindi NF DDP 5.1 640kbps + English DTS-HD MA 5.1] ESub-FLUX-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "H54n8BsF\n15.15 GB",
+            "url": "https://pixeldrain.net/api/file/H54n8BsF",
+            "quality": "2160p",
+            "size": "15.15 GB",
+            "fileName": "H54n8BsF",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "g\n15.15 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=JuMOH9o3gAoa&n=K9pGEKbD&fn=Pride%20and%20Prejudice%20(2005)%202160p%2010bit%20SDR%20NF%20WEB-DL%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DTS-HD%20MA%205.1]%20ESub-(FLUX-4kHdHub).mkv",
+            "quality": "2160p",
+            "size": "15.15 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Pride and Prejudice 2005 2160p 10bit SDR NF WEB-DL HEVC x265 [Hindi NF DDP 5.1 640kbps + English DTS-HD MA 5.1] ESub-FLUX-4kHdHub\n15.15 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Pride%20and%20Prejudice%202005%202160p%2010bit%20SDR%20NF%20WEB-DL%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DTS-HD%20MA%205.1]%20ESub-FLUX-4kHdHub.mkv?token=1763178060",
+            "quality": "2160p",
+            "size": "15.15 GB",
+            "fileName": "Pride and Prejudice 2005 2160p 10bit SDR NF WEB-DL HEVC x265 [Hindi NF DDP 5.1 640kbps + English DTS-HD MA 5.1] ESub-FLUX-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Pride and Prejudice 2005 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English AAC 5.1] ESub-MNHD-FRDS-4kHdHub\n4.79 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Pride%20and%20Prejudice%202005%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20AAC%205.1]%20ESub-MNHD-FRDS-4kHdHub.mkv?token=1763175972",
+            "quality": "1080p",
+            "size": "4.79 GB",
+            "fileName": "Pride and Prejudice 2005 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English AAC 5.1] ESub-MNHD-FRDS-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "uGEsKDEJ\n4.79 GB",
+            "url": "https://pixeldrain.net/api/file/uGEsKDEJ",
+            "quality": "1080p",
+            "size": "4.79 GB",
+            "fileName": "uGEsKDEJ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n4.79 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=VMJqm9pV2JIT&n=aspX1Ara&fn=Pride%20and%20Prejudice%20(2005)%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20AAC%205.1]%20ESub-(MNHD-FRDS-4kHdHub).mkv",
+            "quality": "1080p",
+            "size": "4.79 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Pride and Prejudice 2005 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English AAC 5.1] ESub-MNHD-FRDS-4kHdHub\n4.79 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Pride%20and%20Prejudice%202005%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20AAC%205.1]%20ESub-MNHD-FRDS-4kHdHub.mkv?token=1763178060",
+            "quality": "1080p",
+            "size": "4.79 GB",
+            "fileName": "Pride and Prejudice 2005 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English AAC 5.1] ESub-MNHD-FRDS-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 16
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:2008",
+      "storedAt": 1763178063803,
+      "meta": {
+        "storedAt": 1763178063,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "2008",
+        "imdbId": "tt0417976",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "The Promised Land (2023) 1080p BluRay 10bit HEVC [Hindi AAC 5 1 + English AAC 5 1] x265 (DH-UHDMovies)\n2.66GB",
+            "url": "https://worker-flat-violet-2564.tafipoj924.workers.dev/a6b5b30d664dea390398ec4aad6135beea9a4fe8c67262c3433079421c47d030fe797061e3c28e51c37a27f307125f8991397dba0944c11d5e339e6140a864756ae12bad353caccd506553bea61eb4631087fc8c4a03f06e952da40b22a0bab05128b57b01db59541fb3013d773c0d7f1da1d5cbd9a6bb2ddb37c6b23435da4e8b27cce10fdf448d9ff738bbc1e218f7bb28809d943df99df68a4bee6123f551020a5f499599e537412e83eeb9eca344::ab583b38180b74b4f480ba3b602ac148/The Promised Land (2023) 1080p BluRay 10bit HEVC [Hindi AAC 5.1  English AAC 5.1] x265 (DH-UHDMovies).mkv",
+            "quality": "1080p | BluRay",
+            "size": "2.66GB",
+            "fileName": "The Promised Land (2023) 1080p BluRay 10bit HEVC [Hindi AAC 5.1 + English AAC 5.1] x265 (DH-UHDMovies).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:63333:s2e1",
+      "storedAt": 1763177601575,
+      "meta": {
+        "storedAt": 1763177601,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "63333",
+        "imdbId": "tt4179452",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/316091?token=8d459940ce460fe49dff67393c058618&expires=1768361601&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:80805:s2e3",
+      "storedAt": 1763178010305,
+      "meta": {
+        "storedAt": 1763178010,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "80805",
+        "imdbId": "tt7741830",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/243168?token=d8b65d754cd7167b95ff6c206360220a&expires=1768362009&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-15T03:30:54.975Z",
-    "totalOriginalEntries": 1780,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-15T03:41:23.501Z",
+    "totalOriginalEntries": 1785,
+    "newItemsInThisBatch": 5,
     "format": "compact_v1"
   }
 }
