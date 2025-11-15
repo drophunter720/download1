@@ -94471,12 +94471,57 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:streamflix:tv:70593:s1e6",
+      "storedAt": 1763190558424,
+      "meta": {
+        "storedAt": 1763190558,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "70593",
+        "imdbId": "tt6611916",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Kingdom S1E6 - 6. Please Refrain from Crying",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/kingdom/s1/Kingdom S01E06 {English-Korean} 720p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Kingdom S1E6 - 6. Please Refrain from Crying",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/kingdom/s1/Kingdom S01E06 {English-Korean} 720p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-15T07:02:49.123Z",
-    "totalOriginalEntries": 1853,
-    "newItemsInThisBatch": 8,
+    "exportedAt": "2025-11-15T07:10:55.744Z",
+    "totalOriginalEntries": 1854,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
