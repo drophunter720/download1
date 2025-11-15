@@ -99518,12 +99518,44 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:61720:s3e51",
+      "storedAt": 1763205040662,
+      "meta": {
+        "storedAt": 1763205040,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61720",
+        "imdbId": "tt2171665",
+        "season": 3,
+        "episode": 51,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/193594?token=6fa502a74711cc774f4fc2dd4a589383&expires=1768389039&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-15T11:03:55.251Z",
-    "totalOriginalEntries": 1956,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-15T11:16:02.156Z",
+    "totalOriginalEntries": 1957,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
