@@ -1,0 +1,84 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:tv:1395:s2e23",
+      "storedAt": 1763207998080,
+      "meta": {
+        "storedAt": 1763207998,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1395",
+        "imdbId": "tt0397442",
+        "season": 2,
+        "episode": 23,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x264]-TrollHD",
+            "url": "https://a.111477.xyz/tvs/Gossip%20Girl/Season%202/Gossip%20Girl%20(2007)%20-%20S02E23%20-%20The%20Wrath%20of%20Con%20[WEBDL-1080p][EAC3%205.1][x264]-TrollHD.mkv",
+            "quality": "1080p",
+            "size": "4.40 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Gossip Girl (2007) - S02E23 - The Wrath of Con [WEBDL-1080p][EAC3 5.1][x264]-TrollHD.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip x265-HiQVE",
+            "url": "https://a.111477.xyz/tvs/Gossip%20Girl/Season%202/Gossip.Girl.S02E23.1080p.WEBRip.x265-HiQVE.mkv",
+            "quality": "1080p",
+            "size": "1.30 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Gossip.Girl.S02E23.1080p.WEBRip.x265-HiQVE.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1395:s2e23",
+      "storedAt": 1763207999149,
+      "meta": {
+        "storedAt": 1763207999,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1395",
+        "imdbId": "tt0397442",
+        "season": 2,
+        "episode": 23,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Gossip Girl S2E23 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1741344658/s2/episode23.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-15T12:05:25.273Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
