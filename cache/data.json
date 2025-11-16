@@ -140752,12 +140752,164 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:41472",
+      "storedAt": 1763300437577,
+      "meta": {
+        "storedAt": 1763300437,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "41472",
+        "imdbId": "tt0388098",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "4161a959261fc8f539c173841156da3a\n22.11 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/4161a959261fc8f539c173841156da3a?token=1763300436",
+            "quality": "1080p",
+            "size": "22.11 GB",
+            "fileName": "4161a959261fc8f539c173841156da3a",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "6979832137b9a89bc3a9e4c6a230f652\n14.07 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/6979832137b9a89bc3a9e4c6a230f652?token=1763300436",
+            "quality": "1080p",
+            "size": "14.07 GB",
+            "fileName": "6979832137b9a89bc3a9e4c6a230f652",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "YBzPmYht\n14.07 GB",
+            "url": "https://pixeldrain.net/api/file/YBzPmYht",
+            "quality": "1080p",
+            "size": "14.07 GB",
+            "fileName": "YBzPmYht",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "ba59a98f8c455a8208b50f879f5d404a\n5.2 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/ba59a98f8c455a8208b50f879f5d404a?token=1763300436",
+            "quality": "1080p",
+            "size": "5.2 GB",
+            "fileName": "ba59a98f8c455a8208b50f879f5d404a",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "yaYajPwa\n5.2 GB",
+            "url": "https://pixeldrain.net/api/file/yaYajPwa",
+            "quality": "1080p",
+            "size": "5.2 GB",
+            "fileName": "yaYajPwa",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:97546:s2e8",
+      "storedAt": 1763300559946,
+      "meta": {
+        "storedAt": 1763300559,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "97546",
+        "imdbId": "tt10986410",
+        "season": 2,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/214448?token=c6816204843caeca30bdf05e11ed0682&expires=1768484559&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:97546:s3e6",
+      "storedAt": 1763300482990,
+      "meta": {
+        "storedAt": 1763300482,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "97546",
+        "imdbId": "tt10986410",
+        "season": 3,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DV][10bit][x265][EAC3 Atmos 5 1]-NTb",
+            "url": "https://a.111477.xyz/tvs/Ted%20Lasso/Season%203/Ted%20Lasso%20(2020)%20-%20S03E06%20-%20Sunflowers%20[WEBDL-2160p][DV][10bit][x265][EAC3%20Atmos%205.1]-NTb.mkv",
+            "quality": "2160p | DV",
+            "size": "11.29 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Ted Lasso (2020) - S03E06 - Sunflowers [WEBDL-2160p][DV][10bit][x265][EAC3 Atmos 5.1]-NTb.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][h264]-NTb",
+            "url": "https://a.111477.xyz/tvs/Ted%20Lasso/Season%203/Ted%20Lasso%20(2020)%20-%20S03E06%20-%20Sunflowers%20[WEBDL-1080p][EAC3%20Atmos%205.1][h264]-NTb.mkv",
+            "quality": "1080p",
+            "size": "4.75 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Ted Lasso (2020) - S03E06 - Sunflowers [WEBDL-1080p][EAC3 Atmos 5.1][h264]-NTb.mkv"
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-16T13:34:29.140Z",
-    "totalOriginalEntries": 2654,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-16T13:43:02.596Z",
+    "totalOriginalEntries": 2657,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
