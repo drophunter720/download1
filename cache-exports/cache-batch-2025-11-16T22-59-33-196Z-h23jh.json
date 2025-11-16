@@ -1,0 +1,97 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:350312",
+      "storedAt": 1763333493134,
+      "meta": {
+        "storedAt": 1763333493,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "350312",
+        "imdbId": "tt4849438",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "t45GcESy\n4.07 GB",
+            "url": "https://pixeldrain.net/api/file/t45GcESy",
+            "quality": "1080p",
+            "size": "4.07 GB",
+            "fileName": "t45GcESy",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 720p",
+            "title": "tUg5PX87\n1.33 GB",
+            "url": "https://pixeldrain.net/api/file/tUg5PX87",
+            "quality": "720p",
+            "size": "1.33 GB",
+            "fileName": "tUg5PX87",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "At96HXwz\n1.29 GB",
+            "url": "https://pixeldrain.net/api/file/At96HXwz",
+            "quality": "1080p",
+            "size": "1.29 GB",
+            "fileName": "At96HXwz",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:14658:s37e2",
+      "storedAt": 1763333731821,
+      "meta": {
+        "storedAt": 1763333731,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "14658",
+        "imdbId": "tt0239195",
+        "season": 37,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/470020?token=2b02161ca2fb3c6022f8ad222fe1adc4&expires=1768517729&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-16T22:59:33.197Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
