@@ -148468,12 +148468,44 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:1416:s3e19",
+      "storedAt": 1763312723829,
+      "meta": {
+        "storedAt": 1763312723,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1416",
+        "imdbId": "tt0413573",
+        "season": 3,
+        "episode": 19,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/192850?token=114762703a59f28156269f6d015f4dcd&expires=1768496723&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-16T17:04:13.641Z",
-    "totalOriginalEntries": 2784,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-16T17:13:31.177Z",
+    "totalOriginalEntries": 2785,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
