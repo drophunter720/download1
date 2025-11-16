@@ -153450,12 +153450,673 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:11220",
+      "storedAt": 1763322996316,
+      "meta": {
+        "storedAt": 1763322996,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "11220",
+        "imdbId": "tt0112913",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/274437?token=e6613c49a70eb0768cb6adf416216dd4&expires=1768506994&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:1539455",
+      "storedAt": 1763323162472,
+      "meta": {
+        "storedAt": 1763323162,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1539455",
+        "imdbId": "tt35661996",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "WWE.SummerSlam.2025.Saturday.1080p.NF.WEB-DL.AAC2.0.HFR.H.265-4kHdHub.Com\n15.08 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/WWE.SummerSlam.2025.Saturday.1080p.NF.WEB-DL.AAC2.0.HFR.H.265-4kHdHub.Com.mkv?token=1763323161",
+            "quality": "1080p",
+            "size": "15.08 GB",
+            "fileName": "WWE.SummerSlam.2025.Saturday.1080p.NF.WEB-DL.AAC2.0.HFR.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "NtmUqfoP\n15.08 GB",
+            "url": "https://pixeldrain.net/api/file/NtmUqfoP",
+            "quality": "1080p",
+            "size": "15.08 GB",
+            "fileName": "NtmUqfoP",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "WWE.SummerSlam.2025.Saturday.1080p.NF.WEB-DL.AAC2.0.H.264-4kHdHub.Com\n12.68 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/WWE.SummerSlam.2025.Saturday.1080p.NF.WEB-DL.AAC2.0.H.264-4kHdHub.Com.mkv?token=1763323161",
+            "quality": "1080p",
+            "size": "12.68 GB",
+            "fileName": "WWE.SummerSlam.2025.Saturday.1080p.NF.WEB-DL.AAC2.0.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "GH8wUSqN\n12.68 GB",
+            "url": "https://pixeldrain.net/api/file/GH8wUSqN",
+            "quality": "1080p",
+            "size": "12.68 GB",
+            "fileName": "GH8wUSqN",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "WWE.SummerSlam.2025.Saturday.1080p.LQ.NF.WEB-DL.AAC2.0.H.264-4kHdHub.Com\n4.08 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/WWE.SummerSlam.2025.Saturday.1080p.LQ.NF.WEB-DL.AAC2.0.H.264-4kHdHub.Com.mkv?token=1763323161",
+            "quality": "1080p",
+            "size": "4.08 GB",
+            "fileName": "WWE.SummerSlam.2025.Saturday.1080p.LQ.NF.WEB-DL.AAC2.0.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "yBu91pjY\n4.08 GB",
+            "url": "https://pixeldrain.net/api/file/yBu91pjY",
+            "quality": "1080p",
+            "size": "4.08 GB",
+            "fileName": "yBu91pjY",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:1539455",
+      "storedAt": 1763323167794,
+      "meta": {
+        "storedAt": 1763323167,
+        "urlCount": 23,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "1539455",
+        "imdbId": "tt35661996",
+        "streams": [
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Mahavatar.Narsimha.2025.4K-2160p.SDR.WEB-DL.Hindi.DDP5.1-Telugu.DDP5.1.HC-ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Mahavatar.Narsimha.2025.4K-2160p.SDR.WEB-DL.Hindi.DDP5.1-Telugu.DDP5.1.HC-ESub.x264-HDHub4u.Ms.mkv?token=1763321075",
+            "quality": "4K",
+            "size": "22 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Mahavatar.Narsimha.2025.4K-2160p.SDR.WEB-DL.Hindi.DDP5.1-Telugu.DDP5.1.HC-ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2knRSTDeA61vQ2s9r7RiT9R73IKbvlV1nxorFrbXYbqbu9HPK698S2xhn9ddqG6jl_8o_tGZDcgKumo9r5SS_K7z5T5jLE3dEQ-Bs0l6tiwXqY5qwDgIIVWeNs1bIfknQgvQrLPu1aJOVYNFFCqlITbMwmhVkava0XDGeJZw-3HkJlWMN3Dg05M5cB--sdby1jDODpvZ0K36SUfgFuXqS4XOdlByxJR0tgX825Mr21psaRZNqY",
+            "quality": "4K",
+            "size": "22 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Mahavatar.Narsimha.2025.1080p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv",
+            "url": "https://fsl.cdnbaba.rest/Mahavatar.Narsimha.2025.1080p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv?token=1763323164",
+            "quality": "1080p",
+            "size": "1.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Mahavatar.Narsimha.2025.1080p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/5UQA185j",
+            "quality": "1080p",
+            "size": "1.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Mahavatar.Narsimha.2025.1080p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mYFxRgCISVsbUfgzYTO9henhLd4xF2vegbat81vEyefvcM7MviEIU6rcppI80_EF-yR9jLCjTOvRVuultaXlY9yEw3r1LZMj9yVOWFSYGhsZ7tBvbrzZnhpmNV2riRaiM9CO2RnaBw7vGtXqXQigqub13CNUiqI_-ZJdZ2JWGD8eeAWjZQAsOLJ9HU0zMhnKD8Sq6N4Xhlz4tmj3Hx445cL0yBkwFOuxyTG_n-RYgylo1UY0vW9cUcHSb4qNV42mHNfhC_",
+            "quality": "1080p",
+            "size": "1.7 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Mahavatar.Narsimha.2025.1080p.10Bit.HEVC.Hindi.WEB-DL.5.1.x265-HDHub4u.Ms.mkv",
+            "url": "https://fsl.cdnbaba.rest/Mahavatar.Narsimha.2025.1080p.10Bit.HEVC.Hindi.WEB-DL.5.1.x265-HDHub4u.Ms.mkv?token=1763323165",
+            "quality": "1080p",
+            "size": "2.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Mahavatar.Narsimha.2025.1080p.10Bit.HEVC.Hindi.WEB-DL.5.1.x265-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/LgFwRQqK",
+            "quality": "1080p",
+            "size": "2.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Mahavatar.Narsimha.2025.1080p.10Bit.HEVC.Hindi.WEB-DL.5.1.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mSwBexhgveFf2NwlLwDNMvwuhzk7Ut3NVciSkjjippRY4DRFswLZPwMnynK3aZVlo-OURETvQQxchtzVP1T3IddibsZ8dmsCYAVw5TsrPAJMLdP411Ocycw1gAzxoWtViGgIairRpV3MOVPsJ020dZQ0bxcv7RTr3pT8Osqjud9pMoW44FV1DPn_aSlmSJ_vS4dRX_vizKIFElb8aN02KLQ8rAyqbRfkfXIpmp_zCY6CbvJIU",
+            "quality": "1080p",
+            "size": "2.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Mahavatar.Narsimha.2025.1080p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://fsl.cdnbaba.rest/Mahavatar.Narsimha.2025.1080p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv?token=1763323166",
+            "quality": "1080p",
+            "size": "2.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Mahavatar.Narsimha.2025.1080p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/pfqjJTVB",
+            "quality": "1080p",
+            "size": "2.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Mahavatar.Narsimha.2025.1080p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mXzbIIpzZpviP5gGkh8izVsUQSFnRDWKpq4xBIqbEU6SZERLG0yGBP154Ma56-dga_ij7BNJzUJwnudIps0OirFoM-94dabjPY_qJHmr_LjLcvgqg0EIkhbAoRsQZkq6hIJDl3iTZdQPqWmQqiBCfIBHPnfIvF_PxH2uAdvCWQa5foUq8sf-OSMxwvYXte2FqsLACHN_j8r-Jq9rXZ2AJ79QGu8czhXvEFiM0_5-LwnK2cZlg",
+            "quality": "1080p",
+            "size": "2.6 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Mahavatar.Narsimha.2025.1080p.NF.WEB-DL.MULTi.DDP5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Mahavatar.Narsimha.2025.1080p.NF.WEB-DL.MULTi.DDP5.1.ESub.x264-HDHub4u.Ms.mkv?token=1763323165",
+            "quality": "1080p",
+            "size": "7.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Mahavatar.Narsimha.2025.1080p.NF.WEB-DL.MULTi.DDP5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/2jYwDj8X",
+            "quality": "1080p",
+            "size": "7.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Mahavatar.Narsimha.2025.1080p.NF.WEB-DL.MULTi.DDP5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2ny0bFFCQeDw_8jxD42wEclEwt11u4AHUTCbtAQnJuNU6ZSsmQis7sRF_oNtqljvPEtJUBMD1Q3mYVsNsfwfpUdflfKCbb6uuwxjAdwVdh0WeBnLkTlWqaig6gFlcYAArCJX14IhAl9cYPO7A0-clD2UxTJy2D8MDnbYUJkeqHE2FEnVyRLNK4X5iDY0y_q54-kc-4rLOGRuALXHlNDBxDYjIP68hprOHXUZ4qMfDl_GqWZHyQ",
+            "quality": "1080p",
+            "size": "7.5 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Mahavatar.Narsimha.2025.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Mahavatar.Narsimha.2025.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv?token=1763323164",
+            "quality": "720p",
+            "size": "779.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Mahavatar.Narsimha.2025.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/s89vEFJs",
+            "quality": "720p",
+            "size": "779.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Mahavatar.Narsimha.2025.720p.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lXFMv4sq6Af2U38b4GsauRlYMhyBY5eqtT1AVR7uE6i6JB8QLijv-OLd4u5w6aEs7NIhrfBzg8a_3dkHDJcXv1kj-z-EfJSRcMp-8Z8TDrX8k67KUEhykKCCx6jGJzviSwPbSD8f7PTteHXMZW1MclLTCI0tO_7zcCyohS__fvRO9lBPqK0SmbeXmG4RdabTcyOPOLPjNmLuvPgf0bjzjSisagqHs9AeynXAK_Q3YD00C2l3Dd_eJJ0qjRtTkb3M7l5KgY",
+            "quality": "720p",
+            "size": "779.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Mahavatar.Narsimha.2025.720p.10Bit.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Mahavatar.Narsimha.2025.720p.10Bit.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv?token=1763323164",
+            "quality": "720p",
+            "size": "920.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Mahavatar.Narsimha.2025.720p.10Bit.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/UcZhbJnA",
+            "quality": "720p",
+            "size": "920.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Mahavatar.Narsimha.2025.720p.10Bit.HEVC.Hindi.WEB-DL.5.1.ESub.x265-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lNEETEnKj5Q8JOGGUd0AvWBvrHeLjg8aOFb6-NmRTtfP-Ua8Ds_zfvUXtE6gZ5tVEybjm6UiSs7CVllHgOkx7jv7TOx9a0Hdzk2uQBmf9kHT6JT4l0OfVCQbpLX7lVDPfFEq-pZ9eG6KOYDZ8oRO0QvmceaavTW83YJ3wN3Io39hTlza-24GBB38NhjDft5leqC-GLbPuaKdeS9m7Rc-a9WtS4Xx3PovlrETuGZVREpAbNQyhjZq0Ya8_JgLg1VkG9XJpC",
+            "quality": "720p",
+            "size": "920.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Mahavatar.Narsimha.2025.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Mahavatar.Narsimha.2025.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv?token=1763323165",
+            "quality": "720p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Mahavatar.Narsimha.2025.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/Ps3GjeTC",
+            "quality": "720p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Mahavatar.Narsimha.2025.720p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lJveVsMAonHZfoysrDo1RLCwJ1G5dEfk3v3IAEzn7JJPW8D8oDxDHoPBRWYUHlFSPUuc1HwM9EqtYLOtZO2Et359kxWMl_sAh_-ZWBjhY-tija6A5P_b5eXG91hW7E85TK3IfhUnAZdllYq6OtZc2K4Dep8265Gla2Ek3saY6n3C8_DII6naThw5nvW-Fs0-hTt1MsG3sFsxrRSNEi6zLdTkw9gOtnolL1wtjeXyLtFQz5r1oNaYhEQecWQdz0LUA9HBgV",
+            "quality": "720p",
+            "size": "1.1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 23
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:775996",
+      "storedAt": 1763323005427,
+      "meta": {
+        "storedAt": 1763323005,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "775996",
+        "imdbId": "tt10451914",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/204292?token=b9abdff569a6c62c7e8e0c8d8e445de7&expires=1768507003&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1920:s2e4",
+      "storedAt": 1763322861804,
+      "meta": {
+        "storedAt": 1763322861,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1920",
+        "imdbId": "tt0098936",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/168022?token=e6d75692508842284dc8aea3d9cc3044&expires=1768506859&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:245902:s1e4",
+      "storedAt": 1763322762033,
+      "meta": {
+        "storedAt": 1763322761,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "245902",
+        "imdbId": "tt31193442",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/256452?token=3c99d89491939d4523d57e034983fe3b&expires=1768506760&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:246386:s1e7",
+      "storedAt": 1763323004817,
+      "meta": {
+        "storedAt": 1763323004,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "246386",
+        "imdbId": "tt31314751",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/482988?token=7c51b4c3ee42d43a4c33e3206aae7d99&expires=1768507003&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:67117:s1e17",
+      "storedAt": 1763323015236,
+      "meta": {
+        "storedAt": 1763323015,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "67117",
+        "imdbId": "tt5396394",
+        "season": 1,
+        "episode": 17,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/201381?token=35cb9a07cef5c1d66ea1f814bbb7837b&expires=1768507014&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:86847:s1e4",
+      "storedAt": 1763323056886,
+      "meta": {
+        "storedAt": 1763323056,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "86847",
+        "imdbId": "tt9224216",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/484645?token=85f0abbde3cdda8c27b217519195926f&expires=1768507054&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:91348:s2e2",
+      "storedAt": 1763323049712,
+      "meta": {
+        "storedAt": 1763323049,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "91348",
+        "imdbId": "tt9332962",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/478944?token=f5b4e423ecc5a1c5eba873ca5794f59c&expires=1768507048&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-16T19:47:36.031Z",
-    "totalOriginalEntries": 2866,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-16T20:00:53.497Z",
+    "totalOriginalEntries": 2876,
+    "newItemsInThisBatch": 10,
     "format": "compact_v1"
   }
 }
