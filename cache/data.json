@@ -123864,12 +123864,55 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:1339772",
+      "storedAt": 1763278280567,
+      "meta": {
+        "storedAt": 1763278280,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1339772",
+        "imdbId": "tt33051946",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "L5jTP8FG\n3.45 GB",
+            "url": "https://pixeldrain.net/api/file/L5jTP8FG",
+            "quality": "1080p",
+            "size": "3.45 GB",
+            "fileName": "L5jTP8FG",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "KrKR6qKF\n1.37 GB",
+            "url": "https://pixeldrain.net/api/file/KrKR6qKF",
+            "quality": "1080p",
+            "size": "1.37 GB",
+            "fileName": "KrKR6qKF",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-16T07:29:14.235Z",
-    "totalOriginalEntries": 2374,
-    "newItemsInThisBatch": 5,
+    "exportedAt": "2025-11-16T07:37:21.031Z",
+    "totalOriginalEntries": 2375,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
