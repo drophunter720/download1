@@ -117378,12 +117378,116 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:298469:s1e1",
+      "storedAt": 1763254817625,
+      "meta": {
+        "storedAt": 1763254817,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "298469",
+        "imdbId": "tt36933520",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 2 0][h264]-CODSWALLOP",
+            "url": "https://a.111477.xyz/tvs/99%20to%20Beat/Season%201/99%20to%20Beat%20(2025)%20-%20S01E01%20-%20Episode%201%20[WEBDL-1080p][AAC%202.0][h264]-CODSWALLOP.mkv",
+            "quality": "1080p",
+            "size": "2.02 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "99 to Beat (2025) - S01E01 - Episode 1 [WEBDL-1080p][AAC 2.0][h264]-CODSWALLOP.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:298469:s1e2",
+      "storedAt": 1763254902127,
+      "meta": {
+        "storedAt": 1763254902,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "298469",
+        "imdbId": "tt36933520",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 2 0][h264]-CODSWALLOP",
+            "url": "https://a.111477.xyz/tvs/99%20to%20Beat/Season%201/99%20to%20Beat%20(2025)%20-%20S01E02%20-%20Episode%202%20[WEBDL-1080p][AAC%202.0][h264]-CODSWALLOP.mkv",
+            "quality": "1080p",
+            "size": "2.13 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "99 to Beat (2025) - S01E02 - Episode 2 [WEBDL-1080p][AAC 2.0][h264]-CODSWALLOP.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 2 0][x264]",
+            "url": "https://a.111477.xyz/tvs/99%20to%20Beat/Season%201/99%20to%20Beat%20(2025)%20-%20S01E02%20-%20Episode%202%20[WEBDL-720p][AAC%202.0][x264].mp4",
+            "quality": "720p",
+            "size": "644.90 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "99 to Beat (2025) - S01E02 - Episode 2 [WEBDL-720p][AAC 2.0][x264].mp4"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:62:s34e8",
+      "storedAt": 1763254771811,
+      "meta": {
+        "storedAt": 1763254771,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "62",
+        "imdbId": "tt0176095",
+        "season": 34,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/470372?token=8e6b2686e38d6fc0cb0eb765526c9e34&expires=1768438770&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-16T00:55:20.730Z",
-    "totalOriginalEntries": 2268,
-    "newItemsInThisBatch": 0,
+    "exportedAt": "2025-11-16T01:05:25.023Z",
+    "totalOriginalEntries": 2271,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
