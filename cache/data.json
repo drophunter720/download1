@@ -152734,12 +152734,285 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:uhdmovies:movie:25004",
+      "storedAt": 1763319762980,
+      "meta": {
+        "storedAt": 1763319762,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "25004",
+        "imdbId": "tt0890883",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Officer Black Belt 2024 1080p NF WEB-DL AAC5 1 AV1-PrimeFix\n2.39GB",
+            "url": "https://worker-super-grass-d760.tedisex254.workers.dev/9f794e24edfb3b43f222727d85c657f0b0f9f6a427f0db1389275fda8fa8a204ec23f739bc09dea6d13fbaac139e682fcfa7bfdcb5667e6b6232207f5990eca0e0d2f2f5fd500bfd871c14596b9488236637e5d2ac0e78c0e29d0d95607301252e125bd4eafd23d314c140e3caf8155cc8ac98e0acdda8c0414858ba0269ce39a760215ca6b6cb1b66041eaaf967f0469bffd91e4c6e58940773168e74b9ff8bde2ea21022ef94852a60e4b461f37ff6::4115d5aee2dcc983a918f1467af8fd29/Officer.Black.Belt.2024.1080p.NF.WEB-DL.AAC5.1.AV1-PrimeFix.mkv",
+            "quality": "1080p",
+            "size": "2.39GB",
+            "fileName": "Officer.Black.Belt.2024.1080p.NF.WEB-DL.AAC5.1.AV1-PrimeFix.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:31251:s3e15",
+      "storedAt": 1763320055071,
+      "meta": {
+        "storedAt": 1763320055,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "31251",
+        "imdbId": "tt1604099",
+        "season": 3,
+        "episode": 15,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/180636?token=d4fcd6bd76163cc1c794ebf608eeb83a&expires=1768504054&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:606:s3e3",
+      "storedAt": 1763319663955,
+      "meta": {
+        "storedAt": 1763319663,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "606",
+        "imdbId": "tt0184111",
+        "season": 3,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/53951?token=723c6ef161d2561adff0ff431199d13c&expires=1768503661&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:71446:s1e11",
+      "storedAt": 1763319840966,
+      "meta": {
+        "storedAt": 1763319840,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "71446",
+        "imdbId": "tt6468322",
+        "season": 1,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Money.Heist.S01E11.1080p.NF.WEB-DL.Multi.DDP5.1.H.264-4kHdHub.Com\n2.06 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Money.Heist.S01E11.1080p.NF.WEB-DL.Multi.DDP5.1.H.264-4kHdHub.Com.mkv?token=1763319837",
+            "quality": "1080p",
+            "size": "2.06 GB",
+            "fileName": "Money.Heist.S01E11.1080p.NF.WEB-DL.Multi.DDP5.1.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "duqaugNJ\n2.06 GB",
+            "url": "https://pixeldrain.net/api/file/duqaugNJ",
+            "quality": "1080p",
+            "size": "2.06 GB",
+            "fileName": "duqaugNJ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:71446:s1e11",
+      "storedAt": 1763319835673,
+      "meta": {
+        "storedAt": 1763319835,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "71446",
+        "imdbId": "tt6468322",
+        "season": 1,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 2 0][h264]-DLRip",
+            "url": "https://a.111477.xyz/tvs/Money%20Heist/Season%201/Money%20Heist%20(2017)%20-%20S01E11%20-%20The%20Head%20of%20the%20Plan%20[WEBDL-1080p][AAC%202.0][h264]-DLRip.mkv",
+            "quality": "1080p",
+            "size": "1.27 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Money Heist (2017) - S01E11 - The Head of the Plan [WEBDL-1080p][AAC 2.0][h264]-DLRip.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:71446:s1e11",
+      "storedAt": 1763319845335,
+      "meta": {
+        "storedAt": 1763319845,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "71446",
+        "imdbId": "tt6468322",
+        "season": 1,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Money.Heist.S01.E11.720p.10Bit.WEB-DL.Hindi.5.1-ENG.x265-HDHub4u.Ltd.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Money.Heist.S01.E11.720p.10Bit.WEB-DL.Hindi.5.1-ENG.x265-HDHub4u.Ltd.mkv?token=1763319841",
+            "quality": "720p",
+            "size": "236.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Money.Heist.S01.E11.720p.10Bit.WEB-DL.Hindi.5.1-ENG.x265-HDHub4u.Ltd.mkv",
+            "url": "https://pixeldrain.dev/u/MeZwczsd",
+            "quality": "720p",
+            "size": "236.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Money.Heist.S01.E11.720p.10Bit.WEB-DL.Hindi.5.1-ENG.x265-HDHub4u.Ltd.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2krvb2jNRYl_2JX7-AD7acAMlsiGsPDjWO9DwubOPI7VXrsP8IbBfIZnGvQAOIQNFMlgdPzvJxgsr4UlxX2V4uBTmBrr0i61v5LTXBal3QEb9NPsh2uGNzpcsHnfqtR7109NSEfy2u2rglYpTt9QVSOtNkvEghFzur00T5exhsNu9QvpwwUs64ru9FedziM3W0Rg5DFmzWiVL4Vi3C862cu-Utv0a941ePieLaHOZQbE8GFxNbFUidNox13S5VAQm_wylzA",
+            "quality": "720p",
+            "size": "236.6 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:71446:s1e11",
+      "storedAt": 1763319841391,
+      "meta": {
+        "storedAt": 1763319841,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "71446",
+        "imdbId": "tt6468322",
+        "season": 1,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Money Heist S1E11 - 11. Episode 11",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/moneyheist/s1/moneyheists1e11.mkv",
+            "quality": "1080p",
+            "size": "44min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Money Heist S1E11 - 11. Episode 11",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/moneyheist/s1/moneyheists1e11.mkv",
+            "quality": "1080p",
+            "size": "44min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-16T18:58:35.578Z",
-    "totalOriginalEntries": 2848,
-    "newItemsInThisBatch": 8,
+    "exportedAt": "2025-11-16T19:08:36.676Z",
+    "totalOriginalEntries": 2855,
+    "newItemsInThisBatch": 7,
     "format": "compact_v1"
   }
 }
