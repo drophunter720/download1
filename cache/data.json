@@ -121857,12 +121857,44 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:46880:s2e20",
+      "storedAt": 1763272850461,
+      "meta": {
+        "storedAt": 1763272850,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "46880",
+        "imdbId": "tt2262532",
+        "season": 2,
+        "episode": 20,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/197808?token=b4f85a4d1ba59140cc2499e5f2e70f6e&expires=1768456849&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-16T05:55:26.281Z",
-    "totalOriginalEntries": 2338,
-    "newItemsInThisBatch": 10,
+    "exportedAt": "2025-11-16T06:04:24.159Z",
+    "totalOriginalEntries": 2339,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
