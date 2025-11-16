@@ -117155,12 +117155,235 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:54650:s1e2",
+      "storedAt": 1763252611121,
+      "meta": {
+        "storedAt": 1763252611,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "54650",
+        "imdbId": "tt3281796",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][TrueHD 5 1][AVC]-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Power/Season%201/Power%20(2014)%20-%20S01E02%20-%20Whoever%20He%20Is%20[Bluray-1080p%20Remux][TrueHD%205.1][AVC]-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "10.09 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Power (2014) - S01E02 - Whoever He Is [Bluray-1080p Remux][TrueHD 5.1][AVC]-NOGRP.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:54650:s1e2",
+      "storedAt": 1763252616375,
+      "meta": {
+        "storedAt": 1763252616,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "54650",
+        "imdbId": "tt3281796",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Power S1E2 - 2. Whoever He Is",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/power/s1/Power S01E02 English 720p Bluray ESubs [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "58min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Power S1E2 - 2. Whoever He Is",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/power/s1/Power S01E02 English 720p Bluray ESubs [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "58min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:54650:s1e2",
+      "storedAt": 1763252620295,
+      "meta": {
+        "storedAt": 1763252620,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "54650",
+        "imdbId": "tt3281796",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "The Lord of the Rings the Rings of Power S01E02 Adrift 2160p AMZN WEB-DL DDP5 1 HDR HEVC-Telly\n10.59GB",
+            "url": "https://worker-nameless-pond-93e0.jarec10301.workers.dev/84d888e4d4d2c401900da09607dffe440fdbc7815e308182e55715c78b79bfe7983ef99641b773b0cc29d423413d25450bb1455313d7fb1035850559cf288b4d6640398d56e5de8f256e156a49c1c2df9d51a327d24f80dbe466ca11c8c31eb4af2ca72474453f50bbeeb0bb08ce8aa4ec885d258a03679babdd3faddd2c5663dea9032201293208a376e4b3df66625d02451a8db87cf65f169468c01410aa5a28383012ad12bd21e058a453f1758e56::2ad15abf7c7d8d9837f2deffb5183401/The.Lord.of.the.Rings.the.Rings.of.Power.S01E02.Adrift.2160p.AMZN.WEB-DL.DDP5.1.HDR.HEVC-Telly.mkv",
+            "quality": "4K | HDR",
+            "size": "10.59GB",
+            "fileName": "The.Lord.of.the.Rings.the.Rings.of.Power.S01E02.Adrift.2160p.AMZN.WEB-DL.DDP5.1.HDR.HEVC-Telly.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "The Lord of the Rings The Rings of Power S01E02 Adrift 1080p AMZN WEB-DL DDP5 1 H 264-ARCHIE\n5.06GB",
+            "url": "https://worker-odd-art-9c42.lelota3786.workers.dev/15833090071148e7ed0b3e2744180f327fb6652d0997eb5a0a89224fcf796883a0f9e5a0b3ddb329c3919dfd944d38db31921d3659e59e3f22b68faf1438f33f5b3a95071e1405b0b6fa74da069eab5f40222a354b625c609310d3402b567252dfd4f6c22f557aa947c7baf7bbe3a0aeea9789a1271d7c00b264ee1f9cc3e8f8fee2d653ef1010cbd5d6d0c68596493be449150b936aa093a1ba90f211366416a7de17c5346f61b37e00bbeec3fbb5fa::ad1bc873d4612295ed99fe068833a527/The.Lord.of.the.Rings.The.Rings.of.Power.S01E02.Adrift.1080p.AMZN.WEB-DL.DDP5.1.H.264-ARCHIE.mkv",
+            "quality": "1080p",
+            "size": "5.06GB",
+            "fileName": "The.Lord.of.the.Rings.The.Rings.of.Power.S01E02.Adrift.1080p.AMZN.WEB-DL.DDP5.1.H.264-ARCHIE.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:54650:s1e3",
+      "storedAt": 1763252717533,
+      "meta": {
+        "storedAt": 1763252717,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "54650",
+        "imdbId": "tt3281796",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][TrueHD 5 1][AVC]-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Power/Season%201/Power%20(2014)%20-%20S01E03%20-%20This%20is%20Real%20[Bluray-1080p%20Remux][TrueHD%205.1][AVC]-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "9.77 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Power (2014) - S01E03 - This is Real [Bluray-1080p Remux][TrueHD 5.1][AVC]-NOGRP.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:54650:s1e3",
+      "storedAt": 1763252720323,
+      "meta": {
+        "storedAt": 1763252720,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "54650",
+        "imdbId": "tt3281796",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Power S1E3 - 3. This Is Real",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/power/s1/Power S01E03 English 720p Bluray ESubs [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "56min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Power S1E3 - 3. This Is Real",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/power/s1/Power S01E03 English 720p Bluray ESubs [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "56min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61789:s6e1",
+      "storedAt": 1763252660742,
+      "meta": {
+        "storedAt": 1763252660,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61789",
+        "imdbId": "tt3665674",
+        "season": 6,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/298267?token=deeb248c877f77494e2cb2d35a8c0e2f&expires=1768436660&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-16T00:23:18.287Z",
-    "totalOriginalEntries": 2262,
-    "newItemsInThisBatch": 5,
+    "exportedAt": "2025-11-16T00:31:34.901Z",
+    "totalOriginalEntries": 2268,
+    "newItemsInThisBatch": 6,
     "format": "compact_v1"
   }
 }
