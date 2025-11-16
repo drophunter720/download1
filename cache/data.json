@@ -152113,12 +152113,633 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:345940",
+      "storedAt": 1763319395954,
+      "meta": {
+        "storedAt": 1763319395,
+        "urlCount": 18,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "345940",
+        "imdbId": "tt4779682",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Meg 2018 1080p BluRay REMUX AVC x264 [Hindi BD DD 5.1 448kbps + English TrueHD Atmos 7.1] ESub-FraMeSToR-4kHdHub\n18.05 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/The%20Meg%202018%201080p%20BluRay%20REMUX%20AVC%20x264%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20TrueHD%20Atmos%207.1]%20ESub-FraMeSToR-4kHdHub.mkv?token=1763316554",
+            "quality": "1080p",
+            "size": "18.05 GB",
+            "fileName": "The Meg 2018 1080p BluRay REMUX AVC x264 [Hindi BD DD 5.1 448kbps + English TrueHD Atmos 7.1] ESub-FraMeSToR-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "1cuZ8Tz8\n18.05 GB",
+            "url": "https://pixeldrain.net/api/file/1cuZ8Tz8",
+            "quality": "1080p",
+            "size": "18.05 GB",
+            "fileName": "1cuZ8Tz8",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n18.05 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=QLr3ioRy1LBY&n=b8p1yC4A&fn=The%20Meg%20(2018)%201080p%20BluRay%20REMUX%20AVC%20x264%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20TrueHD%20Atmos%207.1]%20ESub-(FraMeSToR-4kHdHub).mkv",
+            "quality": "1080p",
+            "size": "18.05 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The Meg 2018 2160p 10bit HDR BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English TrueHD Atmos 7.1] ESub-BeiTai-4kHdHub\n17.49 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/The%20Meg%202018%202160p%2010bit%20HDR%20BluRay%20HEVC%20x265%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20TrueHD%20Atmos%207.1]%20ESub-BeiTai-4kHdHub.mkv?token=1763319393",
+            "quality": "2160p",
+            "size": "17.49 GB",
+            "fileName": "The Meg 2018 2160p 10bit HDR BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English TrueHD Atmos 7.1] ESub-BeiTai-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Sg1YyvLG\n17.49 GB",
+            "url": "https://pixeldrain.net/api/file/Sg1YyvLG",
+            "quality": "2160p",
+            "size": "17.49 GB",
+            "fileName": "Sg1YyvLG",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "g\n17.49 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=wo7gapJkjRjb&n=rhRwiZxR&fn=The%20Meg%20(2018)%202160p%2010bit%20HDR%20BluRay%20HEVC%20x265%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20TrueHD%20Atmos%207.1]%20ESub-(BeiTai-4kHdHub).mkv",
+            "quality": "2160p",
+            "size": "17.49 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Meg 2018 1080p BluRay x264 [Hindi BD DD 5.1 448kbps + English DDP 7.1] ESub-PuTao-4kHdHub\n12.23 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/The%20Meg%202018%201080p%20BluRay%20x264%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20DDP%207.1]%20ESub-PuTao-4kHdHub.mkv?token=1763319393",
+            "quality": "1080p",
+            "size": "12.23 GB",
+            "fileName": "The Meg 2018 1080p BluRay x264 [Hindi BD DD 5.1 448kbps + English DDP 7.1] ESub-PuTao-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Z6pVq4wk\n12.23 GB",
+            "url": "https://pixeldrain.net/api/file/Z6pVq4wk",
+            "quality": "1080p",
+            "size": "12.23 GB",
+            "fileName": "Z6pVq4wk",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n12.23 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=qROii8pWSSiD&n=KoIkTZII&fn=The%20Meg%20(2018)%201080p%20BluRay%20x264%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20DDP%207.1]%20ESub-(PuTao-4kHdHub).mkv",
+            "quality": "1080p",
+            "size": "12.23 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Meg 2018 UHD 1080p 10bit HDR BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English DDP 7.1] ESub-NCmt-4kHdHub\n11.64 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/The%20Meg%202018%20UHD%201080p%2010bit%20HDR%20BluRay%20HEVC%20x265%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20DDP%207.1]%20ESub-NCmt-4kHdHub.mkv?token=1763319393",
+            "quality": "1080p",
+            "size": "11.64 GB",
+            "fileName": "The Meg 2018 UHD 1080p 10bit HDR BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English DDP 7.1] ESub-NCmt-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "5HkBgo5u\n11.64 GB",
+            "url": "https://pixeldrain.net/api/file/5HkBgo5u",
+            "quality": "1080p",
+            "size": "11.64 GB",
+            "fileName": "5HkBgo5u",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n11.64 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=eoz5ulwiTLJD&n=vlgWHDoL&fn=The%20Meg%20(2018)%20UHD%201080p%2010bit%20HDR%20BluRay%20HEVC%20x265%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20DDP%207.1]%20ESub-(NCmt-4kHdHub).mkv",
+            "quality": "1080p",
+            "size": "11.64 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Meg 2018 1080p 10bit BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English DD 5.1] ESub-JBENT-4kHdHub\n5.53 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/The%20Meg%202018%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20DD%205.1]%20ESub-JBENT-4kHdHub.mkv?token=1763319393",
+            "quality": "1080p",
+            "size": "5.53 GB",
+            "fileName": "The Meg 2018 1080p 10bit BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English DD 5.1] ESub-JBENT-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "i2FcfuzA\n5.53 GB",
+            "url": "https://pixeldrain.net/api/file/i2FcfuzA",
+            "quality": "1080p",
+            "size": "5.53 GB",
+            "fileName": "i2FcfuzA",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n5.53 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=1ejumh40ASLI&n=jwpjDDJa&fn=The%20Meg%20(2018)%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20DD%205.1]%20ESub-(JBENT-4kHdHub).mkv",
+            "quality": "1080p",
+            "size": "5.53 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Meg 2018 1080p 10bit BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English AAC 7.1] ESub-PSA-4kHdHub\n3.12 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/The%20Meg%202018%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20AAC%207.1]%20ESub-PSA-4kHdHub.mkv?token=1763319393",
+            "quality": "1080p",
+            "size": "3.12 GB",
+            "fileName": "The Meg 2018 1080p 10bit BluRay HEVC x265 [Hindi BD DD 5.1 448kbps + English AAC 7.1] ESub-PSA-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Q33xorT2\n3.12 GB",
+            "url": "https://pixeldrain.net/api/file/Q33xorT2",
+            "quality": "1080p",
+            "size": "3.12 GB",
+            "fileName": "Q33xorT2",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n3.12 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=Pi3Mb5Y0ERJT&n=HhYmARZI&fn=The%20Meg%20(2018)%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20BD%20DD%205.1%20448kbps%20+%20English%20AAC%207.1]%20ESub-(PSA-4kHdHub).mkv",
+            "quality": "1080p",
+            "size": "3.12 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 18
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:345940",
+      "storedAt": 1763319391613,
+      "meta": {
+        "storedAt": 1763319391,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "345940",
+        "imdbId": "tt4779682",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies TrueHD Atmos 7 1 HEVC REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/The%20Meg%20(2018)/The.Meg.2018.UHD.BluRay.2160p.TrueHD.Atmos.7.1.HEVC.REMUX-FraMeSToR.mkv",
+            "quality": "2160p | REMUX",
+            "size": "41.08 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Meg.2018.UHD.BluRay.2160p.TrueHD.Atmos.7.1.HEVC.REMUX-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay DDP 7 1 DV x265-LEGi0N",
+            "url": "https://a.111477.xyz/movies/The%20Meg%20(2018)/The.Meg.2018.1080p.BluRay.DDP.7.1.DV.x265-LEGi0N.mkv",
+            "quality": "1080p | DV",
+            "size": "14.00 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Meg.2018.1080p.BluRay.DDP.7.1.DV.x265-LEGi0N.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay H264 AAC",
+            "url": "https://a.111477.xyz/movies/The%20Meg%20(2018)/The.Meg.2018.1080p.BluRay.H264.AAC.mp4",
+            "quality": "1080p",
+            "size": "2.16 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Meg.2018.1080p.BluRay.H264.AAC.mp4"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC Atmos-EPSiLON-WhiteRev",
+            "url": "https://a.111477.xyz/movies/The%20Meg%20(2018)/The.Meg.2018.1080p.BluRay.REMUX.AVC.Atmos-EPSiLON-WhiteRev.mkv",
+            "quality": "1080p | REMUX",
+            "size": "17.78 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Meg.2018.1080p.BluRay.REMUX.AVC.Atmos-EPSiLON-WhiteRev.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies UHD BluRay DDP7 1 HDR x265-NCmt",
+            "url": "https://a.111477.xyz/movies/The%20Meg%20(2018)/The.Meg.2018.1080p.UHD.BluRay.DDP7.1.HDR.x265-NCmt.mkv",
+            "quality": "1080p | HDR",
+            "size": "11.41 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Meg.2018.1080p.UHD.BluRay.DDP7.1.HDR.x265-NCmt.mkv"
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:345940",
+      "storedAt": 1763319401188,
+      "meta": {
+        "storedAt": 1763319401,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "345940",
+        "imdbId": "tt4779682",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Meg - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2018/themeg.mkv",
+            "quality": "1080p",
+            "size": "1h 53m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Meg - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2018/themeg.mkv",
+            "quality": "1080p",
+            "size": "1h 53m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Meg - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2018/themeg.mkv",
+            "quality": "720p",
+            "size": "1h 53m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Meg - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2018/themeg.mkv",
+            "quality": "720p",
+            "size": "1h 53m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:345940",
+      "storedAt": 1763319404834,
+      "meta": {
+        "storedAt": 1763319404,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "345940",
+        "imdbId": "tt4779682",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "The Meg (2018) 2160p 4K UHD HDR10 BluRay x265 HEVC  [Hindi BD 5 1 - 448Kbps + English TrueHD 7 1] ESubs - (ARRoW) BeiTai\n17.14GB",
+            "url": "https://worker-blue-meadow-c397.jexiyo4124.workers.dev/384de2efc1fbb3f1a44b65f8e926281c913a36ebb7889530e122e3e14f0dae1882c7823c0898b990f75b03a09de55ce4955a004cce733e599b594384fd3c12e8ab299e70bf0f09ff9faa50ea54e41ca0e27e3b520d71bde63878b76d8138a24de5dbdce378d90716f42b10f3639eb40b1e004d1da76cea83a3714f181c444457cd31a3fe1c75bf26af6c24d8c131b832027f4cfd0bd77e0757958e37ea9e944fe2f54b63cff5fb356332e9c5955a8903::2cba313bc9abe1081bd7d9886a608312/The Meg (2018) 2160p 4K UHD HDR10 BluRay x265 HEVC  [Hindi BD 5.1 - 448Kbps  English TrueHD 7.1] ESubs - (ARRoW) BeiTai.mkv",
+            "quality": "4K | HDR | BluRay",
+            "size": "17.14GB",
+            "fileName": "The Meg (2018) 2160p 4K UHD HDR10 BluRay x265 HEVC  [Hindi BD 5.1 - 448Kbps + English TrueHD 7.1] ESubs - (ARRoW) BeiTai.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:9801",
+      "storedAt": 1763319030588,
+      "meta": {
+        "storedAt": 1763319030,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "9801",
+        "imdbId": "tt0317198",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "2jJdqVyf\n6.41 GB",
+            "url": "https://pixeldrain.net/api/file/2jJdqVyf",
+            "quality": "1080p",
+            "size": "6.41 GB",
+            "fileName": "2jJdqVyf",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "cMxEVXPd\n3.95 GB",
+            "url": "https://pixeldrain.net/api/file/cMxEVXPd",
+            "quality": "1080p",
+            "size": "3.95 GB",
+            "fileName": "cMxEVXPd",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 720p",
+            "title": "hgL6RGpn\n2.76 GB",
+            "url": "https://pixeldrain.net/api/file/hgL6RGpn",
+            "quality": "720p",
+            "size": "2.76 GB",
+            "fileName": "hgL6RGpn",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:9801",
+      "storedAt": 1763319025392,
+      "meta": {
+        "storedAt": 1763319025,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "9801",
+        "imdbId": "tt0317198",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay Remux DTS HD 5 1",
+            "url": "https://a.111477.xyz/movies/Bridget%20Jones%20The%20Edge%20of%20Reason%20(2004)/Bridget%20Jones%20The%20Edge%20of%20Reason%202004%201080p%20BluRay%20Remux%20DTS%20HD%205%201.mkv",
+            "quality": "1080p | REMUX",
+            "size": "21.56 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bridget Jones The Edge of Reason 2004 1080p BluRay Remux DTS HD 5 1.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:9801",
+      "storedAt": 1763319032197,
+      "meta": {
+        "storedAt": 1763319032,
+        "urlCount": 7,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "9801",
+        "imdbId": "tt0317198",
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Bridget.Jones.The.Edge.of.Reason.2004.1080p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/u/4puRWaBD",
+            "quality": "1080p",
+            "size": "2.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Download",
+            "title": "Bridget.Jones.The.Edge.of.Reason.2004.1080p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "url": "https://pub-1a99ebe0c3034bf38ebe67539a0e585e.r2.dev/Bridget.Jones.The.Edge.of.Reason.2004.1080p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "quality": "1080p",
+            "size": "2.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Bridget.Jones.The.Edge.of.Reason.2004.1080p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2l2GQJ_DUkybFJkJW5_JilYr4Lt9ELr4i5p0zSQHXYGFzdtvzQ-hpgHa5oFz-mccW617zgB2oOx3ZqHl3TgJihGUmoQ4w-nXYry1KYsAjy7vRziFnmLDqprsenaUWj2uOvnvKZ9811YeCZCv5lV6NFc_4ORozVGxqWw5TWXZEVVeNtl52RJ1VCRcW5-xYRifhzvHp1ip9rfectz3MKMuoOT5XeqXKyxM3gDVdkJvqbZDoN-BhIAVCaGiJinBtFoTAz7szdJ",
+            "quality": "1080p",
+            "size": "2.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Bridget.Jones.The.Edge.of.Reason.2004.720p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/u/zyWZZLHV",
+            "quality": "720p",
+            "size": "1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Bridget.Jones.The.Edge.of.Reason.2004.720p.BluRay.Hindi.English.DD.5.1.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kQaQAqWC4EJM1n2arSWt6xc-hCBv1fTj3AWF_mIlTxAfYW_s63bJGLaj6recnyHyaAWnyBVp0DaMd9qTY52YnwKBUd2yN66zkC_Ptt5DSVvrSST9YM3onYiH2THe_Dg9WWylEVtD4prwOR-vfNHi5pAyhf2MBZQFndw7JjCWu6XImkXwXlsQUShPdnVHoeJDp6nzB5b-J8Ms6ywhJRUOmrq-gK47P-XFmcg6ftF_8jtXQJFYw",
+            "quality": "720p",
+            "size": "1 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Bridget.Jones.The.Edge.of.Reason.2004.480p.BluRay.Hindi.English.DD.2.0.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/u/2DXriGVZ",
+            "quality": "480p",
+            "size": "362.7 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Bridget.Jones.The.Edge.of.Reason.2004.480p.BluRay.Hindi.English.DD.2.0.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nUW2BkZqv4KlzmYjfz9HnvDbqUno6xQUPogaxJeV7xp9raEaoOR9mQNhjdEfJYxayOCggdnAV5y5IAsMFWt7P4qy6eKShMnCrt_Rpqw1W5JdkGod-Hr9gVLKLH19Kv_Jh4Q903zMG18wShFFQlrTiEVX_v9SCca94IyqGZwINpOnNu6E0cTwsCCSYIBqnh07CZrG0_yJZMr6z5XdemQxeRVh50-YEjLhBr6s3aiDGMsptFK72GDuh0fUzbzqMh6KLLB1Y2",
+            "quality": "480p",
+            "size": "362.7 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 7
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:9801",
+      "storedAt": 1763319036731,
+      "meta": {
+        "storedAt": 1763319036,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "9801",
+        "imdbId": "tt0317198",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Bridget Jones Mad About the Boy 2025 2160p PCOK WEB-DL DDP5 1 DV HDR H 265-TOOMAD\n13.49GB",
+            "url": "https://worker-icy-hat-cab1.wobad24068.workers.dev/62179bc851cab78deee3751fe15c4a883726f21ef023b97767a620abe102c38a3f1e0fcefa44b909a452bccb8206c42e5cd522e1b8a164380878295b6c270687d9b74a3ff1fd9eeb314f19ac9d1ab005bed6add81c0a7df02b377b4eecd4296d381c8e9ac4b644e7d703733fc61b7767475e603397bcf8d3fe4c42aa270cbbb16270e6aa2a335f0322cb0dbebfe66a80f16a1fff8f28f52df8dd00ce1339e98d4c7c8872f5a7c50065455b2225cde4aa::11eb926f3cfeef6e75092edcd58f1fdf/Bridget.Jones.Mad.About.the.Boy.2025.2160p.PCOK.WEB-DL.DDP5.1.DV.HDR.H.265-TOOMAD.mkv",
+            "quality": "4K | HDR | DV",
+            "size": "13.49GB",
+            "fileName": "Bridget.Jones.Mad.About.the.Boy.2025.2160p.PCOK.WEB-DL.DDP5.1.DV.HDR.H.265-TOOMAD.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-16T18:46:02.531Z",
-    "totalOriginalEntries": 2840,
-    "newItemsInThisBatch": 4,
+    "exportedAt": "2025-11-16T18:58:35.578Z",
+    "totalOriginalEntries": 2848,
+    "newItemsInThisBatch": 8,
     "format": "compact_v1"
   }
 }
