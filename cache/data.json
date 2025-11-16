@@ -137746,12 +137746,494 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:9486",
+      "storedAt": 1763294049274,
+      "meta": {
+        "storedAt": 1763294049,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "9486",
+        "imdbId": "tt0274166",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "f382b2e58a5c4e5e7c6e2f0b6a7c4c73\n21.44 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/f382b2e58a5c4e5e7c6e2f0b6a7c4c73?token=1763294048",
+            "quality": "1080p",
+            "size": "21.44 GB",
+            "fileName": "f382b2e58a5c4e5e7c6e2f0b6a7c4c73",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "rpAPrmQv\n10.94 GB",
+            "url": "https://pixeldrain.net/api/file/rpAPrmQv",
+            "quality": "2160p",
+            "size": "10.94 GB",
+            "fileName": "rpAPrmQv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ZpjUGf62\n9.03 GB",
+            "url": "https://pixeldrain.net/api/file/ZpjUGf62",
+            "quality": "1080p",
+            "size": "9.03 GB",
+            "fileName": "ZpjUGf62",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:9486",
+      "storedAt": 1763294058908,
+      "meta": {
+        "storedAt": 1763294058,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "9486",
+        "imdbId": "tt0274166",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Bluray AVC Remux",
+            "url": "https://a.111477.xyz/movies/Johnny%20English%20(2003)/Johnny.English.2003.1080p.Bluray.AVC.Remux.mkv",
+            "quality": "1080p | REMUX",
+            "size": "24.06 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Johnny.English.2003.1080p.Bluray.AVC.Remux.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DTS-HD MA 5 1 VC-1 REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/Johnny%20English%20(2003)/Johnny.English.2003.BluRay.1080p.DTS-HD.MA.5.1.VC-1.REMUX-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": "21.30 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Johnny.English.2003.BluRay.1080p.DTS-HD.MA.5.1.VC-1.REMUX-FraMeSToR.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:9486",
+      "storedAt": 1763294054600,
+      "meta": {
+        "storedAt": 1763294054,
+        "urlCount": 14,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "9486",
+        "imdbId": "tt0274166",
+        "streams": [
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Johnny.English.2003.1080p.10Bit.BluRay.Hindi.5.1-English.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Johnny.English.2003.1080p.10Bit.BluRay.Hindi.5.1-English.5.1.HEVC.x265-HDHub4u.Tv.mkv?token=1763294052",
+            "quality": "1080p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Johnny.English.2003.1080p.10Bit.BluRay.Hindi.5.1-English.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/1TRG4Bas",
+            "quality": "1080p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Johnny.English.2003.1080p.10Bit.BluRay.Hindi.5.1-English.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2naMxf_gsoFvOjiXkTI9PSjNT_xxAh15GMXQw-P-NxSaEL6NBxrNv3hKSwkte4hpfwZqjIPM6OsNX2ZW5vADiM8dD43oZ5yvmEI0ZTNWgx1Eg9XDAGbYs0qFmpoQgXEPUfOigRRautfmKEFG6m9r3zYVxBrGq9aFPmi8c9g8NAhhwfcfDqqXwpq48ZYDADdNQ0kHaR0AQxkeIBB8HTRd2fPAjflicnh1cae_0BXhPwXjmyxgxE",
+            "quality": "1080p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Johnny.English.2003.1080p.10Bit.BluRay.Hindi.5.1-English.5.1.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2k6E2hUeE17UXzxOwr9BczBGrMzBhOSSOB2HOarNc3WeWlzXFZRM8N6AWFTizx7IT2EjOo4gIUU2_5MhW0zk9-FsOvLzkVCZeZdJJmE-JhFcPm7Tk3ePh3pKL1b_vupl8lv1l0SRDurj6w6g0tBW0eWw-NGfMANMObW0x8yC4Ag5UCs7E4XVO4rnvQpkgw9MJJYPcdfXhlXNHU5nrvhgHevoGOvPmTnm_zm5pfrLjh2wHG71ybF_aiKfh5VCL-wJ-LTUrLD",
+            "quality": "1080p",
+            "size": "1.2 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Johnny.English.2003.1080p.BluRay.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Johnny.English.2003.1080p.BluRay.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv?token=1763294051",
+            "quality": "1080p",
+            "size": "1.9 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Johnny.English.2003.1080p.BluRay.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/d4zEx6Sv",
+            "quality": "1080p",
+            "size": "1.9 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Johnny.English.2003.1080p.BluRay.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nQNZrvlO0zMMRxr_S6bpt5dxYzoycbE79NlW_zz-JbOEkA4UWvbLrbwmF-8zoFtBd9_Q4jVhN0_nIfTkckZ3WtKmialEjSG8gNoYJaUa3VgNbGzNMI4oxit9Ah30i9ksNO5a_rBevEiKWqDF6ACx795vFrbI6CjnPZdJZdbqWk_1eSbXh9_pEs8pRD2ENfOUrqESgn9NxcsE0QeY6-empKSvR3a9TXdoRmUHEDP2VhDHXaFa8OmYk1LGzuHaBFAg9kRvUx",
+            "quality": "1080p",
+            "size": "1.9 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Johnny.English.2003.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://fsl.cdnbaba.rest/Johnny.English.2003.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Tv.mkv?token=1763294052",
+            "quality": "720p",
+            "size": "559.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Johnny.English.2003.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/YKfdA8mk",
+            "quality": "720p",
+            "size": "559.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Johnny.English.2003.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2n3S66UyzgQyOUtgGze4ejCuLBsmJcX5SdwpgclNrxjGVlhq0m3C1gti9kVnVTHo4Y1rHEN9GynObq_MfFPhD1eR2DxqSRAdd0sYMUagQUSNc3K9w-bRk8wwzbAG4L0VHFzufyZfB2bUt8WnsHEZ8UDI6VU8vrVzOyXz7NZ8jkkfUXdN8iYUqjcS269XLzKRHQR9_svNighgTJcQsGdts94KH9Quu0v1mn6gTZlnkpngflgeG4",
+            "quality": "720p",
+            "size": "559.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Johnny.English.2003.720p.10Bit.BluRay.Hindi.2.0-English.HEVC.x265-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kgp1jnIwxc_dqL961tfvP_Wm2iN7rSoSNecU8hHPuj6YAdYjmySIKOCOR7TUmnLer1X7DeYFfi0VD1d9UJs1tGqZjRUa67HhWibr7TeWn9U2dToTo6tLVKaMWZLKKHbiu8dRdJaKHjPsf98er_AoeZr5_Z72UmdJbb4ZuMdqSPBGza_5Gcc1cTzt4q_luytfKD4kXJf-t6AURESnRR2S0RVRvVnmxzyrO0WcqJ0Nk4Io1UoN_OqyevnNvdKLhmTzi_2SOQ",
+            "quality": "720p",
+            "size": "559.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Johnny.English.2003.720p.BluRay.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Johnny.English.2003.720p.BluRay.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv?token=1763294052",
+            "quality": "720p",
+            "size": "869.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Johnny.English.2003.720p.BluRay.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/HMDapvwR",
+            "quality": "720p",
+            "size": "869.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Johnny.English.2003.720p.BluRay.Hindi.5.1-English.5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lSzV_71ouiJzYBBgTYTXWRyW59qS4_3nOnbaCkMMiXYXTO6NolSLn6R7L9AKu2-CFWj5U6KzUNc91UwpQLCcLi5GyNVMgSCTm0A9T94mA6R0HCZ7WijgnG6H2HlLfitEgFcdoZe8HPRUiaoBFNAciVT482Tn7HKvfkM9F-BrRHqrcJP_xAymCVz2rQg0qOY92vUfsDvyYYJ1Qq9lj5yPXFsICuzeMOsYOrhu_zvdxfJg6iExA",
+            "quality": "720p",
+            "size": "869.4 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 14
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:9486",
+      "storedAt": 1763294045621,
+      "meta": {
+        "storedAt": 1763294045,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "9486",
+        "imdbId": "tt0274166",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Johnny English - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2003/jhoneyenglish.mkv",
+            "quality": "1080p",
+            "size": "1h 28m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Johnny English - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2003/jhoneyenglish.mkv",
+            "quality": "1080p",
+            "size": "1h 28m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Johnny English - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2003/jhoneyenglish.mkv",
+            "quality": "720p",
+            "size": "1h 28m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Johnny English - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2003/jhoneyenglish.mkv",
+            "quality": "720p",
+            "size": "1h 28m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:17937:s10e4",
+      "storedAt": 1763294028042,
+      "meta": {
+        "storedAt": 1763294027,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "17937",
+        "imdbId": "tt1319900",
+        "season": 10,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/468844?token=11ae3daad74972fedfddf9b358a620ea&expires=1768478026&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:260264:s1e8",
+      "storedAt": 1763293941445,
+      "meta": {
+        "storedAt": 1763293941,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "260264",
+        "imdbId": "tt28810495",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "FCfBaPEH\n3.28 GB",
+            "url": "https://pixeldrain.net/api/file/FCfBaPEH",
+            "quality": "2160p",
+            "size": "3.28 GB",
+            "fileName": "FCfBaPEH",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ZMToJ134\n1.39 GB",
+            "url": "https://pixeldrain.net/api/file/ZMToJ134",
+            "quality": "1080p",
+            "size": "1.39 GB",
+            "fileName": "ZMToJ134",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "6rQu55Gz\n2.79 GB",
+            "url": "https://pixeldrain.net/api/file/6rQu55Gz",
+            "quality": "2160p",
+            "size": "2.79 GB",
+            "fileName": "6rQu55Gz",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:97546:s2e2",
+      "storedAt": 1763293845498,
+      "meta": {
+        "storedAt": 1763293845,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "97546",
+        "imdbId": "tt10986410",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h265]-d3g",
+            "url": "https://a.111477.xyz/tvs/Ted%20Lasso/Season%202/Ted%20Lasso%20(2020)%20-%20S02E02%20-%20Lavender%20[WEBRip-1080p][EAC3%205.1][h265]-d3g.mkv",
+            "quality": "1080p",
+            "size": "1.06 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Ted Lasso (2020) - S02E02 - Lavender [WEBRip-1080p][EAC3 5.1][h265]-d3g.mkv"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-16T11:46:33.693Z",
-    "totalOriginalEntries": 2604,
-    "newItemsInThisBatch": 17,
+    "exportedAt": "2025-11-16T11:58:50.835Z",
+    "totalOriginalEntries": 2611,
+    "newItemsInThisBatch": 7,
     "format": "compact_v1"
   }
 }
