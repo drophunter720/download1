@@ -147442,11 +147442,133 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:243875:s2e3",
+      "storedAt": 1763308650075,
+      "meta": {
+        "storedAt": 1763308650,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "243875",
+        "imdbId": "tt31589662",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/507994?token=09e561a5b48258f50866433e27157e18&expires=1768492649&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:4607:s1e9",
+      "storedAt": 1763309036498,
+      "meta": {
+        "storedAt": 1763309036,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "4607",
+        "imdbId": "tt0411008",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "mHT36H7n\n5.37 GB",
+            "url": "https://pixeldrain.net/api/file/mHT36H7n",
+            "quality": "1080p",
+            "size": "5.37 GB",
+            "fileName": "mHT36H7n",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "oaW7aYZY\n1.18 GB",
+            "url": "https://pixeldrain.net/api/file/oaW7aYZY",
+            "quality": "1080p",
+            "size": "1.18 GB",
+            "fileName": "oaW7aYZY",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "W5BJvDEW\n7.51 GB",
+            "url": "https://pixeldrain.net/api/file/W5BJvDEW",
+            "quality": "1080p",
+            "size": "7.51 GB",
+            "fileName": "W5BJvDEW",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:4607:s1e9",
+      "storedAt": 1763309032468,
+      "meta": {
+        "storedAt": 1763309032,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "4607",
+        "imdbId": "tt0411008",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Lost S1E9 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1679903180/s1/episode9.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-16T15:57:28.459Z",
-    "totalOriginalEntries": 2764,
+    "exportedAt": "2025-11-16T16:05:35.442Z",
+    "totalOriginalEntries": 2767,
     "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
