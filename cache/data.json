@@ -138228,12 +138228,136 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:uhdmovies:movie:9486",
+      "storedAt": 1763294353934,
+      "meta": {
+        "storedAt": 1763294353,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "9486",
+        "imdbId": "tt0274166",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Johnny English Reborn (2011) 1080p BluRay [DTS 5 1 Hindi + DTS 5 1 English] x264 (HDS-UHDMovies)[13 08GB]\n13.08GB",
+            "url": "https://worker-autumn-thunder-2e9a.yoline4177.workers.dev/4298f0487ba87962eea80f6126b4defe838fa4ac04cc6309bfa32b7ad98fb4ff5761c2990b1b5a47714b35d4963897d531a4f3dde4fd5bf4e93f878a9a3b7fbf9b2998d08dbb8cb098f7368db1ad033ceb84c8ab47b3dbfac3c7d65f84f3616924a1f77d56a1325dc9129ad9200a87734383c2556e99308c8013c000bda71eccf1214f3c2501a4ccbbbcba2213646184bbacc9e5f82a3f31122fcdba0467c7af908cb9e3c1a055b0090eefafd144ce04::5d70b7313d29955f6e04182a38038cdf/Johnny English Reborn (2011) 1080p BluRay [DTS 5.1 Hindi  DTS 5.1 English] x264 (HDS-UHDMovies)[13.08GB].mkv",
+            "quality": "1080p | BluRay",
+            "size": "13.08GB",
+            "fileName": "Johnny English Reborn (2011) 1080p BluRay [DTS 5.1 Hindi + DTS 5.1 English] x264 (HDS-UHDMovies)[13.08GB].mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:202577:s2e1",
+      "storedAt": 1763294371269,
+      "meta": {
+        "storedAt": 1763294371,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "202577",
+        "imdbId": "tt20268688",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "mP7zhgR2\n2.72 GB",
+            "url": "https://pixeldrain.net/api/file/mP7zhgR2",
+            "quality": "1080p",
+            "size": "2.72 GB",
+            "fileName": "mP7zhgR2",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:202577:s2e1",
+      "storedAt": 1763294369384,
+      "meta": {
+        "storedAt": 1763294369,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "202577",
+        "imdbId": "tt20268688",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][x264]-EDITH",
+            "url": "https://a.111477.xyz/tvs/Turn%20of%20the%20Tide/Season%202/Turn%20of%20the%20Tide%20(2023)%20-%20S02E01%20-%20Home%20Sweet%20Home%20[WEBDL-1080p][EAC3%20Atmos%205.1][x264]-EDITH.mkv",
+            "quality": "1080p",
+            "size": "2.78 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Turn of the Tide (2023) - S02E01 - Home Sweet Home [WEBDL-1080p][EAC3 Atmos 5.1][x264]-EDITH.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61789:s6e3",
+      "storedAt": 1763294579152,
+      "meta": {
+        "storedAt": 1763294579,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61789",
+        "imdbId": "tt3665674",
+        "season": 6,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/200887?token=e7dffd9bb607bc5a6a1815cb784838f9&expires=1768478577&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-16T11:58:50.835Z",
-    "totalOriginalEntries": 2611,
-    "newItemsInThisBatch": 7,
+    "exportedAt": "2025-11-16T12:07:19.724Z",
+    "totalOriginalEntries": 2615,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
