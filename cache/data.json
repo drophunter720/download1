@@ -132872,12 +132872,495 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:4920:s2e2",
+      "storedAt": 1763287890843,
+      "meta": {
+        "storedAt": 1763287890,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4920",
+        "imdbId": "tt0914387",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/218318?token=53460bae646e2f5e0bd5eff5c3725358&expires=1768471889&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:63351:s1e9",
+      "storedAt": 1763287677073,
+      "meta": {
+        "storedAt": 1763287676,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "63351",
+        "imdbId": "tt2707408",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "iZYtYk7Z\n4.99 GB",
+            "url": "https://pixeldrain.net/api/file/iZYtYk7Z",
+            "quality": "2160p",
+            "size": "4.99 GB",
+            "fileName": "iZYtYk7Z",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "BUSyhfkR\n2.45 GB",
+            "url": "https://pixeldrain.net/api/file/BUSyhfkR",
+            "quality": "1080p",
+            "size": "2.45 GB",
+            "fileName": "BUSyhfkR",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "RYNKYQVb\n4.39 GB",
+            "url": "https://pixeldrain.net/api/file/RYNKYQVb",
+            "quality": "2160p",
+            "size": "4.39 GB",
+            "fileName": "RYNKYQVb",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:63351:s1e9",
+      "storedAt": 1763287673249,
+      "meta": {
+        "storedAt": 1763287673,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "63351",
+        "imdbId": "tt2707408",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-SiQ",
+            "url": "https://a.111477.xyz/tvs/Narcos/Season%201/Narcos%20(2015)%20-%20S01E09%20-%20La%20Catedral%20[Bluray-1080p][EAC3%205.1][x265]-SiQ.mkv",
+            "quality": "1080p",
+            "size": "1.10 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Narcos (2015) - S01E09 - La Catedral [Bluray-1080p][EAC3 5.1][x265]-SiQ.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:63351:s1e9",
+      "storedAt": 1763287674948,
+      "meta": {
+        "storedAt": 1763287674,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "63351",
+        "imdbId": "tt2707408",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Narcos S1E9 - 9. La Catedral",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/narcos/s1/Narcos.S01E09.720p.Hindi.Eng.mkv",
+            "quality": "1080p",
+            "size": "51min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Narcos S1E9 - 9. La Catedral",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/narcos/s1/Narcos.S01E09.720p.Hindi.Eng.mkv",
+            "quality": "1080p",
+            "size": "51min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:63351:s1e10",
+      "storedAt": 1763287717681,
+      "meta": {
+        "storedAt": 1763287717,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "63351",
+        "imdbId": "tt2707408",
+        "season": 1,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "LGAoMUca\n4.41 GB",
+            "url": "https://pixeldrain.net/api/file/LGAoMUca",
+            "quality": "2160p",
+            "size": "4.41 GB",
+            "fileName": "LGAoMUca",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ef24mRM7\n2.16 GB",
+            "url": "https://pixeldrain.net/api/file/ef24mRM7",
+            "quality": "1080p",
+            "size": "2.16 GB",
+            "fileName": "ef24mRM7",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "3cy3gpV7\n6.85 GB",
+            "url": "https://pixeldrain.net/api/file/3cy3gpV7",
+            "quality": "2160p",
+            "size": "6.85 GB",
+            "fileName": "3cy3gpV7",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:63351:s1e10",
+      "storedAt": 1763287713777,
+      "meta": {
+        "storedAt": 1763287713,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "63351",
+        "imdbId": "tt2707408",
+        "season": 1,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DTS 5 1][x264]-ROVERS",
+            "url": "https://a.111477.xyz/tvs/Narcos/Season%201/Narcos%20(2015)%20-%20S01E10%20-%20Despegue%20[Bluray-1080p][DTS%205.1][x264]-ROVERS.mkv",
+            "quality": "1080p",
+            "size": "3.27 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Narcos (2015) - S01E10 - Despegue [Bluray-1080p][DTS 5.1][x264]-ROVERS.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-SiQ",
+            "url": "https://a.111477.xyz/tvs/Narcos/Season%201/Narcos%20(2015)%20-%20S01E10%20-%20Despegue%20[Bluray-1080p][EAC3%205.1][x265]-SiQ.mkv",
+            "quality": "1080p",
+            "size": "667.80 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Narcos (2015) - S01E10 - Despegue [Bluray-1080p][EAC3 5.1][x265]-SiQ.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:63351:s1e10",
+      "storedAt": 1763287715239,
+      "meta": {
+        "storedAt": 1763287714,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "63351",
+        "imdbId": "tt2707408",
+        "season": 1,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Narcos S1E10 - 10. Despegue",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/narcos/s1/Narcos.S01E10.720p.Hindi.Eng.mkv",
+            "quality": "1080p",
+            "size": "45min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Narcos S1E10 - 10. Despegue",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/narcos/s1/Narcos.S01E10.720p.Hindi.Eng.mkv",
+            "quality": "1080p",
+            "size": "45min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:63351:s2e1",
+      "storedAt": 1763287865366,
+      "meta": {
+        "storedAt": 1763287865,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "63351",
+        "imdbId": "tt2707408",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "XnDRmMZG\n5.16 GB",
+            "url": "https://pixeldrain.net/api/file/XnDRmMZG",
+            "quality": "2160p",
+            "size": "5.16 GB",
+            "fileName": "XnDRmMZG",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "XoCJGjYG\n2.53 GB",
+            "url": "https://pixeldrain.net/api/file/XoCJGjYG",
+            "quality": "1080p",
+            "size": "2.53 GB",
+            "fileName": "XoCJGjYG",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "ivvJvVeJ\n5.28 GB",
+            "url": "https://pixeldrain.net/api/file/ivvJvVeJ",
+            "quality": "2160p",
+            "size": "5.28 GB",
+            "fileName": "ivvJvVeJ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:63351:s2e1",
+      "storedAt": 1763287861990,
+      "meta": {
+        "storedAt": 1763287861,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "63351",
+        "imdbId": "tt2707408",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DTS 5 1][x265]-10bit",
+            "url": "https://a.111477.xyz/tvs/Narcos/Season%202/Narcos%20(2015)%20-%20S02E01%20-%20Free%20at%20Last%20[Bluray-1080p][DTS%205.1][x265]-10bit.mkv",
+            "quality": "1080p",
+            "size": "4.60 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Narcos (2015) - S02E01 - Free at Last [Bluray-1080p][DTS 5.1][x265]-10bit.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-SiQ",
+            "url": "https://a.111477.xyz/tvs/Narcos/Season%202/Narcos%20(2015)%20-%20S02E01%20-%20Free%20at%20Last%20[Bluray-1080p][EAC3%205.1][x265]-SiQ.mkv",
+            "quality": "1080p",
+            "size": "1.27 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Narcos (2015) - S02E01 - Free at Last [Bluray-1080p][EAC3 5.1][x265]-SiQ.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:63351:s2e1",
+      "storedAt": 1763287869556,
+      "meta": {
+        "storedAt": 1763287869,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "63351",
+        "imdbId": "tt2707408",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Narcos S2E1 - 1. Free at Last",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/narcos/s2/Narcos.S02E01.720p.Hindi.Eng.mkv",
+            "quality": "1080p",
+            "size": "53min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Narcos S2E1 - 1. Free at Last",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/narcos/s2/Narcos.S02E01.720p.Hindi.Eng.mkv",
+            "quality": "1080p",
+            "size": "53min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:71886:s1e1",
+      "storedAt": 1763287839863,
+      "meta": {
+        "storedAt": 1763287839,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "71886",
+        "imdbId": "tt5615700",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/106949?token=253578c0bbfa542e3f8e796589e8bb8e&expires=1768471838&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-16T10:07:48.589Z",
-    "totalOriginalEntries": 2498,
-    "newItemsInThisBatch": 15,
+    "exportedAt": "2025-11-16T10:15:58.068Z",
+    "totalOriginalEntries": 2509,
+    "newItemsInThisBatch": 11,
     "format": "compact_v1"
   }
 }
