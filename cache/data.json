@@ -139284,12 +139284,728 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:dahmermovies:movie:1328803",
+      "storedAt": 1763297068991,
+      "meta": {
+        "storedAt": 1763297068,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "1328803",
+        "imdbId": "tt33057137",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEB-DL DDP5 1 H 264-BYNDR",
+            "url": "https://a.111477.xyz/movies/Prisoner%20of%20War%20(2025)/Prisoner.Of.War.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-BYNDR.mkv",
+            "quality": "1080p",
+            "size": "6.87 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Prisoner.Of.War.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-BYNDR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip DDP 5 1 10bit H 265-iVy",
+            "url": "https://a.111477.xyz/movies/Prisoner%20of%20War%20(2025)/Prisoner.of.War.2025.1080p.WEBRip.DDP.5.1.10bit.H.265-iVy.mkv",
+            "quality": "1080p",
+            "size": "1.91 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Prisoner.of.War.2025.1080p.WEBRip.DDP.5.1.10bit.H.265-iVy.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:20002",
+      "storedAt": 1763296937100,
+      "meta": {
+        "storedAt": 1763296936,
+        "urlCount": 7,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "20002",
+        "imdbId": "tt1091229",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Sherlock Holmes 2009 2160p MA WEB-DL SDR 10bit HEVC [Hindi DD 2.0 + English DTS-HD MA 5.1] x265 FLUX-LUMiX\n26.06 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Sherlock%20Holmes%202009%202160p%20MA%20WEB-DL%20SDR%2010bit%20HEVC%20[Hindi%20DD%202.0%20+%20English%20DTS-HD%20MA%205.1]%20x265%20FLUX-LUMiX.mkv?token=1763296934",
+            "quality": "2160p",
+            "size": "26.06 GB",
+            "fileName": "Sherlock Holmes 2009 2160p MA WEB-DL SDR 10bit HEVC [Hindi DD 2.0 + English DTS-HD MA 5.1] x265 FLUX-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Sherlock Holmes (2009) 2160p UHD DoVi HDR10 BluRay x265 HEVC [Org VCD Hindi DD 2.0 ~ 224Kbps + English DDP 5.1] ESubs ~ (KiNGSMAN) DiscoD HONE\n21.71 GB",
+            "url": "https://myfiles.directfile1.workers.dev/26c7ae71af792d80b4681bc10714e611a085d8aaeea56be9bff9feb5a4fb2eebeca37d449bb4113924a0e69c7eb3940c::693f23afe84350eff2014b89a56cf65a/1397327004/Sherlock%20Holmes%20(2009)%202160p%20UHD%20DoVi%20HDR10%20BluRay%20x265%20HEVC%20[Org%20VCD%20Hindi%20DD%202.0%20~%20224Kbps%20+%20English%20DDP%205.1]%20ESubs%20~%20(KiNGSMAN)%20DiscoD%20HONE.mkv",
+            "quality": "2160p",
+            "size": "21.71 GB",
+            "fileName": "Sherlock Holmes (2009) 2160p UHD DoVi HDR10 BluRay x265 HEVC [Org VCD Hindi DD 2.0 ~ 224Kbps + English DDP 5.1] ESubs ~ (KiNGSMAN) DiscoD HONE",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "dcc9350d07fe9fb586e7cb02e269f01d\n21.56 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/dcc9350d07fe9fb586e7cb02e269f01d?token=1763296935",
+            "quality": "1080p",
+            "size": "21.56 GB",
+            "fileName": "dcc9350d07fe9fb586e7cb02e269f01d",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "tMtoBRHa\n16.51 GB",
+            "url": "https://pixeldrain.net/api/file/tMtoBRHa",
+            "quality": "1080p",
+            "size": "16.51 GB",
+            "fileName": "tMtoBRHa",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "bkviSJWF\n16.11 GB",
+            "url": "https://pixeldrain.net/api/file/bkviSJWF",
+            "quality": "1080p",
+            "size": "16.11 GB",
+            "fileName": "bkviSJWF",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "NJaV4YE8\n14.81 GB",
+            "url": "https://pixeldrain.net/api/file/NJaV4YE8",
+            "quality": "1080p",
+            "size": "14.81 GB",
+            "fileName": "NJaV4YE8",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "kR1FVeri\n6.16 GB",
+            "url": "https://pixeldrain.net/api/file/kR1FVeri",
+            "quality": "1080p",
+            "size": "6.16 GB",
+            "fileName": "kR1FVeri",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 7
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:20002",
+      "storedAt": 1763296932842,
+      "meta": {
+        "storedAt": 1763296932,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "20002",
+        "imdbId": "tt1091229",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Chandni Chowk to China - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2009/chandnichowktochina.mkv",
+            "quality": "1080p",
+            "size": "2h 34m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Chandni Chowk to China - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2009/chandnichowktochina.mkv",
+            "quality": "1080p",
+            "size": "2h 34m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Chandni Chowk to China - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2009/chandnichowktochina.mkv",
+            "quality": "720p",
+            "size": "2h 34m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Chandni Chowk to China - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2009/chandnichowktochina.mkv",
+            "quality": "720p",
+            "size": "2h 34m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:2277",
+      "storedAt": 1763297107415,
+      "meta": {
+        "storedAt": 1763297107,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "2277",
+        "imdbId": "tt0182789",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Life 1999 1080p BluRay REMUX AVC x264 [Hindi NF DDP 5.1 640kbps + English DTS-HD MA 5.1] ESub-FraMeSToR-4kHdHub\n27.72 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Life%201999%201080p%20BluRay%20REMUX%20AVC%20x264%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DTS-HD%20MA%205.1]%20ESub-FraMeSToR-4kHdHub.mkv?token=1763297106",
+            "quality": "1080p",
+            "size": "27.72 GB",
+            "fileName": "Life 1999 1080p BluRay REMUX AVC x264 [Hindi NF DDP 5.1 640kbps + English DTS-HD MA 5.1] ESub-FraMeSToR-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Life 1999 1080p BluRay x264 [Hindi NF DDP 5.1 640kbps + English DTS 5.1] ESub-rough-4kHdHub\n8.66 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Life%201999%201080p%20BluRay%20x264%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DTS%205.1]%20ESub-rough-4kHdHub.mkv?token=1763297106",
+            "quality": "1080p",
+            "size": "8.66 GB",
+            "fileName": "Life 1999 1080p BluRay x264 [Hindi NF DDP 5.1 640kbps + English DTS 5.1] ESub-rough-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "U2eMX3Ad\n8.66 GB",
+            "url": "https://pixeldrain.net/api/file/U2eMX3Ad",
+            "quality": "1080p",
+            "size": "8.66 GB",
+            "fileName": "U2eMX3Ad",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Life 1999 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English DD 5.1] MSubs TombDoc-4kHdHub\n3.88 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Life%201999%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DD%205.1]%20MSubs%20TombDoc-4kHdHub.mkv?token=1763297106",
+            "quality": "1080p",
+            "size": "3.88 GB",
+            "fileName": "Life 1999 1080p 10bit BluRay HEVC x265 [Hindi NF DDP 5.1 640kbps + English DD 5.1] MSubs TombDoc-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "UNy7nT5h\n3.88 GB",
+            "url": "https://pixeldrain.net/api/file/UNy7nT5h",
+            "quality": "1080p",
+            "size": "3.88 GB",
+            "fileName": "UNy7nT5h",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:2277",
+      "storedAt": 1763297104153,
+      "meta": {
+        "storedAt": 1763297103,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "2277",
+        "imdbId": "tt0182789",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ] [YTS AM]",
+            "url": "https://a.111477.xyz/movies/Bicentennial%20Man%20(1999)/Bicentennial%20Man%20(1999)%20[BluRay]%20[1080p]%20[YTS.AM].mp4",
+            "quality": "1080p",
+            "size": "1.92 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bicentennial Man (1999) [BluRay] [1080p] [YTS.AM].mp4"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip DD5 1 x264-ViSUM",
+            "url": "https://a.111477.xyz/movies/Bicentennial%20Man%20(1999)/Bicentennial.Man.1999.1080p.WEBRip.DD5.1.x264-ViSUM.mkv",
+            "quality": "1080p",
+            "size": "9.31 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bicentennial.Man.1999.1080p.WEBRip.DD5.1.x264-ViSUM.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip x265",
+            "url": "https://a.111477.xyz/movies/Bicentennial%20Man%20(1999)/Bicentennial.Man.1999.1080p.WEBRip.x265.mp4",
+            "quality": "1080p",
+            "size": "2.05 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bicentennial.Man.1999.1080p.WEBRip.x265.mp4"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:9012",
+      "storedAt": 1763297040818,
+      "meta": {
+        "storedAt": 1763297040,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "9012",
+        "imdbId": "tt0322802",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Lilo and Stitch (2002) 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi DDP 2.0 + English TrueHD Atmos 7.1] x265 (LM-LUMiX) 4kHDHub.com\n35.88 GB",
+            "url": "https://nameless-mountain-a418.babafe7002.workers.dev/0129513bd9d3e88cdbb414b34cb7442f53489680fe0842280fc538b54693d92d57331502557426aefab1c01e96fd8197::96fce5d49cda20f3ca6e1df7d01e0ee7/1397327004/Lilo%20and%20Stitch%20(2002)%202160p%20UHD%20BluRay%20REMUX%20DV%20HDR%2010bit%20HEVC%20[Hindi%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20(LM-LUMiX)%204kHDHub.com.mkv",
+            "quality": "2160p",
+            "size": "35.88 GB",
+            "fileName": "Lilo and Stitch (2002) 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi DDP 2.0 + English TrueHD Atmos 7.1] x265 (LM-LUMiX) 4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Lilo and Stitch (2002) 1080p BluRay REMUX AVC [Hindi DDP 2.0 + English TrueHD Atmos 7.1] x264 (BLURANiUM-LUMiX) 4kHDHub.com\n19.74 GB",
+            "url": "https://download.goldmines.workers.dev/57f7c381627647435cca2f5734d1251c72d71524242370d28c1d1531f729adba46a9d651930725589738dfefd07a5a84::7fd2c9918c4c7c938155e62ffae77a5d/1397327004/Lilo%20and%20Stitch%20(2002)%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20x264%20(BLURANiUM-LUMiX)%204kHDHub.com.mkv",
+            "quality": "1080p",
+            "size": "19.74 GB",
+            "fileName": "Lilo and Stitch (2002) 1080p BluRay REMUX AVC [Hindi DDP 2.0 + English TrueHD Atmos 7.1] x264 (BLURANiUM-LUMiX) 4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Pw4u83Mw\n6.96 GB",
+            "url": "https://pixeldrain.net/api/file/Pw4u83Mw",
+            "quality": "1080p",
+            "size": "6.96 GB",
+            "fileName": "Pw4u83Mw",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "upnZgCJ9\n6.38 GB",
+            "url": "https://pixeldrain.net/api/file/upnZgCJ9",
+            "quality": "2160p",
+            "size": "6.38 GB",
+            "fileName": "upnZgCJ9",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "5327P9oH\n6.35 GB",
+            "url": "https://pixeldrain.net/api/file/5327P9oH",
+            "quality": "1080p",
+            "size": "6.35 GB",
+            "fileName": "5327P9oH",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "2Rp9eZQp\n2.46 GB",
+            "url": "https://pixeldrain.net/api/file/2Rp9eZQp",
+            "quality": "1080p",
+            "size": "2.46 GB",
+            "fileName": "2Rp9eZQp",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:hdhub4u:movie:9012",
+      "storedAt": 1763297047186,
+      "meta": {
+        "storedAt": 1763297047,
+        "urlCount": 7,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "movie",
+        "tmdbId": "9012",
+        "imdbId": "tt0322802",
+        "streams": [
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "Jackass.Number.Two.Unrated.Version.2006.1080p.WEB.DL.Hindi.English.DD.2.0.x264.ESubs.Untouched.mkv",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/e109e8541e0da38ab10dd4a10c251461?token=1763297044",
+            "quality": "1080p",
+            "size": "4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Jackass.Number.Two.Unrated.Version.2006.1080p.WEB.DL.Hindi.English.DD.2.0.x264.ESubs.Untouched.mkv",
+            "url": "https://pixeldrain.dev/u/71yDNN4N",
+            "quality": "1080p",
+            "size": "4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Jackass.Number.Two.Unrated.Version.2006.1080p.WEB.DL.Hindi.English.DD.2.0.x264.ESubs.Untouched.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2lFHvboQMnBrmU7rvANjj7iFdKB3FmrJvn1DByeeAuPrZMAn9JX71Z-3QO5egmG2ipSTiZBCVCCwt9De1eJBsOg-wiz4aqi1HcdLhhGMs8aIuGKmW0XIUsAqoazSUZXqh4Iof2iMrKlzacsTPIBZjvFbWdxvjDibcxUpJ7nQHSEyaUHwc8VYGboTLhae0NPzujCMSDGOxIH5bNdDHLDDbkYqLRkK1I0CjmIF1jsWHc5BeluzIw",
+            "quality": "1080p",
+            "size": "4 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Jackass.Number.Two.Unrated.Version.2006.720p.WEB.DL.Hindi.English.DD.2.0.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/u/H3qYaXcm",
+            "quality": "720p",
+            "size": "908 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Jackass.Number.Two.Unrated.Version.2006.720p.WEB.DL.Hindi.English.DD.2.0.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2kU1RQUxeZLlLAyns27xrBAKz7znIUN5PztsC5uPW6b-tB2yNz5aj-6uriJ6Y_UjEBqL2Pu000E2XBXa39eMmuP9UaABXrQPusj9aWA5i5oLLRx50Et1k43dMo9NjAVcZHwHB379UtmLB-MP5tcNEhrop6N7ytEj74W2SD_BeSKQXxYe1a7cYglJYhiyqU7HtioVDkleN4gNzoQTLlwmuAfQCELHnehmKpjR-E8gSNx6KM8l2iQ3gAOx6H2dkl3MFXqPjou",
+            "quality": "720p",
+            "size": "908 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Jackass.Number.Two.Unrated.Version.2006.480p.WEB.DL.Hindi.English.DD.2.0.x264.ESubs.mkv",
+            "url": "https://pixeldrain.dev/u/9hzgA2tJ",
+            "quality": "480p",
+            "size": "318.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Jackass.Number.Two.Unrated.Version.2006.480p.WEB.DL.Hindi.English.DD.2.0.x264.ESubs.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2mvBloOvnDnciJs3fjXdINaQPSJnS15Mvxdtjs4rJPf_g_Zg2v8n0oX6iPrmzVfTxumXrYHQyAWGGZf64vqIcllwpm6iJ4_ZJR6yIz5MxsJML1yiPJvjqsG9GLT6kMHlQ3V4CvIrMZQVAQ0Io0Ya9loGZR0RvFdtgwnqsYKs1iqxn_X4q4hT8c02bdjFCB54gOL4gUAjTEv8GOOhXRcKsNbPgrsHmi2L8pR0NyXUaua8f085w4KdcVyBhtQdVUUrS4kT-MA",
+            "quality": "480p",
+            "size": "318.8 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 7
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:9012",
+      "storedAt": 1763297049325,
+      "meta": {
+        "storedAt": 1763297049,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "9012",
+        "imdbId": "tt0322802",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Jackass Forever (2022) 1080p BluRay REMUX AVC [Hindi NF DDP 5 1 ~ 640Kbps + English DTS-HD MA 5 1] ESubs - (Arrow) PiRaTeS\n25.46GB",
+            "url": "https://worker-damp-dew-bcd7.wanax10405.workers.dev/4a10e6b9b61269038c7772e158baccc07d91d00c25225c0bf263f5ab87f7ee4ec59535b977ce66a49167d447bfdd2d66639f750fa838a265c3911f099fe3ad132a23af4271e733871d2a822720776d637ba719cf6b8a46486e682439ce0fbd4b938035a4c6208d019fa2c4968c82a48286f824e63c9ed448ed569b652beba9363367eae809ed907acf45a594f67b2c2ab260d51c9f05630872152b46fb82fab720a4982b5012d69f11909a613f41bde5::dbe27fb473b630aa442dad883b346665/Jackass Forever (2022) 1080p BluRay REMUX AVC [Hindi NF DDP 5.1  640Kbps  English DTS-HD MA 5.1] ESubs - (Arrow) PiRaTeS.mkv",
+            "quality": "1080p | BluRay",
+            "size": "25.46GB",
+            "fileName": "Jackass Forever (2022) 1080p BluRay REMUX AVC [Hindi NF DDP 5.1 ~ 640Kbps + English DTS-HD MA 5.1] ESubs - (Arrow) PiRaTeS.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:116761:s1e7",
+      "storedAt": 1763297118076,
+      "meta": {
+        "storedAt": 1763297118,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "116761",
+        "imdbId": "tt10975574",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/418342?token=9a92bc0a203d8dbd7e5a14770f4c9223&expires=1768481116&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:125988:s1e2",
+      "storedAt": 1763296675048,
+      "meta": {
+        "storedAt": 1763296675,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "125988",
+        "imdbId": "tt14688458",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "LMPRJS8u\n7.19 GB",
+            "url": "https://pixeldrain.net/api/file/LMPRJS8u",
+            "quality": "2160p",
+            "size": "7.19 GB",
+            "fileName": "LMPRJS8u",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ngUWBqsx\n3.62 GB",
+            "url": "https://pixeldrain.net/api/file/ngUWBqsx",
+            "quality": "1080p",
+            "size": "3.62 GB",
+            "fileName": "ngUWBqsx",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "p7sUZtDx\n2.62 GB",
+            "url": "https://pixeldrain.net/api/file/p7sUZtDx",
+            "quality": "1080p",
+            "size": "2.62 GB",
+            "fileName": "p7sUZtDx",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:125988:s1e2",
+      "storedAt": 1763296671193,
+      "meta": {
+        "storedAt": 1763296671,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "125988",
+        "imdbId": "tt14688458",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies 10bit ATVP WEB-DL DDP5 1 HEVC-Vyndros",
+            "url": "https://a.111477.xyz/tvs/Silo/Season%201/Silo.S01E02.Holston%E2%80%99s.Pick.2160p.10bit.ATVP.WEB-DL.DDP5.1.HEVC-Vyndros.mkv",
+            "quality": "2160p",
+            "size": "1.51 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Silo.S01E02.Holston’s.Pick.2160p.10bit.ATVP.WEB-DL.DDP5.1.HEVC-Vyndros.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][h264]-GLHF",
+            "url": "https://a.111477.xyz/tvs/Silo/Season%201/Silo%20(2023)%20-%20S01E02%20-%20Holstons%20Pick%20[WEBDL-1080p][EAC3%20Atmos%205.1][h264]-GLHF.mkv",
+            "quality": "1080p",
+            "size": "3.62 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Silo (2023) - S01E02 - Holstons Pick [WEBDL-1080p][EAC3 Atmos 5.1][h264]-GLHF.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][h264]-MeM",
+            "url": "https://a.111477.xyz/tvs/Silo/Season%201/Silo%20(2023)%20-%20S01E02%20-%20Holstons%20Pick%20[WEBDL-1080p][EAC3%20Atmos%205.1][h264]-MeM.mkv",
+            "quality": "1080p",
+            "size": "4.00 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Silo (2023) - S01E02 - Holstons Pick [WEBDL-1080p][EAC3 Atmos 5.1][h264]-MeM.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][h264]-NTb",
+            "url": "https://a.111477.xyz/tvs/Silo/Season%201/Silo%20(2023)%20-%20S01E02%20-%20Holston%E2%80%99s%20Pick%20[WEBDL-1080p][EAC3%20Atmos%205.1][h264]-NTb.mkv",
+            "quality": "1080p",
+            "size": "3.62 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Silo (2023) - S01E02 - Holston’s Pick [WEBDL-1080p][EAC3 Atmos 5.1][h264]-NTb.mkv"
+          }
+        ],
+        "count": 4
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-16T12:34:42.628Z",
-    "totalOriginalEntries": 2634,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-16T12:45:59.010Z",
+    "totalOriginalEntries": 2645,
+    "newItemsInThisBatch": 11,
     "format": "compact_v1"
   }
 }
