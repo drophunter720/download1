@@ -122289,12 +122289,388 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:uhdmovies:movie:1017163",
+      "storedAt": 1763273899178,
+      "meta": {
+        "storedAt": 1763273899,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "1017163",
+        "imdbId": "tt27811040",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "The Roundup Punishment 2024 1080p BluRay x264 TrueHD5 1-WiKi\n10.26GB",
+            "url": "https://worker-shrill-lake-d75a.conaxe5106.workers.dev/b5c67baec7f78b64294bfe7b917c506271556df50eac03262d5565584161dc28de32a8cc10e88bf8a58dfdfcffce9aa414c6779304d98fd670ef4e49d782b90845ba9ea476b67f49e14260fd68b894c7f87672e6f30796684575fa40631c2282846c9de577da59220fd6a2f7a4218c7a64f8a0b7dac9b6dcbcd0c264df6f63901e2c9843f39bb9b1ef0b3433d05211f0c591825adbb7ce4103d846c2bf45dbe25890b727e79d51b996154ec2120fafc9::505b7e99b3e08ccc9201c2e59e0be5c6/The.Roundup.Punishment.2024.1080p.BluRay.x264.TrueHD5.1-WiKi.mkv",
+            "quality": "1080p | BluRay",
+            "size": "10.26GB",
+            "fileName": "The.Roundup.Punishment.2024.1080p.BluRay.x264.TrueHD5.1-WiKi.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:75612",
+      "storedAt": 1763273697584,
+      "meta": {
+        "storedAt": 1763273697,
+        "urlCount": 10,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "75612",
+        "imdbId": "tt1483013",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Oblivion (2013) Hybrid 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi NF DDP 5.1 + English TrueHD Atmos 7.1] x265 (FraMeSToR-LUMiX) 4kHDHub.com\n52.86 GB",
+            "url": "https://files.jiocloud1.workers.dev/a27639f303f6d9c8a756cf0c6c995326f0621516d7271d978d8f3dcde0c40e1a0313afa8ed405fe90eb7eaabefae969e::c9f47c950ecf8c63150094d80cca273d/1397327004/Oblivion%20(2013)%20Hybrid%202160p%20UHD%20BluRay%20REMUX%20DV%20HDR%2010bit%20HEVC%20[Hindi%20NF%20DDP%205.1%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20(FraMeSToR-LUMiX)%204kHDHub.com.mkv",
+            "quality": "2160p",
+            "size": "52.86 GB",
+            "fileName": "Oblivion (2013) Hybrid 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi NF DDP 5.1 + English TrueHD Atmos 7.1] x265 (FraMeSToR-LUMiX) 4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Oblivion (2013) Hybrid Open Matte 2160p Ai-Upscaled BluRay {60 FPS} DV HDR10Plus 10bit HEVC [Hindi NF DDP 5.1 + English TrueHD Atmos 7.1] x265 (DirtyHippie-LUMiX) 4kHDHub.com\n30.91 GB",
+            "url": "https://filescdn.kitox49059.workers.dev/b2cefa5c9bd657f648b9837a6fc10fd2c309711c4a3f640ea94601b2a707d374d46ac28ec99417e367f3e86cf5f16c35::b4d5b9bf7d09467a734bddb0f45bc720/1397327004/Oblivion%20(2013)%20Hybrid%20Open%20Matte%202160p%20Ai-Upscaled%20BluRay%20%7B60%20FPS%7D%20DV%20HDR10Plus%2010bit%20HEVC%20[Hindi%20NF%20DDP%205.1%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20(DirtyHippie-LUMiX)%204kHDHub.com.mkv",
+            "quality": "2160p",
+            "size": "30.91 GB",
+            "fileName": "Oblivion (2013) Hybrid Open Matte 2160p Ai-Upscaled BluRay {60 FPS} DV HDR10Plus 10bit HEVC [Hindi NF DDP 5.1 + English TrueHD Atmos 7.1] x265 (DirtyHippie-LUMiX) 4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Oblivion (2013) 1080p BluRay REMUX AVC [Hindi NF DDP 5.1 + English TrueHD Atmos 7.1] x264 (PmP-LUMiX) 4kHDHub.com\n29.72 GB",
+            "url": "https://index.cdn-utube.workers.dev/9b6992f5fc91801a8848b54473f25013147a165ac971c1f0ff0bef83641e8e14e53163d6842e400cb45e5ad4ddbd31d9::684dd5022f553e7424d48eb102b2c5f4/1397327004/Oblivion%20(2013)%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20NF%20DDP%205.1%20+%20English%20TrueHD%20Atmos%207.1]%20x264%20(PmP-LUMiX)%204kHDHub.com.mkv",
+            "quality": "1080p",
+            "size": "29.72 GB",
+            "fileName": "Oblivion (2013) 1080p BluRay REMUX AVC [Hindi NF DDP 5.1 + English TrueHD Atmos 7.1] x264 (PmP-LUMiX) 4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "f133a41a4e78c0fdc62a1ab17044c220\n24.87 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/f133a41a4e78c0fdc62a1ab17044c220?token=1763273696",
+            "quality": "2160p",
+            "size": "24.87 GB",
+            "fileName": "f133a41a4e78c0fdc62a1ab17044c220",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Oblivion (2013) Hybrid Open Matte 1080p BluRay [Hindi NF DDP 5.1 + English TrueHD Atmos 7.1] x264 (BLUBIRD-LUMiX) 4kHDHub.com\n18.08 GB",
+            "url": "https://api.hubcloud-2.workers.dev/87299d4180d33780dd923caed1278af54a72a3bfe2bb7cc222b5948c49b4d0e68a236d1d0349206e4d4f5ec8a398590b::a303753ee9675aff145d26f07535c145/1397327004/Oblivion%20(2013)%20Hybrid%20Open%20Matte%201080p%20BluRay%20[Hindi%20NF%20DDP%205.1%20+%20English%20TrueHD%20Atmos%207.1]%20x264%20(BLUBIRD-LUMiX)%204kHDHub.com.mkv",
+            "quality": "1080p",
+            "size": "18.08 GB",
+            "fileName": "Oblivion (2013) Hybrid Open Matte 1080p BluRay [Hindi NF DDP 5.1 + English TrueHD Atmos 7.1] x264 (BLUBIRD-LUMiX) 4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ihAJqCYB\n16.04 GB",
+            "url": "https://pixeldrain.net/api/file/ihAJqCYB",
+            "quality": "1080p",
+            "size": "16.04 GB",
+            "fileName": "ihAJqCYB",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "1ucN6ySH\n8.15 GB",
+            "url": "https://pixeldrain.net/api/file/1ucN6ySH",
+            "quality": "1080p",
+            "size": "8.15 GB",
+            "fileName": "1ucN6ySH",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Oblivion 2013 1080p UHD BluRay HDR 10bit HEVC [Hindi NF DDP 5.1 + English DDP 7.1] x265 CtrlHD-LUMiX 4kHDHub.com\n8.15 GB",
+            "url": "https://pub-4699cb8522bc4291a445a94712e295f2.r2.dev/Oblivion%202013%201080p%20UHD%20BluRay%20HDR%2010bit%20HEVC%20[Hindi%20NF%20DDP%205.1%20+%20English%20DDP%207.1]%20x265%20CtrlHD-LUMiX%204kHDHub.com.mkv",
+            "quality": "1080p",
+            "size": "8.15 GB",
+            "fileName": "Oblivion 2013 1080p UHD BluRay HDR 10bit HEVC [Hindi NF DDP 5.1 + English DDP 7.1] x265 CtrlHD-LUMiX 4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "JNgy7YqU\n7.12 GB",
+            "url": "https://pixeldrain.net/api/file/JNgy7YqU",
+            "quality": "1080p",
+            "size": "7.12 GB",
+            "fileName": "JNgy7YqU",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Oblivion 2013 Hybrid Open Matte 1080p BluRay 10bit HEVC [Hindi NF DDP 5.1 + English DDP 7.1] x265 Silence-LUMiX 4kHDHub.com\n7.12 GB",
+            "url": "https://pub-4e4bfaec79af4c22bcfab342396dd797.r2.dev/Oblivion%202013%20Hybrid%20Open%20Matte%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20NF%20DDP%205.1%20+%20English%20DDP%207.1]%20x265%20Silence-LUMiX%204kHDHub.com.mkv",
+            "quality": "1080p",
+            "size": "7.12 GB",
+            "fileName": "Oblivion 2013 Hybrid Open Matte 1080p BluRay 10bit HEVC [Hindi NF DDP 5.1 + English DDP 7.1] x265 Silence-LUMiX 4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 10
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:75612",
+      "storedAt": 1763273694931,
+      "meta": {
+        "storedAt": 1763273694,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "75612",
+        "imdbId": "tt1483013",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay DDP5 1 x265 10bit-LAMA",
+            "url": "https://a.111477.xyz/movies/Oblivion%20(2013)/Oblivion.2013.1080p.BluRay.DDP5.1.x265.10bit-LAMA.mkv",
+            "quality": "1080p",
+            "size": "2.23 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Oblivion.2013.1080p.BluRay.DDP5.1.x265.10bit-LAMA.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265 10bit-KONTRAST",
+            "url": "https://a.111477.xyz/movies/Oblivion%20(2013)/Oblivion.2013.Open.Matte.1080p.BluRay.x265.10bit-KONTRAST.mp4",
+            "quality": "1080p",
+            "size": "3.68 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Oblivion.2013.Open.Matte.1080p.BluRay.x265.10bit-KONTRAST.mp4"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x264-LOST",
+            "url": "https://a.111477.xyz/movies/Oblivion%20(2013)/Oblivion.2013.PROPER.MULTi.1080p.BluRay.x264-LOST.mkv",
+            "quality": "1080p",
+            "size": "9.84 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Oblivion.2013.PROPER.MULTi.1080p.BluRay.x264-LOST.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AVC DTS-HD MA 7 1-HiFi",
+            "url": "https://a.111477.xyz/movies/Oblivion%20(2013)/Oblivion.2013.REPACK.BluRay.Remux.1080p.AVC.DTS-HD.MA.7.1-HiFi.mkv",
+            "quality": "1080p | REMUX",
+            "size": "29.19 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Oblivion.2013.REPACK.BluRay.Remux.1080p.AVC.DTS-HD.MA.7.1-HiFi.mkv"
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:75612",
+      "storedAt": 1763273702749,
+      "meta": {
+        "storedAt": 1763273702,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "75612",
+        "imdbId": "tt1483013",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Oblivion 2013 2160p UHD BluRay HDR x265 [Hindi DDP 5 1 + English TrueHD 7 1] ESubs-(ARRoW) CtrlHD\n19.48GB",
+            "url": "https://worker-withered-sound-c618.xokoroh169.workers.dev/7de4c3070070dd0e954a3c6c7ad32843b28e35eadf06aa4713c11e403a67376b3ef22e31c9f8f5d38f1a5e28e8732bff69b1913b2a293fe1d1a54de8b45c823f3930c07dd6d72882523de5e1886296dae8317d241c72ad0715fe3d3db91766e7596c1037db12e1d4b490385151ebcf0f7c14fd564b5eb488549f72757d938b41d69c87010aa1048063e478ca83f3dbf9e357f7e34c85097df4ad650c6dde123515a9569bbfd56ef5d177f753e8a1a33d::d41239a4d4fc83e6dcde0b393c409328/Oblivion.2013.2160p.UHD.BluRay.HDR.x265.[Hindi DDP 5.1  English TrueHD 7.1].ESubs-(ARRoW) CtrlHD.mkv",
+            "quality": "4K | HDR | BluRay",
+            "size": "19.48GB",
+            "fileName": "Oblivion.2013.2160p.UHD.BluRay.HDR.x265.[Hindi DDP 5.1 + English TrueHD 7.1].ESubs-(ARRoW) CtrlHD.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Oblivion 2013 Open Matte 1080p WEB-DL x264 [Hindi DDP 5 1 + English DDP 7 1] ESubs-(ARRoW) BLUBIRD\n15.05GB",
+            "url": "https://worker-odd-paper-3e12.paheha9858.workers.dev/d99f854fe9aeb0f10fe07c016de3ac371b61930b25f002703467d0bca83b1cce07a2f46f72fa7ffa44bca910c9b25ac2706a9d265bfecabf05a1b340033cffa51257cdefb939a41b289fa114c546b7dd5e7f4b2e364d8a0762c366c22081d039cf5219a855e12f72b053105b8bfbd7917c49ebda8244eab7148689a84c85705a183b9ae5aef86e545c7bb7c71ee9f826ef7e843e0b5786db6a1823ca779102ba7c5e459e48c07dde25f5f50d0c5bc8d9::b086b3fb4b8bbac9fddf3e4fc1398adb/Oblivion.2013.Open.Matte.1080p.WEB-DL.x264.[Hindi DDP 5.1  English DDP 7.1].ESubs-(ARRoW) BLUBIRD.mkv",
+            "quality": "1080p",
+            "size": "15.05GB",
+            "fileName": "Oblivion.2013.Open.Matte.1080p.WEB-DL.x264.[Hindi DDP 5.1 + English DDP 7.1].ESubs-(ARRoW) BLUBIRD.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:114118:s1e1",
+      "storedAt": 1763274087282,
+      "meta": {
+        "storedAt": 1763274087,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "114118",
+        "imdbId": "tt13777028",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "4DrywUuE\n2.55 GB",
+            "url": "https://pixeldrain.net/api/file/4DrywUuE",
+            "quality": "1080p",
+            "size": "2.55 GB",
+            "fileName": "4DrywUuE",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "KDGkNaLC\n1.06 GB",
+            "url": "https://pixeldrain.net/api/file/KDGkNaLC",
+            "quality": "1080p",
+            "size": "1.06 GB",
+            "fileName": "KDGkNaLC",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "iQL1Lk1q\n2.17 GB",
+            "url": "https://pixeldrain.net/api/file/iQL1Lk1q",
+            "quality": "1080p",
+            "size": "2.17 GB",
+            "fileName": "iQL1Lk1q",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "VNq7GuU1\n5.17 GB",
+            "url": "https://pixeldrain.net/api/file/VNq7GuU1",
+            "quality": "2160p",
+            "size": "5.17 GB",
+            "fileName": "VNq7GuU1",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "CoU3wu6r\n8.04 GB",
+            "url": "https://pixeldrain.net/api/file/CoU3wu6r",
+            "quality": "2160p",
+            "size": "8.04 GB",
+            "fileName": "CoU3wu6r",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:233912:s1e2",
+      "storedAt": 1763274068772,
+      "meta": {
+        "storedAt": 1763274068,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "233912",
+        "imdbId": "tt28116092",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/352706?token=f2af8c4a73dfcfe6e0b5577e58b1b41b&expires=1768458067&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-16T06:14:40.774Z",
-    "totalOriginalEntries": 2343,
-    "newItemsInThisBatch": 4,
+    "exportedAt": "2025-11-16T06:22:58.867Z",
+    "totalOriginalEntries": 2349,
+    "newItemsInThisBatch": 6,
     "format": "compact_v1"
   }
 }
