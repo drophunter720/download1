@@ -149035,12 +149035,72 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:uhdmovies:movie:746036",
+      "storedAt": 1763313840532,
+      "meta": {
+        "storedAt": 1763313840,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "746036",
+        "imdbId": "tt1684562",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "The Fall Guy (2024) 1080p BluRay 10Bit X265 [Hindi DDP5 1 + English DDP 7 1] (Chivaman-Ionicboy)\n5.82GB",
+            "url": "https://worker-odd-paper-3e12.paheha9858.workers.dev/79d5485e1bd6e3ea8c647971ba0ed09ef760896e274427dddc07b453392f8a6c3f25428fe080cb0b79de3359011fcef9ede8eb620b2af27fd8b74d06635dfe7625ff7724ba63ef4144735f42570d028dffaf55b7bb7be2b324276e5eb23fafbdcc669b4db733aa72a756f3e5aeba069ee0a114296b50ea8b006f483716cfdd548c91458b75bfc80b585aaa478a1708ff238730cef3dbedc080d9c078a89a930d1baf1328ec19b427965627c9102a8b55::a122d372a8c86db3c442f862b6fb64d6/The Fall Guy (2024) 1080p BluRay 10Bit X265 [Hindi DDP5.1  English DDP 7.1] (Chivaman-Ionicboy).mkv",
+            "quality": "1080p | BluRay",
+            "size": "5.82GB",
+            "fileName": "The Fall Guy (2024) 1080p BluRay 10Bit X265 [Hindi DDP5.1 + English DDP 7.1] (Chivaman-Ionicboy).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1400:s7e2",
+      "storedAt": 1763313867035,
+      "meta": {
+        "storedAt": 1763313867,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1400",
+        "imdbId": "tt0098904",
+        "season": 7,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/184998?token=6c80cabc81edc1d97d1f78b6567409d5&expires=1768497864&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-16T17:23:58.506Z",
-    "totalOriginalEntries": 2791,
-    "newItemsInThisBatch": 6,
+    "exportedAt": "2025-11-16T17:31:58.258Z",
+    "totalOriginalEntries": 2793,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
