@@ -116550,12 +116550,118 @@
         ],
         "count": 9
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:647813",
+      "storedAt": 1763251374025,
+      "meta": {
+        "storedAt": 1763251373,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "647813",
+        "imdbId": "tt11204984",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/265628?token=b2620e87a32891900920e05dd5e045dd&expires=1768435372&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1405:s7e4",
+      "storedAt": 1763251456997,
+      "meta": {
+        "storedAt": 1763251456,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1405",
+        "imdbId": "tt0773262",
+        "season": 7,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS-HD MA 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Dexter/Season%207/Dexter.S07E04.Run.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "9.22 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Dexter.S07E04.Run.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1405:s7e4",
+      "storedAt": 1763251460552,
+      "meta": {
+        "storedAt": 1763251460,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1405",
+        "imdbId": "tt0773262",
+        "season": 7,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Dexter S7E4 - 4. Run",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/dexter/s7/Dexter.S07E04.Run.BR720p.380MB-PaHe.in.mkv",
+            "quality": "1080p",
+            "size": "54min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Dexter S7E4 - 4. Run",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/dexter/s7/Dexter.S07E04.Run.BR720p.380MB-PaHe.in.mkv",
+            "quality": "1080p",
+            "size": "54min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-15T23:55:38.629Z",
-    "totalOriginalEntries": 2248,
-    "newItemsInThisBatch": 7,
+    "exportedAt": "2025-11-16T00:05:18.606Z",
+    "totalOriginalEntries": 2251,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
