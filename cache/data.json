@@ -117482,11 +117482,201 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1214931",
+      "storedAt": 1763255545343,
+      "meta": {
+        "storedAt": 1763255545,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1214931",
+        "imdbId": "tt29567915",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/494636?token=22a22e192524f46c1a2f4e241b40f77f&expires=1768439544&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:282440:s1e5",
+      "storedAt": 1763255123684,
+      "meta": {
+        "storedAt": 1763255123,
+        "urlCount": 9,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "282440",
+        "imdbId": "tt38091266",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Rulers.of.Fortune.S01E05.The.Nest.and.the.Cage.1080p.NF.WEB-DL.English.DDP5.1-Pt-Br.DDP5.1.Atmos.H.264-4kHdHub.Com\n2.34 GB",
+            "url": "https://fsl.cdnbaba.rest/Rulers.of.Fortune.S01E05.The.Nest.and.the.Cage.1080p.NF.WEB-DL.English.DDP5.1-Pt-Br.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv?token=1763255123",
+            "quality": "1080p",
+            "size": "2.34 GB",
+            "fileName": "Rulers.of.Fortune.S01E05.The.Nest.and.the.Cage.1080p.NF.WEB-DL.English.DDP5.1-Pt-Br.DDP5.1.Atmos.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "V2qK75Pv\n2.34 GB",
+            "url": "https://pixeldrain.net/api/file/V2qK75Pv",
+            "quality": "1080p",
+            "size": "2.34 GB",
+            "fileName": "V2qK75Pv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n2.34 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=BIPbW14FGCJC&n=XkwzCaJR&fn=Rulers.of.Fortune.S01E05.The.Nest.and.the.Cage.1080p.NF.WEB-DL.English.DDP5.1-Pt-Br.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv",
+            "quality": "1080p",
+            "size": "2.34 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Rulers.of.Fortune.S01E05.2160p.NF.WEB-DL.DUAL.DDP.5.1.Atmos.DV.HDR.H.265-NOGRP\n7.17 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Rulers.of.Fortune.S01E05.2160p.NF.WEB-DL.DUAL.DDP.5.1.Atmos.DV.HDR.H.265-NOGRP.mkv?token=1763255123",
+            "quality": "2160p",
+            "size": "7.17 GB",
+            "fileName": "Rulers.of.Fortune.S01E05.2160p.NF.WEB-DL.DUAL.DDP.5.1.Atmos.DV.HDR.H.265-NOGRP",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "HRLYh5mg\n7.17 GB",
+            "url": "https://pixeldrain.net/api/file/HRLYh5mg",
+            "quality": "2160p",
+            "size": "7.17 GB",
+            "fileName": "HRLYh5mg",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "g\n7.17 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=YBCYup4XSTIY&n=3lpSjSgT&fn=Rulers.of.Fortune.S01E05.2160p.NF.WEB-DL.DUAL.DDP.5.1.Atmos.DV.HDR.H.265-NOGRP.mkv",
+            "quality": "2160p",
+            "size": "7.17 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Rulers.of.Fortune.S01E05.2160p.NF.WEB-DL.DUAL.DDP.5.1.Atmos.H.265-HHWEB\n4.93 GB",
+            "url": "https://fsl.cdnbaba.rest/Rulers.of.Fortune.S01E05.2160p.NF.WEB-DL.DUAL.DDP.5.1.Atmos.H.265-HHWEB.mkv?token=1763255123",
+            "quality": "2160p",
+            "size": "4.93 GB",
+            "fileName": "Rulers.of.Fortune.S01E05.2160p.NF.WEB-DL.DUAL.DDP.5.1.Atmos.H.265-HHWEB",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "7dbDPQrm\n4.93 GB",
+            "url": "https://pixeldrain.net/api/file/7dbDPQrm",
+            "quality": "2160p",
+            "size": "4.93 GB",
+            "fileName": "7dbDPQrm",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "g\n4.93 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=eyjNOxJwUJzQ&n=bhYWiZDZ&fn=Rulers.of.Fortune.S01E05.2160p.NF.WEB-DL.DUAL.DDP.5.1.Atmos.H.265-HHWEB.mkv",
+            "quality": "2160p",
+            "size": "4.93 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 9
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:282440:s1e5",
+      "storedAt": 1763255122591,
+      "meta": {
+        "storedAt": 1763255122,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "282440",
+        "imdbId": "tt38091266",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][x264]-playWEB",
+            "url": "https://a.111477.xyz/tvs/Rulers%20of%20Fortune/Season%201/Rulers%20of%20Fortune%20(2025)%20-%20S01E05%20-%20The%20Nest%20and%20the%20Cage%20[WEBDL-1080p][EAC3%20Atmos%205.1][x264]-playWEB.mkv",
+            "quality": "1080p",
+            "size": "2.10 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Rulers of Fortune (2025) - S01E05 - The Nest and the Cage [WEBDL-1080p][EAC3 Atmos 5.1][x264]-playWEB.mkv"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-16T01:05:25.023Z",
-    "totalOriginalEntries": 2271,
+    "exportedAt": "2025-11-16T01:13:26.498Z",
+    "totalOriginalEntries": 2274,
     "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
