@@ -136768,12 +136768,364 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:297802",
+      "storedAt": 1763292512189,
+      "meta": {
+        "storedAt": 1763292512,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "297802",
+        "imdbId": "tt1477834",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/144388?token=f263fbab5971c2e56934571de85414bd&expires=1768476510&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:102085:s6e8",
+      "storedAt": 1763292956644,
+      "meta": {
+        "storedAt": 1763292956,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "102085",
+        "imdbId": "tt12004280",
+        "season": 6,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/252047?token=469a9f22c51102046838be67144d5058&expires=1768476955&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1416:s22e6",
+      "storedAt": 1763292488509,
+      "meta": {
+        "storedAt": 1763292488,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1416",
+        "imdbId": "tt0413573",
+        "season": 22,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/509450?token=d41b54b934d933cc2b4d0ac1807669cc&expires=1768476487&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:4278:s1e1",
+      "storedAt": 1763292728620,
+      "meta": {
+        "storedAt": 1763292728,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "4278",
+        "imdbId": "tt0758745",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Fate.-.Stay.Night.S01E01.The.Day.It.Began.English.Dub.1080p.AMZN.WEB-DL.English.DDP2.0.H.264-4kHdHub.Com\n1.07 GB",
+            "url": "https://fsl.cdnbaba.rest/Fate.-.Stay.Night.S01E01.The.Day.It.Began.English.Dub.1080p.AMZN.WEB-DL.English.DDP2.0.H.264-4kHdHub.Com.mkv?token=1763292728",
+            "quality": "1080p",
+            "size": "1.07 GB",
+            "fileName": "Fate.-.Stay.Night.S01E01.The.Day.It.Began.English.Dub.1080p.AMZN.WEB-DL.English.DDP2.0.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "dRx9j7gb\n1.07 GB",
+            "url": "https://pixeldrain.net/api/file/dRx9j7gb",
+            "quality": "1080p",
+            "size": "1.07 GB",
+            "fileName": "dRx9j7gb",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:4278:s1e1",
+      "storedAt": 1763292726577,
+      "meta": {
+        "storedAt": 1763292726,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "4278",
+        "imdbId": "tt0758745",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux",
+            "url": "https://a.111477.xyz/tvs/Friday%20Night%20Lights/Season%201/Friday%20Night%20Lights%20-%20S01E01%20-%20Pilot%20Bluray-1080p%20Remux.mkv",
+            "quality": "1080p | REMUX",
+            "size": "8.78 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Friday Night Lights - S01E01 - Pilot Bluray-1080p Remux.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX MPEG-2 DD 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Friday%20Night%20Lights/Season%201/Friday.Night.Lights.S01E01.Pilot.1080p.BluRay.REMUX.MPEG-2.DD.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "8.78 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Friday.Night.Lights.S01E01.Pilot.1080p.BluRay.REMUX.MPEG-2.DD.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:4278:s1e11",
+      "storedAt": 1763292833605,
+      "meta": {
+        "storedAt": 1763292833,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "4278",
+        "imdbId": "tt0758745",
+        "season": 1,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "0de410f8ec0b02595b3f67dbfa738877\n978.45 MB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/0de410f8ec0b02595b3f67dbfa738877?token=1763292832",
+            "quality": "1080p",
+            "size": "978.45 MB",
+            "fileName": "0de410f8ec0b02595b3f67dbfa738877",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "k2cnEgng\n978.45 MB",
+            "url": "https://pixeldrain.net/api/file/k2cnEgng",
+            "quality": "1080p",
+            "size": "978.45 MB",
+            "fileName": "k2cnEgng",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:4278:s1e11",
+      "storedAt": 1763292829833,
+      "meta": {
+        "storedAt": 1763292829,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "4278",
+        "imdbId": "tt0758745",
+        "season": 1,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux",
+            "url": "https://a.111477.xyz/tvs/Friday%20Night%20Lights/Season%201/Friday%20Night%20Lights%20-%20S01E11%20-%20Nevermind%20Bluray-1080p%20Remux.mkv",
+            "quality": "1080p | REMUX",
+            "size": "6.92 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Friday Night Lights - S01E11 - Nevermind Bluray-1080p Remux.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX MPEG-2 DD 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Friday%20Night%20Lights/Season%201/Friday.Night.Lights.S01E11.Nevermind.1080p.BluRay.REMUX.MPEG-2.DD.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "6.92 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Friday.Night.Lights.S01E11.Nevermind.1080p.BluRay.REMUX.MPEG-2.DD.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:4278:s1e12",
+      "storedAt": 1763292937716,
+      "meta": {
+        "storedAt": 1763292937,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "4278",
+        "imdbId": "tt0758745",
+        "season": 1,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "1d7c94c7f3a2e01d2cc41bf7222a1adb\n1.12 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/1d7c94c7f3a2e01d2cc41bf7222a1adb?token=1763292936",
+            "quality": "1080p",
+            "size": "1.12 GB",
+            "fileName": "1d7c94c7f3a2e01d2cc41bf7222a1adb",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "YzNw7Bb9\n1.12 GB",
+            "url": "https://pixeldrain.net/api/file/YzNw7Bb9",
+            "quality": "1080p",
+            "size": "1.12 GB",
+            "fileName": "YzNw7Bb9",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:4278:s1e12",
+      "storedAt": 1763292934743,
+      "meta": {
+        "storedAt": 1763292934,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "4278",
+        "imdbId": "tt0758745",
+        "season": 1,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux",
+            "url": "https://a.111477.xyz/tvs/Friday%20Night%20Lights/Season%201/Friday%20Night%20Lights%20-%20S01E12%20-%20What%20to%20Do%20While%20You",
+            "quality": "1080p | REMUX",
+            "size": "6.91 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Friday Night Lights - S01E12 - What to Do While You&#x27;re Waiting Bluray-1080p Remux.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX MPEG-2 DD 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Friday%20Night%20Lights/Season%201/Friday.Night.Lights.S01E12.What.to.Do.While.Youre.Waiting.1080p.BluRay.REMUX.MPEG-2.DD.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "6.91 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Friday.Night.Lights.S01E12.What.to.Do.While.Youre.Waiting.1080p.BluRay.REMUX.MPEG-2.DD.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-16T11:26:13.312Z",
-    "totalOriginalEntries": 2578,
-    "newItemsInThisBatch": 0,
+    "exportedAt": "2025-11-16T11:36:14.718Z",
+    "totalOriginalEntries": 2587,
+    "newItemsInThisBatch": 9,
     "format": "compact_v1"
   }
 }
