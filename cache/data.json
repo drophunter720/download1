@@ -142237,12 +142237,126 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:11253",
+      "storedAt": 1763302716562,
+      "meta": {
+        "storedAt": 1763302716,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "11253",
+        "imdbId": "tt0411477",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/115606?token=b42ddea1e9bb5e942d72205eb664928c&expires=1768486714&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:628917",
+      "storedAt": 1763302625224,
+      "meta": {
+        "storedAt": 1763302625,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "628917",
+        "imdbId": "tt9059704",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "American Pie Presents Girls Rules 2020 1080p Blu-ray Remux AVC DTS-HD MA 5.1-BdC-4KHDHub\n20.63 GB",
+            "url": "https://fancy-forest-e349.terapiyo234.workers.dev/3a2f7f39ac40277634f9d6fa366c06b47959ced0029e52b9f7dc95ed96242adf679fe838490e9f6e16a67d7938557786::eb640e4ec35a53f950ed28c717d3f06f/1397327004/American%20Pie%20Presents%20Girls%20Rules%202020%201080p%20Blu-ray%20Remux%20AVC%20DTS-HD%20MA%205.1-BdC-4KHDHub.mkv",
+            "quality": "1080p",
+            "size": "20.63 GB",
+            "fileName": "American Pie Presents Girls Rules 2020 1080p Blu-ray Remux AVC DTS-HD MA 5.1-BdC-4KHDHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "EtaUfo7X\n13.92 GB",
+            "url": "https://pixeldrain.net/api/file/EtaUfo7X",
+            "quality": "1080p",
+            "size": "13.92 GB",
+            "fileName": "EtaUfo7X",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "xWMocuLh\n4.86 GB",
+            "url": "https://pixeldrain.net/api/file/xWMocuLh",
+            "quality": "1080p",
+            "size": "4.86 GB",
+            "fileName": "xWMocuLh",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:628917",
+      "storedAt": 1763302623185,
+      "meta": {
+        "storedAt": 1763302623,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "628917",
+        "imdbId": "tt9059704",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEB H264-LOST",
+            "url": "https://a.111477.xyz/movies/An%20American%20Pickle%20(2020)/An.American.Pickle.2020.MULTI.1080p.WEB.H264-LOST.mkv",
+            "quality": "1080p",
+            "size": "6.70 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "An.American.Pickle.2020.MULTI.1080p.WEB.H264-LOST.mkv"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-16T14:11:47.526Z",
-    "totalOriginalEntries": 2672,
-    "newItemsInThisBatch": 9,
+    "exportedAt": "2025-11-16T14:19:47.131Z",
+    "totalOriginalEntries": 2675,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
