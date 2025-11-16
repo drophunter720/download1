@@ -120471,11 +120471,54 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:341190",
+      "storedAt": 1763270438342,
+      "meta": {
+        "storedAt": 1763270438,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "341190",
+        "imdbId": "tt4815672",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Hot Young Bloods (2014) BluRay 1080p REMUX AVC [Hindi DDP 2.0 + English DTS-HD MA 5.1] (FraMeSToR-Ionicboy)\n25.98 GB",
+            "url": "https://hidden-sunset-305a.gojeca3792.workers.dev/1a0ad5900b81408975294d1026ecbcc2194ad541dee3e621cab44853b12f0e23b955c6ac7eab28eadd0c9a9f109369d8::2cf47db5a3ce2ac91e104e3de79adc8a/1397327004/Hot%20Young%20Bloods%20(2014)%20BluRay%201080p%20REMUX%20AVC%20[Hindi%20DDP%202.0%20+%20English%20DTS-HD%20MA%205.1]%20(FraMeSToR-Ionicboy).mkv",
+            "quality": "1080p",
+            "size": "25.98 GB",
+            "fileName": "Hot Young Bloods (2014) BluRay 1080p REMUX AVC [Hindi DDP 2.0 + English DTS-HD MA 5.1] (FraMeSToR-Ionicboy)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "2hX3aagU\n8.93 GB",
+            "url": "https://pixeldrain.net/api/file/2hX3aagU",
+            "quality": "1080p",
+            "size": "8.93 GB",
+            "fileName": "2hX3aagU",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-16T05:17:45.149Z",
-    "totalOriginalEntries": 2321,
+    "exportedAt": "2025-11-16T05:25:57.285Z",
+    "totalOriginalEntries": 2322,
     "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
