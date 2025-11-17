@@ -173201,12 +173201,88 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1622:s7e7",
+      "storedAt": 1763392706078,
+      "meta": {
+        "storedAt": 1763392706,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1622",
+        "imdbId": "tt0460681",
+        "season": 7,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay AV1-PTNX",
+            "url": "https://a.111477.xyz/tvs/Supernatural/Season%207/Supernatural.S07E07.1080p.BluRay.AV1-PTNX.mkv",
+            "quality": "1080p",
+            "size": "522.32 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Supernatural.S07E07.1080p.BluRay.AV1-PTNX.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1622:s7e7",
+      "storedAt": 1763392714689,
+      "meta": {
+        "storedAt": 1763392714,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1622",
+        "imdbId": "tt0460681",
+        "season": 7,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Supernatural S7E7 - 7. The Mentalists",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/supernatural/s7/Supernatural.S07.E07.BluRay.720p.English.AAC.5.1.x264.ESub.mkv",
+            "quality": "1080p",
+            "size": "42min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Supernatural S7E7 - 7. The Mentalists",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/supernatural/s7/Supernatural.S07.E07.BluRay.720p.English.AAC.5.1.x264.ESub.mkv",
+            "quality": "1080p",
+            "size": "42min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-17T15:13:02.891Z",
-    "totalOriginalEntries": 3210,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-17T15:22:24.576Z",
+    "totalOriginalEntries": 3212,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
