@@ -177819,12 +177819,117 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:84105:s1e2",
+      "storedAt": 1763402350045,
+      "meta": {
+        "storedAt": 1763402350,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "84105",
+        "imdbId": "tt6473300",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/493404?token=fd51710cec71bc5ca1018e79e5dd1fad&expires=1768586348&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:8592:s7e6",
+      "storedAt": 1763402581976,
+      "meta": {
+        "storedAt": 1763402581,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "8592",
+        "imdbId": "tt1266020",
+        "season": 7,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Parks%20and%20Recreation/Season%207/Parks%20and%20Recreation%20(2009)%20-%20S07E06%20-%20Save%20JJ",
+            "quality": "1080p | REMUX",
+            "size": "3.87 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Parks and Recreation (2009) - S07E06 - Save JJ&#x27;s [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-NOGRP.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS-HD MA 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Parks%20and%20Recreation/Season%207/Parks.and.Recreation.S07E06.Save.JJs.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "3.87 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Parks.and.Recreation.S07E06.Save.JJs.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:93352:s1e6",
+      "storedAt": 1763402352890,
+      "meta": {
+        "storedAt": 1763402352,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "93352",
+        "imdbId": "tt9544034",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/474154?token=ca796499b41799f427d10b048b2fa43d&expires=1768586350&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-17T17:52:37.075Z",
-    "totalOriginalEntries": 3288,
-    "newItemsInThisBatch": 11,
+    "exportedAt": "2025-11-17T18:07:25.754Z",
+    "totalOriginalEntries": 3291,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
