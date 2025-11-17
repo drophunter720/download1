@@ -165846,12 +165846,59 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:hdhub4u:tv:262237:s1e1",
+      "storedAt": 1763359466413,
+      "meta": {
+        "storedAt": 1763359466,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "262237",
+        "imdbId": "tt37436162",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "Call.My.Agent-Bollywood.S01.E01.720p.Hindi.WEB-DL.DD5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://pixeldrain.dev/u/ES26HLjN",
+            "quality": "720p",
+            "size": "405.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "Call.My.Agent-Bollywood.S01.E01.720p.Hindi.WEB-DL.DD5.1.ESub.x264-HDHub4u.Tv.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2nxP7ZHvyfoZxAYAAfkUpPkn5ZX6tAIgNBMXCCf-Kpcloin0VdfVxK4bBUvjoqpwaAraJvAOX0RsRQbYaNhsG5Ux_gBWkdm7tF1tHHulpXzwnKlOPv-7g-uRnuAyCo-CoZuCzM_tEtOZykN4ZNM0053dB4V2frURGPS7WJZzqva_EnhuBVWE-Vg77tEhCJNn2A5msddOeKskMB217Y-QPZWN7hOs-PTzhWNAYHo-LGXC2dd81M",
+            "quality": "720p",
+            "size": "405.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-17T06:02:31.837Z",
-    "totalOriginalEntries": 3090,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-17T06:12:30.693Z",
+    "totalOriginalEntries": 3091,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
