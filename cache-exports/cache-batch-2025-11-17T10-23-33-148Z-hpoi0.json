@@ -1,0 +1,77 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:streamflix:movie:1323880",
+      "storedAt": 1763374883374,
+      "meta": {
+        "storedAt": 1763374883,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "1323880",
+        "imdbId": "tt33029024",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Idli Kadai - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2025/Idlikadai.mkv",
+            "quality": "1080p",
+            "size": "2h 27m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Idli Kadai - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2025/Idlikadai.mkv",
+            "quality": "1080p",
+            "size": "2h 27m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Idli Kadai - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2025/Idlikadai.mkv",
+            "quality": "720p",
+            "size": "2h 27m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Idli Kadai - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2025/Idlikadai.mkv",
+            "quality": "720p",
+            "size": "2h 27m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-17T10:23:33.148Z",
+    "totalOriginalEntries": 1,
+    "newItemsInThisBatch": 1,
+    "format": "compact_v1"
+  }
+}
