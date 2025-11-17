@@ -186457,12 +186457,61 @@
         ],
         "count": 5
       }
+    },
+    {
+      "key": "prov:dahmermovies:movie:260346",
+      "storedAt": 1763421436700,
+      "meta": {
+        "storedAt": 1763421436,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "260346",
+        "imdbId": "tt2446042",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay DTS x264 D-Z0N3",
+            "url": "https://a.111477.xyz/movies/Taken%203%20(2014)/Taken.3.2014.1080p.BluRay.DTS.x264.D-Z0N3.mkv",
+            "quality": "1080p",
+            "size": "17.31 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Taken.3.2014.1080p.BluRay.DTS.x264.D-Z0N3.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay DD 5 1 X265-Ralphy",
+            "url": "https://a.111477.xyz/movies/Taken%203%20(2014)/Taken.3.2014.REPACK.Extended.1080p.BluRay.DD.5.1.X265-Ralphy.mkv",
+            "quality": "1080p",
+            "size": "6.88 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Taken.3.2014.REPACK.Extended.1080p.BluRay.DD.5.1.X265-Ralphy.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DTS-HD MA 5 1 AVC REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/Taken%203%20(2014)/Taken.3.2014.Unrated.REPACK.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": "25.77 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Taken.3.2014.Unrated.REPACK.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv"
+          }
+        ],
+        "count": 3
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-17T23:15:25.430Z",
-    "totalOriginalEntries": 3401,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-17T23:25:08.513Z",
+    "totalOriginalEntries": 3402,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
