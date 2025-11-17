@@ -1,0 +1,71 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:movie:611359",
+      "storedAt": 1763390645039,
+      "meta": {
+        "storedAt": 1763390645,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "611359",
+        "imdbId": "tt8672856",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WebRip x265 10Bit AC3 5 1-JATT",
+            "url": "https://a.111477.xyz/movies/Tu%20Jhoothi%20Main%20Makkaar%20(2023)/Tu.Jhoothi.Main.Makkaar.2023.1080p.WebRip.x265.10Bit.AC3.5.1-JATT.mkv",
+            "quality": "1080p",
+            "size": "2.51 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Tu.Jhoothi.Main.Makkaar.2023.1080p.WebRip.x265.10Bit.AC3.5.1-JATT.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2288:s3e4",
+      "storedAt": 1763390188142,
+      "meta": {
+        "storedAt": 1763390188,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2288",
+        "imdbId": "tt0455275",
+        "season": 3,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/314968?token=463a830c4839a1442b4d7bc7d04c409b&expires=1768574185&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-17T14:44:28.323Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
