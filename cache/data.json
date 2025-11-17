@@ -170435,11 +170435,43 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:4271:s2e3",
+      "storedAt": 1763384342874,
+      "meta": {
+        "storedAt": 1763384342,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4271",
+        "imdbId": "tt0187636",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/329536?token=672bd99df4bd15e951212ad6c7b60665&expires=1768568341&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-17T12:49:48.006Z",
-    "totalOriginalEntries": 3167,
+    "exportedAt": "2025-11-17T12:59:26.321Z",
+    "totalOriginalEntries": 3168,
     "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
