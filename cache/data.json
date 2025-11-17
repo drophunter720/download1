@@ -171544,12 +171544,83 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:uhdmovies:tv:1396:s2e5",
+      "storedAt": 1763386448765,
+      "meta": {
+        "storedAt": 1763386448,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Breaking Bad S02E05 1080p 10bit BluRay x265 HEVC [Org TV-DL Hindi DD 2 0 ~ 224Kbps + English AAC 5 1] ESubs ~ (ARRØW) Silence [QxR]\n2.08GB",
+            "url": "https://worker-patient-waterfall-b426.capilyca.workers.dev/801f5e274f2595b6b9d18556f1add5d770a92767939025a76aa599c8451493c8e5069744e4769e9dbb928118d9c42f4abf50b37a800d51140ec6d082c8021915cbc986f4da3aadc32bd5634bf3ba80c82161f8fb1499a2c0422aeccbe13add195ea58266cf955f30fc9d0eaaffa74205b51ba89d058937d3c8d36b1ca168b91081ccfc3bed4723304cdb36d197dd88aaea02e5b9f77a904acf2c4ddc1196d2e98951e1c218d7ced9daedeea2ef6fbd65::9756c558dd1aaaa424699969c9efd98a/Breaking Bad S02E05 1080p 10bit BluRay x265 HEVC [Org TV-DL Hindi DD 2.0  224Kbps  English AAC 5.1] ESubs  (ARRØW) Silence [QxR].mkv",
+            "quality": "4K | BluRay",
+            "size": "2.08GB",
+            "fileName": "Breaking Bad S02E05 1080p 10bit BluRay x265 HEVC [Org TV-DL Hindi DD 2.0 ~ 224Kbps + English AAC 5.1] ESubs ~ (ARRØW) Silence [QxR].mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1981:s1e2",
+      "storedAt": 1763386467586,
+      "meta": {
+        "storedAt": 1763386467,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1981",
+        "imdbId": "tt0158552",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Proper][EAC3 2 0][h265]-d3g",
+            "url": "https://a.111477.xyz/tvs/Charmed/Season%201/Charmed%20(1998)%20-%20S01E02%20-%20Ive%20Got%20You%20Under%20My%20Skin%20[Bluray-1080p%20Proper][EAC3%202.0][h265]-d3g.mkv",
+            "quality": "1080p",
+            "size": "1.94 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Charmed (1998) - S01E02 - Ive Got You Under My Skin [Bluray-1080p Proper][EAC3 2.0][h265]-d3g.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 2 0][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Charmed/Season%201/Charmed%20(1998)%20-%20S01E02%20-%20Ive%20Got%20You%20Under%20My%20Skin%20[Bluray-1080p][EAC3%202.0][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": "1.11 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Charmed (1998) - S01E02 - Ive Got You Under My Skin [Bluray-1080p][EAC3 2.0][x265]-iVy.mkv"
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-17T13:25:37.822Z",
-    "totalOriginalEntries": 3181,
-    "newItemsInThisBatch": 7,
+    "exportedAt": "2025-11-17T13:35:16.728Z",
+    "totalOriginalEntries": 3183,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
