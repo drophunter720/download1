@@ -181141,12 +181141,513 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:tv:44217:s4e8",
+      "storedAt": 1763410114929,
+      "meta": {
+        "storedAt": 1763410114,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "44217",
+        "imdbId": "tt2306299",
+        "season": 4,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "MmnYhJW3\n8.22 GB",
+            "url": "https://pixeldrain.net/api/file/MmnYhJW3",
+            "quality": "1080p",
+            "size": "8.22 GB",
+            "fileName": "MmnYhJW3",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "9cfac1c66b85611f825dfd51a01d5656\n4.29 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/9cfac1c66b85611f825dfd51a01d5656?token=1763410113",
+            "quality": "1080p",
+            "size": "4.29 GB",
+            "fileName": "9cfac1c66b85611f825dfd51a01d5656",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "tZPMKy6m\n4.29 GB",
+            "url": "https://pixeldrain.net/api/file/tZPMKy6m",
+            "quality": "1080p",
+            "size": "4.29 GB",
+            "fileName": "tZPMKy6m",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "05d9972bc48918aff0f3cebecaa48194\n1.16 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/05d9972bc48918aff0f3cebecaa48194?token=1763410113",
+            "quality": "1080p",
+            "size": "1.16 GB",
+            "fileName": "05d9972bc48918aff0f3cebecaa48194",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "BXJuSVwi\n1.16 GB",
+            "url": "https://pixeldrain.net/api/file/BXJuSVwi",
+            "quality": "1080p",
+            "size": "1.16 GB",
+            "fileName": "BXJuSVwi",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:44217:s4e8",
+      "storedAt": 1763410110805,
+      "meta": {
+        "storedAt": 1763410110,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "44217",
+        "imdbId": "tt2306299",
+        "season": 4,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Vikings/Season%204/Vikings%20(2013)%20-%20S04E08%20-%20Portage%20[Bluray-1080p%20Remux][DTS-HD%20MA%205.1][AVC]-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "8.19 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Vikings (2013) - S04E08 - Portage [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-NOGRP.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][x264]-OFT",
+            "url": "https://a.111477.xyz/tvs/Vikings/Season%204/Vikings%20(2013)%20-%20S04E08%20-%20Portage%20[Bluray-1080p][AC3%205.1][x264]-OFT.mkv",
+            "quality": "1080p",
+            "size": "1.97 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Vikings (2013) - S04E08 - Portage [Bluray-1080p][AC3 5.1][x264]-OFT.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:44217:s4e8",
+      "storedAt": 1763410114673,
+      "meta": {
+        "storedAt": 1763410114,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "44217",
+        "imdbId": "tt2306299",
+        "season": 4,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Vikings S4E8 - 8. Portage",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/vikings/s4/Vikings.S04.E08..Dual.Audio.Hindi.English.720p.x264.AAC.ESub.mkv",
+            "quality": "1080p",
+            "size": "45min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Vikings S4E8 - 8. Portage",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/vikings/s4/Vikings.S04.E08..Dual.Audio.Hindi.English.720p.x264.AAC.ESub.mkv",
+            "quality": "1080p",
+            "size": "45min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:44217:s4e9",
+      "storedAt": 1763410261368,
+      "meta": {
+        "storedAt": 1763410261,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "44217",
+        "imdbId": "tt2306299",
+        "season": 4,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ULmC7nNH\n8.03 GB",
+            "url": "https://pixeldrain.net/api/file/ULmC7nNH",
+            "quality": "1080p",
+            "size": "8.03 GB",
+            "fileName": "ULmC7nNH",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "8a811b1b3f8e6daa9db5cc49c94250d1\n4.25 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/8a811b1b3f8e6daa9db5cc49c94250d1?token=1763410259",
+            "quality": "1080p",
+            "size": "4.25 GB",
+            "fileName": "8a811b1b3f8e6daa9db5cc49c94250d1",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "9YaYWCQo\n4.25 GB",
+            "url": "https://pixeldrain.net/api/file/9YaYWCQo",
+            "quality": "1080p",
+            "size": "4.25 GB",
+            "fileName": "9YaYWCQo",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "f94cc8ae4e721b4af9c868bde975a5cc\n1.25 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/f94cc8ae4e721b4af9c868bde975a5cc?token=1763410259",
+            "quality": "1080p",
+            "size": "1.25 GB",
+            "fileName": "f94cc8ae4e721b4af9c868bde975a5cc",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "KMjYG9Dt\n1.25 GB",
+            "url": "https://pixeldrain.net/api/file/KMjYG9Dt",
+            "quality": "1080p",
+            "size": "1.25 GB",
+            "fileName": "KMjYG9Dt",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:44217:s4e9",
+      "storedAt": 1763410254534,
+      "meta": {
+        "storedAt": 1763410254,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "44217",
+        "imdbId": "tt2306299",
+        "season": 4,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Vikings/Season%204/Vikings%20(2013)%20-%20S04E09%20-%20Death%20All",
+            "quality": "1080p | REMUX",
+            "size": "8.00 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Vikings (2013) - S04E09 - Death All &#x27;Round [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-NOGRP.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][x264]-OFT",
+            "url": "https://a.111477.xyz/tvs/Vikings/Season%204/Vikings%20(2013)%20-%20S04E09%20-%20Death%20All",
+            "quality": "1080p",
+            "size": "1.94 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Vikings (2013) - S04E09 - Death All &#x27;Round [Bluray-1080p][AC3 5.1][x264]-OFT.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:44217:s4e9",
+      "storedAt": 1763410258089,
+      "meta": {
+        "storedAt": 1763410257,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "44217",
+        "imdbId": "tt2306299",
+        "season": 4,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Vikings S4E9 - 9. Death All 'Round",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/vikings/s4/Vikings.S04.E09..Dual.Audio.Hindi.English.720p.x264.AAC.ESub.mkv",
+            "quality": "1080p",
+            "size": "45min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Vikings S4E9 - 9. Death All 'Round",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/vikings/s4/Vikings.S04.E09..Dual.Audio.Hindi.English.720p.x264.AAC.ESub.mkv",
+            "quality": "1080p",
+            "size": "45min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:44217:s4e10",
+      "storedAt": 1763410344372,
+      "meta": {
+        "storedAt": 1763410344,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "44217",
+        "imdbId": "tt2306299",
+        "season": 4,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "o2oNdjZr\n7.9 GB",
+            "url": "https://pixeldrain.net/api/file/o2oNdjZr",
+            "quality": "1080p",
+            "size": "7.9 GB",
+            "fileName": "o2oNdjZr",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Vikings S04E10 1080p BluRay [Hindi DDP 2.0 + English DD 5.1] x264 SA89-LUMiX 4kHDHub.com\n4.73 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Vikings%20S04E10%201080p%20BluRay%20[Hindi%20DDP%202.0%20+%20English%20DD%205.1]%20x264%20SA89-LUMiX%204kHDHub.com.mkv?token=1763410342",
+            "quality": "1080p",
+            "size": "4.73 GB",
+            "fileName": "Vikings S04E10 1080p BluRay [Hindi DDP 2.0 + English DD 5.1] x264 SA89-LUMiX 4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "mSvthpa2\n4.73 GB",
+            "url": "https://pixeldrain.net/api/file/mSvthpa2",
+            "quality": "1080p",
+            "size": "4.73 GB",
+            "fileName": "mSvthpa2",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Vikings S04E10 1080p BluRay 10bit HEVC [Hindi DDP 2.0.+ English AAC 5.1] x265 Vyndros-LUMiX 4kHDHub.com\n1.51 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Vikings%20S04E10%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20DDP%202.0.+%20English%20AAC%205.1]%20x265%20Vyndros-LUMiX%204kHDHub.com.mkv?token=1763410342",
+            "quality": "1080p",
+            "size": "1.51 GB",
+            "fileName": "Vikings S04E10 1080p BluRay 10bit HEVC [Hindi DDP 2.0.+ English AAC 5.1] x265 Vyndros-LUMiX 4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "N3aHsG97\n1.51 GB",
+            "url": "https://pixeldrain.net/api/file/N3aHsG97",
+            "quality": "1080p",
+            "size": "1.51 GB",
+            "fileName": "N3aHsG97",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:44217:s4e10",
+      "storedAt": 1763410336369,
+      "meta": {
+        "storedAt": 1763410336,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "44217",
+        "imdbId": "tt2306299",
+        "season": 4,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-BMF",
+            "url": "https://a.111477.xyz/tvs/Vikings/Season%204/Vikings%20(2013)%20-%20S04E10%20-%20The%20Last%20Ship%20[Bluray-1080p%20Remux][DTS-HD%20MA%205.1][AVC]-BMF.mkv",
+            "quality": "1080p | REMUX",
+            "size": "7.96 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Vikings (2013) - S04E10 - The Last Ship [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-BMF.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][x264]-OFT",
+            "url": "https://a.111477.xyz/tvs/Vikings/Season%204/Vikings%20(2013)%20-%20S04E10%20-%20The%20Last%20Ship%20[Bluray-1080p][AC3%205.1][x264]-OFT.mkv",
+            "quality": "1080p",
+            "size": "1.96 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Vikings (2013) - S04E10 - The Last Ship [Bluray-1080p][AC3 5.1][x264]-OFT.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:44217:s4e10",
+      "storedAt": 1763410339323,
+      "meta": {
+        "storedAt": 1763410339,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "44217",
+        "imdbId": "tt2306299",
+        "season": 4,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Vikings S4E10 - 10. The Last Ship",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/vikings/s4/Vikings.S04.E10..Dual.Audio.Hindi.English.720p.x264.AAC.ESub.mkv",
+            "quality": "1080p",
+            "size": "44min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Vikings S4E10 - 10. The Last Ship",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/vikings/s4/Vikings.S04.E10..Dual.Audio.Hindi.English.720p.x264.AAC.ESub.mkv",
+            "quality": "1080p",
+            "size": "44min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-17T20:07:26.744Z",
-    "totalOriginalEntries": 3337,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-17T20:16:53.832Z",
+    "totalOriginalEntries": 3346,
+    "newItemsInThisBatch": 9,
     "format": "compact_v1"
   }
 }
