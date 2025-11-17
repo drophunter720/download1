@@ -174830,12 +174830,145 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:tv:70796:s4e3",
+      "storedAt": 1763397677443,
+      "meta": {
+        "storedAt": 1763397676,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "70796",
+        "imdbId": "tt5788792",
+        "season": 4,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "3RLbwFVD\n3.8 GB",
+            "url": "https://pixeldrain.net/api/file/3RLbwFVD",
+            "quality": "1080p",
+            "size": "3.8 GB",
+            "fileName": "3RLbwFVD",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "x5n5L86j\n1.05 GB",
+            "url": "https://pixeldrain.net/api/file/x5n5L86j",
+            "quality": "1080p",
+            "size": "1.05 GB",
+            "fileName": "x5n5L86j",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "VcnyG9Ai\n6.63 GB",
+            "url": "https://pixeldrain.net/api/file/VcnyG9Ai",
+            "quality": "2160p",
+            "size": "6.63 GB",
+            "fileName": "VcnyG9Ai",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Unx3T2op\n6.56 GB",
+            "url": "https://pixeldrain.net/api/file/Unx3T2op",
+            "quality": "2160p",
+            "size": "6.56 GB",
+            "fileName": "Unx3T2op",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:70796:s4e3",
+      "storedAt": 1763397671182,
+      "meta": {
+        "storedAt": 1763397671,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "70796",
+        "imdbId": "tt5788792",
+        "season": 4,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 5 1][x265]-Pahe",
+            "url": "https://a.111477.xyz/tvs/The%20Marvelous%20Mrs.%20Maisel/Season%204/The%20Marvelous%20Mrs.%20Maisel%20(2017)%20-%20S04E03%20-%20Everything%20is%20Bellmore%20[WEBDL-1080p][AAC%205.1][x265]-Pahe.mkv",
+            "quality": "1080p",
+            "size": "655.03 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Marvelous Mrs. Maisel (2017) - S04E03 - Everything is Bellmore [WEBDL-1080p][AAC 5.1][x265]-Pahe.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:70796:s4e3",
+      "storedAt": 1763397672143,
+      "meta": {
+        "storedAt": 1763397671,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "70796",
+        "imdbId": "tt5788792",
+        "season": 4,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Marvelous Mrs. Maisel S4E3 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1680153703/s4/episode3.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-17T16:35:50.174Z",
-    "totalOriginalEntries": 3242,
-    "newItemsInThisBatch": 5,
+    "exportedAt": "2025-11-17T16:44:31.885Z",
+    "totalOriginalEntries": 3245,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
