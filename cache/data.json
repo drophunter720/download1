@@ -173391,12 +173391,41 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:dahmermovies:movie:81774",
+      "storedAt": 1763393679341,
+      "meta": {
+        "storedAt": 1763393679,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "81774",
+        "imdbId": "tt0092995",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265-VXT",
+            "url": "https://a.111477.xyz/movies/Exploits%20of%20a%20Young%20Don%20Juan%20(1986)/What.Every.Frenchwoman.Wants.1986.ITALIAN.1080p.BluRay.x265-VXT.mkv",
+            "quality": "1080p",
+            "size": "1.56 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "What.Every.Frenchwoman.Wants.1986.ITALIAN.1080p.BluRay.x265-VXT.mkv"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-17T15:31:06.887Z",
-    "totalOriginalEntries": 3215,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-17T15:40:34.458Z",
+    "totalOriginalEntries": 3216,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
