@@ -167929,12 +167929,141 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:606234",
+      "storedAt": 1763366892065,
+      "meta": {
+        "storedAt": 1763366892,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "606234",
+        "imdbId": "tt6882604",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "C4hNy44C\n10.9 GB",
+            "url": "https://pixeldrain.net/api/file/C4hNy44C",
+            "quality": "2160p",
+            "size": "10.9 GB",
+            "fileName": "C4hNy44C",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "qZnfx32f\n9.33 GB",
+            "url": "https://pixeldrain.net/api/file/qZnfx32f",
+            "quality": "2160p",
+            "size": "9.33 GB",
+            "fileName": "qZnfx32f",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:606234",
+      "storedAt": 1763366740236,
+      "meta": {
+        "storedAt": 1763366740,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "606234",
+        "imdbId": "tt6882604",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS HD MA 5 1 FGT ORARBG",
+            "url": "https://a.111477.xyz/movies/Archive%20(2020)/Archive%202020%201080p%20BluRay%20REMUX%20AVC%20DTS%20HD%20MA%205%201%20FGT%20ORARBG.mkv",
+            "quality": "1080p | REMUX",
+            "size": "29.33 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Archive 2020 1080p BluRay REMUX AVC DTS HD MA 5 1 FGT ORARBG.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay DD 5 1 x264-iFT-WhiteRevtmp",
+            "url": "https://a.111477.xyz/movies/Archive%20(2020)/Archive.2020.1080p.BluRay.DD.5.1.x264-iFT-WhiteRevtmp.mkv",
+            "quality": "1080p",
+            "size": "15.09 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Archive.2020.1080p.BluRay.DD.5.1.x264-iFT-WhiteRevtmp.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265-ZiTO",
+            "url": "https://a.111477.xyz/movies/Archive%20(2020)/Archive.2020.1080p.BluRay.x265-ZiTO.mkv",
+            "quality": "1080p",
+            "size": "1.80 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Archive.2020.1080p.BluRay.x265-ZiTO.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:606234",
+      "storedAt": 1763366759302,
+      "meta": {
+        "storedAt": 1763366759,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "606234",
+        "imdbId": "tt6882604",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Archive (2020) 1080p BluRay REMUX AVC [DDP 5 1 Hindi + DTS-HDMA 5 1 English] x264 (FRaMeSToR-UHDMovies)\n29.82GB",
+            "url": "https://worker-withered-rice-d5d6.biwog10098.workers.dev/39003cca4f17cee937fe168dec7e9bf2712d30255e30828aacb2c20b6f0f60ca73f8d601e5f700c8aeaf91e367fe7cfe5c13769664edaa5e2d0d5f1477d204c1f97b32a1e63b44cd62674ee5d5a0a9ecd455f085efd62f72bfb35a565315ba934f6401590c28c1fc65f48239648a120fa8f6353d1cc2ef98e5368eea08ce7db679270a47b4921ac2e9847d934f6ac798ccece6ac6a0b4110ef1237427642c8c53ec6fd4c4f04cd9e21920da111e33731::7930d2737688fa95f15b8e230f5c812b/Archive (2020) 1080p BluRay REMUX AVC [DDP 5.1 Hindi  DTS-HDMA 5.1 English] x264 (FRaMeSToR-UHDMovies).mkv",
+            "quality": "1080p | BluRay",
+            "size": "29.82GB",
+            "fileName": "Archive (2020) 1080p BluRay REMUX AVC [DDP 5.1 Hindi + DTS-HDMA 5.1 English] x264 (FRaMeSToR-UHDMovies).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Archive (2020) 1080p BluRay 10bit HEVC [DDP 5 1 Hindi + AAC 5 1 English] x265 (Tigole-UHDMovies)\n5.08GB",
+            "url": "https://worker-frosty-sea-e7a4.kogome2461.workers.dev/5357a79b4e9bde745250ebc486bc071fefa24e271fc59d5ae1630b77c2ed56184d364b45f3b5471951df792292c90d4fef53906d4cf575ccd809920c67a0ff308bee254d3bacc56824fbdf656cea20abe9928cc99ecfc2f29720ae3b5ce7624c53006a308ac04300e2687bac6c2df69772d56ca8d2e8db79f3c803bf589eee0cc53e77cefe4c3b47cdcebd7f3c0906b92a175f97f3387bd6f25b0fd78e321aa11e29af99d55727df2db8c16264e78bfe::6405fd7144dfe03ecea591cd423cb3b8/Archive (2020) 1080p BluRay 10bit HEVC [DDP 5.1 Hindi  AAC 5.1 English] x265 (Tigole-UHDMovies).mkv",
+            "quality": "1080p | BluRay",
+            "size": "5.08GB",
+            "fileName": "Archive (2020) 1080p BluRay 10bit HEVC [DDP 5.1 Hindi + AAC 5.1 English] x265 (Tigole-UHDMovies).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-17T08:01:50.711Z",
-    "totalOriginalEntries": 3123,
-    "newItemsInThisBatch": 4,
+    "exportedAt": "2025-11-17T08:13:55.339Z",
+    "totalOriginalEntries": 3126,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
