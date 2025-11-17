@@ -169543,12 +169543,130 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1100:s5e13",
+      "storedAt": 1763376755799,
+      "meta": {
+        "storedAt": 1763376755,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1100",
+        "imdbId": "tt0460649",
+        "season": 5,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x264]-NOGRP",
+            "url": "https://a.111477.xyz/tvs/How%20I%20Met%20Your%20Mother/Season%205/How%20I%20Met%20Your%20Mother%20(2005)%20-%20S05E13%20-%20Jenkins%20[WEBRip-1080p][EAC3%205.1][x264]-NOGRP.mkv",
+            "quality": "1080p",
+            "size": "2.25 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "How I Met Your Mother (2005) - S05E13 - Jenkins [WEBRip-1080p][EAC3 5.1][x264]-NOGRP.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies How I Met Your Mother (2005) - S05E13 - Jenkins [DVD][MP3 2.0][XviD]-SAiNTS.avi",
+            "url": "https://a.111477.xyz/tvs/How%20I%20Met%20Your%20Mother/Season%205/How%20I%20Met%20Your%20Mother%20(2005)%20-%20S05E13%20-%20Jenkins%20[DVD][MP3%202.0][XviD]-SAiNTS.avi",
+            "quality": "Unknown | DV",
+            "size": "175.04 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "How I Met Your Mother (2005) - S05E13 - Jenkins [DVD][MP3 2.0][XviD]-SAiNTS.avi"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1100:s5e13",
+      "storedAt": 1763376764815,
+      "meta": {
+        "storedAt": 1763376764,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1100",
+        "imdbId": "tt0460649",
+        "season": 5,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "How I Met Your Mother S5E13 - 13. Jenkins",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/howimetyourmother/s5/How I Met Your Mother S05E13 English 720p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "23min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "How I Met Your Mother S5E13 - 13. Jenkins",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/howimetyourmother/s5/How I Met Your Mother S05E13 English 720p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "23min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:97951:s4e4",
+      "storedAt": 1763376710953,
+      "meta": {
+        "storedAt": 1763376710,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "97951",
+        "imdbId": "tt11712058",
+        "season": 4,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/509405?token=b82592cab3b3acc221ede990d8e0faa6&expires=1768560709&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-17T10:43:37.875Z",
-    "totalOriginalEntries": 3149,
-    "newItemsInThisBatch": 0,
+    "exportedAt": "2025-11-17T11:00:02.704Z",
+    "totalOriginalEntries": 3152,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
