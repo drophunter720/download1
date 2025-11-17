@@ -183307,12 +183307,197 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:tv:1398:s2e10",
+      "storedAt": 1763413904476,
+      "meta": {
+        "storedAt": 1763413903,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "1398",
+        "imdbId": "tt0141842",
+        "season": 2,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Sopranos S02E10 1080p BluRay REMUX AVC [English DTS-HD.MA 5.1] NOGRP-4kHdHub.com\n9.14 GB",
+            "url": "https://fsl.cdnbaba.rest/The%20Sopranos%20S02E10%201080p%20BluRay%20REMUX%20AVC%20[English%20DTS-HD.MA%205.1]%20NOGRP-4kHdHub.com.mkv?token=1763413902",
+            "quality": "1080p",
+            "size": "9.14 GB",
+            "fileName": "The Sopranos S02E10 1080p BluRay REMUX AVC [English DTS-HD.MA 5.1] NOGRP-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "pQGZfcBU\n9.14 GB",
+            "url": "https://pixeldrain.net/api/file/pQGZfcBU",
+            "quality": "1080p",
+            "size": "9.14 GB",
+            "fileName": "pQGZfcBU",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ZhjkB4cR\n4.37 GB",
+            "url": "https://pixeldrain.net/api/file/ZhjkB4cR",
+            "quality": "1080p",
+            "size": "4.37 GB",
+            "fileName": "ZhjkB4cR",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "CcZZzMuR\n2.15 GB",
+            "url": "https://pixeldrain.net/api/file/CcZZzMuR",
+            "quality": "2160p",
+            "size": "2.15 GB",
+            "fileName": "CcZZzMuR",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1398:s2e10",
+      "storedAt": 1763413908463,
+      "meta": {
+        "storedAt": 1763413908,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1398",
+        "imdbId": "tt0141842",
+        "season": 2,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Sopranos S2E10 - 10. Bust Out",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/sopranos/s2/Sopranos.S02E10.720p.English.mkv",
+            "quality": "1080p",
+            "size": "59min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Sopranos S2E10 - 10. Bust Out",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/sopranos/s2/Sopranos.S02E10.720p.English.mkv",
+            "quality": "1080p",
+            "size": "59min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:1398:s2e10",
+      "storedAt": 1763414206015,
+      "meta": {
+        "storedAt": 1763414205,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "1398",
+        "imdbId": "tt0141842",
+        "season": 2,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "210 Bust-Out\n4.37GB",
+            "url": "https://worker-jolly-king-9809.powaxot426.workers.dev/2a7c858cebce13a0a59d534dc08bb32ee9f6d8a1a1d2cfce53b4e2327c7f8423891f54b17fbb05c603754eaed5d8733f655d305c71aa3f6e52d74de504792f713478f8d31a6165ecf21d7894a5e684e258c4cea70b1096534b15467997449903a9bc05aadaabdd7bc8f04b91fb76f3d5f7b87aeda0cdb8c4675f32e9a9a36ee2753bb0608231423c0dd1cdf3aff29b0759282e86d646e97f63dc2c7c052aff1a5e5b1aa5070513c2dc8227e2de841501::0cff3d5fdd9bb2b276a651169d5306cf/210_Bust-Out.mkv",
+            "quality": "1080p | BluRay",
+            "size": "4.37GB",
+            "fileName": "210_Bust-Out.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "The Sopranos (1999) - S02E10 - Bust Out (1080p BluRay x265 ImE)\n2.15GB",
+            "url": "https://hello-world-empty-shadow-b7e0.liciy56051.workers.dev/dc9ea0b14cf8d5b3e684da323b904659498a55cd0e2cf4c22814c8ac8d1f7a4f61a608a952af6d26bcecc52c4afb4a183ffbdc4bef275002b11891c4c02f20098f3c362f568dd9f65db8add87deb0e32d21e53244c2bdd272b10837a0544459b9ea8dd91fbfe35b91d2abd4618c7ecf22d72fc0a534419715b383c092871c6b71ee8c536d62002568bf26ee6c136945955b465140a04154456d4822cd42e7998cb75ccf1d635e4df269477f3ee5d3651::67a88f1c5d9f7483fec44a236cf47da2/The Sopranos (1999) - S02E10 - Bust Out (1080p BluRay x265 ImE).mkv",
+            "quality": "Unknown Quality",
+            "size": "2.15GB",
+            "fileName": "The Sopranos (1999) - S02E10 - Bust Out (1080p BluRay x265 ImE).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2190:s12e10",
+      "storedAt": 1763414118222,
+      "meta": {
+        "storedAt": 1763414118,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2190",
+        "imdbId": "tt0121955",
+        "season": 12,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/412156?token=bcd6dd7e978b71dae67a043f5166b6f6&expires=1768598116&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-17T21:01:46.878Z",
-    "totalOriginalEntries": 3363,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-17T21:17:03.188Z",
+    "totalOriginalEntries": 3367,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
