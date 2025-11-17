@@ -173277,12 +173277,126 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:uhdmovies:movie:49013",
+      "storedAt": 1763393245341,
+      "meta": {
+        "storedAt": 1763393245,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "49013",
+        "imdbId": "tt1216475",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Gifted Hands The Ben Carson Story (2009) 1080p WEB-DL HEVC [Hindi DDP 5 1 + English DD 5 1] x265 (SNAKE-UHDMovies)\n3.32GB",
+            "url": "https://worker-plain-grass-29d9.lopelof453.workers.dev/fd8a0c376f94e5fc722849b8791fdda13ed08deff6245b70d7d2f95d0920e40843936136ee4b7db615a7479839397c9e7ce390b3fcba57d7467761360e610354f107d52deb504f060e3cd041488e3d89742e6b1d688cd6b1f64df3906e5bb27a7d65e3db7925c490f809356853436f557db73a1acbce0a51ac6d3261c4823170d52193d03544fe23744423fb4b62ecb479ee110de0ab6917f85445e42f53a094b09e73bdb215f1abde876e3029b6cb43::dc32d82730e8d2554543cbff7954e8e5/Gifted Hands The Ben Carson Story (2009) 1080p WEB-DL HEVC [Hindi DDP 5.1  English DD 5.1] x265 (SNAKE-UHDMovies).mkv",
+            "quality": "1080p",
+            "size": "3.32GB",
+            "fileName": "Gifted Hands The Ben Carson Story (2009) 1080p WEB-DL HEVC [Hindi DDP 5.1 + English DD 5.1] x265 (SNAKE-UHDMovies).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:2691:s7e22",
+      "storedAt": 1763392974276,
+      "meta": {
+        "storedAt": 1763392974,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "2691",
+        "imdbId": "tt0369179",
+        "season": 7,
+        "episode": 22,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Two.and.a.Half.Men.S07E22.This.is.Not.22.Gonna.End.Well.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.com\n1.51 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Two.and.a.Half.Men.S07E22.This.is.Not.22.Gonna.End.Well.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.com.mkv?token=1763392973",
+            "quality": "1080p",
+            "size": "1.51 GB",
+            "fileName": "Two.and.a.Half.Men.S07E22.This.is.Not.22.Gonna.End.Well.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "wrywPcH2\n1.51 GB",
+            "url": "https://pixeldrain.net/api/file/wrywPcH2",
+            "quality": "1080p",
+            "size": "1.51 GB",
+            "fileName": "wrywPcH2",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:2691:s7e22",
+      "storedAt": 1763392971829,
+      "meta": {
+        "storedAt": 1763392971,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "2691",
+        "imdbId": "tt0369179",
+        "season": 7,
+        "episode": 22,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][8bit][x264][EAC3 5 1]-TrollHD",
+            "url": "https://a.111477.xyz/tvs/Two%20and%20a%20Half%20Men/Season%207/Two%20and%20a%20Half%20Men%20(2003)%20-%20S07E22%20-%20This%20Is%20Not%20Gonna%20End%20Well%20[WEBDL-1080p][8bit][x264][EAC3%205.1]-TrollHD.mkv",
+            "quality": "1080p",
+            "size": "2.05 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Two and a Half Men (2003) - S07E22 - This Is Not Gonna End Well [WEBDL-1080p][8bit][x264][EAC3 5.1]-TrollHD.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEB-DL x265 RCVR)",
+            "url": "https://a.111477.xyz/tvs/Two%20and%20a%20Half%20Men/Season%207/Two%20and%20a%20Half%20Men%20(2003)%20-%20S07E22%20-%20This%20is%20Not%20Gonna%20End%20Well%20(1080p%20AMZN%20WEB-DL%20x265%20RCVR).mkv",
+            "quality": "1080p",
+            "size": "536.63 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Two and a Half Men (2003) - S07E22 - This is Not Gonna End Well (1080p AMZN WEB-DL x265 RCVR).mkv"
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-17T15:22:24.576Z",
-    "totalOriginalEntries": 3212,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-17T15:31:06.887Z",
+    "totalOriginalEntries": 3215,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
