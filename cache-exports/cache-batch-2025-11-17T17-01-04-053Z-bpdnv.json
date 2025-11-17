@@ -1,0 +1,102 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:18405",
+      "storedAt": 1763398427743,
+      "meta": {
+        "storedAt": 1763398427,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "18405",
+        "imdbId": "tt0844708",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "d48cdb38a89451c10ee1a53ec5b78c3e\n8.71 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/d48cdb38a89451c10ee1a53ec5b78c3e?token=1763398426",
+            "quality": "1080p",
+            "size": "8.71 GB",
+            "fileName": "d48cdb38a89451c10ee1a53ec5b78c3e",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "sTbyKH33\n8.71 GB",
+            "url": "https://pixeldrain.net/api/file/sTbyKH33",
+            "quality": "1080p",
+            "size": "8.71 GB",
+            "fileName": "sTbyKH33",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:18405",
+      "storedAt": 1763398423592,
+      "meta": {
+        "storedAt": 1763398423,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "18405",
+        "imdbId": "tt0844708",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DTS-HD MA 5 1 DV HEVC REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/The%20Last%20House%20on%20the%20Left%20(2009)/The.Last.House.on.the.Left.2009.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.REMUX-FraMeSToR.mkv",
+            "quality": "2160p | DV | REMUX",
+            "size": "73.86 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Last.House.on.the.Left.2009.UHD.BluRay.2160p.DTS-HD.MA.5.1.DV.HEVC.REMUX-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies REMUX UNRATED ENG ITA RUS And ESP LATINO DTS-HD Master DDP5 1",
+            "url": "https://a.111477.xyz/movies/The%20Last%20House%20on%20the%20Left%20(2009)/The.Last.House.On.The.Left.2009.1080p.REMUX.UNRATED.ENG.ITA.RUS.And.ESP.LATINO.DTS-HD.Master.DDP5.1.MKV-BEN.THE.MEN.mkv",
+            "quality": "1080p | REMUX",
+            "size": "21.98 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Last.House.On.The.Left.2009.1080p.REMUX.UNRATED.ENG.ITA.RUS.And.ESP.LATINO.DTS-HD.Master.DDP5.1.MKV-BEN.THE.MEN.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265",
+            "url": "https://a.111477.xyz/movies/The%20Last%20House%20on%20the%20Left%20(2009)/The.Last.House.On.The.Left.2009.UNRATED.1080p.BluRay.x265.mp4",
+            "quality": "1080p",
+            "size": "1.77 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Last.House.On.The.Left.2009.UNRATED.1080p.BluRay.x265.mp4"
+          }
+        ],
+        "count": 3
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-17T17:01:04.053Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
