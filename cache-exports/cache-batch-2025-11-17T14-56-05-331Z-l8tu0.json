@@ -1,0 +1,55 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:streamflix:tv:79696:s1e1",
+      "storedAt": 1763390998824,
+      "meta": {
+        "storedAt": 1763390998,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "79696",
+        "imdbId": "tt8421350",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Manifest S1E1 - 1. Pilot",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/mainfest/s1/Manifest S01E01 {English} 720p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "43min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Manifest S1E1 - 1. Pilot",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/mainfest/s1/Manifest S01E01 {English} 720p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "43min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-17T14:56:05.331Z",
+    "totalOriginalEntries": 1,
+    "newItemsInThisBatch": 1,
+    "format": "compact_v1"
+  }
+}
