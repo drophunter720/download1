@@ -165925,12 +165925,210 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:243295:s1e1",
+      "storedAt": 1763361094656,
+      "meta": {
+        "storedAt": 1763361094,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "243295",
+        "imdbId": "tt30790857",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/371697?token=91585c284ea7a2b8f590455bf4a7c9ea&expires=1768545092&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:243881:s2e8",
+      "storedAt": 1763360978130,
+      "meta": {
+        "storedAt": 1763360978,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "243881",
+        "imdbId": "tt30955673",
+        "season": 2,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "d6faca212faeb035a7ee60943ac52ff4\n6.77 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/d6faca212faeb035a7ee60943ac52ff4?token=1763360976",
+            "quality": "2160p",
+            "size": "6.77 GB",
+            "fileName": "d6faca212faeb035a7ee60943ac52ff4",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "GnQtEpEZ\n6.77 GB",
+            "url": "https://pixeldrain.net/api/file/GnQtEpEZ",
+            "quality": "2160p",
+            "size": "6.77 GB",
+            "fileName": "GnQtEpEZ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "cae09675f7b17202020f6f880bf7b74a\n6.75 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/cae09675f7b17202020f6f880bf7b74a?token=1763360976",
+            "quality": "2160p",
+            "size": "6.75 GB",
+            "fileName": "cae09675f7b17202020f6f880bf7b74a",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "8XSAuA6o\n6.75 GB",
+            "url": "https://pixeldrain.net/api/file/8XSAuA6o",
+            "quality": "2160p",
+            "size": "6.75 GB",
+            "fileName": "8XSAuA6o",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "a665b47b53ba6a79c39af11470c1e8df\n3.43 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/a665b47b53ba6a79c39af11470c1e8df?token=1763360976",
+            "quality": "1080p",
+            "size": "3.43 GB",
+            "fileName": "a665b47b53ba6a79c39af11470c1e8df",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "E13mVEKP\n3.43 GB",
+            "url": "https://pixeldrain.net/api/file/E13mVEKP",
+            "quality": "1080p",
+            "size": "3.43 GB",
+            "fileName": "E13mVEKP",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:243881:s2e8",
+      "storedAt": 1763360975231,
+      "meta": {
+        "storedAt": 1763360975,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "243881",
+        "imdbId": "tt30955673",
+        "season": 2,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h265]-playWEB",
+            "url": "https://a.111477.xyz/tvs/House%20of%20David/Season%202/House%20of%20David%20(2025)%20-%20S02E08%20-%20The%20Truth%20Revealed%20[WEBDL-2160p][EAC3%205.1][h265]-playWEB.mkv",
+            "quality": "2160p",
+            "size": "6.77 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "House of David (2025) - S02E08 - The Truth Revealed [WEBDL-2160p][EAC3 5.1][h265]-playWEB.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-sylix",
+            "url": "https://a.111477.xyz/tvs/House%20of%20David/Season%202/House%20of%20David%20(2025)%20-%20S02E08%20-%20The%20Truth%20Revealed%20[WEBDL-1080p][EAC3%205.1][h264]-sylix.mkv",
+            "quality": "1080p",
+            "size": "3.43 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "House of David (2025) - S02E08 - The Truth Revealed [WEBDL-1080p][EAC3 5.1][h264]-sylix.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:42272:s4e2",
+      "storedAt": 1763360830747,
+      "meta": {
+        "storedAt": 1763360830,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "42272",
+        "imdbId": "tt2177489",
+        "season": 4,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/288140?token=7b99450b5e2d732b789bf3c567afb6a4&expires=1768544829&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-17T06:24:10.233Z",
-    "totalOriginalEntries": 3092,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-17T06:33:21.881Z",
+    "totalOriginalEntries": 3096,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
