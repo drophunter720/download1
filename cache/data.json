@@ -174963,12 +174963,190 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1116465",
+      "storedAt": 1763397903675,
+      "meta": {
+        "storedAt": 1763397903,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1116465",
+        "imdbId": "tt27589902",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/273701?token=77aaad4399c5918d0e411faf45f7c083&expires=1768581900&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:5336",
+      "storedAt": 1763398011450,
+      "meta": {
+        "storedAt": 1763398011,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "5336",
+        "imdbId": "tt0073650",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Confessions of a Driving Instructor 1976 1080p BluRay REMUX [Org Hindi DDP 2.0 + English FLAC 1.0] x264 PTP-4kHdHub\n16.27 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Confessions%20of%20a%20Driving%20Instructor%201976%201080p%20BluRay%20REMUX%20[Org%20Hindi%20DDP%202.0%20+%20English%20FLAC%201.0]%20x264%20PTP-4kHdHub.mkv?token=1763398010",
+            "quality": "1080p",
+            "size": "16.27 GB",
+            "fileName": "Confessions of a Driving Instructor 1976 1080p BluRay REMUX [Org Hindi DDP 2.0 + English FLAC 1.0] x264 PTP-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "mTLnfncV\n16.27 GB",
+            "url": "https://pixeldrain.net/api/file/mTLnfncV",
+            "quality": "1080p",
+            "size": "16.27 GB",
+            "fileName": "mTLnfncV",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Confessions of a Driving Instructor 1976 1080p BluRay [Org Hindi DDP 2.0 + English FLAC 1.0] x264 PTP-4kHdHub\n8.92 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Confessions%20of%20a%20Driving%20Instructor%201976%201080p%20BluRay%20[Org%20Hindi%20DDP%202.0%20+%20English%20FLAC%201.0]%20x264%20PTP-4kHdHub.mkv?token=1763398010",
+            "quality": "1080p",
+            "size": "8.92 GB",
+            "fileName": "Confessions of a Driving Instructor 1976 1080p BluRay [Org Hindi DDP 2.0 + English FLAC 1.0] x264 PTP-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "sEjof7ox\n8.92 GB",
+            "url": "https://pixeldrain.net/api/file/sEjof7ox",
+            "quality": "1080p",
+            "size": "8.92 GB",
+            "fileName": "sEjof7ox",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:5336",
+      "storedAt": 1763398008456,
+      "meta": {
+        "storedAt": 1763398008,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "5336",
+        "imdbId": "tt0073650",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay LPCM h264 Remux-decibeL",
+            "url": "https://a.111477.xyz/movies/Sal%C3%B2,%20or%20the%20120%20Days%20of%20Sodom%20(1976)/Salo.Or.The.120.Days.Of.Sodom.1975.CRITERION.1080p.BluRay.LPCM.h264.Remux-decibeL.mkv",
+            "quality": "1080p | REMUX",
+            "size": "22.25 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Salo.Or.The.120.Days.Of.Sodom.1975.CRITERION.1080p.BluRay.LPCM.h264.Remux-decibeL.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x264-CiNEFiLE",
+            "url": "https://a.111477.xyz/movies/Sal%C3%B2,%20or%20the%20120%20Days%20of%20Sodom%20(1976)/Salo.Or.The.120.Days.Of.Sodom.1975.RERIP.1080p.BluRay.x264-CiNEFiLE.mkv",
+            "quality": "1080p",
+            "size": "7.95 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Salo.Or.The.120.Days.Of.Sodom.1975.RERIP.1080p.BluRay.x264-CiNEFiLE.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x264 1-CiNEFiLE-Obfuscated",
+            "url": "https://a.111477.xyz/movies/Sal%C3%B2,%20or%20the%20120%20Days%20of%20Sodom%20(1976)/Salo.Or.The.120.Days.Of.Sodom.1975.RERIP.1080p.BluRay.x264.1-CiNEFiLE-Obfuscated.mkv",
+            "quality": "1080p",
+            "size": "3.83 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Salo.Or.The.120.Days.Of.Sodom.1975.RERIP.1080p.BluRay.x264.1-CiNEFiLE-Obfuscated.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:249767:s1e5",
+      "storedAt": 1763398254841,
+      "meta": {
+        "storedAt": 1763398254,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "249767",
+        "imdbId": "tt31925787",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/337147?token=934b1cfd9e1f850f1f4017fe9eeb23c1&expires=1768582253&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-17T16:44:31.885Z",
-    "totalOriginalEntries": 3245,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-17T16:53:20.104Z",
+    "totalOriginalEntries": 3249,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
