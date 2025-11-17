@@ -172186,12 +172186,531 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:110381:s6e3",
+      "storedAt": 1763388690803,
+      "meta": {
+        "storedAt": 1763388690,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "110381",
+        "imdbId": "tt11363282",
+        "season": 6,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/448090?token=e1db30ad44742d3e356b479f827bcfca&expires=1768572689&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:14658:s45e3",
+      "storedAt": 1763388843822,
+      "meta": {
+        "storedAt": 1763388843,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "14658",
+        "imdbId": "tt0239195",
+        "season": 45,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/470129?token=a38a3c46bb77db4c951d9c68dc95bd78&expires=1768572842&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:200875:s1e4",
+      "storedAt": 1763388393362,
+      "meta": {
+        "storedAt": 1763388393,
+        "urlCount": 15,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "200875",
+        "imdbId": "tt19244304",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "IT.Welcome.to.Derry.S01E04.The.Great.Swirling.Apparatus.of.Our.Planets.Function.2160p.HS.WEB-DL.AAC2.0.H.265-4kHdHub.Com\n5.75 GB",
+            "url": "https://fsl.gigabytes.click/IT.Welcome.to.Derry.S01E04.The.Great.Swirling.Apparatus.of.Our.Planets.Function.2160p.HS.WEB-DL.AAC2.0.H.265-4kHdHub.Com.mkv?token=1a898711c8da1e9e5703e961c5f1599b",
+            "quality": "2160p",
+            "size": "5.75 GB",
+            "fileName": "IT.Welcome.to.Derry.S01E04.The.Great.Swirling.Apparatus.of.Our.Planets.Function.2160p.HS.WEB-DL.AAC2.0.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "5718c295555ca66a1169bf3bb7f20a55\n5.75 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/5718c295555ca66a1169bf3bb7f20a55?token=1763387290",
+            "quality": "2160p",
+            "size": "5.75 GB",
+            "fileName": "5718c295555ca66a1169bf3bb7f20a55",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "fKH5XuGo\n5.75 GB",
+            "url": "https://pixeldrain.net/api/file/fKH5XuGo",
+            "quality": "2160p",
+            "size": "5.75 GB",
+            "fileName": "fKH5XuGo",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "IT.Welcome.to.Derry.S01E04.The.Great.Swirling.Apparatus.of.Our.Planets.Function.1080p.HS.WEB-DL.AAC2.0.H.264-4kHdHub.Com\n1.54 GB",
+            "url": "https://cdn.fsl-buckets.life/IT.Welcome.to.Derry.S01E04.The.Great.Swirling.Apparatus.of.Our.Planets.Function.1080p.HS.WEB-DL.AAC2.0.H.264-4kHdHub.Com.mkv?token=d43df4ee9227390bd3f84739765a8f81",
+            "quality": "1080p",
+            "size": "1.54 GB",
+            "fileName": "IT.Welcome.to.Derry.S01E04.The.Great.Swirling.Apparatus.of.Our.Planets.Function.1080p.HS.WEB-DL.AAC2.0.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "3a442221574949c494fb510542a7ab97\n1.54 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/3a442221574949c494fb510542a7ab97?token=1763382983",
+            "quality": "1080p",
+            "size": "1.54 GB",
+            "fileName": "3a442221574949c494fb510542a7ab97",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "s15yci3W\n1.54 GB",
+            "url": "https://pixeldrain.net/api/file/s15yci3W",
+            "quality": "1080p",
+            "size": "1.54 GB",
+            "fileName": "s15yci3W",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "IT - Welcome to Derry S01E04 1080p AMZN WEB-DL [Hindi AAC 2.0 + English DDPA 5.1] x264 NTb-LUMiX\n4.41 GB",
+            "url": "https://cdn.fsl-buckets.work/IT%20-%20Welcome%20to%20Derry%20S01E04%201080p%20AMZN%20WEB-DL%20[Hindi%20AAC%202.0%20+%20English%20DDPA%205.1]%20x264%20NTb-LUMiX.mkv?token=d43df4ee9227390bd3f84739765a8f81",
+            "quality": "1080p",
+            "size": "4.41 GB",
+            "fileName": "IT - Welcome to Derry S01E04 1080p AMZN WEB-DL [Hindi AAC 2.0 + English DDPA 5.1] x264 NTb-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "2647c9c16af5aae21601b0fe650e4303\n4.41 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/2647c9c16af5aae21601b0fe650e4303?token=1763383460",
+            "quality": "1080p",
+            "size": "4.41 GB",
+            "fileName": "2647c9c16af5aae21601b0fe650e4303",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "FvWYLYdV\n4.41 GB",
+            "url": "https://pixeldrain.net/api/file/FvWYLYdV",
+            "quality": "1080p",
+            "size": "4.41 GB",
+            "fileName": "FvWYLYdV",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "IT - Welcome to Derry S01E04 2160p HMAX WEB-DL DV HDR 10bit HEVC [Hindi AAC 2.0 + English DDPA 5.1] x265 NTb-LUMiX\n7.79 GB",
+            "url": "https://fsl.gigabytes.click/IT%20-%20Welcome%20to%20Derry%20S01E04%202160p%20HMAX%20WEB-DL%20DV%20HDR%2010bit%20HEVC%20[Hindi%20AAC%202.0%20+%20English%20DDPA%205.1]%20x265%20NTb-LUMiX.mkv?token=1a898711c8da1e9e5703e961c5f1599b",
+            "quality": "2160p",
+            "size": "7.79 GB",
+            "fileName": "IT - Welcome to Derry S01E04 2160p HMAX WEB-DL DV HDR 10bit HEVC [Hindi AAC 2.0 + English DDPA 5.1] x265 NTb-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "11c031729a9e7cd81a665f05f3a258a3\n7.79 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/11c031729a9e7cd81a665f05f3a258a3?token=1763385637",
+            "quality": "2160p",
+            "size": "7.79 GB",
+            "fileName": "11c031729a9e7cd81a665f05f3a258a3",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "QTUSbjYE\n7.79 GB",
+            "url": "https://pixeldrain.net/api/file/QTUSbjYE",
+            "quality": "2160p",
+            "size": "7.79 GB",
+            "fileName": "QTUSbjYE",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "IT - Welcome to Derry S01E04 REPACK 2160p CRAV WEB-DL 10bit HEVC [Hindi AAC 2.0 + English DDPA 5.1] x265 PFix-LUMiX\n6.44 GB",
+            "url": "https://cdn.fsl-buckets.life/IT%20-%20Welcome%20to%20Derry%20S01E04%20REPACK%202160p%20CRAV%20WEB-DL%2010bit%20HEVC%20[Hindi%20AAC%202.0%20+%20English%20DDPA%205.1]%20x265%20PFix-LUMiX.mkv?token=d43df4ee9227390bd3f84739765a8f81",
+            "quality": "2160p",
+            "size": "6.44 GB",
+            "fileName": "IT - Welcome to Derry S01E04 REPACK 2160p CRAV WEB-DL 10bit HEVC [Hindi AAC 2.0 + English DDPA 5.1] x265 PFix-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "b5988f33550b05da14d1f91c3d064f24\n6.44 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/b5988f33550b05da14d1f91c3d064f24?token=1763382700",
+            "quality": "2160p",
+            "size": "6.44 GB",
+            "fileName": "b5988f33550b05da14d1f91c3d064f24",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "a5V4rVyz\n6.44 GB",
+            "url": "https://pixeldrain.net/api/file/a5V4rVyz",
+            "quality": "2160p",
+            "size": "6.44 GB",
+            "fileName": "a5V4rVyz",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 15
+      }
+    },
+    {
+      "key": "prov:hdhub4u:tv:200875:s1e4",
+      "storedAt": 1763388824526,
+      "meta": {
+        "storedAt": 1763388824,
+        "urlCount": 9,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "hdhub4u",
+        "type": "tv",
+        "tmdbId": "200875",
+        "imdbId": "tt19244304",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "IT.Welcome.to.Derry.S01E04.1080p.WEB-DL.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/6fd3df6b45452369bdec4806ade8cfd9?token=1763382780",
+            "quality": "1080p",
+            "size": "1.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "IT.Welcome.to.Derry.S01E04.1080p.WEB-DL.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/Ystmhbrn",
+            "quality": "1080p",
+            "size": "1.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "IT.Welcome.to.Derry.S01E04.1080p.WEB-DL.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2niD13M6EgT079Krq_D-Qoaxgr8LRWc5eGs_t1dOZ1fXmKa8tMkMsx7WsRbhevCZyHtCkHZm4hZc0kLk7hySnVvWcgiNuhRlhWbOeqXP7xns2p7HPKBUAlrhU594jfuoQ1fB_bXvr31_HufiRVXP0cLgiK5YUpZkgtgUn73Vj3RGj_JymN6_Nrhuczplk-JEY7TP0fU2epN3R1uI4xWZdlpNu5WKzrfYwGHN1jHy2TGfLgCIoLiM5fs9Mt3oFvnI-RHBvJD",
+            "quality": "1080p",
+            "size": "1.3 GB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "IT.Welcome.to.Derry.S01E04.720p.WEB-DL.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/70b7a829ba20a00b7fb062d940ca3645?token=1763382816",
+            "quality": "720p",
+            "size": "598.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "IT.Welcome.to.Derry.S01E04.720p.WEB-DL.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/Q5tkXDxB",
+            "quality": "720p",
+            "size": "598.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "IT.Welcome.to.Derry.S01E04.720p.WEB-DL.Hindi.2.0-English.5.1.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2k4DK9ktXvDv2zTwM8SLCW62xTrBsFU0r470wsncpsbXu0uRTGdgsv72EtrM7tT7KoNH_EWd6EbVZmiW_wulxjYW7x32j5KEHIzC5RI8VUtHJV_DOmqxWWZe1cFMirEnNX5duNqVoxCCDaL4n_wgflPyMKvMjq1zAQ-wZ_FNcKReQHHMwTtlWKcyMoVexuW1NYPZod6bFahmYlZKTBCoXr-lH4Vps4OGtkjn1J4cHjhp8nVIeA",
+            "quality": "720p",
+            "size": "598.1 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u FSL Server ",
+            "title": "IT.Welcome.to.Derry.S01E04.480p.WEB-DL.Hindi-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/794216fccbb04c34509e640eb5ddf086?token=1763383112",
+            "quality": "480p",
+            "size": "243.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u Pixeldrain",
+            "title": "IT.Welcome.to.Derry.S01E04.480p.WEB-DL.Hindi-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://pixeldrain.dev/u/pjsdK6c5",
+            "quality": "480p",
+            "size": "243.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          },
+          {
+            "name": "HDHub4u 10Gbps ",
+            "title": "IT.Welcome.to.Derry.S01E04.480p.WEB-DL.Hindi-English.ESub.x264-HDHub4u.Ms.mkv",
+            "url": "https://video-downloads.googleusercontent.com/ADGPM2ksOJLdZdWv1e3Sf3-mLymWbXaN2IhAeciixp3Gv1047MWg_VJBL0ekfoi3G9WTk_u9icT2kR-V87p-PBvnlnS5BQwG5I9YCsGez7NrSrv8coxQ3sKxWqqFsttbK6AOTT5PQixoLpqqPjNmFqnVffQoFXRFxNMdmwUqyKc1TAcSQsH9HP6Y9jLycaO12jG7002oIvu99xM25C2Lq3L1yXR17dH8ksn6h432oYWIJHtLFagSKOQ",
+            "quality": "480p",
+            "size": "243.3 MB",
+            "headers": {
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",
+              "Cookie": "xla=s4t",
+              "Referer": "https://hdhub4u.pictures/"
+            },
+            "provider": "hdhub4u"
+          }
+        ],
+        "count": 9
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:200875:s1e4",
+      "storedAt": 1763388824527,
+      "meta": {
+        "storedAt": 1763388824,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "200875",
+        "imdbId": "tt19244304",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "IT Welcome to Derry S01E04 2160p HMAX WEB-DL DV HDR 10bit HEVC [Hindi AAC 2 0 + English DDP 5 1] x264 (NTb-UHDMovies)\n7.79GB",
+            "url": "https://worker-jolly-lake-df2a.moreh57823.workers.dev/099fd084684e423d1599c5e967cef5de2d987adfbb8ca1c4916d0249828d1a34c1777e4e042ea19fcf3b1f0ef99737992592e7611ce992f52aacbf3fba638c2838496c51e104520e68a4963040e209157be7a7daff6b57c453452b6a3a3bdecb8aae6a90b4e7201ce79b33ac920b40f52fc2abce965db6c7e9625c41f392222cc9687feec6ffb16bad6712861daa66866a0e93c18813275a38a975c6ca37b0b0e8ef9e8da0e20bcce525bf578cba2ca9::72e3cf0594ddf71e127ed253fa467f83/IT Welcome to Derry S01E04 2160p HMAX WEB-DL DV HDR 10bit HEVC [Hindi AAC 2.0  English DDP 5.1] x264 (NTb-UHDMovies).mkv",
+            "quality": "4K | HDR | DV",
+            "size": "7.79GB",
+            "fileName": "IT Welcome to Derry S01E04 2160p HMAX WEB-DL DV HDR 10bit HEVC [Hindi AAC 2.0 + English DDP 5.1] x264 (NTb-UHDMovies).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "IT Welcome to Derry S01E04 1080p AMZN WEB-DL [Hindi AAC 2 0 + English DDP 5 1] x264 (NTb-UHDMovies)\n4.42GB",
+            "url": "https://worker-long-math-7a9a.pecic34110.workers.dev/862d7c0c7d9fb7e162a21f60f11053ccf09a1ff3fad5f696ac332fa6d5f556b73432264c936d1691b03209fdb451d20f374a6a18af4975961eeecc9c5b3fb3c2e2171fa9fd3b395eb9476751cb3d824ae6ba3e7791bd06c6dadf11cd38304afc7a3fea9c300085d776e37c113d74ec89260276fa8a261ee979de443bc8d68193a0531a46cdbdf6235575cd478486e2fb8455be306ce0fb9145709a2ae904343f14b6e23e19cd31a6d7a9dfbbcb0e0655::948f577a50a8216d2d2ec0bee3b17634/IT Welcome to Derry S01E04 1080p AMZN WEB-DL [Hindi AAC 2.0  English DDP 5.1] x264 (NTb-UHDMovies).mkv",
+            "quality": "1080p",
+            "size": "4.42GB",
+            "fileName": "IT Welcome to Derry S01E04 1080p AMZN WEB-DL [Hindi AAC 2.0 + English DDP 5.1] x264 (NTb-UHDMovies).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:31917:s1e10",
+      "storedAt": 1763388565206,
+      "meta": {
+        "storedAt": 1763388565,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "31917",
+        "imdbId": "tt1578873",
+        "season": 1,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/179325?token=65d930007f2735cd85442c2009d6ca2c&expires=1768572564&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:98827:s1e12",
+      "storedAt": 1763388674303,
+      "meta": {
+        "storedAt": 1763388674,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "98827",
+        "imdbId": "tt12516712",
+        "season": 1,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Backstreet Rookie S1E12 - 12. Episode 12",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/backstreetrokie/s1/Backstreet Rookie S01E12 {Korean} 720p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "61min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Backstreet Rookie S1E12 - 12. Episode 12",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/backstreetrokie/s1/Backstreet Rookie S01E12 {Korean} 720p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "61min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-17T14:04:35.474Z",
-    "totalOriginalEntries": 3190,
-    "newItemsInThisBatch": 5,
+    "exportedAt": "2025-11-17T14:14:43.709Z",
+    "totalOriginalEntries": 3197,
+    "newItemsInThisBatch": 7,
     "format": "compact_v1"
   }
 }
