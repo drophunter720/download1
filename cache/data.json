@@ -188656,12 +188656,75 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:93785:s1e4",
+      "storedAt": 1763431777740,
+      "meta": {
+        "storedAt": 1763431777,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "93785",
+        "imdbId": "tt9184986",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Barbarians/Season%201/Barbarians%20(2020)%20-%20S01E04%20-%20A%20New%20Reik%20[WEBRip-1080p][EAC3%205.1][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": "766.90 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Barbarians (2020) - S01E04 - A New Reik [WEBRip-1080p][EAC3 5.1][x265]-iVy.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:94686:s9e11",
+      "storedAt": 1763431335715,
+      "meta": {
+        "storedAt": 1763431335,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "94686",
+        "imdbId": "tt10752770",
+        "season": 9,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/467936?token=0d42a569b1542ed3f59398224e4012f5&expires=1768615333&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-18T01:49:18.452Z",
-    "totalOriginalEntries": 3434,
-    "newItemsInThisBatch": 6,
+    "exportedAt": "2025-11-18T02:09:55.620Z",
+    "totalOriginalEntries": 3436,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
