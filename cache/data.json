@@ -190539,12 +190539,260 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:239571",
+      "storedAt": 1763440332447,
+      "meta": {
+        "storedAt": 1763440332,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "239571",
+        "imdbId": "tt1972779",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "WwRUCaJ7\n5.74 GB",
+            "url": "https://pixeldrain.net/api/file/WwRUCaJ7",
+            "quality": "1080p",
+            "size": "5.74 GB",
+            "fileName": "WwRUCaJ7",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "STAND.BY.ME.Doraemon.2014.1080p.NF.WEB-DL.Multi.DDP5.1.H.264-4kHdHub.Com\n5.74 GB",
+            "url": "https://pub-1bb12552721a4ce3b01be4b870402d32.r2.dev/STAND.BY.ME.Doraemon.2014.1080p.NF.WEB-DL.Multi.DDP5.1.H.264-4kHdHub.Com.mkv",
+            "quality": "1080p",
+            "size": "5.74 GB",
+            "fileName": "STAND.BY.ME.Doraemon.2014.1080p.NF.WEB-DL.Multi.DDP5.1.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "z5PGBoXn\n3 GB",
+            "url": "https://pixeldrain.net/api/file/z5PGBoXn",
+            "quality": "1080p",
+            "size": "3 GB",
+            "fileName": "z5PGBoXn",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "RfRneCnR\n2.1 GB",
+            "url": "https://pixeldrain.net/api/file/RfRneCnR",
+            "quality": "1080p",
+            "size": "2.1 GB",
+            "fileName": "RfRneCnR",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "93YWnrcA\n1.82 GB",
+            "url": "https://pixeldrain.net/api/file/93YWnrcA",
+            "quality": "1080p",
+            "size": "1.82 GB",
+            "fileName": "93YWnrcA",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "sUSewekV\n943.01 MB",
+            "url": "https://pixeldrain.net/api/file/sUSewekV",
+            "quality": "1080p",
+            "size": "943.01 MB",
+            "fileName": "sUSewekV",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:239571",
+      "storedAt": 1763440326943,
+      "meta": {
+        "storedAt": 1763440326,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "239571",
+        "imdbId": "tt1972779",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Bluray EAC3 5 1 x265-iVy",
+            "url": "https://a.111477.xyz/movies/The%20Best%20of%20Me%20(2014)/The.Best.of.Me.2014.1080p.Bluray.EAC3.5.1.x265-iVy.mkv",
+            "quality": "1080p",
+            "size": "2.18 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Best.of.Me.2014.1080p.Bluray.EAC3.5.1.x265-iVy.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:10545:s1e2",
+      "storedAt": 1763440279834,
+      "meta": {
+        "storedAt": 1763440279,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "10545",
+        "imdbId": "tt0844441",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/213968?token=f2fde9450d9d3f530354f15e05446b4d&expires=1768624278&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:17937:s1e6",
+      "storedAt": 1763439960236,
+      "meta": {
+        "storedAt": 1763439960,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "17937",
+        "imdbId": "tt1319900",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/468632?token=760efb3384006ce310924274d4ea5220&expires=1768623958&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:290548:s1e2",
+      "storedAt": 1763439949030,
+      "meta": {
+        "storedAt": 1763439948,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "290548",
+        "imdbId": "tt36303747",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/341162?token=f05691fee8ba4fa05e5745cf00d3f8fe&expires=1768623946&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:93352:s1e4",
+      "storedAt": 1763440019678,
+      "meta": {
+        "storedAt": 1763440019,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "93352",
+        "imdbId": "tt9544034",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/474152?token=c8984af43176d959224c147f23f1d364&expires=1768624018&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-18T04:24:02.172Z",
-    "totalOriginalEntries": 3473,
-    "newItemsInThisBatch": 4,
+    "exportedAt": "2025-11-18T04:33:41.771Z",
+    "totalOriginalEntries": 3479,
+    "newItemsInThisBatch": 6,
     "format": "compact_v1"
   }
 }
