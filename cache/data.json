@@ -213492,12 +213492,141 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:streamflix:tv:39272:s1e4",
+      "storedAt": 1763508204677,
+      "meta": {
+        "storedAt": 1763508204,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "39272",
+        "imdbId": "tt1843230",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Once Upon a Time in Hollywood S1E4 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1639550811/s1/episode4.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61418:s3e2",
+      "storedAt": 1763508122306,
+      "meta": {
+        "storedAt": 1763508122,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61418",
+        "imdbId": "tt3566726",
+        "season": 3,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/227559?token=49514da199f44760f62b56d20a9bdf27&expires=1768692120&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:67384:s2e3",
+      "storedAt": 1763508181962,
+      "meta": {
+        "storedAt": 1763508181,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "67384",
+        "imdbId": "tt4687880",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/178601?token=7ceb68efe5c579f89f57141c04f4e462&expires=1768692179&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:873:s4e1",
+      "storedAt": 1763507826121,
+      "meta": {
+        "storedAt": 1763507826,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "873",
+        "imdbId": "tt1466074",
+        "season": 4,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/180424?token=b9ee829aa71d3c7052888db661e598cf&expires=1768691822&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-18T23:15:43.462Z",
-    "totalOriginalEntries": 3988,
-    "newItemsInThisBatch": 6,
+    "exportedAt": "2025-11-18T23:25:18.725Z",
+    "totalOriginalEntries": 3992,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
