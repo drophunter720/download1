@@ -197276,12 +197276,128 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:126506:s3e6",
+      "storedAt": 1763454221348,
+      "meta": {
+        "storedAt": 1763454221,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "126506",
+        "imdbId": "tt12074628",
+        "season": 3,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/515413?token=09702006f876c2e5e5b515407c59ace6&expires=1768638219&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1408:s3e20",
+      "storedAt": 1763454002255,
+      "meta": {
+        "storedAt": 1763454002,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1408",
+        "imdbId": "tt0412142",
+        "season": 3,
+        "episode": 20,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS 5 1][AVC]-EPSiLON",
+            "url": "https://a.111477.xyz/tvs/House/Season%203/House%20(2004)%20-%20S03E20%20-%20House%20Training%20[Bluray-1080p%20Remux][DTS%205.1][AVC]-EPSiLON.mkv",
+            "quality": "1080p | REMUX",
+            "size": "7.37 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "House (2004) - S03E20 - House Training [Bluray-1080p Remux][DTS 5.1][AVC]-EPSiLON.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][h264]-DKV",
+            "url": "https://a.111477.xyz/tvs/House/Season%203/House%20(2004)%20-%20S03E20%20-%20House%20Training%20[WEBDL-1080p][AC3%205.1][h264]-DKV.mkv",
+            "quality": "1080p",
+            "size": "1.24 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "House (2004) - S03E20 - House Training [WEBDL-1080p][AC3 5.1][h264]-DKV.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/House/Season%203/House.S03E20.House.Training.1080p.BluRay.REMUX.AVC.DTS.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "7.28 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "House.S03E20.House.Training.1080p.BluRay.REMUX.AVC.DTS.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1408:s3e20",
+      "storedAt": 1763454005371,
+      "meta": {
+        "storedAt": 1763454005,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1408",
+        "imdbId": "tt0412142",
+        "season": 3,
+        "episode": 20,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Housefull S3E20 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1694146841/s3/episode20.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-18T08:10:57.332Z",
-    "totalOriginalEntries": 3612,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-18T08:25:15.964Z",
+    "totalOriginalEntries": 3615,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
