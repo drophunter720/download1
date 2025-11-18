@@ -206236,12 +206236,109 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:streamflix:tv:113457:s3e8",
+      "storedAt": 1763484671864,
+      "meta": {
+        "storedAt": 1763484671,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "113457",
+        "imdbId": "tt12719250",
+        "season": 3,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Mismatched S3E8 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1671124179/s3/episode8.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61852:s2e16",
+      "storedAt": 1763484658103,
+      "meta": {
+        "storedAt": 1763484658,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61852",
+        "imdbId": "tt3596174",
+        "season": 2,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/163282?token=aea44a3dab2f94069d9cc827993e7652&expires=1768668656&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:74682:s1e22",
+      "storedAt": 1763484259849,
+      "meta": {
+        "storedAt": 1763484259,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "74682",
+        "imdbId": "tt7521778",
+        "season": 1,
+        "episode": 22,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/302590?token=abc4b54df6a42336795bed47aef69b0f&expires=1768668257&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-18T16:38:29.627Z",
-    "totalOriginalEntries": 3792,
-    "newItemsInThisBatch": 5,
+    "exportedAt": "2025-11-18T16:52:43.298Z",
+    "totalOriginalEntries": 3795,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
