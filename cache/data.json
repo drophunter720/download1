@@ -188971,12 +188971,73 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:dahmermovies:movie:1107216",
+      "storedAt": 1763435229825,
+      "meta": {
+        "storedAt": 1763435229,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "1107216",
+        "imdbId": "tt36424914",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip DDP 5 1 10bit H 265-iVy",
+            "url": "https://a.111477.xyz/movies/Pets%20on%20a%20Train%20(2025)/Pets.2025.1080p.WEBRip.DDP.5.1.10bit.H.265-iVy.mkv",
+            "quality": "1080p",
+            "size": "1.65 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Pets.2025.1080p.WEBRip.DDP.5.1.10bit.H.265-iVy.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1516:s1e2",
+      "storedAt": 1763435424168,
+      "meta": {
+        "storedAt": 1763435424,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1516",
+        "imdbId": "tt0084967",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/136338?token=cec8500f552ebb819f4e6d98b81f4a13&expires=1768619422&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-18T03:05:41.806Z",
-    "totalOriginalEntries": 3442,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-18T03:15:20.528Z",
+    "totalOriginalEntries": 3444,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
