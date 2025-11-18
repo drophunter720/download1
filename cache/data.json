@@ -191296,12 +191296,72 @@
         ],
         "count": 4
       }
+    },
+    {
+      "key": "prov:uhdmovies:movie:1084222",
+      "storedAt": 1763442266501,
+      "meta": {
+        "storedAt": 1763442266,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "1084222",
+        "imdbId": "tt23553640",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Operation Blood Hunt 2024 1080p AMZN WEB-DL DDP2 0 H 264-PrimeFix\n5.84GB",
+            "url": "https://worker-round-band-2caf.lotigi5232.workers.dev/477cd0636e9db2a9e15f935c7ab45fe8f804417fbf01e9028ef50a01b2dd2043883f042481257c86700ebd3c64fe26b1152bf29648362913850ce2a676e0b4abe4a0c51db6d303905df97458919dc3fe238ec32add3bb69fba26d2c2451bcd4528d21a1788ab9cf9cacf6135662da8f0cf3798c1b879b5625510b6d08b790cebf782f5bd5d1a2fde96269a636a07e88c2d222b1276ad423976c3aacf4637b6d4b27a59aed34cc19186d1a6533f785bc6::5465e222cd67d7cc6c9bdef189264b23/Operation.Blood.Hunt.2024.1080p.AMZN.WEB-DL.DDP2.0.H.264-PrimeFix.mkv",
+            "quality": "1080p",
+            "size": "5.84GB",
+            "fileName": "Operation.Blood.Hunt.2024.1080p.AMZN.WEB-DL.DDP2.0.H.264-PrimeFix.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:88630:s1e12",
+      "storedAt": 1763442380687,
+      "meta": {
+        "storedAt": 1763442380,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "88630",
+        "imdbId": "tt9698572",
+        "season": 1,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/482173?token=8d39c3932f6f396770122fae397e6050&expires=1768626377&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-18T04:59:55.726Z",
-    "totalOriginalEntries": 3484,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-18T05:11:07.126Z",
+    "totalOriginalEntries": 3486,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
