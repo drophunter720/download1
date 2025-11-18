@@ -206365,12 +206365,57 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:streamflix:tv:256480:s1e2",
+      "storedAt": 1763486454403,
+      "meta": {
+        "storedAt": 1763486454,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "256480",
+        "imdbId": "tt10193026",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Office S1E2 - 2. Diversity Day",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/theoffice/s1/The Office S01E02 {English} 720p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "22min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Office S1E2 - 2. Diversity Day",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/theoffice/s1/The Office S01E02 {English} 720p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "22min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-18T17:19:56.729Z",
-    "totalOriginalEntries": 3796,
-    "newItemsInThisBatch": 0,
+    "exportedAt": "2025-11-18T17:29:12.723Z",
+    "totalOriginalEntries": 3797,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
