@@ -208206,12 +208206,75 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:200875:s1e4",
+      "storedAt": 1763494107813,
+      "meta": {
+        "storedAt": 1763494107,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "200875",
+        "imdbId": "tt19244304",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][DV HDR10][h265]-ETHEL",
+            "url": "https://a.111477.xyz/tvs/IT%20-%20Welcome%20to%20Derry/Season%201/IT%20-%20Welcome%20to%20Derry%20(2025)%20-%20S01E04%20-%20The%20Great%20Swirling%20Apparatus%20of%20Our%20Planets%20Function%20[WEBDL-2160p][EAC3%20Atmos%205.1][DV%20HDR10][h265]-ETHEL.mkv",
+            "quality": "2160p | DV | HDR",
+            "size": "7.74 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "IT - Welcome to Derry (2025) - S01E04 - The Great Swirling Apparatus of Our Planets Function [WEBDL-2160p][EAC3 Atmos 5.1][DV HDR10][h265]-ETHEL.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:58841:s11e12",
+      "storedAt": 1763493710214,
+      "meta": {
+        "storedAt": 1763493710,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "58841",
+        "imdbId": "tt2805096",
+        "season": 11,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/237928?token=4b610d57c19942ce0f8bfa62bdca9b25&expires=1768677708&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-18T19:17:11.325Z",
-    "totalOriginalEntries": 3834,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-18T19:30:00.821Z",
+    "totalOriginalEntries": 3836,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
