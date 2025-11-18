@@ -206668,12 +206668,292 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:uhdmovies:movie:937941",
+      "storedAt": 1763489583213,
+      "meta": {
+        "storedAt": 1763489583,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "937941",
+        "imdbId": "tt14999684",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Shelby Oaks 2024 2160p AMZN WEB-DL DDP5 1 H 265-FLUX\n9.79GB",
+            "url": "https://worker-late-pond-8f28.mawewi1103.workers.dev/b80dc446a8b94308d243a7834cee432846a57e14fbc1edec4095726c3ac6191538aabc527bfacacefef011d91f40789e009c20b1739077c6e0cf2dccf0f2f07cb4f5d252818cce9dc13f77c0701af3b16d969d8538e4976f0e313a9c374790d91782c91f8db458e1e60b97983e78a62659c1acb92dc9c63841a76ae68797bfc372922122548a82423a7ea78f84df14f9cf19d5ee963e5bd7750e095b9bd72971029f94be61604cd2af215a9f603216e0::56876ec3f69a3f309152d315cdd80a04/Shelby.Oaks.2024.2160p.AMZN.WEB-DL.DDP5.1.H.265-FLUX.mkv",
+            "quality": "4K",
+            "size": "9.79GB",
+            "fileName": "Shelby.Oaks.2024.2160p.AMZN.WEB-DL.DDP5.1.H.265-FLUX.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Shelby Oaks 2024 1080p AMZN WEB-DL DDP5 1 H 264-FLUX\n3.84GB",
+            "url": "https://worker-lingering-mountain-3973.hisobal231.workers.dev/840f39378a00b878a9de0029231ca548643691914e4d7d72267d3f2d662ea46e84b191d009b07dd7edc3604190e33c4376324325454d5c8c48a97c4195df7741fb11f6cc4436d25082dade37bb9bb078dbf7d4c23b3d5ca78c95640ea3e51ea00fcbd4728c9f32e811cfc173f369da2ce53a930bf2399aabb0d8b9e365168b901bd89540017685ab86cfd9ab16e85dbfb96f3ee90bd36baa25bdee6310442355a87987f246cdefd38efc164a3e81592c::3d204c9f0231c6dc817ac19fe65bb3dc/Shelby.Oaks.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv",
+            "quality": "1080p",
+            "size": "3.84GB",
+            "fileName": "Shelby.Oaks.2024.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:157744:s2e1",
+      "storedAt": 1763489785573,
+      "meta": {
+        "storedAt": 1763489785,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "157744",
+        "imdbId": "tt18335752",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/289672?token=644c4470c64cc097a2137b91ea39dd3e&expires=1768673784&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:87108:s1e5",
+      "storedAt": 1763489530565,
+      "meta": {
+        "storedAt": 1763489529,
+        "urlCount": 7,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "87108",
+        "imdbId": "tt7366338",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "97816101a2306d417a2d35fdb30d3034\n10.41 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/97816101a2306d417a2d35fdb30d3034?token=1763489523",
+            "quality": "1080p",
+            "size": "10.41 GB",
+            "fileName": "97816101a2306d417a2d35fdb30d3034",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "DARMDXhW\n10.41 GB",
+            "url": "https://pixeldrain.net/api/file/DARMDXhW",
+            "quality": "1080p",
+            "size": "10.41 GB",
+            "fileName": "DARMDXhW",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "qJmSHP5Y\n4.01 GB",
+            "url": "https://pixeldrain.net/api/file/qJmSHP5Y",
+            "quality": "1080p",
+            "size": "4.01 GB",
+            "fileName": "qJmSHP5Y",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Chernobyl S01E05 1080p BluRay 10bit HEVC [Hindi JC DDP 2.0 + English DDP 5.1] x265 DarQ-KiNGSMAN 4KHDHub.com\n4.01 GB",
+            "url": "https://pub-b438eddd2f7a4ae2864262b0e9879fa1.r2.dev/Chernobyl%20S01E05%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20JC%20DDP%202.0%20+%20English%20DDP%205.1]%20x265%20DarQ-KiNGSMAN%204KHDHub.com.mkv",
+            "quality": "1080p",
+            "size": "4.01 GB",
+            "fileName": "Chernobyl S01E05 1080p BluRay 10bit HEVC [Hindi JC DDP 2.0 + English DDP 5.1] x265 DarQ-KiNGSMAN 4KHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "nCe9QaYk\n15.9 GB",
+            "url": "https://pixeldrain.net/api/file/nCe9QaYk",
+            "quality": "1080p",
+            "size": "15.9 GB",
+            "fileName": "nCe9QaYk",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Chernobyl S01E05 2160p UHD BluRay DV HDR 10bit HEVC [Hindi JC DDP 2.0 + English DTS-HD MA 5.1] x265 (W4NK3R-KiNGSMAN) 4KHDHub.com\n19.72 GB",
+            "url": "https://flat-glade-7058.welikap1127100.workers.dev/10e5f0a5712a9649aee412bddb75695e925d8b314267a668a0b320387bd7ca9244595ff4b1b2a693aadd243b0ab85808::95e002b14e428057eb8cf155362cee3f/1397327142/Chernobyl%20S01E05%202160p%20UHD%20BluRay%20DV%20HDR%2010bit%20HEVC%20[Hindi%20JC%20DDP%202.0%20+%20English%20DTS-HD%20MA%205.1]%20x265%20(W4NK3R-KiNGSMAN)%204KHDHub.com.mkv",
+            "quality": "2160p",
+            "size": "19.72 GB",
+            "fileName": "Chernobyl S01E05 2160p UHD BluRay DV HDR 10bit HEVC [Hindi JC DDP 2.0 + English DTS-HD MA 5.1] x265 (W4NK3R-KiNGSMAN) 4KHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Chernobyl S01E05 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi JC DDP 2.0 + English DTS-HD MA 5.1] x265 (FraMeSToR-KiNGSMAN) 4KHDHub.com\n26.24 GB",
+            "url": "https://nameless-mountain-a418.babafe7002.workers.dev/70c3071b0e14e98863898f774dd45b04278aa765002beb9bf9b4e49879c0a42b38fe8610deb5964c3e59807deedd2041::2289fab8ab5708cf70828350ec35213f/1397327142/Chernobyl%20S01E05%202160p%20UHD%20BluRay%20REMUX%20DV%20HDR%2010bit%20HEVC%20[Hindi%20JC%20DDP%202.0%20+%20English%20DTS-HD%20MA%205.1]%20x265%20(FraMeSToR-KiNGSMAN)%204KHDHub.com.mkv",
+            "quality": "2160p",
+            "size": "26.24 GB",
+            "fileName": "Chernobyl S01E05 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi JC DDP 2.0 + English DTS-HD MA 5.1] x265 (FraMeSToR-KiNGSMAN) 4KHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 7
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:87108:s1e5",
+      "storedAt": 1763489511189,
+      "meta": {
+        "storedAt": 1763489511,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "87108",
+        "imdbId": "tt7366338",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DV HDR10][DTS-HD MA 5 1][HEVC]-FraMeSToR",
+            "url": "https://a.111477.xyz/tvs/Chernobyl/Season%201/Chernobyl%20(2019)%20-%20S01E05%20-%20Vichnaya%20Pamyat%20[Bluray-2160p%20Remux][DV%20HDR10][DTS-HD%20MA%205.1][HEVC]-FraMeSToR.mkv",
+            "quality": "2160p | DV | HDR | REMUX",
+            "size": "26.43 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Chernobyl (2019) - S01E05 - Vichnaya Pamyat [Bluray-2160p Remux][DV HDR10][DTS-HD MA 5.1][HEVC]-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DV HDR10][DTS-HD MA 5 1][h265]-WOU",
+            "url": "https://a.111477.xyz/tvs/Chernobyl/Season%201/Chernobyl%20(2019)%20-%20S01E05%20-%20Vichnaya%20Pamyat%20[Bluray-2160p][DV%20HDR10][DTS-HD%20MA%205.1][h265]-WOU.mkv",
+            "quality": "2160p | DV | HDR",
+            "size": "26.17 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Chernobyl (2019) - S01E05 - Vichnaya Pamyat [Bluray-2160p][DV HDR10][DTS-HD MA 5.1][h265]-WOU.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Chernobyl/Season%201/Chernobyl%20(2019)%20-%20S01E05%20-%20Vichnaya%20Pamyat%20[Bluray-1080p%20Remux][DTS-HD%20MA%205.1][AVC]-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "17.35 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Chernobyl (2019) - S01E05 - Vichnaya Pamyat [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-NOGRP.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][x264]-OFT",
+            "url": "https://a.111477.xyz/tvs/Chernobyl/Season%201/Chernobyl%20(2019)%20-%20S01E05%20-%20Vichnaya%20Pamyat%20[Bluray-1080p][AC3%205.1][x264]-OFT.mkv",
+            "quality": "1080p",
+            "size": "3.10 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Chernobyl (2019) - S01E05 - Vichnaya Pamyat [Bluray-1080p][AC3 5.1][x264]-OFT.mkv"
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:87108:s1e5",
+      "storedAt": 1763489514258,
+      "meta": {
+        "storedAt": 1763489513,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "87108",
+        "imdbId": "tt7366338",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Chernobyl S1E5 - 5. Vichnaya Pamyat",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chernobyl/s1/Chernobyl.S01E05.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "72min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Chernobyl S1E5 - 5. Vichnaya Pamyat",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chernobyl/s1/Chernobyl.S01E05.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "72min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-18T17:57:55.058Z",
-    "totalOriginalEntries": 3804,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-18T18:17:30.739Z",
+    "totalOriginalEntries": 3809,
+    "newItemsInThisBatch": 5,
     "format": "compact_v1"
   }
 }
