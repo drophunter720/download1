@@ -197202,11 +197202,85 @@
         ],
         "count": 5
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1100:s2e20",
+      "storedAt": 1763452958084,
+      "meta": {
+        "storedAt": 1763452958,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1100",
+        "imdbId": "tt0460649",
+        "season": 2,
+        "episode": 20,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][h264]",
+            "url": "https://a.111477.xyz/tvs/How%20I%20Met%20Your%20Mother/Season%202/How%20I%20Met%20Your%20Mother%20(2005)%20-%20S02E20%20-%20Showdown%20[WEBDL-1080p][AC3%205.1][h264].mkv",
+            "quality": "1080p",
+            "size": "855.72 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "How I Met Your Mother (2005) - S02E20 - Showdown [WEBDL-1080p][AC3 5.1][h264].mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x264]-ViETNAM",
+            "url": "https://a.111477.xyz/tvs/How%20I%20Met%20Your%20Mother/Season%202/How%20I%20Met%20Your%20Mother%20(2005)%20-%20S02E20%20-%20Showdown%20[WEBDL-1080p][EAC3%205.1][x264]-ViETNAM.mkv",
+            "quality": "1080p",
+            "size": "1.46 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "How I Met Your Mother (2005) - S02E20 - Showdown [WEBDL-1080p][EAC3 5.1][x264]-ViETNAM.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1100:s2e20",
+      "storedAt": 1763452961918,
+      "meta": {
+        "storedAt": 1763452961,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1100",
+        "imdbId": "tt0460649",
+        "season": 2,
+        "episode": 20,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "How I Met Your Mother S2E20 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1726022823/s2/episode20.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-18T07:59:48.467Z",
-    "totalOriginalEntries": 3610,
+    "exportedAt": "2025-11-18T08:10:57.332Z",
+    "totalOriginalEntries": 3612,
     "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
