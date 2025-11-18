@@ -1,0 +1,87 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:tv:243295:s1e2",
+      "storedAt": 1763438696284,
+      "meta": {
+        "storedAt": 1763438696,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "243295",
+        "imdbId": "tt30790857",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/371698?token=45797cceae1d29d7e4963fc5c1741595&expires=1768622693&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:255728:s1e4",
+      "storedAt": 1763438941956,
+      "meta": {
+        "storedAt": 1763438941,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "255728",
+        "imdbId": "tt32501221",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "SnwwCuwv\n1.62 GB",
+            "url": "https://pixeldrain.net/api/file/SnwwCuwv",
+            "quality": "1080p",
+            "size": "1.62 GB",
+            "fileName": "SnwwCuwv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 720p",
+            "title": "n872tMDC\n974.06 MB",
+            "url": "https://pixeldrain.net/api/file/n872tMDC",
+            "quality": "720p",
+            "size": "974.06 MB",
+            "fileName": "n872tMDC",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-18T04:12:15.291Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
