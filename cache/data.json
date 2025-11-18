@@ -187901,12 +187901,98 @@
         ],
         "count": 4
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1400:s4e21",
+      "storedAt": 1763426499600,
+      "meta": {
+        "storedAt": 1763426499,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1400",
+        "imdbId": "tt0098904",
+        "season": 4,
+        "episode": 21,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux Proper][DV HDR10][10bit][HEVC][DTS-HD MA 5 1]-NEWMAN",
+            "url": "https://a.111477.xyz/tvs/Seinfeld/Season%204/Seinfeld%20(1989)%20-%20S04E21%20-%20The%20Smelly%20Car%20[Bluray-2160p%20Remux%20Proper][DV%20HDR10][10bit][HEVC][DTS-HD%20MA%205.1]-NEWMAN.mkv",
+            "quality": "2160p | DV | HDR | REMUX",
+            "size": "10.34 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Seinfeld (1989) - S04E21 - The Smelly Car [Bluray-2160p Remux Proper][DV HDR10][10bit][HEVC][DTS-HD MA 5.1]-NEWMAN.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEB-DL DDP2 0 H 264-NTb",
+            "url": "https://a.111477.xyz/tvs/Seinfeld/Season%204/Seinfeld.S04E21.The.Smelly.Car.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv",
+            "quality": "1080p",
+            "size": "2.35 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Seinfeld.S04E21.The.Smelly.Car.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1400:s4e21",
+      "storedAt": 1763426809440,
+      "meta": {
+        "storedAt": 1763426809,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1400",
+        "imdbId": "tt0098904",
+        "season": 4,
+        "episode": 21,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Seinfeld S4E21 - 21. The Smelly Car",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/seinfeld/s4/Seinfeld.S04E21.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "22min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Seinfeld S4E21 - 21. The Smelly Car",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/seinfeld/s4/Seinfeld.S04E21.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "22min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-18T00:39:30.663Z",
-    "totalOriginalEntries": 3418,
-    "newItemsInThisBatch": 0,
+    "exportedAt": "2025-11-18T00:47:44.714Z",
+    "totalOriginalEntries": 3420,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
