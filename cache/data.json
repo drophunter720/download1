@@ -206410,12 +206410,169 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:dahmermovies:movie:1106289",
+      "storedAt": 1763487338221,
+      "meta": {
+        "storedAt": 1763487338,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "1106289",
+        "imdbId": "tt30445556",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEB-DL DD 5 1 Atmos H 265-playWEB",
+            "url": "https://a.111477.xyz/movies/The%20Pickup%20(2025)/The.Pickup.2025.2160p.AMZN.WEB-DL.DD.5.1.Atmos.H.265-playWEB.mkv",
+            "quality": "2160p",
+            "size": "10.27 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Pickup.2025.2160p.AMZN.WEB-DL.DD.5.1.Atmos.H.265-playWEB.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:400535",
+      "storedAt": 1763487435827,
+      "meta": {
+        "storedAt": 1763487435,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "400535",
+        "imdbId": "tt5052474",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "KzJEH5GC\n13.94 GB",
+            "url": "https://pixeldrain.net/api/file/KzJEH5GC",
+            "quality": "2160p",
+            "size": "13.94 GB",
+            "fileName": "KzJEH5GC",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "qqvHMKc2\n11.96 GB",
+            "url": "https://pixeldrain.net/api/file/qqvHMKc2",
+            "quality": "2160p",
+            "size": "11.96 GB",
+            "fileName": "qqvHMKc2",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "VCwCsJ8e\n6.05 GB",
+            "url": "https://pixeldrain.net/api/file/VCwCsJ8e",
+            "quality": "1080p",
+            "size": "6.05 GB",
+            "fileName": "VCwCsJ8e",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "3NdXy5gh\n3.19 GB",
+            "url": "https://pixeldrain.net/api/file/3NdXy5gh",
+            "quality": "1080p",
+            "size": "3.19 GB",
+            "fileName": "3NdXy5gh",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:400535",
+      "storedAt": 1763487426340,
+      "meta": {
+        "storedAt": 1763487426,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "400535",
+        "imdbId": "tt5052474",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS HD MA 7 1 FGT ORARBG",
+            "url": "https://a.111477.xyz/movies/Sicario%20Day%20of%20the%20Soldado%20(2018)/Sicario%20Day%20of%20the%20Soldado%202018%201080p%20BluRay%20REMUX%20AVC%20DTS%20HD%20MA%207%201%20FGT%20ORARBG.mkv",
+            "quality": "1080p | REMUX",
+            "size": "32.90 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sicario Day of the Soldado 2018 1080p BluRay REMUX AVC DTS HD MA 7 1 FGT ORARBG.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:549:s20e2",
+      "storedAt": 1763486969895,
+      "meta": {
+        "storedAt": 1763486969,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "549",
+        "imdbId": "tt0098844",
+        "season": 20,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/242414?token=5d59dd66eb445d3423b5a49da2395a41&expires=1768670967&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-18T17:29:12.723Z",
-    "totalOriginalEntries": 3797,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-18T17:37:30.925Z",
+    "totalOriginalEntries": 3801,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
