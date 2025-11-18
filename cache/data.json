@@ -208075,12 +208075,143 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:962851",
+      "storedAt": 1763493227940,
+      "meta": {
+        "storedAt": 1763493227,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "962851",
+        "imdbId": "tt18815884",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "WWE.Royal.Rumble.2025.1080p.NF.WEB-DL.Hindi.AAC2.0-English.AAC2.0.H.264-4kHdHub.Com\n11.92 GB",
+            "url": "https://pub-8665238777bb4575af3be7b624141905.r2.dev/WWE.Royal.Rumble.2025.1080p.NF.WEB-DL.Hindi.AAC2.0-English.AAC2.0.H.264-4kHdHub.Com.mkv?token=1763493226",
+            "quality": "1080p",
+            "size": "11.92 GB",
+            "fileName": "WWE.Royal.Rumble.2025.1080p.NF.WEB-DL.Hindi.AAC2.0-English.AAC2.0.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "oLtGatxw\n11.92 GB",
+            "url": "https://pixeldrain.net/api/file/oLtGatxw",
+            "quality": "1080p",
+            "size": "11.92 GB",
+            "fileName": "oLtGatxw",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "6c7588f4c0c528d43858d84b52c2d70e\n7.47 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/6c7588f4c0c528d43858d84b52c2d70e?token=1763493226",
+            "quality": "1080p",
+            "size": "7.47 GB",
+            "fileName": "6c7588f4c0c528d43858d84b52c2d70e",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ZMvE1ab2\n7.47 GB",
+            "url": "https://pixeldrain.net/api/file/ZMvE1ab2",
+            "quality": "1080p",
+            "size": "7.47 GB",
+            "fileName": "ZMvE1ab2",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:157205:s1e1",
+      "storedAt": 1763493335532,
+      "meta": {
+        "storedAt": 1763493335,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "157205",
+        "imdbId": "tt35440065",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/347650?token=2735a46f76082962db4ecaa5fcf5203a&expires=1768677333&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:291431:s1e4",
+      "storedAt": 1763493366030,
+      "meta": {
+        "storedAt": 1763493366,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "291431",
+        "imdbId": "tt33248156",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/468158?token=086b99e4cc0ef94714c3a781221c4a71&expires=1768677364&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-18T19:05:54.344Z",
-    "totalOriginalEntries": 3831,
-    "newItemsInThisBatch": 7,
+    "exportedAt": "2025-11-18T19:17:11.325Z",
+    "totalOriginalEntries": 3834,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
