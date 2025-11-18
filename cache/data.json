@@ -202606,12 +202606,163 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:800158",
+      "storedAt": 1763469729712,
+      "meta": {
+        "storedAt": 1763469729,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "800158",
+        "imdbId": "tt1136617",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/276227?token=1f13861d909927cb1bab540984b994f9&expires=1768653723&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:97108:s1e1",
+      "storedAt": 1763469455216,
+      "meta": {
+        "storedAt": 1763469455,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "97108",
+        "imdbId": "tt11479072",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "x9cHLmrF\n6.01 GB",
+            "url": "https://pixeldrain.net/api/file/x9cHLmrF",
+            "quality": "2160p",
+            "size": "6.01 GB",
+            "fileName": "x9cHLmrF",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "acrpGxEv\n3.77 GB",
+            "url": "https://pixeldrain.net/api/file/acrpGxEv",
+            "quality": "2160p",
+            "size": "3.77 GB",
+            "fileName": "acrpGxEv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "eK7KqqCU\n1.7 GB",
+            "url": "https://pixeldrain.net/api/file/eK7KqqCU",
+            "quality": "1080p",
+            "size": "1.7 GB",
+            "fileName": "eK7KqqCU",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:97108:s1e1",
+      "storedAt": 1763469452922,
+      "meta": {
+        "storedAt": 1763469452,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "97108",
+        "imdbId": "tt11479072",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Black - S01E01 - It&#x27;s Not a Curse HDTV-720p.mkv",
+            "url": "https://a.111477.xyz/tvs/Black/Season%201/Black%20-%20S01E01%20-%20It",
+            "quality": "720p",
+            "size": "3.00 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Black - S01E01 - It&#x27;s Not a Curse HDTV-720p.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:97108:s1e1",
+      "storedAt": 1763469464928,
+      "meta": {
+        "storedAt": 1763469464,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "97108",
+        "imdbId": "tt11479072",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Blackmail S1E1 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1696231634/s1/episode1.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-18T12:34:06.800Z",
-    "totalOriginalEntries": 3719,
-    "newItemsInThisBatch": 5,
+    "exportedAt": "2025-11-18T12:49:38.675Z",
+    "totalOriginalEntries": 3723,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
