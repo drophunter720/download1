@@ -224300,12 +224300,226 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:streamflix:movie:1196942",
+      "storedAt": 1763553631839,
+      "meta": {
+        "storedAt": 1763553631,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "1196942",
+        "imdbId": "tt22457506",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Mere Husband Ki Biwi - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2025/MereHusbandKiBiwi.mkv",
+            "quality": "1080p",
+            "size": "2h 22m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Mere Husband Ki Biwi - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2025/MereHusbandKiBiwi.mkv",
+            "quality": "1080p",
+            "size": "2h 22m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Mere Husband Ki Biwi - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2025/MereHusbandKiBiwi.mkv",
+            "quality": "720p",
+            "size": "2h 22m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Mere Husband Ki Biwi - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2025/MereHusbandKiBiwi.mkv",
+            "quality": "720p",
+            "size": "2h 22m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:803391",
+      "storedAt": 1763553753082,
+      "meta": {
+        "storedAt": 1763553753,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "803391",
+        "imdbId": "tt13990280",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Xtreme.2021.2160p.NF.WEB-DL.MULTi.DDP5.1.DV.HDR.H.265-4kHdHub.Com\n15.33 GB",
+            "url": "https://fsl.cdnbaba.rest/Xtreme.2021.2160p.NF.WEB-DL.MULTi.DDP5.1.DV.HDR.H.265-4kHdHub.Com.mkv?token=1763552396",
+            "quality": "2160p",
+            "size": "15.33 GB",
+            "fileName": "Xtreme.2021.2160p.NF.WEB-DL.MULTi.DDP5.1.DV.HDR.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "xCRwo6ee\n15.33 GB",
+            "url": "https://pixeldrain.net/api/file/xCRwo6ee",
+            "quality": "2160p",
+            "size": "15.33 GB",
+            "fileName": "xCRwo6ee",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Xtreme.2021.2160p.NF.WEB-DL.MULTi.DDP5.1.H.265-4kHdHub.Com\n14.74 GB",
+            "url": "https://fsl.cdnbaba.rest/Xtreme.2021.2160p.NF.WEB-DL.MULTi.DDP5.1.H.265-4kHdHub.Com.mkv?token=1763552396",
+            "quality": "2160p",
+            "size": "14.74 GB",
+            "fileName": "Xtreme.2021.2160p.NF.WEB-DL.MULTi.DDP5.1.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "vB4neW5p\n14.74 GB",
+            "url": "https://pixeldrain.net/api/file/vB4neW5p",
+            "quality": "2160p",
+            "size": "14.74 GB",
+            "fileName": "vB4neW5p",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Xtreme.2021.1080p.NF.WEB-DL.MULTi.DDP5.1.H.264-4kHdHub.Com\n5.36 GB",
+            "url": "https://fsl.cdnbaba.rest/Xtreme.2021.1080p.NF.WEB-DL.MULTi.DDP5.1.H.264-4kHdHub.Com.mkv?token=1763552396",
+            "quality": "1080p",
+            "size": "5.36 GB",
+            "fileName": "Xtreme.2021.1080p.NF.WEB-DL.MULTi.DDP5.1.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "svR6LU5c\n5.36 GB",
+            "url": "https://pixeldrain.net/api/file/svR6LU5c",
+            "quality": "1080p",
+            "size": "5.36 GB",
+            "fileName": "svR6LU5c",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Xtreme.2021.1080p.NF.WEB-DL.MULTi.DDP5.1.H.265-4kHdHub.Com\n2.57 GB",
+            "url": "https://fsl.cdnbaba.rest/Xtreme.2021.1080p.NF.WEB-DL.MULTi.DDP5.1.H.265-4kHdHub.Com.mkv?token=1763552396",
+            "quality": "1080p",
+            "size": "2.57 GB",
+            "fileName": "Xtreme.2021.1080p.NF.WEB-DL.MULTi.DDP5.1.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ciUNyXwS\n2.57 GB",
+            "url": "https://pixeldrain.net/api/file/ciUNyXwS",
+            "quality": "1080p",
+            "size": "2.57 GB",
+            "fileName": "ciUNyXwS",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:112546:s2e2",
+      "storedAt": 1763553330459,
+      "meta": {
+        "storedAt": 1763553329,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "112546",
+        "imdbId": "tt9686346",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/450139?token=91980675e900b78a9364052b866f001f&expires=1768737327&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-19T11:55:22.873Z",
-    "totalOriginalEntries": 4275,
-    "newItemsInThisBatch": 6,
+    "exportedAt": "2025-11-19T12:03:42.050Z",
+    "totalOriginalEntries": 4278,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
