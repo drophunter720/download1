@@ -228369,12 +228369,238 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1504669",
+      "storedAt": 1763565038545,
+      "meta": {
+        "storedAt": 1763565038,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1504669",
+        "imdbId": null,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/340903?token=b31ee02dcb48e437d7542b46b7c76a9c&expires=1768749036&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1412:s4e6",
+      "storedAt": 1763565092704,
+      "meta": {
+        "storedAt": 1763565092,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1412",
+        "imdbId": "tt2193021",
+        "season": 4,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Arrow S4E6 - 6. Lost Souls",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/arrow/s4/Arrow.S04.E06.BluRay.720p.English.AAC.5.1.x264.ESub.mkv",
+            "quality": "1080p",
+            "size": "42min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Arrow S4E6 - 6. Lost Souls",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/arrow/s4/Arrow.S04.E06.BluRay.720p.English.AAC.5.1.x264.ESub.mkv",
+            "quality": "1080p",
+            "size": "42min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1911:s9e4",
+      "storedAt": 1763564967154,
+      "meta": {
+        "storedAt": 1763564967,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 9,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%209/Bones%20(2005)%20-%20S09E04%20-%20The%20Sense%20in%20the%20Sacrifice%20[WEBRip-1080p][EAC3%205.1][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": "1.03 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones (2005) - S09E04 - The Sense in the Sacrifice [WEBRip-1080p][EAC3 5.1][x265]-iVy.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip x265-INFINITY",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%209/Bones.S09E04.1080p.WEBRip.x265-INFINITY.mp4",
+            "quality": "1080p",
+            "size": "699.09 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones.S09E04.1080p.WEBRip.x265-INFINITY.mp4"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1911:s9e4",
+      "storedAt": 1763564967500,
+      "meta": {
+        "storedAt": 1763564967,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 9,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Bones and All S9E4 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1684689602/s9/episode4.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:261545:s1e3",
+      "storedAt": 1763564950548,
+      "meta": {
+        "storedAt": 1763564950,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "261545",
+        "imdbId": "tt33098081",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Royals S1E3 - 3. We Are Pictures, or Mere Beasts",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/theroyals/s1/The Royals S01E03 Hindi 720p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "44min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Royals S1E3 - 3. We Are Pictures, or Mere Beasts",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/theroyals/s1/The Royals S01E03 Hindi 720p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "44min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:261545:s1e4",
+      "storedAt": 1763565068481,
+      "meta": {
+        "storedAt": 1763565068,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "261545",
+        "imdbId": "tt33098081",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/344098?token=07a9aeb302cec4aa8d2cc0fe50558065&expires=1768749066&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-19T15:08:17.359Z",
-    "totalOriginalEntries": 4368,
-    "newItemsInThisBatch": 8,
+    "exportedAt": "2025-11-19T15:17:26.186Z",
+    "totalOriginalEntries": 4374,
+    "newItemsInThisBatch": 6,
     "format": "compact_v1"
   }
 }
