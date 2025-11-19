@@ -227962,12 +227962,89 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:115465:s5e5",
+      "storedAt": 1763563848447,
+      "meta": {
+        "storedAt": 1763563848,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "115465",
+        "imdbId": "tt13610512",
+        "season": 5,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/445428?token=8fa40c78c2a6a6d6fc719ce6663b1f44&expires=1768747844&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:261545:s1e1",
+      "storedAt": 1763564327823,
+      "meta": {
+        "storedAt": 1763564327,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "261545",
+        "imdbId": "tt33098081",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Royals S1E1 - 1. Stand and Unfold Yourself",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/theroyals/s1/The Royals S01E01 Hindi 720p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "57min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Royals S1E1 - 1. Stand and Unfold Yourself",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/theroyals/s1/The Royals S01E01 Hindi 720p WEB-DL ESub [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "57min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-19T14:51:03.852Z",
-    "totalOriginalEntries": 4358,
-    "newItemsInThisBatch": 8,
+    "exportedAt": "2025-11-19T14:59:06.090Z",
+    "totalOriginalEntries": 4360,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
