@@ -1,0 +1,129 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:598014",
+      "storedAt": 1763556019470,
+      "meta": {
+        "storedAt": 1763556019,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "598014",
+        "imdbId": "tt13769630",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Darkness in Tenement 45 2020 1080p AMZN WEB-DL [Hindi DDP 2.0 + English DDP 2.0] H.264 BobDobbs-Ionicboy\n9.76 GB",
+            "url": "https://cdn.fsl-buckets.work/Darkness%20in%20Tenement%2045%202020%201080p%20AMZN%20WEB-DL%20[Hindi%20DDP%202.0%20+%20English%20DDP%202.0]%20H.264%20BobDobbs-Ionicboy.mkv?token=f763ca2c3b6bfdf58fddc51d376f49e9",
+            "quality": "1080p",
+            "size": "9.76 GB",
+            "fileName": "Darkness in Tenement 45 2020 1080p AMZN WEB-DL [Hindi DDP 2.0 + English DDP 2.0] H.264 BobDobbs-Ionicboy",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "21b998fd8ed6c0061f868ec0b28f9262\n9.76 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/21b998fd8ed6c0061f868ec0b28f9262?token=1763556017",
+            "quality": "1080p",
+            "size": "9.76 GB",
+            "fileName": "21b998fd8ed6c0061f868ec0b28f9262",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "phePDgJv\n9.76 GB",
+            "url": "https://pixeldrain.net/api/file/phePDgJv",
+            "quality": "1080p",
+            "size": "9.76 GB",
+            "fileName": "phePDgJv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:32692:s2e18",
+      "storedAt": 1763555780667,
+      "meta": {
+        "storedAt": 1763555780,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "32692",
+        "imdbId": "tt1595859",
+        "season": 2,
+        "episode": 18,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/137605?token=1e3d37e4d85925df6df4d44d879bbf4b&expires=1768739777&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:39269:s5e19",
+      "storedAt": 1763556250600,
+      "meta": {
+        "storedAt": 1763556250,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "39269",
+        "imdbId": "tt1837576",
+        "season": 5,
+        "episode": 19,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/217322?token=afdd1c8521fcbdf5cc1c86cf20205551&expires=1768740246&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-19T12:44:20.865Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
