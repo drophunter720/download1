@@ -218801,12 +218801,108 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1100:s3e16",
+      "storedAt": 1763532043739,
+      "meta": {
+        "storedAt": 1763532043,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1100",
+        "imdbId": "tt0460649",
+        "season": 3,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-FLUX",
+            "url": "https://a.111477.xyz/tvs/How%20I%20Met%20Your%20Mother/Season%203/How%20I%20Met%20Your%20Mother%20(2005)%20-%20S03E16%20-%20Sandcastles%20in%20the%20Sand%20[WEBDL-1080p][EAC3%205.1][h264]-FLUX.mkv",
+            "quality": "1080p",
+            "size": "1.39 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "How I Met Your Mother (2005) - S03E16 - Sandcastles in the Sand [WEBDL-1080p][EAC3 5.1][h264]-FLUX.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1100:s3e16",
+      "storedAt": 1763532043180,
+      "meta": {
+        "storedAt": 1763532042,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1100",
+        "imdbId": "tt0460649",
+        "season": 3,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "How I Met Your Mother S3E16 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1726022823/s3/episode16.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:286654:s1e5",
+      "storedAt": 1763532159801,
+      "meta": {
+        "storedAt": 1763532159,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "286654",
+        "imdbId": "tt28131282",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/342748?token=ae664cc3e1094337edccc64b22a3b8f0&expires=1768716155&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-19T06:00:56.243Z",
-    "totalOriginalEntries": 4149,
-    "newItemsInThisBatch": 9,
+    "exportedAt": "2025-11-19T06:08:59.305Z",
+    "totalOriginalEntries": 4152,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
