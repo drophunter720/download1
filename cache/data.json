@@ -237349,12 +237349,175 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:streamflix:movie:585",
+      "storedAt": 1763591408994,
+      "meta": {
+        "storedAt": 1763591408,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "585",
+        "imdbId": "tt0198781",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Monsters, Inc. - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2001/monsterinc.mkv",
+            "quality": "1080p",
+            "size": "1h 32m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Monsters, Inc. - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2001/monsterinc.mkv",
+            "quality": "1080p",
+            "size": "1h 32m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Monsters, Inc. - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2001/monsterinc.mkv",
+            "quality": "720p",
+            "size": "1h 32m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Monsters, Inc. - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2001/monsterinc.mkv",
+            "quality": "720p",
+            "size": "1h 32m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:5148:s1e18",
+      "storedAt": 1763591683400,
+      "meta": {
+        "storedAt": 1763591683,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "5148",
+        "imdbId": "tt1286039",
+        "season": 1,
+        "episode": 18,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/185081?token=e0b98a817387bc499d66cea1026390b1&expires=1768775679&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:83630:s1e1",
+      "storedAt": 1763591531874,
+      "meta": {
+        "storedAt": 1763591531,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "83630",
+        "imdbId": null,
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/501500?token=919720ebfe19d7b1ece2a3a85b5a14a5&expires=1768775528&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:90955:s1e1",
+      "storedAt": 1763591781156,
+      "meta": {
+        "storedAt": 1763591781,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "90955",
+        "imdbId": "tt10477528",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/475906?token=5a41fcf1732e3b81220811eac509bbf0&expires=1768775776&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-19T22:30:23.178Z",
-    "totalOriginalEntries": 4610,
-    "newItemsInThisBatch": 5,
+    "exportedAt": "2025-11-19T22:38:22.447Z",
+    "totalOriginalEntries": 4614,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
