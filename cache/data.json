@@ -240360,12 +240360,137 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:movie:1419406",
+      "storedAt": 1763607167117,
+      "meta": {
+        "storedAt": 1763607167,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "1419406",
+        "imdbId": "tt34610311",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies -WEBRip-5 1-YTS MX",
+            "url": "https://a.111477.xyz/movies/The%20Shadow",
+            "quality": "1080p",
+            "size": "1.91 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Edge-2025-1080p-WEBRip-5.1-YTS.MX.mp4"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:14658:s25e1",
+      "storedAt": 1763606773209,
+      "meta": {
+        "storedAt": 1763606773,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "14658",
+        "imdbId": "tt0239195",
+        "season": 25,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/469846?token=de5a436b269670f7d1fd996df12a7cda&expires=1768790768&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:295719:s1e2",
+      "storedAt": 1763606946909,
+      "meta": {
+        "storedAt": 1763606946,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "295719",
+        "imdbId": "tt35671329",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/340315?token=f602797468c66181bc97b794d02005cc&expires=1768790943&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:63404:s5e5",
+      "storedAt": 1763607081626,
+      "meta": {
+        "storedAt": 1763607081,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "63404",
+        "imdbId": "tt4934214",
+        "season": 5,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/470897?token=36dc37c28ec613846a8ee283f6068057&expires=1768791076&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-20T02:45:25.375Z",
-    "totalOriginalEntries": 4698,
-    "newItemsInThisBatch": 5,
+    "exportedAt": "2025-11-20T02:54:32.053Z",
+    "totalOriginalEntries": 4702,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
