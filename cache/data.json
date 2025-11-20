@@ -254640,12 +254640,535 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:streamflix:movie:1246049",
+      "storedAt": 1763664949415,
+      "meta": {
+        "storedAt": 1763664949,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "1246049",
+        "imdbId": "tt31434030",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Dracula Untold - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2014/drculauntold.mkv",
+            "quality": "1080p",
+            "size": "1h 32m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Dracula Untold - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2014/drculauntold.mkv",
+            "quality": "1080p",
+            "size": "1h 32m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Dracula Untold - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2014/drculauntold.mkv",
+            "quality": "720p",
+            "size": "1h 32m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Dracula Untold - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2014/drculauntold.mkv",
+            "quality": "720p",
+            "size": "1h 32m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:22881",
+      "storedAt": 1763665228680,
+      "meta": {
+        "storedAt": 1763665228,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "22881",
+        "imdbId": "tt0878804",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "271c78f786e69c80530897ccb16abf71\n14.9 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/271c78f786e69c80530897ccb16abf71?token=1763665226",
+            "quality": "1080p",
+            "size": "14.9 GB",
+            "fileName": "271c78f786e69c80530897ccb16abf71",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ywRz5oYC\n14.9 GB",
+            "url": "https://pixeldrain.net/api/file/ywRz5oYC",
+            "quality": "1080p",
+            "size": "14.9 GB",
+            "fileName": "ywRz5oYC",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "9cd0523573c90ec83934750bf05558f1\n8.72 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/9cd0523573c90ec83934750bf05558f1?token=1763665226",
+            "quality": "1080p",
+            "size": "8.72 GB",
+            "fileName": "9cd0523573c90ec83934750bf05558f1",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "eM9f1yyt\n8.72 GB",
+            "url": "https://pixeldrain.net/api/file/eM9f1yyt",
+            "quality": "1080p",
+            "size": "8.72 GB",
+            "fileName": "eM9f1yyt",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "1781b4dcbdf0b117a82c30e63e111493\n1.61 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/1781b4dcbdf0b117a82c30e63e111493?token=1763665226",
+            "quality": "1080p",
+            "size": "1.61 GB",
+            "fileName": "1781b4dcbdf0b117a82c30e63e111493",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "qE1kYeSU\n1.61 GB",
+            "url": "https://pixeldrain.net/api/file/qE1kYeSU",
+            "quality": "1080p",
+            "size": "1.61 GB",
+            "fileName": "qE1kYeSU",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:22881",
+      "storedAt": 1763665222883,
+      "meta": {
+        "storedAt": 1763665222,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "22881",
+        "imdbId": "tt0878804",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay DDP 5 1 10bit H 265-iVy",
+            "url": "https://a.111477.xyz/movies/The%20Blind%20Side%20(2009)/The.Blind.Side.2009.1080p.BluRay.DDP.5.1.10bit.H.265-iVy.mkv",
+            "quality": "1080p",
+            "size": "3.59 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Blind.Side.2009.1080p.BluRay.DDP.5.1.10bit.H.265-iVy.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay ENG LATINO CHINESE DTS 5 1 H264-BEN THE MEN",
+            "url": "https://a.111477.xyz/movies/The%20Blind%20Side%20(2009)/The.Blind.Side.2009.1080p.BluRay.ENG.LATINO.CHINESE.DTS.5.1.H264-BEN.THE.MEN.mkv",
+            "quality": "1080p",
+            "size": "11.84 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Blind.Side.2009.1080p.BluRay.ENG.LATINO.CHINESE.DTS.5.1.H264-BEN.THE.MEN.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay H264 AAC-RARBG-xpost",
+            "url": "https://a.111477.xyz/movies/The%20Blind%20Side%20(2009)/The.Blind.Side.2009.1080p.BluRay.H264.AAC-RARBG-xpost.mp4",
+            "quality": "1080p",
+            "size": "2.45 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Blind.Side.2009.1080p.BluRay.H264.AAC-RARBG-xpost.mp4"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay DTS x265-LEGi0N",
+            "url": "https://a.111477.xyz/movies/The%20Blind%20Side%20(2009)/The.Blind.Side.2009.HEVC.1080p.BluRay.DTS.x265-LEGi0N.mkv",
+            "quality": "1080p",
+            "size": "6.01 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Blind.Side.2009.HEVC.1080p.BluRay.DTS.x265-LEGi0N.mkv"
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:204082:s2e2",
+      "storedAt": 1763665134000,
+      "meta": {
+        "storedAt": 1763665132,
+        "urlCount": 12,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "204082",
+        "imdbId": "tt28104766",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Squid.Game.The.Challenge.S02E02.Catch.1080p.NF.WEB-DL.AAC5.1.AV1-4kHdHub.Com\n819.63 MB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Squid.Game.The.Challenge.S02E02.Catch.1080p.NF.WEB-DL.AAC5.1.AV1-4kHdHub.Com.mkv?token=1763665129",
+            "quality": "1080p",
+            "size": "819.63 MB",
+            "fileName": "Squid.Game.The.Challenge.S02E02.Catch.1080p.NF.WEB-DL.AAC5.1.AV1-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Zr97PGA2\n819.63 MB",
+            "url": "https://pixeldrain.net/api/file/Zr97PGA2",
+            "quality": "1080p",
+            "size": "819.63 MB",
+            "fileName": "Zr97PGA2",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n819.63 MB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=6jmMytwwgY5S&n=zoglQT5S&fn=Squid.Game.The.Challenge.S02E02.Catch.1080p.NF.WEB-DL.AAC5.1.AV1-4kHdHub.Com.mkv",
+            "quality": "1080p",
+            "size": "819.63 MB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Squid.Game.The.Challenge.S02E02.Catch.1080p.NF.WEB-DL.DDP5.1.H.264-4kHdHub.Com\n3.71 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Squid.Game.The.Challenge.S02E02.Catch.1080p.NF.WEB-DL.DDP5.1.H.264-4kHdHub.Com.mkv?token=1763665129",
+            "quality": "1080p",
+            "size": "3.71 GB",
+            "fileName": "Squid.Game.The.Challenge.S02E02.Catch.1080p.NF.WEB-DL.DDP5.1.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "vbCWmD5G\n3.71 GB",
+            "url": "https://pixeldrain.net/api/file/vbCWmD5G",
+            "quality": "1080p",
+            "size": "3.71 GB",
+            "fileName": "vbCWmD5G",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n3.71 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=5YAue4h1wDCR&n=rhxDEIbR&fn=Squid.Game.The.Challenge.S02E02.Catch.1080p.NF.WEB-DL.DDP5.1.H.264-4kHdHub.Com.mkv",
+            "quality": "1080p",
+            "size": "3.71 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Squid.Game.The.Challenge.S02E02.Catch.1080p.NF.WEB-DL.DDP5.1.H.265-4kHdHub.Com\n3.85 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Squid.Game.The.Challenge.S02E02.Catch.1080p.NF.WEB-DL.DDP5.1.H.265-4kHdHub.Com.mkv?token=1763665129",
+            "quality": "1080p",
+            "size": "3.85 GB",
+            "fileName": "Squid.Game.The.Challenge.S02E02.Catch.1080p.NF.WEB-DL.DDP5.1.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "crDnLxVk\n3.85 GB",
+            "url": "https://pixeldrain.net/api/file/crDnLxVk",
+            "quality": "1080p",
+            "size": "3.85 GB",
+            "fileName": "crDnLxVk",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n3.85 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=q4aMbsYUVBIL&n=Kkwy0QxJ&fn=Squid.Game.The.Challenge.S02E02.Catch.1080p.NF.WEB-DL.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "quality": "1080p",
+            "size": "3.85 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Squid.Game.The.Challenge.S02E02.Catch.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.HDR-DV.H.265-4kHdHub.Com\n2.26 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Squid.Game.The.Challenge.S02E02.Catch.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.HDR-DV.H.265-4kHdHub.Com.mkv?token=1763665129",
+            "quality": "1080p",
+            "size": "2.26 GB",
+            "fileName": "Squid.Game.The.Challenge.S02E02.Catch.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.HDR-DV.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Gp8gWg4K\n2.26 GB",
+            "url": "https://pixeldrain.net/api/file/Gp8gWg4K",
+            "quality": "1080p",
+            "size": "2.26 GB",
+            "fileName": "Gp8gWg4K",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n2.26 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=1EjNjU9XmZpL&n=OR13jBjT&fn=Squid.Game.The.Challenge.S02E02.Catch.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.HDR-DV.H.265-4kHdHub.Com.mkv",
+            "quality": "1080p",
+            "size": "2.26 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 12
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:204082:s2e2",
+      "storedAt": 1763665120359,
+      "meta": {
+        "storedAt": 1763665120,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "204082",
+        "imdbId": "tt28104766",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x264]-EDITH",
+            "url": "https://a.111477.xyz/tvs/Squid%20Game%20-%20The%20Challenge/Season%202/Squid%20Game%20-%20The%20Challenge%20(2023)%20-%20S02E02%20-%20Catch%20[WEBDL-1080p][EAC3%205.1][x264]-EDITH.mkv",
+            "quality": "1080p",
+            "size": "3.44 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Squid Game - The Challenge (2023) - S02E02 - Catch [WEBDL-1080p][EAC3 5.1][x264]-EDITH.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:204082:s2e2",
+      "storedAt": 1763665120336,
+      "meta": {
+        "storedAt": 1763665120,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "204082",
+        "imdbId": "tt28104766",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Squid Game: The Challenge S2E2 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1702210692/s2/episode2.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:79352:s1e7",
+      "storedAt": 1763665002896,
+      "meta": {
+        "storedAt": 1763665002,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "79352",
+        "imdbId": "tt6077448",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Sacred Games S1E7 - 7. Rudra",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/sacredgames/s1/Sacred.Games.S01E07.Rudra.720p.NF.WEB-DL.x264.300MB-Pahe.in.mkv",
+            "quality": "1080p",
+            "size": "43min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Sacred Games S1E7 - 7. Rudra",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/sacredgames/s1/Sacred.Games.S01E07.Rudra.720p.NF.WEB-DL.x264.300MB-Pahe.in.mkv",
+            "quality": "1080p",
+            "size": "43min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:80587:s1e1",
+      "storedAt": 1763665253777,
+      "meta": {
+        "storedAt": 1763665253,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "80587",
+        "imdbId": "tt7165904",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/196231?token=44bc97befdf6e9c08ecb188b8e2b5fdc&expires=1768849251&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-20T18:53:05.747Z",
-    "totalOriginalEntries": 5061,
-    "newItemsInThisBatch": 4,
+    "exportedAt": "2025-11-20T19:01:43.139Z",
+    "totalOriginalEntries": 5069,
+    "newItemsInThisBatch": 8,
     "format": "compact_v1"
   }
 }
