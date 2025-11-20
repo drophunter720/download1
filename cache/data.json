@@ -239450,12 +239450,139 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:streamflix:movie:11645",
+      "storedAt": 1763602690139,
+      "meta": {
+        "storedAt": 1763602690,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "11645",
+        "imdbId": "tt0089881",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Transformers - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2007/transformors.mkv",
+            "quality": "1080p",
+            "size": "2h 23m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Transformers - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2007/transformors.mkv",
+            "quality": "1080p",
+            "size": "2h 23m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Transformers - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2007/transformors.mkv",
+            "quality": "720p",
+            "size": "2h 23m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Transformers - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2007/transformors.mkv",
+            "quality": "720p",
+            "size": "2h 23m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:11645",
+      "storedAt": 1763602711401,
+      "meta": {
+        "storedAt": 1763602711,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "11645",
+        "imdbId": "tt0089881",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Frankenstein 2025 1080p NF WEB-DL DUAL DDP5 1 Atmos H 264-ShiNobi\n6.8GB",
+            "url": "https://worker-blue-tree-a2d3.degifec113.workers.dev/c6bd46dcec448399205eea3cf95371911dbb06394cb9f9b1ea8c756a1ff3b44d2158f1c553fbe5979ac5ce867571abe3c2ab8631a2ae64380b68ff13490d927339603db848e0d323c955040a052cd1bd5c5f94671096e8cb9062e9550e29c6543f8ee55160d779050619b28dd16d268c5859dacc65faecf2f8ee5f0c1ae42c4cc56d775e766119e47020ed36c294b19fd8d0dcf132bb4608eb0c376970125f9666033e112475fad2dc26527dd9b70fe5::5a5ff844e1aab7f3716d91263a4fd1eb/Frankenstein.2025.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-ShiNobi.mkv",
+            "quality": "1080p",
+            "size": "6.8GB",
+            "fileName": "Frankenstein.2025.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-ShiNobi.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:273483:s1e6",
+      "storedAt": 1763602359384,
+      "meta": {
+        "storedAt": 1763602359,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "273483",
+        "imdbId": "tt33702889",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/357631?token=58d528d12726f6a7cd399a25dd901918&expires=1768786357&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-20T01:32:29.219Z",
-    "totalOriginalEntries": 4673,
-    "newItemsInThisBatch": 8,
+    "exportedAt": "2025-11-20T01:40:54.385Z",
+    "totalOriginalEntries": 4676,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
