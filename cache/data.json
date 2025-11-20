@@ -240800,12 +240800,75 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:110381:s6e9",
+      "storedAt": 1763609133034,
+      "meta": {
+        "storedAt": 1763609133,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "110381",
+        "imdbId": "tt11363282",
+        "season": 6,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 2 0][h264]-FLUX",
+            "url": "https://a.111477.xyz/tvs/The%20Real%20Housewives%20of%20Salt%20Lake%20City/Season%206/The%20Real%20Housewives%20of%20Salt%20Lake%20City%20(2020)%20-%20S06E09%20-%20Unicorn%20Overboard%20[WEBDL-1080p][EAC3%202.0][h264]-FLUX.mkv",
+            "quality": "1080p",
+            "size": "3.64 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Real Housewives of Salt Lake City (2020) - S06E09 - Unicorn Overboard [WEBDL-1080p][EAC3 2.0][h264]-FLUX.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1412:s8e1",
+      "storedAt": 1763609336922,
+      "meta": {
+        "storedAt": 1763609336,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1412",
+        "imdbId": "tt2193021",
+        "season": 8,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/317362?token=85987ec2ca69d67270dfca214a548689&expires=1768793336&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-20T03:24:59.190Z",
-    "totalOriginalEntries": 4711,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-20T03:33:53.484Z",
+    "totalOriginalEntries": 4713,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
