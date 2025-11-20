@@ -240687,12 +240687,125 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:movie:1254624",
+      "storedAt": 1763608595025,
+      "meta": {
+        "storedAt": 1763608595,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "1254624",
+        "imdbId": "tt31567422",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEB H265-POKE",
+            "url": "https://a.111477.xyz/movies/Night%20Always%20Comes%20(2025)/Night.Always.Comes.2025.HDR.2160P.WEB.H265-POKE.mkv",
+            "quality": "2160p | HDR",
+            "size": "13.90 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Night.Always.Comes.2025.HDR.2160P.WEB.H265-POKE.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies NF WEB-DL DDP5 1 Atmos H 264-FLUX",
+            "url": "https://a.111477.xyz/movies/Night%20Always%20Comes%20(2025)/Night.Always.Comes.2025.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv",
+            "quality": "1080p",
+            "size": "4.36 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Night.Always.Comes.2025.1080p.NF.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip x265-DH",
+            "url": "https://a.111477.xyz/movies/Night%20Always%20Comes%20(2025)/Night.Always.Comes.2025.1080p.WEBRip.x265-DH.mkv",
+            "quality": "1080p",
+            "size": "1.18 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Night.Always.Comes.2025.1080p.WEBRip.x265-DH.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:272418:s1e4",
+      "storedAt": 1763608604436,
+      "meta": {
+        "storedAt": 1763608604,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "272418",
+        "imdbId": "tt33484460",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/509568?token=1ee0e92d4e4d422d33ecc86737993b02&expires=1768792602&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:94954:s2e7",
+      "storedAt": 1763608997271,
+      "meta": {
+        "storedAt": 1763608997,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "94954",
+        "imdbId": "tt7216636",
+        "season": 2,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/517283?token=efbf26fa9b0447a449cdafd6ac7eb96b&expires=1768792995&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-20T03:16:11.675Z",
-    "totalOriginalEntries": 4708,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-20T03:24:59.190Z",
+    "totalOriginalEntries": 4711,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
