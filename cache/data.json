@@ -241095,12 +241095,118 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1911:s9e17",
+      "storedAt": 1763610541417,
+      "meta": {
+        "storedAt": 1763610541,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 9,
+        "episode": 17,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%209/Bones%20(2005)%20-%20S09E17%20-%20The%20Repo%20Man%20in%20the%20Septic%20Tank%20[WEBRip-1080p][EAC3%205.1][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": "1.12 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones (2005) - S09E17 - The Repo Man in the Septic Tank [WEBRip-1080p][EAC3 5.1][x265]-iVy.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip x265-INFINITY",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%209/Bones.S09E17.1080p.WEBRip.x265-INFINITY.mp4",
+            "quality": "1080p",
+            "size": "699.56 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones.S09E17.1080p.WEBRip.x265-INFINITY.mp4"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1911:s9e17",
+      "storedAt": 1763610550132,
+      "meta": {
+        "storedAt": 1763610549,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 9,
+        "episode": 17,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Bones and All S9E17 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1684689602/s9/episode17.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:604:s3e2",
+      "storedAt": 1763610742208,
+      "meta": {
+        "storedAt": 1763610741,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "604",
+        "imdbId": "tt0343314",
+        "season": 3,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/42515?token=470763678707df1c8ef93bb2696b112a&expires=1768794738&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-20T03:46:49.006Z",
-    "totalOriginalEntries": 4720,
-    "newItemsInThisBatch": 7,
+    "exportedAt": "2025-11-20T03:57:21.592Z",
+    "totalOriginalEntries": 4723,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
