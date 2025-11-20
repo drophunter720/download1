@@ -245698,12 +245698,289 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:405774",
+      "storedAt": 1763639627925,
+      "meta": {
+        "storedAt": 1763639627,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "405774",
+        "imdbId": "tt2737304",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "7396953928b3aa041d654da904f0bfab\n12.96 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/7396953928b3aa041d654da904f0bfab?token=1763639626",
+            "quality": "2160p",
+            "size": "12.96 GB",
+            "fileName": "7396953928b3aa041d654da904f0bfab",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "FedEzf11\n12.96 GB",
+            "url": "https://pixeldrain.net/api/file/FedEzf11",
+            "quality": "2160p",
+            "size": "12.96 GB",
+            "fileName": "FedEzf11",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:405774",
+      "storedAt": 1763639633046,
+      "meta": {
+        "storedAt": 1763639633,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "405774",
+        "imdbId": "tt2737304",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Bird Box Barcelona - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2023/birdboxbarcelona.mkv",
+            "quality": "1080p",
+            "size": "2h 04m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Bird Box Barcelona - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2023/birdboxbarcelona.mkv",
+            "quality": "1080p",
+            "size": "2h 04m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Bird Box Barcelona - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2023/birdboxbarcelona.mkv",
+            "quality": "720p",
+            "size": "2h 04m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Bird Box Barcelona - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2023/birdboxbarcelona.mkv",
+            "quality": "720p",
+            "size": "2h 04m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:405774",
+      "storedAt": 1763639638767,
+      "meta": {
+        "storedAt": 1763639638,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "405774",
+        "imdbId": "tt2737304",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Bird Box Barcelona 2023 1080p NF WEB-DL DDP5 1 Atmos HEVC-YameteKudasai\n2.89GB",
+            "url": "https://worker-little-bush-9ebe.movowi8459.workers.dev/e80ac009543d2237090bfc12926f9483b2198cd8f67a8285db4e2dd81f3f10c8dc6ae36822dd1aae754f535af2ffecb386f0942aec80506d3a8c134cf2ebd69c3c58577dfd69167a9f113de0217edb06587f0c74be66b4d1946d06852be2a22e290b3284fbb5910e516df3afec1e7466ba887d5f43fccea3d59de3b338d13ba60be51e1c3286d9eeb63c2d353eccc9b8aeb4797d96e1446601747e072e63f3622ec77c9097955e3f9f32386877db7a6c::c89f09ee11145a2c2abf5d563129e204/Bird.Box.Barcelona.2023.1080p.NF.WEB-DL.DDP5.1.Atmos.HEVC-YameteKudasai.mkv",
+            "quality": "1080p",
+            "size": "2.89GB",
+            "fileName": "Bird.Box.Barcelona.2023.1080p.NF.WEB-DL.DDP5.1.Atmos.HEVC-YameteKudasai.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:488143",
+      "storedAt": 1763639807562,
+      "meta": {
+        "storedAt": 1763639807,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "488143",
+        "imdbId": "tt6956566",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "e10ba5c3947f47f67a27334c52e759a3\n4.21 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/e10ba5c3947f47f67a27334c52e759a3?token=1763639805",
+            "quality": "1080p",
+            "size": "4.21 GB",
+            "fileName": "e10ba5c3947f47f67a27334c52e759a3",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "DXk6H35p\n4.21 GB",
+            "url": "https://pixeldrain.net/api/file/DXk6H35p",
+            "quality": "1080p",
+            "size": "4.21 GB",
+            "fileName": "DXk6H35p",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:228649:s1e2",
+      "storedAt": 1763639574527,
+      "meta": {
+        "storedAt": 1763639572,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "228649",
+        "imdbId": "tt27880409",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/385297?token=524b6d795d1e5f53b09609c9626c681a&expires=1768823570&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:304849:s1e1",
+      "storedAt": 1763639725203,
+      "meta": {
+        "storedAt": 1763639724,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "304849",
+        "imdbId": "tt38808290",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/506625?token=5a53c65b70faf7fcb2debbd74bbd0c1f&expires=1768823721&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:79792:s5e1",
+      "storedAt": 1763639424990,
+      "meta": {
+        "storedAt": 1763639424,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "79792",
+        "imdbId": "tt8467296",
+        "season": 5,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/469368?token=cf46c3410998b2afb81f8e4b4ab6fc67&expires=1768823422&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-20T11:46:59.553Z",
-    "totalOriginalEntries": 4849,
-    "newItemsInThisBatch": 4,
+    "exportedAt": "2025-11-20T11:58:45.554Z",
+    "totalOriginalEntries": 4856,
+    "newItemsInThisBatch": 7,
     "format": "compact_v1"
   }
 }
