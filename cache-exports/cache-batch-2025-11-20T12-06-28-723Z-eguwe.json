@@ -1,0 +1,123 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:movie:405774",
+      "storedAt": 1763639908533,
+      "meta": {
+        "storedAt": 1763639908,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "405774",
+        "imdbId": "tt2737304",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies web YTS",
+            "url": "https://a.111477.xyz/movies/Bird%20Box%20(2018)/Bird%20Box%202018%202160p%20web%20YTS.mkv",
+            "quality": "2160p",
+            "size": "5.52 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bird Box 2018 2160p web YTS.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DS4K NF WEBRip AV1 Opus 5 1-Retr0",
+            "url": "https://a.111477.xyz/movies/Bird%20Box%20(2018)/Bird.Box.2018.1080p.DS4K.NF.WEBRip.AV1.Opus.5.1-Retr0.mkv",
+            "quality": "1080p",
+            "size": "1.53 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bird.Box.2018.1080p.DS4K.NF.WEBRip.AV1.Opus.5.1-Retr0.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies NF WEB-DL DDP5 1 x264-SiGLA-AsRequested",
+            "url": "https://a.111477.xyz/movies/Bird%20Box%20(2018)/Bird.Box.2018.1080p.NF.WEB-DL.DDP5.1.x264-SiGLA-AsRequested.mkv",
+            "quality": "1080p",
+            "size": "4.52 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bird.Box.2018.1080p.NF.WEB-DL.DDP5.1.x264-SiGLA-AsRequested.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:83542:s1e9",
+      "storedAt": 1763639967183,
+      "meta": {
+        "storedAt": 1763639967,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "83542",
+        "imdbId": "tt8994238",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/494865?token=a8d6a74f0c22429bc942ff2ddc36eaeb&expires=1768823965&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:90521:s6e22",
+      "storedAt": 1763640340401,
+      "meta": {
+        "storedAt": 1763640340,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "90521",
+        "imdbId": "tt8819906",
+        "season": 6,
+        "episode": 22,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/477886?token=4c65bc20558a2526ae36ed7049ff0771&expires=1768824334&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-20T12:06:28.724Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
