@@ -244108,12 +244108,67 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:1576198",
+      "storedAt": 1763629804539,
+      "meta": {
+        "storedAt": 1763629804,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1576198",
+        "imdbId": "tt38907021",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Madulas.2025.2160p.VMX.WEB-DL.AAC.x264-RSG-4kHdHub.Com\n3.89 GB",
+            "url": "https://cdn.fsl-buckets.work/Madulas.2025.2160p.VMX.WEB-DL.AAC.x264-RSG-4kHdHub.Com.mkv?token=10cdf6628269a00928f53bfea041dfe8",
+            "quality": "2160p",
+            "size": "3.89 GB",
+            "fileName": "Madulas.2025.2160p.VMX.WEB-DL.AAC.x264-RSG-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "f963e488e199eb06e660d71329ebfa45\n3.89 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/f963e488e199eb06e660d71329ebfa45?token=1763629295",
+            "quality": "2160p",
+            "size": "3.89 GB",
+            "fileName": "f963e488e199eb06e660d71329ebfa45",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "NEtdoW6J\n3.89 GB",
+            "url": "https://pixeldrain.net/api/file/NEtdoW6J",
+            "quality": "2160p",
+            "size": "3.89 GB",
+            "fileName": "NEtdoW6J",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-20T09:09:06.462Z",
-    "totalOriginalEntries": 4807,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-20T09:18:27.724Z",
+    "totalOriginalEntries": 4808,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
