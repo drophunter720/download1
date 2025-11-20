@@ -239818,12 +239818,189 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:streamflix:movie:9669",
+      "storedAt": 1763603650307,
+      "meta": {
+        "storedAt": 1763603650,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "9669",
+        "imdbId": "tt0218553",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Conjuring 2 - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2016/theconjuring2.mkv",
+            "quality": "1080p",
+            "size": "2h 14m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Conjuring 2 - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2016/theconjuring2.mkv",
+            "quality": "1080p",
+            "size": "2h 14m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Conjuring 2 - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2016/theconjuring2.mkv",
+            "quality": "720p",
+            "size": "2h 14m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Conjuring 2 - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2016/theconjuring2.mkv",
+            "quality": "720p",
+            "size": "2h 14m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:9669",
+      "storedAt": 1763603663234,
+      "meta": {
+        "storedAt": 1763603663,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "9669",
+        "imdbId": "tt0218553",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "The Conjuring - The Last Rites (2025) 2160p AMZN WEB-DL HDR 10bit HEVC [Hindi DDP 5 1 + English DDP 5 1] x265 (RG-UHDMovies)\n15.11GB",
+            "url": "https://worker-quiet-hill-6cbf.nimel19971.workers.dev/a47506211d3b0d84c29bb211f2e3cdb031080bfb3da12821660907bbe0ff63ec67ee4091f61ec06008d7552cd2c179a2403763c229f6ed345d257cadf7812da82b49b60eea3ae6ec6bfcd55fe754e0b43e03b5736858caba069555f959e7f471f2f8e9dba65eaa1f3c3da513772026811a9d11fc59bad9d751c8bdde89a2167edab50ae8f3a52d9e6e532ad92ca1608fb65c3a72b7320bfb09f197e35058f9b4f139a321ccbf59908b63c60eedcbb1ae::25dfdaa340cf522fb9097ddeae221d8c/The Conjuring - The Last Rites (2025) 2160p AMZN WEB-DL HDR 10bit HEVC [Hindi DDP 5.1  English DDP 5.1] x265 (RG-UHDMovies).mkv",
+            "quality": "4K | HDR",
+            "size": "15.11GB",
+            "fileName": "The Conjuring - The Last Rites (2025) 2160p AMZN WEB-DL HDR 10bit HEVC [Hindi DDP 5.1 + English DDP 5.1] x265 (RG-UHDMovies).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "The Conjuring - The Last Rites (2025) 2160p AMZN WEB-DL SDR 10bit HEVC [Hindi DDP 5 1 + English DDP 5 1] x265 (RG-UHDMovies)\n10.57GB",
+            "url": "https://worker-old-water-aa3c.samiti8158.workers.dev/5416a5ea476c5774e0897587ab1f445f42c22dba141bb8bdaa7db69917d08de165e1097e00146f867f1b93cc9c11dc79ad15ec85db4e07f98c8a646bee32228af2878ec54935fd3baefc4005d12ecd35eda8bf99d5ab3371c6de1ee057291b11315995ec4b0dc87a135aa02de44ee86de385693f58baef1bae117c69826086c3a546995742139ef1ac3340273187882dbf55cb2699321a855380f5f6143a7c674ae1c629cf8182f4fdd09026a3f5eabc::099c76533b13c9ea15fcaced3fefc78e/The Conjuring - The Last Rites (2025) 2160p AMZN WEB-DL SDR 10bit HEVC [Hindi DDP 5.1  English DDP 5.1] x265 (RG-UHDMovies).mkv",
+            "quality": "4K",
+            "size": "10.57GB",
+            "fileName": "The Conjuring - The Last Rites (2025) 2160p AMZN WEB-DL SDR 10bit HEVC [Hindi DDP 5.1 + English DDP 5.1] x265 (RG-UHDMovies).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "The Conjuring - The Last Rites (2025) 1080p AMZN WEB-DL [Hindi DDP 5 1 + English DDP 5 1] x264 (KyoGo-UHDMovies)\n7.95GB",
+            "url": "https://worker-autumn-pine-fab1.nalij84703.workers.dev/e5f0e52a965af105d670840fca4b8e36f02824491358562ec3872a338d805c5baa0c3e3c774fc59a36caf21b6ed726c066d294032372f07e68e3f24bd72a2ea8b3c05b0238c9b14e877adf12c40b24f6a370e3a6933c854ace908ab3b8341eab6eb4d3cbe3c6b368ec1789114420b05e3c04c2aaac2c1395689fffb17a9dc8778034711a98eec7a28981e8fe4fb1be763a222395e403f7e20592a6ba4fac08083576785b58f1e1b838f552349448774b::0ecac4cf335890756e02a9f7754d0ca4/The Conjuring - The Last Rites (2025) 1080p AMZN WEB-DL [Hindi DDP 5.1  English DDP 5.1] x264 (KyoGo-UHDMovies).mkv",
+            "quality": "1080p",
+            "size": "7.95GB",
+            "fileName": "The Conjuring - The Last Rites (2025) 1080p AMZN WEB-DL [Hindi DDP 5.1 + English DDP 5.1] x264 (KyoGo-UHDMovies).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:251597:s1e4",
+      "storedAt": 1763603627510,
+      "meta": {
+        "storedAt": 1763603627,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "251597",
+        "imdbId": "tt32066226",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/339946?token=99b5c0cb29cee52c2167dd6bfe9b564b&expires=1768787623&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61068:s3e10",
+      "storedAt": 1763603970307,
+      "meta": {
+        "storedAt": 1763603970,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61068",
+        "imdbId": "tt2049116",
+        "season": 3,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/274997?token=cf3833007b731a8f25652869bf98a293&expires=1768787965&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-20T01:50:45.359Z",
-    "totalOriginalEntries": 4683,
-    "newItemsInThisBatch": 7,
+    "exportedAt": "2025-11-20T02:01:29.907Z",
+    "totalOriginalEntries": 4687,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
