@@ -243760,12 +243760,104 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:uhdmovies:movie:257211",
+      "storedAt": 1763628030233,
+      "meta": {
+        "storedAt": 1763628030,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "257211",
+        "imdbId": "tt2361509",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "The Intern (2015) 1080p BluRay REMUX AVC [Hindi DDP 2 0 + English DTS-HDMA 5 1] x264 (KRaLiMaRKo-UHDMovies)\n21.76GB",
+            "url": "https://worker-small-limit-b97a.pilef94677.workers.dev/c56692d894cdef2261a18591aa1f66f856a40f311ce98599d142e9170697adf72a1c227aee666207f92fcb3945457f679eaaf7383fc6174b92fda4e1614947097564304ee9ef46e795cbc06267a78bda70ab1fd6889dbab35df48c76f19f899e096c03f8c6528c5a9e5671e0567af253443bef0f9e6e1dc322c8967ac4d322e8e7b2d929fa8f44ebd0af0bc8b705c2c6a7288b8afb35d1831e9b73060302134b4d28acfad95d15e7b2af8f951341f7f3::809b8ba30472dd10a26ce7c7a79a978f/The Intern (2015) 1080p BluRay REMUX AVC [Hindi DDP 2.0  English DTS-HDMA 5.1] x264 (KRaLiMaRKo-UHDMovies).mkv",
+            "quality": "1080p | BluRay",
+            "size": "21.76GB",
+            "fileName": "The Intern (2015) 1080p BluRay REMUX AVC [Hindi DDP 2.0 + English DTS-HDMA 5.1] x264 (KRaLiMaRKo-UHDMovies).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:72374:s1e16",
+      "storedAt": 1763628264271,
+      "meta": {
+        "storedAt": 1763628264,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "72374",
+        "imdbId": "tt7020608",
+        "season": 1,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/513805?token=153128c959c9de66b63faa285dc037a8&expires=1768812260&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:7482:s2e12",
+      "storedAt": 1763628346411,
+      "meta": {
+        "storedAt": 1763628346,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "7482",
+        "imdbId": "tt1103987",
+        "season": 2,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/202872?token=978c0d1ef467cce4ed77be848d95b697&expires=1768812342&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-20T08:29:49.804Z",
-    "totalOriginalEntries": 4796,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-20T08:48:53.050Z",
+    "totalOriginalEntries": 4799,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
