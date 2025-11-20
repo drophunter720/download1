@@ -258123,12 +258123,157 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:movie:13187",
+      "storedAt": 1763677497285,
+      "meta": {
+        "storedAt": 1763677497,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "13187",
+        "imdbId": "tt0059026",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX HEVC DTS HD MA 5 1 FGT ORARBG",
+            "url": "https://a.111477.xyz/movies/A%20Charlie%20Brown%20Christmas%20(1965)/A%20Charlie%20Brown%20Christmas%201965%202160p%20BluRay%20REMUX%20HEVC%20DTS%20HD%20MA%205%201%20FGT%20ORARBG.mkv",
+            "quality": "2160p | REMUX",
+            "size": "9.09 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "A Charlie Brown Christmas 1965 2160p BluRay REMUX HEVC DTS HD MA 5 1 FGT ORARBG.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DTS-HD MA 5 1 HEVC REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/A%20Charlie%20Brown%20Christmas%20(1965)/A.Charlie.Brown.Christmas.1965.UHD.BluRay.2160p.DTS-HD.MA.5.1.HEVC.REMUX-FraMeSToR.mkv",
+            "quality": "2160p | REMUX",
+            "size": "9.10 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "A.Charlie.Brown.Christmas.1965.UHD.BluRay.2160p.DTS-HD.MA.5.1.HEVC.REMUX-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies UHD BluRay x265-WhiteRhino",
+            "url": "https://a.111477.xyz/movies/A%20Charlie%20Brown%20Christmas%20(1965)/A.Charlie.Brown.Christmas.1965.WS.2160p.UHD.BluRay.x265-WhiteRhino.mkv",
+            "quality": "2160p",
+            "size": "6.25 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "A.Charlie.Brown.Christmas.1965.WS.2160p.UHD.BluRay.x265-WhiteRhino.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:46643:s1e8",
+      "storedAt": 1763677435520,
+      "meta": {
+        "storedAt": 1763677435,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "46643",
+        "imdbId": "tt2310212",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/245122?token=33d2467ec36b5c95c2aabbea8ed127ce&expires=1768861427&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:78173:s5e5",
+      "storedAt": 1763677371061,
+      "meta": {
+        "storedAt": 1763677371,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "78173",
+        "imdbId": "tt4816058",
+        "season": 5,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/168187?token=c2d92ed3a1ff15f1cf18575d4dd667e7&expires=1768861368&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:85349:s2e17",
+      "storedAt": 1763677252988,
+      "meta": {
+        "storedAt": 1763677252,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "85349",
+        "imdbId": "tt8050740",
+        "season": 2,
+        "episode": 17,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/199917?token=e6c64afd6242a319a64d45683dcf297c&expires=1768861250&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-20T22:15:40.617Z",
-    "totalOriginalEntries": 5150,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-20T22:26:42.496Z",
+    "totalOriginalEntries": 5154,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
