@@ -256722,12 +256722,75 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1418:s4e4",
+      "storedAt": 1763670825380,
+      "meta": {
+        "storedAt": 1763670825,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1418",
+        "imdbId": "tt0898266",
+        "season": 4,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies REMUX DTS-HD MA 5 1 Dual Hiro360",
+            "url": "https://a.111477.xyz/tvs/The%20Big%20Bang%20Theory/Season%204/The.Big.Bang.Theory.S04E04.Bluray.1080p.REMUX.DTS-HD.MA.5.1.Dual.Hiro360.mkv",
+            "quality": "1080p | REMUX",
+            "size": "2.77 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Big.Bang.Theory.S04E04.Bluray.1080p.REMUX.DTS-HD.MA.5.1.Dual.Hiro360.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:204698:s1e8",
+      "storedAt": 1763670477984,
+      "meta": {
+        "storedAt": 1763670477,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "204698",
+        "imdbId": "tt14544190",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/412931?token=b164da65d7540a345b7c065fe14b73a8&expires=1768854473&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-20T20:27:43.257Z",
-    "totalOriginalEntries": 5112,
-    "newItemsInThisBatch": 6,
+    "exportedAt": "2025-11-20T20:36:13.233Z",
+    "totalOriginalEntries": 5114,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
