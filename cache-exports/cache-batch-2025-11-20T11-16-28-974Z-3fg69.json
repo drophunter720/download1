@@ -1,0 +1,74 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:tv:288935:s1e1",
+      "storedAt": 1763637001417,
+      "meta": {
+        "storedAt": 1763637001,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "288935",
+        "imdbId": "tt32475225",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/345962?token=27f45b4dd375c2d5e809d12108aa93b2&expires=1768820995&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:62904:s2e3",
+      "storedAt": 1763636908451,
+      "meta": {
+        "storedAt": 1763636908,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "62904",
+        "imdbId": "tt3952746",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/267088?token=1705e4121c740900ad01597e14c4c2e5&expires=1768820905&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-20T11:16:28.975Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
