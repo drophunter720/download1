@@ -272661,12 +272661,118 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:14929:s4e7",
+      "storedAt": 1763748420767,
+      "meta": {
+        "storedAt": 1763748420,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "14929",
+        "imdbId": "tt1094229",
+        "season": 4,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/473401?token=c04808e4538482d6a24f09123f7fe794&expires=1768932416&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:49010:s2e6",
+      "storedAt": 1763748176027,
+      "meta": {
+        "storedAt": 1763748176,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "49010",
+        "imdbId": "tt2294189",
+        "season": 2,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 2 0][x265]",
+            "url": "https://a.111477.xyz/tvs/The%20Fall/Season%202/The%20Fall%20(2013)%20-%20S02E06%20-%20What%20is%20in%20Me%20Dark%20Illumine%20[Bluray-1080p][AAC%202.0][x265].mkv",
+            "quality": "1080p",
+            "size": "2.10 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Fall (2013) - S02E06 - What is in Me Dark Illumine [Bluray-1080p][AAC 2.0][x265].mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 2 0][x264]-PiR8",
+            "url": "https://a.111477.xyz/tvs/The%20Fall/Season%202/The%20Fall%20(2013)%20-%20S02E06%20-%20What%20is%20in%20Me%20Dark%20Illumine%20[Bluray-1080p][EAC3%202.0][x264]-PiR8.mkv",
+            "quality": "1080p",
+            "size": "6.14 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Fall (2013) - S02E06 - What is in Me Dark Illumine [Bluray-1080p][EAC3 2.0][x264]-PiR8.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:49010:s2e6",
+      "storedAt": 1763748175795,
+      "meta": {
+        "storedAt": 1763748175,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "49010",
+        "imdbId": "tt2294189",
+        "season": 2,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Fall S2E6 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1729089418/s2/episode6.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-21T18:01:15.042Z",
-    "totalOriginalEntries": 5464,
-    "newItemsInThisBatch": 8,
+    "exportedAt": "2025-11-21T18:10:37.294Z",
+    "totalOriginalEntries": 5467,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
