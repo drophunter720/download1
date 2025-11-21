@@ -269779,12 +269779,163 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:191121",
+      "storedAt": 1763740494647,
+      "meta": {
+        "storedAt": 1763740494,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "191121",
+        "imdbId": "tt2359810",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Captain Phillips (2013) 1080p BluRay REMUX AVC [Hindi DD 5.1 + English TrueHD Atmos 7.1] x264 (TRiToN-KiNGSMAN)\n29.47 GB",
+            "url": "https://aws-eu-c3.amazon-faxahim439v.workers.dev/0f49bcd593f27a64c773426d47191359::35a226d0a36c38131d6a5768195e00ce/1397327349/Captain%20Phillips%20(2013)%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DD%205.1%20+%20English%20TrueHD%20Atmos%207.1]%20x264%20(TRiToN-KiNGSMAN).mkv",
+            "quality": "1080p",
+            "size": "29.47 GB",
+            "fileName": "Captain Phillips (2013) 1080p BluRay REMUX AVC [Hindi DD 5.1 + English TrueHD Atmos 7.1] x264 (TRiToN-KiNGSMAN)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Captain Phillips (2013) 2160p MA WEB-DL SDR 10bit HEVC [Hindi DD 5.1 + English DTS-HD MA 5.1] x265 (SMURF-KiNGSMAN)\n25.89 GB",
+            "url": "https://jolly-lake-4fd7.soxoso52512929.workers.dev/8ad03d1aeaa8b85927e31a561f8a933d::966a7e14bd42a432965f236d554cd686/1397327349/Captain%20Phillips%20(2013)%202160p%20MA%20WEB-DL%20SDR%2010bit%20HEVC%20[Hindi%20DD%205.1%20+%20English%20DTS-HD%20MA%205.1]%20x265%20(SMURF-KiNGSMAN).mkv",
+            "quality": "2160p",
+            "size": "25.89 GB",
+            "fileName": "Captain Phillips (2013) 2160p MA WEB-DL SDR 10bit HEVC [Hindi DD 5.1 + English DTS-HD MA 5.1] x265 (SMURF-KiNGSMAN)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Captain Phillips (2013) 1080p BluRay [Hindi DD 5.1 + English DDP 5.1] x264 (playHD-KiNGSMAN)\n19.58 GB",
+            "url": "https://dark-wind-9089.gitaj510308837.workers.dev/8c5670644261119cbbcac47afa5cb9ad::08309e8fcfdf6c86eeb7b283c3057c59/1397327349/Captain%20Phillips%20(2013)%201080p%20BluRay%20[Hindi%20DD%205.1%20+%20English%20DDP%205.1]%20x264%20(playHD-KiNGSMAN).mkv",
+            "quality": "1080p",
+            "size": "19.58 GB",
+            "fileName": "Captain Phillips (2013) 1080p BluRay [Hindi DD 5.1 + English DDP 5.1] x264 (playHD-KiNGSMAN)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:191121",
+      "storedAt": 1763740488691,
+      "meta": {
+        "storedAt": 1763740488,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "191121",
+        "imdbId": "tt2359810",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies bluray YTS",
+            "url": "https://a.111477.xyz/movies/Raanjhanaa%20(2013)/Raanjhanaa%202013%201080p%20bluray%20YTS.mp4",
+            "quality": "1080p",
+            "size": "2.58 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Raanjhanaa 2013 1080p bluray YTS.mp4"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:191121",
+      "storedAt": 1763740497329,
+      "meta": {
+        "storedAt": 1763740497,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "191121",
+        "imdbId": "tt2359810",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Raanjhanaa - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2013/raanjhna.mkv",
+            "quality": "1080p",
+            "size": "2h 20m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Raanjhanaa - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2013/raanjhna.mkv",
+            "quality": "1080p",
+            "size": "2h 20m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Raanjhanaa - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2013/raanjhna.mkv",
+            "quality": "720p",
+            "size": "2h 20m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Raanjhanaa - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2013/raanjhna.mkv",
+            "quality": "720p",
+            "size": "2h 20m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-21T15:55:07.213Z",
-    "totalOriginalEntries": 5414,
-    "newItemsInThisBatch": 8,
+    "exportedAt": "2025-11-21T16:03:16.065Z",
+    "totalOriginalEntries": 5417,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
