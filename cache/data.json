@@ -276570,12 +276570,78 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:tv:203832:s2e2",
+      "storedAt": 1763760956052,
+      "meta": {
+        "storedAt": 1763760956,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "203832",
+        "imdbId": "tt22014226",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "a6MMUpJ9\n2.21 GB",
+            "url": "https://pixeldrain.net/api/file/a6MMUpJ9",
+            "quality": "1080p",
+            "size": "2.21 GB",
+            "fileName": "a6MMUpJ9",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:203832:s2e2",
+      "storedAt": 1763760963960,
+      "meta": {
+        "storedAt": 1763760963,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "203832",
+        "imdbId": "tt22014226",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Taaza Khabar S2E2 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1679427856/s2/episode2.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-21T21:28:20.535Z",
-    "totalOriginalEntries": 5529,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-21T21:37:39.063Z",
+    "totalOriginalEntries": 5531,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
