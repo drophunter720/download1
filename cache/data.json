@@ -259472,11 +259472,135 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:uhdmovies:movie:1116465",
+      "storedAt": 1763683872875,
+      "meta": {
+        "storedAt": 1763683872,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "1116465",
+        "imdbId": "tt27589902",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Messis World Cup The Rise of a Legend S01E01 The Last Cup 1080p ATVP WEB-DL DDP5 1 Atmos H 264-FLUX\n3.3GB",
+            "url": "https://worker-sparkling-sun-c37d.hiwosak407.workers.dev/eb88336b361073dbeda4e996b5e28f29e6b952d7bbb2fe01bcf97fdd0aacefb242483610e670914d8e957b9273d38ef3e6927b63f1bd83fd533caef2b698f5eb4b2899c086685cd58b28993afac2fb2d772b8c6de5205f4ac04c108c0f6dab89b46c10837dc6dc3da7d862cae3ffedc2b4afe3010010f704f51aa39c9f57cb6f367467047492688d37a75b9a707f738a825c9f78fad296d6ce2b07898dccc3d9b2b4c0e58197a969a5cab6c9c00a10a8::5024b7bacb82425974e38204f8c60781/Messis.World.Cup.The.Rise.of.a.Legend.S01E01.The.Last.Cup.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv",
+            "quality": "1080p",
+            "size": "3.3GB",
+            "fileName": "Messis.World.Cup.The.Rise.of.a.Legend.S01E01.The.Last.Cup.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:125462:s1e1",
+      "storedAt": 1763683444681,
+      "meta": {
+        "storedAt": 1763683444,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "125462",
+        "imdbId": "tt15090858",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/155368?token=99076a95cbd4e2b516b77792c41bb399&expires=1768867439&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:217583:s1e1",
+      "storedAt": 1763683469241,
+      "meta": {
+        "storedAt": 1763683468,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "217583",
+        "imdbId": "tt26605367",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/394667?token=0ba71561c45ca31454dcba108cb13ccc&expires=1768867465&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:73333:s1e1",
+      "storedAt": 1763683814935,
+      "meta": {
+        "storedAt": 1763683814,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "73333",
+        "imdbId": "tt6980438",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/512584?token=980aebad4d926a4d8b776706fe1f7b88&expires=1768867812&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-20T23:59:54.559Z",
-    "totalOriginalEntries": 5188,
+    "exportedAt": "2025-11-21T00:12:30.400Z",
+    "totalOriginalEntries": 5192,
     "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
