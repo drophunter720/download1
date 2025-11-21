@@ -1,0 +1,75 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:tv:126506:s1e8",
+      "storedAt": 1763736810258,
+      "meta": {
+        "storedAt": 1763736809,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "126506",
+        "imdbId": "tt12074628",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "NUF7HqU2\n769.82 MB",
+            "url": "https://pixeldrain.net/api/file/NUF7HqU2",
+            "quality": "1080p",
+            "size": "769.82 MB",
+            "fileName": "NUF7HqU2",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:237512:s1e1",
+      "storedAt": 1763736551453,
+      "meta": {
+        "storedAt": 1763736551,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "237512",
+        "imdbId": "tt29899148",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/229357?token=a8b19d3787faaefaf931d711bed84d86&expires=1768920549&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-21T14:57:12.095Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
