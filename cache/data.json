@@ -265594,12 +265594,109 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1321108",
+      "storedAt": 1763721160885,
+      "meta": {
+        "storedAt": 1763721160,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1321108",
+        "imdbId": "tt36388163",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/506653?token=47bfecf74bc3dbe560ebec9e0f6152fc&expires=1768905158&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:664332",
+      "storedAt": 1763721274483,
+      "meta": {
+        "storedAt": 1763721274,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "664332",
+        "imdbId": "tt10083340",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Gangubai Kathiawadi - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2022/gangubai.mkv",
+            "quality": "1080p",
+            "size": "2h 37m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Gangubai Kathiawadi - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2022/gangubai.mkv",
+            "quality": "1080p",
+            "size": "2h 37m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Gangubai Kathiawadi - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2022/gangubai.mkv",
+            "quality": "720p",
+            "size": "2h 37m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Gangubai Kathiawadi - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2022/gangubai.mkv",
+            "quality": "720p",
+            "size": "2h 37m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-21T10:27:37.392Z",
-    "totalOriginalEntries": 5338,
-    "newItemsInThisBatch": 0,
+    "exportedAt": "2025-11-21T10:38:20.549Z",
+    "totalOriginalEntries": 5340,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
