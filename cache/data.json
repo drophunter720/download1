@@ -276668,11 +276668,68 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:tv:97067:s1e1",
+      "storedAt": 1763762111139,
+      "meta": {
+        "storedAt": 1763762111,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "97067",
+        "imdbId": "tt13173130",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "x9cHLmrF\n6.01 GB",
+            "url": "https://pixeldrain.net/api/file/x9cHLmrF",
+            "quality": "2160p",
+            "size": "6.01 GB",
+            "fileName": "x9cHLmrF",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "acrpGxEv\n3.77 GB",
+            "url": "https://pixeldrain.net/api/file/acrpGxEv",
+            "quality": "2160p",
+            "size": "3.77 GB",
+            "fileName": "acrpGxEv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "eK7KqqCU\n1.7 GB",
+            "url": "https://pixeldrain.net/api/file/eK7KqqCU",
+            "quality": "1080p",
+            "size": "1.7 GB",
+            "fileName": "eK7KqqCU",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-21T21:48:54.910Z",
-    "totalOriginalEntries": 5532,
+    "exportedAt": "2025-11-21T21:58:05.349Z",
+    "totalOriginalEntries": 5533,
     "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
