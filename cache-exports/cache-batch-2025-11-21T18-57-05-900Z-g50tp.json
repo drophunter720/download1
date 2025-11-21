@@ -1,0 +1,97 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:269292",
+      "storedAt": 1763750945741,
+      "meta": {
+        "storedAt": 1763750945,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "269292",
+        "imdbId": "tt1530661",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "JgCWLnJe\n18.27 GB",
+            "url": "https://pixeldrain.net/api/file/JgCWLnJe",
+            "quality": "1080p",
+            "size": "18.27 GB",
+            "fileName": "JgCWLnJe",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "n4UaHXip\n6.21 GB",
+            "url": "https://pixeldrain.net/api/file/n4UaHXip",
+            "quality": "1080p",
+            "size": "6.21 GB",
+            "fileName": "n4UaHXip",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Monsterwolf 2010 1080p BluRay [Org Hindi DD 2.0 + English DTS 5.1] x264 FGT-4KHDHub\n6.21 GB",
+            "url": "https://pub-62f1a2f1b10946d9aa6891f1daa80324.r2.dev/Monsterwolf%202010%201080p%20BluRay%20[Org%20Hindi%20DD%202.0%20+%20English%20DTS%205.1]%20x264%20FGT-4KHDHub.mkv",
+            "quality": "1080p",
+            "size": "6.21 GB",
+            "fileName": "Monsterwolf 2010 1080p BluRay [Org Hindi DD 2.0 + English DTS 5.1] x264 FGT-4KHDHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:80587:s3e5",
+      "storedAt": 1763751296158,
+      "meta": {
+        "storedAt": 1763751296,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "80587",
+        "imdbId": "tt7165904",
+        "season": 3,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/198940?token=0ad83d9d28eee9533ea41ef89e9f7ae7&expires=1768935290&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-21T18:57:05.901Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
