@@ -277002,12 +277002,110 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:streamflix:movie:74471",
+      "storedAt": 1763764611117,
+      "meta": {
+        "storedAt": 1763764611,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "74471",
+        "imdbId": "tt1386925",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Dead Lands - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2014/thdeadlnd.mkv",
+            "quality": "1080p",
+            "size": "1h 48m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Dead Lands - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2014/thdeadlnd.mkv",
+            "quality": "1080p",
+            "size": "1h 48m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Dead Lands - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2014/thdeadlnd.mkv",
+            "quality": "720p",
+            "size": "1h 48m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Dead Lands - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2014/thdeadlnd.mkv",
+            "quality": "720p",
+            "size": "1h 48m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:70453:s1e6",
+      "storedAt": 1763764611202,
+      "meta": {
+        "storedAt": 1763764611,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "70453",
+        "imdbId": "tt2649356",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-EPSiLON",
+            "url": "https://a.111477.xyz/tvs/Sharp%20Objects/Season%201/Sharp%20Objects%20(2018)%20-%20S01E06%20-%20Cherry%20[Bluray-1080p%20Remux][DTS-HD%20MA%205.1][AVC]-EPSiLON.mkv",
+            "quality": "1080p | REMUX",
+            "size": "9.20 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sharp Objects (2018) - S01E06 - Cherry [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-EPSiLON.mkv"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-21T22:35:46.731Z",
-    "totalOriginalEntries": 5537,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-21T22:45:18.648Z",
+    "totalOriginalEntries": 5539,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
