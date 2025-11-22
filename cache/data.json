@@ -280359,12 +280359,111 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:movie:13855",
+      "storedAt": 1763788371802,
+      "meta": {
+        "storedAt": 1763788371,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "13855",
+        "imdbId": "tt1190539",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies W",
+            "url": "https://a.111477.xyz/movies/The%20Chaser%20(2008)/The%20Chaser.2008.Remux.1080p.W.mkv",
+            "quality": "1080p | REMUX",
+            "size": "34.61 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Chaser.2008.Remux.1080p.W.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x264-HDZ",
+            "url": "https://a.111477.xyz/movies/The%20Chaser%20(2008)/The.Chaser.2008.MULTi.1080p.BluRay.x264-HDZ.mkv",
+            "quality": "1080p",
+            "size": "14.52 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Chaser.2008.MULTi.1080p.BluRay.x264-HDZ.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:13855",
+      "storedAt": 1763788392999,
+      "meta": {
+        "storedAt": 1763788392,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "13855",
+        "imdbId": "tt1190539",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "The Chaser (2008) 1080p BluRay [Hindi DDP 5 1 + Korean DTS-HDMA 5 1] x264 (UK-UHDMovies)\n12.73GB",
+            "url": "https://worker-wispy-dust-e0b1.basoj89140.workers.dev/0adc17955b2e511c5a08e78591389342c8fbd44b93e2891417dc0c20a201977a5c2cbdc985eeb7768b95668a5390a3ffdab559b07176a12b3ab527b841b20a68f6783b9e054a58698fa94e71c91f5a614eb651916130420ed9ebac7e40869cdbcab03e24c0467b3207b9edc08584ff26f6ec9541bd106afb2d0824a26bb5e29a1fea94f24067dc2004050e6d2baf8f2cb12551e9aed2764a979954bbaf2022fc7f68b280bb5bebfbb9c0fcf2dee86997::1867f29e6f5ce591d2f4e084e10e19bd/The Chaser (2008) 1080p BluRay [Hindi DDP 5.1  Korean DTS-HDMA 5.1] x264 (UK-UHDMovies).mkv",
+            "quality": "1080p | BluRay",
+            "size": "12.73GB",
+            "fileName": "The Chaser (2008) 1080p BluRay [Hindi DDP 5.1 + Korean DTS-HDMA 5.1] x264 (UK-UHDMovies).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1403:s2e10",
+      "storedAt": 1763788574122,
+      "meta": {
+        "storedAt": 1763788574,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1403",
+        "imdbId": "tt2364582",
+        "season": 2,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/194632?token=642f655fcce3084eadb510eeabb9b63c&expires=1768972568&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-22T05:04:00.120Z",
-    "totalOriginalEntries": 5600,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-22T05:21:26.741Z",
+    "totalOriginalEntries": 5603,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
