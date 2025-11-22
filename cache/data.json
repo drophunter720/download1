@@ -285725,12 +285725,654 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:132316",
+      "storedAt": 1763816175863,
+      "meta": {
+        "storedAt": 1763816175,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "132316",
+        "imdbId": "tt2176013",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "595eb46c24584a81727258435866dc72\n30.39 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/595eb46c24584a81727258435866dc72?token=1763816172",
+            "quality": "1080p",
+            "size": "30.39 GB",
+            "fileName": "595eb46c24584a81727258435866dc72",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "90e717ac4ebbfa3bca24f5ae3e7b5e1a\n26.21 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/90e717ac4ebbfa3bca24f5ae3e7b5e1a?token=1763816172",
+            "quality": "2160p",
+            "size": "26.21 GB",
+            "fileName": "90e717ac4ebbfa3bca24f5ae3e7b5e1a",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Olympus Has Fallen (2013) 2160p UHD BluRay SDR 10bit HEVC [Hindi BD 5.1 + English DTS-HD MA 5.1] x265 (SWTYBLZ-KiNGSMAN) (4kHdHub.com)\n20.36 GB",
+            "url": "https://index.cdn-utube.workers.dev/f46a651126c0da4ed52c3e1b648436921435b34d2ab807c790dfda525a8bd5141778a7fa98128b8c3ff2a4b1d742e1a7::f7a8b57b6caf2a6f4273ed5fe3fadff9/1397327418/Olympus%20Has%20Fallen%20(2013)%202160p%20UHD%20BluRay%20SDR%2010bit%20HEVC%20[Hindi%20BD%205.1%20+%20English%20DTS-HD%20MA%205.1]%20x265%20(SWTYBLZ-KiNGSMAN)%20(4kHdHub.com).mkv",
+            "quality": "2160p",
+            "size": "20.36 GB",
+            "fileName": "Olympus Has Fallen (2013) 2160p UHD BluRay SDR 10bit HEVC [Hindi BD 5.1 + English DTS-HD MA 5.1] x265 (SWTYBLZ-KiNGSMAN) (4kHdHub.com)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "EZVGHX7p\n15.05 GB",
+            "url": "https://pixeldrain.net/api/file/EZVGHX7p",
+            "quality": "1080p",
+            "size": "15.05 GB",
+            "fileName": "EZVGHX7p",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "1tuDx3gH\n6.19 GB",
+            "url": "https://pixeldrain.net/api/file/1tuDx3gH",
+            "quality": "1080p",
+            "size": "6.19 GB",
+            "fileName": "1tuDx3gH",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:132316",
+      "storedAt": 1763816164499,
+      "meta": {
+        "storedAt": 1763816164,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "132316",
+        "imdbId": "tt2176013",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Jab Tak Hai Jaan - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2012/jabtakhaijan.mkv",
+            "quality": "1080p",
+            "size": "2h 56m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Jab Tak Hai Jaan - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2012/jabtakhaijan.mkv",
+            "quality": "1080p",
+            "size": "2h 56m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Jab Tak Hai Jaan - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2012/jabtakhaijan.mkv",
+            "quality": "720p",
+            "size": "2h 56m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Jab Tak Hai Jaan - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2012/jabtakhaijan.mkv",
+            "quality": "720p",
+            "size": "2h 56m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:9394",
+      "storedAt": 1763816150461,
+      "meta": {
+        "storedAt": 1763816150,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "9394",
+        "imdbId": "tt0067355",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Airport (1970) 1080p BluRay REMUX x264 AVC [Org VCD Hindi DD 2.0 ~ 224Kbps + English DTS-HDMA 5.1] ESub ~ demonen-4kHDHub.com\n32.75 GB",
+            "url": "https://filescdn.kitox49059.workers.dev/cdd51a147b9c086ad5246b42bf73f71d46c6098f32cbd51c21417b9d4b6a38790b4398a1a2c9736336df9cebd16047cd::fc512808eff525d713881cf555fd6db5/1397327418/Airport%20(1970)%201080p%20BluRay%20REMUX%20x264%20AVC%20[Org%20VCD%20Hindi%20DD%202.0%20~%20224Kbps%20+%20English%20DTS-HDMA%205.1]%20ESub%20~%20demonen-4kHDHub.com.mkv",
+            "quality": "1080p",
+            "size": "32.75 GB",
+            "fileName": "Airport (1970) 1080p BluRay REMUX x264 AVC [Org VCD Hindi DD 2.0 ~ 224Kbps + English DTS-HDMA 5.1] ESub ~ demonen-4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ubhcuq5Z\n12.83 GB",
+            "url": "https://pixeldrain.net/api/file/ubhcuq5Z",
+            "quality": "1080p",
+            "size": "12.83 GB",
+            "fileName": "ubhcuq5Z",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "N54WLCj4\n4.48 GB",
+            "url": "https://pixeldrain.net/api/file/N54WLCj4",
+            "quality": "1080p",
+            "size": "4.48 GB",
+            "fileName": "N54WLCj4",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:9394",
+      "storedAt": 1763816138090,
+      "meta": {
+        "storedAt": 1763816138,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "9394",
+        "imdbId": "tt0067355",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x264-OFT",
+            "url": "https://a.111477.xyz/movies/They%20Call%20Me%20Trinity%20(1970)/They.Call.Me.Trinity.1970.1080p.BluRay.x264-OFT.mkv",
+            "quality": "1080p",
+            "size": "4.78 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "They.Call.Me.Trinity.1970.1080p.BluRay.x264-OFT.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1739:s8e1",
+      "storedAt": 1763816144501,
+      "meta": {
+        "storedAt": 1763816144,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1739",
+        "imdbId": "tt0285351",
+        "season": 8,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/196075?token=8345ffbca4e7e4a2fe7d64d6cb615c0d&expires=1769000138&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:250670:s2e5",
+      "storedAt": 1763816249671,
+      "meta": {
+        "storedAt": 1763816249,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "250670",
+        "imdbId": "tt27792190",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "014093c4208a310695b580208ffd8b45\n2.39 GB",
+            "url": "https://true.boblover.click/014093c4208a310695b580208ffd8b45?token=1763810428",
+            "quality": "1080p",
+            "size": "2.39 GB",
+            "fileName": "014093c4208a310695b580208ffd8b45",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Jxmzbsva\n2.39 GB",
+            "url": "https://pixeldrain.net/api/file/Jxmzbsva",
+            "quality": "1080p",
+            "size": "2.39 GB",
+            "fileName": "Jxmzbsva",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "b7c05d9fb358974304dd081d73575e24\n1.18 GB",
+            "url": "https://true.boblover.click/b7c05d9fb358974304dd081d73575e24?token=1763809748",
+            "quality": "1080p",
+            "size": "1.18 GB",
+            "fileName": "b7c05d9fb358974304dd081d73575e24",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "jZu9qWCZ\n1.18 GB",
+            "url": "https://pixeldrain.net/api/file/jZu9qWCZ",
+            "quality": "1080p",
+            "size": "1.18 GB",
+            "fileName": "jZu9qWCZ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "f3edd3427e983912600804976231f614\n5.29 GB",
+            "url": "https://true.boblover.click/f3edd3427e983912600804976231f614?token=1763816245",
+            "quality": "2160p",
+            "size": "5.29 GB",
+            "fileName": "f3edd3427e983912600804976231f614",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "a6jGzK3m\n5.29 GB",
+            "url": "https://pixeldrain.net/api/file/a6jGzK3m",
+            "quality": "2160p",
+            "size": "5.29 GB",
+            "fileName": "a6jGzK3m",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "bcc5cb4a47f47e5da9eb5bd6cc1243e2\n5.31 GB",
+            "url": "https://true.boblover.click/bcc5cb4a47f47e5da9eb5bd6cc1243e2?token=1763816245",
+            "quality": "2160p",
+            "size": "5.31 GB",
+            "fileName": "bcc5cb4a47f47e5da9eb5bd6cc1243e2",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "1Q7Mjxmf\n5.31 GB",
+            "url": "https://pixeldrain.net/api/file/1Q7Mjxmf",
+            "quality": "2160p",
+            "size": "5.31 GB",
+            "fileName": "1Q7Mjxmf",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:250670:s2e5",
+      "storedAt": 1763816261319,
+      "meta": {
+        "storedAt": 1763816261,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "250670",
+        "imdbId": "tt27792190",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Maxton Hall - The World Between Us S02E05 1080p AMZN WEB-DL MULTi DDP5 1 H 264-ShiNobi\n3.25GB",
+            "url": "https://worker-muddy-star-a7e2.jemel52347.workers.dev/8c37b04e247ac8e9142b41e3d098f7328ac32a12a90b483866c751e75330813d76be712f016f3563cd8c806e9bd7c80ff5454dde0fcc657f0a3cfc54b7dbee6982bc04ba539a680660bc6264f47962d98b27c9a7ef03c27566f4d7ed174596d8db59eb8e7a7911914f41db93d700cbd48c7f1028eab091d203b56d6d500ce79e358a45a0b0e8c9a3620c23d24c807267dc3ea274c3c2e75197547e252e24e5d644c4fd136258a8307073d804243af139::8b2e22148111e84248b34150dddb36ad/Maxton.Hall.-.The.World.Between.Us.S02E05.1080p.AMZN.WEB-DL.MULTi.DDP5.1.H.264-ShiNobi.mkv",
+            "quality": "1080p",
+            "size": "3.25GB",
+            "fileName": "Maxton.Hall.-.The.World.Between.Us.S02E05.1080p.AMZN.WEB-DL.MULTi.DDP5.1.H.264-ShiNobi.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:34524:s3e10",
+      "storedAt": 1763816178156,
+      "meta": {
+        "storedAt": 1763816178,
+        "urlCount": 9,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "34524",
+        "imdbId": "tt1567432",
+        "season": 3,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Teen.Wolf.S03E10.1080p.BluRay.REMUX.AVC.English.DTS-HD.MA.5.1-EPSiLON\n9.48 GB",
+            "url": "https://pub-b5ecaffddf2344a0ae2222f5e8913e1b.r2.dev/Teen.Wolf.S03E10.1080p.BluRay.REMUX.AVC.English.DTS-HD.MA.5.1-EPSiLON.mkv?token=1763816174",
+            "quality": "1080p",
+            "size": "9.48 GB",
+            "fileName": "Teen.Wolf.S03E10.1080p.BluRay.REMUX.AVC.English.DTS-HD.MA.5.1-EPSiLON",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "BcvygQm8\n9.48 GB",
+            "url": "https://pixeldrain.net/api/file/BcvygQm8",
+            "quality": "1080p",
+            "size": "9.48 GB",
+            "fileName": "BcvygQm8",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n9.48 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=9zjKisxACYIA&n=G0wy0QxL&fn=Teen.Wolf.S03E10.1080p.BluRay.REMUX.AVC.English.DTS-HD.MA.5.1-EPSiLON.mkv",
+            "quality": "1080p",
+            "size": "9.48 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Teen.Wolf.S03E10.1080p.BluRay.English.DTS.5.1.x264-SHORTBREHD\n3.28 GB",
+            "url": "https://pub-b5ecaffddf2344a0ae2222f5e8913e1b.r2.dev/Teen.Wolf.S03E10.1080p.BluRay.English.DTS.5.1.x264-SHORTBREHD.mkv?token=1763816174",
+            "quality": "1080p",
+            "size": "3.28 GB",
+            "fileName": "Teen.Wolf.S03E10.1080p.BluRay.English.DTS.5.1.x264-SHORTBREHD",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "YPHh8Jko\n3.28 GB",
+            "url": "https://pixeldrain.net/api/file/YPHh8Jko",
+            "quality": "1080p",
+            "size": "3.28 GB",
+            "fileName": "YPHh8Jko",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n3.28 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=V5lj61QUnL5Y&n=rkIyVZxY&fn=Teen.Wolf.S03E10.1080p.BluRay.English.DTS.5.1.x264-SHORTBREHD.mkv",
+            "quality": "1080p",
+            "size": "3.28 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Teen.Wolf.2011.S03E10.1080p.BluRay.English.DDP5.1.10bit.x265-ToVaR\n1.12 GB",
+            "url": "https://pub-b5ecaffddf2344a0ae2222f5e8913e1b.r2.dev/Teen.Wolf.2011.S03E10.1080p.BluRay.English.DDP5.1.10bit.x265-ToVaR.mkv?token=1763816174",
+            "quality": "1080p",
+            "size": "1.12 GB",
+            "fileName": "Teen.Wolf.2011.S03E10.1080p.BluRay.English.DDP5.1.10bit.x265-ToVaR",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "vF5HiD5P\n1.12 GB",
+            "url": "https://pixeldrain.net/api/file/vF5HiD5P",
+            "quality": "1080p",
+            "size": "1.12 GB",
+            "fileName": "vF5HiD5P",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n1.12 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=pHP5Wpx2RISC&n=flwEXKbB&fn=Teen.Wolf.2011.S03E10.1080p.BluRay.English.DDP5.1.10bit.x265-ToVaR.mkv",
+            "quality": "1080p",
+            "size": "1.12 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 9
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:34524:s3e10",
+      "storedAt": 1763816170148,
+      "meta": {
+        "storedAt": 1763816170,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "34524",
+        "imdbId": "tt1567432",
+        "season": 3,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Teen%20Wolf/Season%203/Teen%20Wolf%20(2011)%20-%20S03E10%20-%20The%20Overlooked%20[Bluray-1080p%20Remux][DTS-HD%20MA%205.1][AVC]-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "9.47 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Teen Wolf (2011) - S03E10 - The Overlooked [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-NOGRP.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265-RARBG",
+            "url": "https://a.111477.xyz/tvs/Teen%20Wolf/Season%203/Teen.Wolf.S03E10.1080p.BluRay.x265-RARBG.mp4",
+            "quality": "1080p",
+            "size": "669.59 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Teen.Wolf.S03E10.1080p.BluRay.x265-RARBG.mp4"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:34524:s3e10",
+      "storedAt": 1763816168453,
+      "meta": {
+        "storedAt": 1763816168,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "34524",
+        "imdbId": "tt1567432",
+        "season": 3,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Teen Wolf S3E10 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1679547177/s3/episode10.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:34524:s3e10",
+      "storedAt": 1763816196243,
+      "meta": {
+        "storedAt": 1763816196,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "34524",
+        "imdbId": "tt1567432",
+        "season": 3,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Teen Wolf S03E10 The Overlooked 1080p BluRay REMUX AVC DTS-HD MA 5 1-EPSiLON\n9.48GB",
+            "url": "https://worker-old-disk-68eb.xebera8071.workers.dev/4e74694e40539d926fff660ca3b79cb728b5af5ed77f2404e5012a54d8018c5055b91a8b30f6c48c21be2b87aaa4e4e5b84232c8ae0c36f946ce64d6d21cd074533906286652ddfd81f939f504be1189dac54e8f2e0e3fe74d2a552fc18d3dd82da59ad854ca0fa70a6fea50569f1bb255d98774941e8228e65b688bae22ec12633ff0dfc14f456b99bd19bcbc8a94232a3e4ed91478e9ff9b5cdd66feacbe40d8537c9462fe2309f86ec3b76ec98c65::eea6be126367723d14f4ec2b2665083a/Teen.Wolf.S03E10.The.Overlooked.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON.mkv",
+            "quality": "1080p | BluRay",
+            "size": "9.48GB",
+            "fileName": "Teen.Wolf.S03E10.The.Overlooked.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-22T12:53:23.914Z",
-    "totalOriginalEntries": 5712,
-    "newItemsInThisBatch": 4,
+    "exportedAt": "2025-11-22T13:04:20.428Z",
+    "totalOriginalEntries": 5723,
+    "newItemsInThisBatch": 11,
     "format": "compact_v1"
   }
 }
