@@ -1,0 +1,210 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:584850",
+      "storedAt": 1763776675712,
+      "meta": {
+        "storedAt": 1763776675,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "584850",
+        "imdbId": "tt8108274",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/464524?token=4f73ef1baf9b3c49a31af7be57792bfb&expires=1768960671&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:60059:s6e9",
+      "storedAt": 1763776765849,
+      "meta": {
+        "storedAt": 1763776765,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "60059",
+        "imdbId": "tt3032476",
+        "season": 6,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "BzrcGEsc\n10.9 GB",
+            "url": "https://pixeldrain.net/api/file/BzrcGEsc",
+            "quality": "1080p",
+            "size": "10.9 GB",
+            "fileName": "BzrcGEsc",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "c0ece99c5b3d28eaf2d404138da3abfa\n2.11 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/c0ece99c5b3d28eaf2d404138da3abfa?token=1763776763",
+            "quality": "1080p",
+            "size": "2.11 GB",
+            "fileName": "c0ece99c5b3d28eaf2d404138da3abfa",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "pp4ijxD4\n2.11 GB",
+            "url": "https://pixeldrain.net/api/file/pp4ijxD4",
+            "quality": "1080p",
+            "size": "2.11 GB",
+            "fileName": "pp4ijxD4",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:60059:s6e9",
+      "storedAt": 1763776758522,
+      "meta": {
+        "storedAt": 1763776758,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "60059",
+        "imdbId": "tt3032476",
+        "season": 6,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-AsmoFuscated",
+            "url": "https://a.111477.xyz/tvs/Better%20Call%20Saul/Season%206/Better%20Call%20Saul%20(2015)%20-%20S06E09%20-%20Fun%20and%20Games%20[Bluray-1080p%20Remux][DTS-HD%20MA%205.1][AVC]-AsmoFuscated.mkv",
+            "quality": "1080p | REMUX",
+            "size": "10.75 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Better Call Saul (2015) - S06E09 - Fun and Games [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-AsmoFuscated.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x264]-BTN",
+            "url": "https://a.111477.xyz/tvs/Better%20Call%20Saul/Season%206/Better%20Call%20Saul%20(2015)%20-%20S06E09%20-%20Fun%20and%20Games%20[Bluray-1080p][EAC3%205.1][x264]-BTN.mkv",
+            "quality": "1080p",
+            "size": "5.77 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Better Call Saul (2015) - S06E09 - Fun and Games [Bluray-1080p][EAC3 5.1][x264]-BTN.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:60059:s6e9",
+      "storedAt": 1763776770415,
+      "meta": {
+        "storedAt": 1763776769,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "60059",
+        "imdbId": "tt3032476",
+        "season": 6,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Better Call Saul S6E9 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1671167398/s6/episode9.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:60059:s6e9",
+      "storedAt": 1763776778645,
+      "meta": {
+        "storedAt": 1763776778,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "60059",
+        "imdbId": "tt3032476",
+        "season": 6,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Better Call Saul S06E09 1080p BluRay REMUX [Hindi DDP 2 0 + English DTS HDMA 5 1] x264 (FraMeSToR-UHDMovies)\n10.9GB",
+            "url": "https://worker-damp-dew-bcd7.wanax10405.workers.dev/d0b26cd9ffdcf6677a3a07ad1bd9233534eaa0dbfcd329ae012f16068f20de7bf6454e96307bccaae26ee2dfa6d0faaafde6a566aecc049d337c52223827a6e3eb945ee96ff2922e8a8dd15a9289add51b3afbb7a0cddcd6adffcb0e8959d75b5872abd13e28b70fef23d46cf06612ee9bc509f7450e036284ad32544ef212ee31dc5428bc56bceed5c55cb2a0fb095e21e0c29c76d61749d3fe95b20e4190d8b091c48c159a49f94c11460cf202faaf::319d1f4af1a75d9e4722d86b02eec919/Better Call Saul S06E09 1080p BluRay REMUX [Hindi DDP 2.0  English DTS HDMA 5.1] x264 (FraMeSToR-UHDMovies).mkv",
+            "quality": "1080p | BluRay",
+            "size": "10.9GB",
+            "fileName": "Better Call Saul S06E09 1080p BluRay REMUX [Hindi DDP 2.0 + English DTS HDMA 5.1] x264 (FraMeSToR-UHDMovies).mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Better Call Saul S06E09 1080p BluRay 10Bit [Hindi DDP 2 0 + English AAC 5 1] x265 (Silence-UHDMovies)\n2.11GB",
+            "url": "https://worker-long-fire-b771.vayaxoj336.workers.dev/802c8dc1554c213fc3cc9a7bb3c2782a519f7424bf196a9aeadc85a1b1fc8b95587ebd2ad8dc841b056631e4b8ab6147bb622fbdf3485e0a8b1cf83eb8b0a2634c5650bfc0956ce80589b7ba2341391b7b91ba8ec534eeed0965abb9ca3e5c519a15d099bd68b0bc7be5ce4800518b512da157b6a06e2b216a46ea465c231eac4bee7f3cbb80110de285bc35d8376067aa7f2da1ca7b6d4f0b709f8b0ff3c79b9296e7828328027765844b8cea8bd99d::ec7bd9282ecc8316d1a3d2e3335585ed/Better Call Saul S06E09 1080p BluRay 10Bit [Hindi DDP 2.0  English AAC 5.1] x265 (Silence-UHDMovies).mkv",
+            "quality": "1080p | BluRay",
+            "size": "2.11GB",
+            "fileName": "Better Call Saul S06E09 1080p BluRay 10Bit [Hindi DDP 2.0 + English AAC 5.1] x265 (Silence-UHDMovies).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-22T02:00:45.166Z",
+    "totalOriginalEntries": 5,
+    "newItemsInThisBatch": 5,
+    "format": "compact_v1"
+  }
+}
