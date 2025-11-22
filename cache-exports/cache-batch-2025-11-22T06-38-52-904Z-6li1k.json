@@ -1,0 +1,153 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:tv:60059:s1e7",
+      "storedAt": 1763793308303,
+      "meta": {
+        "storedAt": 1763793308,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "60059",
+        "imdbId": "tt3032476",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "3f61ebc9b6fa3f1b23e38799e81885dd\n8.98 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/3f61ebc9b6fa3f1b23e38799e81885dd?token=1763793305",
+            "quality": "1080p",
+            "size": "8.98 GB",
+            "fileName": "3f61ebc9b6fa3f1b23e38799e81885dd",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "qkh98eJE\n8.98 GB",
+            "url": "https://pixeldrain.net/api/file/qkh98eJE",
+            "quality": "1080p",
+            "size": "8.98 GB",
+            "fileName": "qkh98eJE",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "GpM3p6Un\n5.55 GB",
+            "url": "https://pixeldrain.net/api/file/GpM3p6Un",
+            "quality": "1080p",
+            "size": "5.55 GB",
+            "fileName": "GpM3p6Un",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "xrSccdeK\n1.76 GB",
+            "url": "https://pixeldrain.net/api/file/xrSccdeK",
+            "quality": "1080p",
+            "size": "1.76 GB",
+            "fileName": "xrSccdeK",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:60059:s1e7",
+      "storedAt": 1763793295228,
+      "meta": {
+        "storedAt": 1763793295,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "60059",
+        "imdbId": "tt3032476",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20(2015)%20-%20S01E07%20-%20Bingo%20[Bluray-1080p%20Remux][DTS-HD%20MA%205.1][AVC]-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "8.76 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Better Call Saul (2015) - S01E07 - Bingo [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-NOGRP.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][x264]-AiRTV",
+            "url": "https://a.111477.xyz/tvs/Better%20Call%20Saul/Season%201/Better%20Call%20Saul%20(2015)%20-%20S01E07%20-%20Bingo%20[Bluray-1080p][AC3%205.1][x264]-AiRTV.mkv",
+            "quality": "1080p",
+            "size": "3.97 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Better Call Saul (2015) - S01E07 - Bingo [Bluray-1080p][AC3 5.1][x264]-AiRTV.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:60059:s1e7",
+      "storedAt": 1763793293746,
+      "meta": {
+        "storedAt": 1763793293,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "60059",
+        "imdbId": "tt3032476",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Better Call Saul S1E7 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1671167398/s1/episode7.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-22T06:38:52.905Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
