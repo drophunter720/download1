@@ -1,0 +1,221 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:121791",
+      "storedAt": 1763802866327,
+      "meta": {
+        "storedAt": 1763802864,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "121791",
+        "imdbId": "tt0787442",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ABd9L75q\n15.5 GB",
+            "url": "https://pixeldrain.net/api/file/ABd9L75q",
+            "quality": "1080p",
+            "size": "15.5 GB",
+            "fileName": "ABd9L75q",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "KBpkNUR4\n5.65 GB",
+            "url": "https://pixeldrain.net/api/file/KBpkNUR4",
+            "quality": "1080p",
+            "size": "5.65 GB",
+            "fileName": "KBpkNUR4",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:121791",
+      "storedAt": 1763802870690,
+      "meta": {
+        "storedAt": 1763802870,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "121791",
+        "imdbId": "tt0787442",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Ghazi Attack - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2017/theghaziattack.mkv",
+            "quality": "1080p",
+            "size": "2h 06m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Ghazi Attack - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2017/theghaziattack.mkv",
+            "quality": "1080p",
+            "size": "2h 06m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Ghazi Attack - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2017/theghaziattack.mkv",
+            "quality": "720p",
+            "size": "2h 06m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Ghazi Attack - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2017/theghaziattack.mkv",
+            "quality": "720p",
+            "size": "2h 06m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:121791",
+      "storedAt": 1763802879028,
+      "meta": {
+        "storedAt": 1763802879,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "121791",
+        "imdbId": "tt0787442",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Attack on London Hunting The 7 - 7 Bombers S01E01 1080p NF WEB-DL DUAL DDP5 1 Atmos H 264-ShiNobi\n2.94GB",
+            "url": "https://worker-old-disk-68eb.xebera8071.workers.dev/7dd46c19b301dc8304a71ccaf5c086fd8b2ad9e8f1f75da4e21b963ccfd8bae6d5253545368704d7e8613f4605692fee6427a16a34174d95fc8d2d1edeff9ffc7bd443344e9975a8351e1f9308e3e9e85ea578bfd88bc704a71043df21c35e8081094d7c2d4bfe748ef42f5dee0e6c1215cb70264c1aca7a943ffaecdf391c6b2174946743a7be1e27a8b01a1bdc911bc2001537da5427879fb33fb0d91bdee8900bdb1017c091fac84d7e8235d6117c::c3d55894e13bcffa208bbb33313854fd/Attack.on.London.Hunting.The.7.-.7.Bombers.S01E01.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-ShiNobi.mkv",
+            "quality": "1080p",
+            "size": "2.94GB",
+            "fileName": "Attack.on.London.Hunting.The.7.-.7.Bombers.S01E01.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-ShiNobi.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "Attack on London Hunting The 7 - 7 Bombers S01E02 1080p NF WEB-DL DUAL DDP5 1 Atmos H 264-ShiNobi\n2.61GB",
+            "url": "https://worker-patient-math-b867.gadewit266.workers.dev/0ceb1597a947673cd8eb5e9dda4289adcf98dedadb4f332d95c80361c994b853c6df0e63d6e07970afdc18f0af01e79459360f1c964637ef2176a93868326c348acc6f8625081be17f3087caed110ac4f77e9da4c26ce3804398d7ca159bbf508534a8227e1ee127e0537b5a8b0d125f8630d9108c0faa6d789f8253268a89615fa60cbbbb070ed85c7b4912293acbca79b9c3c08ee1bb86e7ce86ec293de975e6bd91ec0f6bb2ffc74aab43060a5468::9e994be36db6688d60cde49a7024d415/Attack.on.London.Hunting.The.7.-.7.Bombers.S01E02.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-ShiNobi.mkv",
+            "quality": "1080p",
+            "size": "2.61GB",
+            "fileName": "Attack.on.London.Hunting.The.7.-.7.Bombers.S01E02.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-ShiNobi.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:248361:s1e175",
+      "storedAt": 1763802854668,
+      "meta": {
+        "storedAt": 1763802854,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "248361",
+        "imdbId": "tt32125269",
+        "season": 1,
+        "episode": 175,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/523007?token=200e8162fe3d6a30f9fd64a15606a79e&expires=1768986851&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:78533:s6e21",
+      "storedAt": 1763802985323,
+      "meta": {
+        "storedAt": 1763802985,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "78533",
+        "imdbId": "tt7686456",
+        "season": 6,
+        "episode": 21,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/503712?token=448fbaa4559cd1b0f897909aa23bc872&expires=1768986979&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-22T09:22:15.549Z",
+    "totalOriginalEntries": 5,
+    "newItemsInThisBatch": 5,
+    "format": "compact_v1"
+  }
+}
