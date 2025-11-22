@@ -285137,12 +285137,133 @@
         ],
         "count": 8
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:10222:s8e16",
+      "storedAt": 1763808869350,
+      "meta": {
+        "storedAt": 1763808869,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "10222",
+        "imdbId": "tt0497079",
+        "season": 8,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/470661?token=48344ecdd995c6c5942ab7f982df23a5&expires=1768992867&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:71790:s8e10",
+      "storedAt": 1763808930241,
+      "meta": {
+        "storedAt": 1763808930,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "71790",
+        "imdbId": "tt6111130",
+        "season": 8,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/509614?token=eb0594d76733b1296879eeca917898f7&expires=1768992929&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:88055:s1e2",
+      "storedAt": 1763808873426,
+      "meta": {
+        "storedAt": 1763808873,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "88055",
+        "imdbId": "tt8068860",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "g5ppuxHZ\n4.71 GB",
+            "url": "https://pixeldrain.net/api/file/g5ppuxHZ",
+            "quality": "2160p",
+            "size": "4.71 GB",
+            "fileName": "g5ppuxHZ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Pk85fNig\n5.65 GB",
+            "url": "https://pixeldrain.net/api/file/Pk85fNig",
+            "quality": "2160p",
+            "size": "5.65 GB",
+            "fileName": "Pk85fNig",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "EypRJyrj\n2.37 GB",
+            "url": "https://pixeldrain.net/api/file/EypRJyrj",
+            "quality": "1080p",
+            "size": "2.37 GB",
+            "fileName": "EypRJyrj",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-22T10:48:21.004Z",
-    "totalOriginalEntries": 5699,
-    "newItemsInThisBatch": 0,
+    "exportedAt": "2025-11-22T10:55:54.032Z",
+    "totalOriginalEntries": 5702,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
