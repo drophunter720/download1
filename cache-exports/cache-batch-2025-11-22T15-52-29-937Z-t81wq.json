@@ -1,0 +1,91 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:movie:889699",
+      "storedAt": 1763826269387,
+      "meta": {
+        "storedAt": 1763826269,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "889699",
+        "imdbId": "tt18550140",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS-HD MA 5 1-UnKn0wn",
+            "url": "https://a.111477.xyz/movies/Holy%20Spider%20(2022)/Holy.Spider.2022.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-UnKn0wn.mkv",
+            "quality": "1080p | REMUX",
+            "size": "28.83 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Holy.Spider.2022.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-UnKn0wn.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies x264-CYBER",
+            "url": "https://a.111477.xyz/movies/Holy%20Spider%20(2022)/Holy.Spider.2022.iTA-PER.Bluray.1080p.x264-CYBER.mkv",
+            "quality": "1080p",
+            "size": "9.92 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Holy.Spider.2022.iTA-PER.Bluray.1080p.x264-CYBER.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies x264-Dr4gon MIRCrew",
+            "url": "https://a.111477.xyz/movies/Holy%20Spider%20(2022)/Holy.Spider.2022.iTA.Bluray.1080p.x264-Dr4gon.MIRCrew.mkv",
+            "quality": "1080p",
+            "size": "1.72 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Holy.Spider.2022.iTA.Bluray.1080p.x264-Dr4gon.MIRCrew.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1403:s1e13",
+      "storedAt": 1763826360573,
+      "meta": {
+        "storedAt": 1763826360,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1403",
+        "imdbId": "tt2364582",
+        "season": 1,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/194613?token=bae3a81f524c8027aa7f81edf2158e97&expires=1769010352&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-22T15:52:29.937Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
