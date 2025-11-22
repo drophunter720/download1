@@ -1,0 +1,142 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:tv:4629:s6e1",
+      "storedAt": 1763784595715,
+      "meta": {
+        "storedAt": 1763784595,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4629",
+        "imdbId": "tt0118480",
+        "season": 6,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/251493?token=b60f477fb83eb49eb9803b114f079e29&expires=1768968591&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:90282:s1e2",
+      "storedAt": 1763784412909,
+      "meta": {
+        "storedAt": 1763784412,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "90282",
+        "imdbId": "tt7203552",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "f3860daf5b44932b0cd6c3622e460f9b\n8.38 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/f3860daf5b44932b0cd6c3622e460f9b?token=1763784410",
+            "quality": "2160p",
+            "size": "8.38 GB",
+            "fileName": "f3860daf5b44932b0cd6c3622e460f9b",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "xQfsW1QC\n8.38 GB",
+            "url": "https://pixeldrain.net/api/file/xQfsW1QC",
+            "quality": "2160p",
+            "size": "8.38 GB",
+            "fileName": "xQfsW1QC",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "dedfb2e884f95d6449efff5cc747affa\n4.16 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/dedfb2e884f95d6449efff5cc747affa?token=1763784410",
+            "quality": "1080p",
+            "size": "4.16 GB",
+            "fileName": "dedfb2e884f95d6449efff5cc747affa",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "rHwFx7K5\n4.16 GB",
+            "url": "https://pixeldrain.net/api/file/rHwFx7K5",
+            "quality": "1080p",
+            "size": "4.16 GB",
+            "fileName": "rHwFx7K5",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:90282:s1e2",
+      "storedAt": 1763784407833,
+      "meta": {
+        "storedAt": 1763784407,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "90282",
+        "imdbId": "tt7203552",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Proper][EAC3 Atmos 5 1][h264]-MZABI",
+            "url": "https://a.111477.xyz/tvs/The%20Morning%20Show/Season%201/The%20Morning%20Show%20(2019)%20-%20S01E02%20-%20A%20Seat%20at%20the%20Table%20[WEBDL-1080p%20Proper][EAC3%20Atmos%205.1][h264]-MZABI.mkv",
+            "quality": "1080p",
+            "size": "4.16 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Morning Show (2019) - S01E02 - A Seat at the Table [WEBDL-1080p Proper][EAC3 Atmos 5.1][h264]-MZABI.mkv"
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-22T04:12:10.007Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
