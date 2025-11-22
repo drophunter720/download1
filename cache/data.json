@@ -292521,12 +292521,105 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:movie:1363123",
+      "storedAt": 1763852070965,
+      "meta": {
+        "storedAt": 1763852070,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "1363123",
+        "imdbId": "tt34276058",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ATVP WEB-DL DDP5 1 H 264-FHC",
+            "url": "https://a.111477.xyz/movies/The%20Family%20Plan%202%20(2025)/The.Family.Plan.2.2025.1080p.ATVP.WEB-DL.DDP5.1.H.264-FHC.mkv",
+            "quality": "1080p",
+            "size": "9.30 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Family.Plan.2.2025.1080p.ATVP.WEB-DL.DDP5.1.H.264-FHC.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:119985:s4e18",
+      "storedAt": 1763852052603,
+      "meta": {
+        "storedAt": 1763852052,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "119985",
+        "imdbId": "tt14403784",
+        "season": 4,
+        "episode": 18,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/439464?token=a5af5530a86c2bc8bb9c7fdb3e025ce0&expires=1769036049&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:66203:s1e36",
+      "storedAt": 1763851750094,
+      "meta": {
+        "storedAt": 1763851749,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "66203",
+        "imdbId": "tt5189554",
+        "season": 1,
+        "episode": 36,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/225782?token=75deea4bb325f779ac9e3d20f1d8954b&expires=1769035745&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-22T22:44:49.723Z",
-    "totalOriginalEntries": 5845,
-    "newItemsInThisBatch": 4,
+    "exportedAt": "2025-11-22T22:57:44.925Z",
+    "totalOriginalEntries": 5848,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
