@@ -280458,12 +280458,79 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:streamflix:movie:1581317",
+      "storedAt": 1763788905260,
+      "meta": {
+        "storedAt": 1763788905,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "1581317",
+        "imdbId": null,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Parandhu Po - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2025/ParanthuPo.mkv",
+            "quality": "1080p",
+            "size": "2h 10m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Parandhu Po - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2025/ParanthuPo.mkv",
+            "quality": "1080p",
+            "size": "2h 10m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Parandhu Po - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2025/ParanthuPo.mkv",
+            "quality": "720p",
+            "size": "2h 10m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Parandhu Po - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2025/ParanthuPo.mkv",
+            "quality": "720p",
+            "size": "2h 10m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-22T05:21:26.741Z",
-    "totalOriginalEntries": 5603,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-22T05:30:14.083Z",
+    "totalOriginalEntries": 5604,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
