@@ -282318,12 +282318,75 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:141:s10e23",
+      "storedAt": 1763793941863,
+      "meta": {
+        "storedAt": 1763793941,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "141",
+        "imdbId": "tt0083399",
+        "season": 10,
+        "episode": 23,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/266774?token=73319907add19c2783993f7b597f3469&expires=1768977936&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:94954:s2e7",
+      "storedAt": 1763793860692,
+      "meta": {
+        "storedAt": 1763793860,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "94954",
+        "imdbId": "tt7216636",
+        "season": 2,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-SYLiX",
+            "url": "https://a.111477.xyz/tvs/Hazbin%20Hotel/Season%202/Hazbin%20Hotel%20(2024)%20-%20S02E07%20-%20Weapon%20of%20Mass%20Distraction%20[WEBDL-1080p][EAC3%205.1][h264]-SYLiX.mkv",
+            "quality": "1080p",
+            "size": "1.22 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Hazbin Hotel (2024) - S02E07 - Weapon of Mass Distraction [WEBDL-1080p][EAC3 5.1][h264]-SYLiX.mkv"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-22T06:39:24.484Z",
-    "totalOriginalEntries": 5638,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-22T06:52:43.767Z",
+    "totalOriginalEntries": 5640,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
