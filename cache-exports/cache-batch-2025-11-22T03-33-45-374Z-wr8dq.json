@@ -1,0 +1,75 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:tv:2140:s8e13",
+      "storedAt": 1763781949434,
+      "meta": {
+        "storedAt": 1763781948,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2140",
+        "imdbId": "tt0115167",
+        "season": 8,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/227714?token=6f51dbf0a8d725a2ac9cc9220b85e76d&expires=1768965945&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:2316:s8e2",
+      "storedAt": 1763781945332,
+      "meta": {
+        "storedAt": 1763781945,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "2316",
+        "imdbId": "tt0386676",
+        "season": 8,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Office S8E2 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1671131363/s8/episode2.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-22T03:33:45.375Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
