@@ -278440,12 +278440,105 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:dahmermovies:movie:1421198",
+      "storedAt": 1763777363153,
+      "meta": {
+        "storedAt": 1763777363,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "1421198",
+        "imdbId": "tt35544250",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Tagalog WEB-DL HEVC x265 BONE",
+            "url": "https://a.111477.xyz/movies/Sponsor%20(2025)/Sponsor.2025.1080p.Tagalog.WEB-DL.HEVC.x265.BONE.mkv",
+            "quality": "1080p",
+            "size": "1.45 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Sponsor.2025.1080p.Tagalog.WEB-DL.HEVC.x265.BONE.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1668:s8e6",
+      "storedAt": 1763777405425,
+      "meta": {
+        "storedAt": 1763777405,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1668",
+        "imdbId": "tt0108778",
+        "season": 8,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/176424?token=63318b441cbc97e373d8de6b5c6d1cbd&expires=1768961403&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61915:s3e24",
+      "storedAt": 1763777548843,
+      "meta": {
+        "storedAt": 1763777548,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61915",
+        "imdbId": "tt3598030",
+        "season": 3,
+        "episode": 24,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/201362?token=e819156a1fcc645744176716fdb77129&expires=1768961543&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-22T02:09:11.382Z",
-    "totalOriginalEntries": 5563,
-    "newItemsInThisBatch": 4,
+    "exportedAt": "2025-11-22T02:17:53.301Z",
+    "totalOriginalEntries": 5566,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
