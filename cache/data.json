@@ -283072,12 +283072,435 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1397854",
+      "storedAt": 1763798472027,
+      "meta": {
+        "storedAt": 1763798472,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1397854",
+        "imdbId": "tt34896285",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/277910?token=9d63622e69dc93aa31d7e0fb4b95a531&expires=1768982467&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1408:s4e10",
+      "storedAt": 1763798535049,
+      "meta": {
+        "storedAt": 1763798535,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1408",
+        "imdbId": "tt0412142",
+        "season": 4,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS 5 1][AVC]-EPSiLON",
+            "url": "https://a.111477.xyz/tvs/House/Season%204/House%20(2004)%20-%20S04E10%20-%20Its%20A%20Wonderful%20Lie%20[Bluray-1080p%20Remux][DTS%205.1][AVC]-EPSiLON.mkv",
+            "quality": "1080p | REMUX",
+            "size": "7.39 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "House (2004) - S04E10 - Its A Wonderful Lie [Bluray-1080p Remux][DTS 5.1][AVC]-EPSiLON.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/House/Season%204/House.S04E10.It.is.A.Wonderful.Lie.1080p.BluRay.REMUX.AVC.DTS.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "7.30 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "House.S04E10.It.is.A.Wonderful.Lie.1080p.BluRay.REMUX.AVC.DTS.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1408:s4e10",
+      "storedAt": 1763798543409,
+      "meta": {
+        "storedAt": 1763798543,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1408",
+        "imdbId": "tt0412142",
+        "season": 4,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Housefull S4E10 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1694146841/s4/episode10.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1911:s9e24",
+      "storedAt": 1763798864067,
+      "meta": {
+        "storedAt": 1763798864,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 9,
+        "episode": 24,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%209/Bones%20(2005)%20-%20S09E24%20-%20The%20Recluse%20in%20the%20Recliner%20[WEBRip-1080p][EAC3%205.1][x265]-iVy.mkv",
+            "quality": "1080p",
+            "size": "1.25 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones (2005) - S09E24 - The Recluse in the Recliner [WEBRip-1080p][EAC3 5.1][x265]-iVy.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip x265-INFINITY",
+            "url": "https://a.111477.xyz/tvs/Bones/Season%209/Bones.S09E24.1080p.WEBRip.x265-INFINITY.mp4",
+            "quality": "1080p",
+            "size": "687.18 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones.S09E24.1080p.WEBRip.x265-INFINITY.mp4"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1911:s9e24",
+      "storedAt": 1763798876464,
+      "meta": {
+        "storedAt": 1763798876,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 9,
+        "episode": 24,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Bones and All S9E24 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1684689602/s9/episode24.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61508:s1e4",
+      "storedAt": 1763798625915,
+      "meta": {
+        "storedAt": 1763798625,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61508",
+        "imdbId": "tt3342592",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/288271?token=d1d1a3960905dfe8503e84b4d1fba375&expires=1768982621&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:63926:s3e1",
+      "storedAt": 1763798910996,
+      "meta": {
+        "storedAt": 1763798910,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "63926",
+        "imdbId": "tt4508902",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "One.Punch.Man.S03E01.Broadcast.Commemorative.Episode.a.Serious.Look.Back.at.the.Anime.One-Punch.Man.Season.2.1080p.AMZN.WEB-DL.Japanese.DDP2.0.H.264-4kHdHub.Com\n1.11 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/One.Punch.Man.S03E01.Broadcast.Commemorative.Episode.a.Serious.Look.Back.at.the.Anime.One-Punch.Man.Season.2.1080p.AMZN.WEB-DL.Japanese.DDP2.0.H.264-4kHdHub.Com.mkv?token=1763798906",
+            "quality": "1080p",
+            "size": "1.11 GB",
+            "fileName": "One.Punch.Man.S03E01.Broadcast.Commemorative.Episode.a.Serious.Look.Back.at.the.Anime.One-Punch.Man.Season.2.1080p.AMZN.WEB-DL.Japanese.DDP2.0.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "q8NY5twE\n1.11 GB",
+            "url": "https://pixeldrain.net/api/file/q8NY5twE",
+            "quality": "1080p",
+            "size": "1.11 GB",
+            "fileName": "q8NY5twE",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "One.Punch.Man.S03E01.Broadcast.Commemorative.Episode.a.Serious.Look.Back.at.the.Anime.One-Punch.Man.Season.2.1080p.AMZN.WEB-DL.Japanese.DDP2.0.H.265-4kHdHub.Com\n439.31 MB",
+            "url": "https://pub-b5ecaffddf2344a0ae2222f5e8913e1b.r2.dev/One.Punch.Man.S03E01.Broadcast.Commemorative.Episode.a.Serious.Look.Back.at.the.Anime.One-Punch.Man.Season.2.1080p.AMZN.WEB-DL.Japanese.DDP2.0.H.265-4kHdHub.Com.mkv?token=1763798906",
+            "quality": "1080p",
+            "size": "439.31 MB",
+            "fileName": "One.Punch.Man.S03E01.Broadcast.Commemorative.Episode.a.Serious.Look.Back.at.the.Anime.One-Punch.Man.Season.2.1080p.AMZN.WEB-DL.Japanese.DDP2.0.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "fYxMuBBk\n439.31 MB",
+            "url": "https://pixeldrain.net/api/file/fYxMuBBk",
+            "quality": "1080p",
+            "size": "439.31 MB",
+            "fileName": "fYxMuBBk",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 720p",
+            "title": "One.Punch.Man.S03E01.Broadcast.Commemorative.Episode.a.Serious.Look.Back.at.the.Anime.One-Punch.Man.Season.2.720p.AMZN.WEB-DL.Japanese.DDP2.0.H.264-4kHdHub.Com\n630.48 MB",
+            "url": "https://pub-b5ecaffddf2344a0ae2222f5e8913e1b.r2.dev/One.Punch.Man.S03E01.Broadcast.Commemorative.Episode.a.Serious.Look.Back.at.the.Anime.One-Punch.Man.Season.2.720p.AMZN.WEB-DL.Japanese.DDP2.0.H.264-4kHdHub.Com.mkv?token=1763798906",
+            "quality": "720p",
+            "size": "630.48 MB",
+            "fileName": "One.Punch.Man.S03E01.Broadcast.Commemorative.Episode.a.Serious.Look.Back.at.the.Anime.One-Punch.Man.Season.2.720p.AMZN.WEB-DL.Japanese.DDP2.0.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 720p",
+            "title": "jnqc5qvE\n630.48 MB",
+            "url": "https://pixeldrain.net/api/file/jnqc5qvE",
+            "quality": "720p",
+            "size": "630.48 MB",
+            "fileName": "jnqc5qvE",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 720p",
+            "title": "One.Punch.Man.S03E01.Broadcast.Commemorative.Episode.a.Serious.Look.Back.at.the.Anime.One-Punch.Man.Season.2.720p.AMZN.WEB-DL.Japanese.DDP2.0.H.265-4kHdHub.Com\n171.51 MB",
+            "url": "https://pub-b5ecaffddf2344a0ae2222f5e8913e1b.r2.dev/One.Punch.Man.S03E01.Broadcast.Commemorative.Episode.a.Serious.Look.Back.at.the.Anime.One-Punch.Man.Season.2.720p.AMZN.WEB-DL.Japanese.DDP2.0.H.265-4kHdHub.Com.mkv?token=1763798908",
+            "quality": "720p",
+            "size": "171.51 MB",
+            "fileName": "One.Punch.Man.S03E01.Broadcast.Commemorative.Episode.a.Serious.Look.Back.at.the.Anime.One-Punch.Man.Season.2.720p.AMZN.WEB-DL.Japanese.DDP2.0.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 720p",
+            "title": "Ad4VSJbh\n171.51 MB",
+            "url": "https://pixeldrain.net/api/file/Ad4VSJbh",
+            "quality": "720p",
+            "size": "171.51 MB",
+            "fileName": "Ad4VSJbh",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:63926:s3e1",
+      "storedAt": 1763798901169,
+      "meta": {
+        "storedAt": 1763798901,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "63926",
+        "imdbId": "tt4508902",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 2 0][h264]-DUSKLiGHT",
+            "url": "https://a.111477.xyz/tvs/One-Punch%20Man/Season%203/One-Punch%20Man%20(2015)%20-%20S03E01%20-%20Strategy%20Meeting%20[WEBDL-1080p][AAC%202.0][h264]-DUSKLiGHT.mkv",
+            "quality": "1080p",
+            "size": "759.28 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "One-Punch Man (2015) - S03E01 - Strategy Meeting [WEBDL-1080p][AAC 2.0][h264]-DUSKLiGHT.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:63926:s3e1",
+      "storedAt": 1763798901457,
+      "meta": {
+        "storedAt": 1763798901,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "63926",
+        "imdbId": "tt4508902",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "One-Punch Man S3E1 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1695743362/s3/episode1.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:75383:s2e25",
+      "storedAt": 1763798572021,
+      "meta": {
+        "storedAt": 1763798571,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "75383",
+        "imdbId": "tt7577814",
+        "season": 2,
+        "episode": 25,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/508746?token=ccd8b830a08bf6f0d98aa9e45ed02355&expires=1768982568&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-22T08:00:40.564Z",
-    "totalOriginalEntries": 5656,
-    "newItemsInThisBatch": 7,
+    "exportedAt": "2025-11-22T08:09:42.467Z",
+    "totalOriginalEntries": 5666,
+    "newItemsInThisBatch": 10,
     "format": "compact_v1"
   }
 }
