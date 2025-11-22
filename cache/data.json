@@ -288164,12 +288164,170 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:127613",
+      "storedAt": 1763826058161,
+      "meta": {
+        "storedAt": 1763826058,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "127613",
+        "imdbId": "tt0280427",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Meet the Parents (2000) Hybrid 1080p BluRay REMUX AVC [Hindi NF DDP 5.1 + English TrueHD Atmos 7.1] x264 (FraMeSToR-R3FL3X)\n28.31 GB",
+            "url": "https://flat-glade-7058.welikap1127100.workers.dev/09b52a14160f3d74fb1ffc00a6ac199b18d2f7d7f66fd5e7f3a600aa6fcd8317017137f7aa4724e225f9c5b21ca6922c::3ff9903868c5c4ff68819c09c0651a58/1397327418/Meet%20the%20Parents%20(2000)%20Hybrid%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20NF%20DDP%205.1%20+%20English%20TrueHD%20Atmos%207.1]%20x264%20(FraMeSToR-R3FL3X).mkv",
+            "quality": "1080p",
+            "size": "28.31 GB",
+            "fileName": "Meet the Parents (2000) Hybrid 1080p BluRay REMUX AVC [Hindi NF DDP 5.1 + English TrueHD Atmos 7.1] x264 (FraMeSToR-R3FL3X)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Meet the Parents (2000) 2160p UHD BluRay DV HDR 10bit HEVC [Hindi NF DDP 5.1 + English TrueHD Atmos 7.1] x265 (StOiC-R3FL3X)\n25.05 GB",
+            "url": "https://files.goldmine-server.workers.dev/2409277cabfde61e1950b9753bbec1f3f001180862c5934fca68e582fba36b7f1e03fb5e20f324b9a0810fc20cd18002::9ef52894490f71e2397e4f852c1fd1a3/1397327418/Meet%20the%20Parents%20(2000)%202160p%20UHD%20BluRay%20DV%20HDR%2010bit%20HEVC%20[Hindi%20NF%20DDP%205.1%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20(StOiC-R3FL3X).mkv",
+            "quality": "2160p",
+            "size": "25.05 GB",
+            "fileName": "Meet the Parents (2000) 2160p UHD BluRay DV HDR 10bit HEVC [Hindi NF DDP 5.1 + English TrueHD Atmos 7.1] x265 (StOiC-R3FL3X)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "9dGq6eP1\n15.38 GB",
+            "url": "https://pixeldrain.net/api/file/9dGq6eP1",
+            "quality": "1080p",
+            "size": "15.38 GB",
+            "fileName": "9dGq6eP1",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "5ytzHicc\n11.78 GB",
+            "url": "https://pixeldrain.net/api/file/5ytzHicc",
+            "quality": "1080p",
+            "size": "11.78 GB",
+            "fileName": "5ytzHicc",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "w8AUUw1V\n7.63 GB",
+            "url": "https://pixeldrain.net/api/file/w8AUUw1V",
+            "quality": "1080p",
+            "size": "7.63 GB",
+            "fileName": "w8AUUw1V",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "bzSWCm32\n5.39 GB",
+            "url": "https://pixeldrain.net/api/file/bzSWCm32",
+            "quality": "1080p",
+            "size": "5.39 GB",
+            "fileName": "bzSWCm32",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:461809",
+      "storedAt": 1763826161788,
+      "meta": {
+        "storedAt": 1763826161,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "461809",
+        "imdbId": "tt6711660",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Babumoshai Bandookbaaz - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2017/babumoshaibandookbaz.mkv",
+            "quality": "1080p",
+            "size": "2h 02m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Babumoshai Bandookbaaz - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2017/babumoshaibandookbaz.mkv",
+            "quality": "1080p",
+            "size": "2h 02m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Babumoshai Bandookbaaz - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2017/babumoshaibandookbaz.mkv",
+            "quality": "720p",
+            "size": "2h 02m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Babumoshai Bandookbaaz - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2017/babumoshaibandookbaz.mkv",
+            "quality": "720p",
+            "size": "2h 02m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-22T15:34:55.184Z",
-    "totalOriginalEntries": 5765,
-    "newItemsInThisBatch": 5,
+    "exportedAt": "2025-11-22T15:43:39.920Z",
+    "totalOriginalEntries": 5767,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
