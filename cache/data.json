@@ -300417,12 +300417,142 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:102712:s2e4",
+      "storedAt": 1763928432879,
+      "meta": {
+        "storedAt": 1763928432,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "102712",
+        "imdbId": "tt10348078",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/457715?token=30850691030448300998037ac06ee9b4&expires=1769112430&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:60059:s2e5",
+      "storedAt": 1763928203430,
+      "meta": {
+        "storedAt": 1763928203,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "60059",
+        "imdbId": "tt3032476",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "V7aV3sLb\n7.85 GB",
+            "url": "https://pixeldrain.net/api/file/V7aV3sLb",
+            "quality": "1080p",
+            "size": "7.85 GB",
+            "fileName": "V7aV3sLb",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "1BvRxhuB\n4.68 GB",
+            "url": "https://pixeldrain.net/api/file/1BvRxhuB",
+            "quality": "1080p",
+            "size": "4.68 GB",
+            "fileName": "1BvRxhuB",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "MQ1dxmAp\n1.83 GB",
+            "url": "https://pixeldrain.net/api/file/MQ1dxmAp",
+            "quality": "1080p",
+            "size": "1.83 GB",
+            "fileName": "MQ1dxmAp",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:60059:s2e5",
+      "storedAt": 1763928194200,
+      "meta": {
+        "storedAt": 1763928194,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "60059",
+        "imdbId": "tt3032476",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Better%20Call%20Saul/Season 2/tvs%2FBetter%20Call%20Saul%2FSeason%202%2FBetter%20Call%20Saul%20(2015)%20-%20S02E05%20-%20Rebecca%20%5BBluray-1080p%20Remux%5D%5BDTS-HD%20MA%205.1%5D%5BAVC%5D-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "7.8 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Better Call Saul (2015) - S02E05 - Rebecca [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-NOGRP.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DTS 5 1][x264]-DEFLATE",
+            "url": "https://a.111477.xyz/tvs/Better%20Call%20Saul/Season 2/tvs%2FBetter%20Call%20Saul%2FSeason%202%2FBetter%20Call%20Saul%20(2015)%20-%20S02E05%20-%20Rebecca%20%5BBluray-1080p%5D%5BDTS%205.1%5D%5Bx264%5D-DEFLATE.mkv",
+            "quality": "1080p",
+            "size": "4.0 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Better Call Saul (2015) - S02E05 - Rebecca [Bluray-1080p][DTS 5.1][x264]-DEFLATE.mkv"
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-23T20:01:41.573Z",
-    "totalOriginalEntries": 6020,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-23T20:11:31.145Z",
+    "totalOriginalEntries": 6023,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
