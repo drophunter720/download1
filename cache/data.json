@@ -297127,12 +297127,96 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:713364",
+      "storedAt": 1763906046214,
+      "meta": {
+        "storedAt": 1763906045,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "713364",
+        "imdbId": "tt23060698",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "UkwHMdSq\n10.4 GB",
+            "url": "https://pixeldrain.net/api/file/UkwHMdSq",
+            "quality": "2160p",
+            "size": "10.4 GB",
+            "fileName": "UkwHMdSq",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Clown.in.a.Cornfield.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHDHub.com\n4.97 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Clown.in.a.Cornfield.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHDHub.com.mkv?token=1763906038",
+            "quality": "1080p",
+            "size": "4.97 GB",
+            "fileName": "Clown.in.a.Cornfield.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "xd6s7Yzw\n4.97 GB",
+            "url": "https://pixeldrain.net/api/file/xd6s7Yzw",
+            "quality": "1080p",
+            "size": "4.97 GB",
+            "fileName": "xd6s7Yzw",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:713364",
+      "storedAt": 1763906031120,
+      "meta": {
+        "storedAt": 1763906031,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "713364",
+        "imdbId": "tt23060698",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip DDP 5 1 10bit H 265-iVy",
+            "url": "https://a.111477.xyz/movies/Clown%20in%20a%20Cornfield%20(2025)/movies%2FClown%20in%20a%20Cornfield%20(2025)%2FClown.in.a.Cornfield.2025.1080p.WEBRip.DDP.5.1.10bit.H.265-iVy.mkv",
+            "quality": "1080p",
+            "size": "1.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Clown.in.a.Cornfield.2025.1080p.WEBRip.DDP.5.1.10bit.H.265-iVy.mkv"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-23T13:40:08.031Z",
-    "totalOriginalEntries": 5948,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-23T13:57:43.917Z",
+    "totalOriginalEntries": 5950,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
