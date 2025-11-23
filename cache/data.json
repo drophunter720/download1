@@ -298886,12 +298886,101 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:movie:1309012",
+      "storedAt": 1763916138655,
+      "meta": {
+        "storedAt": 1763916138,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "1309012",
+        "imdbId": "tt32123395",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEB-DL DDP5 1 H 264-FLUX",
+            "url": "https://a.111477.xyz/movies/Altered%20(2025)/movies%2FAltered%20(2025)%2FAltered.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv",
+            "quality": "1080p",
+            "size": "4.5 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Altered.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:1309012",
+      "storedAt": 1763916159466,
+      "meta": {
+        "storedAt": 1763916159,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "1309012",
+        "imdbId": "tt32123395",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Altered Reality 2024 1080p AMZN WEB-DL DDP2 0 H 264-vase\n7.02GB",
+            "url": "https://worker-cold-brook-2f21.tepin17851.workers.dev/d96ef62cd6893475d49cfbe7f23f637bb6249a126621f339efe151b8a3dc312a1aa0b4c39bd1e28b96ef8298254866ebe1ad76f0bad66d74d5f4527471c44a7c95144303188cb86b3d475994b78aba547c4b32d64b0423b3118fac0e2f8b6f650b1ce416712e5fcad8a66677ecc22a4fa52a43579f7a98d2e06602c34f5c82326ba74869056b8e36e38a36526a725dae5d4cadec1cf16b906288e744c5ec5a390ea0d7e40d33874d8042d8082b271e23::13918bb0fffa9a0fc66ebe164299c99f/Altered.Reality.2024.1080p.AMZN.WEB-DL.DDP2.0.H.264-vase.mkv",
+            "quality": "1080p",
+            "size": "7.02GB",
+            "fileName": "Altered.Reality.2024.1080p.AMZN.WEB-DL.DDP2.0.H.264-vase.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2370:s2e1",
+      "storedAt": 1763916444584,
+      "meta": {
+        "storedAt": 1763916444,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2370",
+        "imdbId": "tt0437005",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/525001?token=ea69ae9541c0f03b376eb528ee80c6d4&expires=1769100440&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-23T16:41:12.674Z",
-    "totalOriginalEntries": 5982,
-    "newItemsInThisBatch": 8,
+    "exportedAt": "2025-11-23T16:51:06.942Z",
+    "totalOriginalEntries": 5985,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
