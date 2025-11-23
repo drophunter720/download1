@@ -1,0 +1,81 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:11978",
+      "storedAt": 1763907708704,
+      "meta": {
+        "storedAt": 1763907708,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "11978",
+        "imdbId": "tt0203019",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/284486?token=63b4301318fbd43784c741b4464e0f13&expires=1769091704&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:229915:s1e1",
+      "storedAt": 1763907653797,
+      "meta": {
+        "storedAt": 1763907653,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "229915",
+        "imdbId": "tt29899652",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 2 0][h264]-ACEM[KO][EN+AR+BS+CS+DA+DE+EL+ES+FI+FR+HR+HU+IT+JA+NL+PL+PT+RO+SR+VI]",
+            "url": "https://a.111477.xyz/tvs/Night%20Has%20Come/Season 1/tvs%2FNight%20Has%20Come%2FSeason%201%2FNight%20Has%20Come%20(2023)%20-%20S01E01%20-%20Field%20Trip%20%5BWEBDL-1080p%5D%5BEAC3%202.0%5D%5Bh264%5D-ACEM%5BKO%5D%5BEN%2BAR%2BBS%2BCS%2BDA%2BDE%2BEL%2BES%2BFI%2BFR%2BHR%2BHU%2BIT%2BJA%2BNL%2BPL%2BPT%2BRO%2BSR%2BVI%5D.mkv",
+            "quality": "1080p",
+            "size": "2.8 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Night Has Come (2023) - S01E01 - Field Trip [WEBDL-1080p][EAC3 2.0][h264]-ACEM[KO][EN+AR+BS+CS+DA+DE+EL+ES+FI+FR+HR+HU+IT+JA+NL+PL+PT+RO+SR+VI].mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies [KO]",
+            "url": "https://a.111477.xyz/tvs/Night%20Has%20Come/Season 1/tvs%2FNight%20Has%20Come%2FSeason%201%2FNight%20Has%20Come%20-%20S01E01%20-%20Field%20Trip%20HDTV-1080p%20%5BKO%5D.mkv",
+            "quality": "1080p",
+            "size": "2.5 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Night Has Come - S01E01 - Field Trip HDTV-1080p [KO].mkv"
+          }
+        ],
+        "count": 2
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-23T14:25:31.734Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
