@@ -299576,12 +299576,210 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:107365:s2e3",
+      "storedAt": 1763921752353,
+      "meta": {
+        "storedAt": 1763921752,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "107365",
+        "imdbId": "tt12878838",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/226128?token=7eeb771b89f22dab26c23060922c5aa1&expires=1769105746&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:157741:s2e1",
+      "storedAt": 1763921746197,
+      "meta": {
+        "storedAt": 1763921745,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "157741",
+        "imdbId": "tt14186672",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "2070bf199185a3c33ffc5eea51e33eb2\n1.22 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/2070bf199185a3c33ffc5eea51e33eb2?token=1763921741",
+            "quality": "1080p",
+            "size": "1.22 GB",
+            "fileName": "2070bf199185a3c33ffc5eea51e33eb2",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "n6nejj2U\n1.22 GB",
+            "url": "https://pixeldrain.net/api/file/n6nejj2U",
+            "quality": "1080p",
+            "size": "1.22 GB",
+            "fileName": "n6nejj2U",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "8a735ca83fd552fd9edc096151990372\n2.67 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/8a735ca83fd552fd9edc096151990372?token=1763921741",
+            "quality": "1080p",
+            "size": "2.67 GB",
+            "fileName": "8a735ca83fd552fd9edc096151990372",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "GC4tvtD3\n2.67 GB",
+            "url": "https://pixeldrain.net/api/file/GC4tvtD3",
+            "quality": "1080p",
+            "size": "2.67 GB",
+            "fileName": "GC4tvtD3",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "bfd3efb5dd7b82eee1e5621f16d1a405\n3.47 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/bfd3efb5dd7b82eee1e5621f16d1a405?token=1763921741",
+            "quality": "1080p",
+            "size": "3.47 GB",
+            "fileName": "bfd3efb5dd7b82eee1e5621f16d1a405",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "1XhUaish\n3.47 GB",
+            "url": "https://pixeldrain.net/api/file/1XhUaish",
+            "quality": "1080p",
+            "size": "3.47 GB",
+            "fileName": "1XhUaish",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:157741:s2e1",
+      "storedAt": 1763921729222,
+      "meta": {
+        "storedAt": 1763921729,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "157741",
+        "imdbId": "tt14186672",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h265]-ETHEL",
+            "url": "https://a.111477.xyz/tvs/Landman/Season 2/tvs%2FLandman%2FSeason%202%2FLandman%20(2024)%20-%20S02E01%20-%20Death%20and%20a%20Sunset%20%5BWEBDL-2160p%5D%5BEAC3%205.1%5D%5Bh265%5D-ETHEL.mkv",
+            "quality": "2160p",
+            "size": "4.3 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Landman (2024) - S02E01 - Death and a Sunset [WEBDL-2160p][EAC3 5.1][h265]-ETHEL.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-ETHEL",
+            "url": "https://a.111477.xyz/tvs/Landman/Season 2/tvs%2FLandman%2FSeason%202%2FLandman%20(2024)%20-%20S02E01%20-%20Death%20and%20a%20Sunset%20%5BWEBDL-1080p%5D%5BEAC3%205.1%5D%5Bh264%5D-ETHEL.mkv",
+            "quality": "1080p",
+            "size": "3.4 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Landman (2024) - S02E01 - Death and a Sunset [WEBDL-1080p][EAC3 5.1][h264]-ETHEL.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2370:s11e5",
+      "storedAt": 1763921440371,
+      "meta": {
+        "storedAt": 1763921439,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2370",
+        "imdbId": "tt0437005",
+        "season": 11,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/525295?token=5044750564fafa8b581f024312504da8&expires=1769105436&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-23T18:09:07.405Z",
-    "totalOriginalEntries": 5999,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-23T18:19:27.351Z",
+    "totalOriginalEntries": 6003,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
