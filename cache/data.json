@@ -299467,12 +299467,121 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:tv:4607:s1e1",
+      "storedAt": 1763921196668,
+      "meta": {
+        "storedAt": 1763921196,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "4607",
+        "imdbId": "tt0411008",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Lost S01 EP01 1080p BluRay [English DTS 5.1] x264 CtrlHD-4kHdHub.com\n5.37 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Lost%20S01%20EP01%201080p%20BluRay%20[English%20DTS%205.1]%20x264%20CtrlHD-4kHdHub.com.mkv?token=1763921191",
+            "quality": "1080p",
+            "size": "5.37 GB",
+            "fileName": "Lost S01 EP01 1080p BluRay [English DTS 5.1] x264 CtrlHD-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "xYjAxpHu\n5.37 GB",
+            "url": "https://pixeldrain.net/api/file/xYjAxpHu",
+            "quality": "1080p",
+            "size": "5.37 GB",
+            "fileName": "xYjAxpHu",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:4614:s19e17",
+      "storedAt": 1763921200086,
+      "meta": {
+        "storedAt": 1763921200,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4614",
+        "imdbId": "tt0364845",
+        "season": 19,
+        "episode": 17,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/197309?token=45ab05881de79bcecbbb05945eaaf544&expires=1769105196&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:62:s36e4",
+      "storedAt": 1763920809695,
+      "meta": {
+        "storedAt": 1763920809,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "62",
+        "imdbId": "tt0176095",
+        "season": 36,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/470404?token=1a74b23ea6b78ab2f001fe54e74fce6f&expires=1769104805&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-23T17:59:17.705Z",
-    "totalOriginalEntries": 5996,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-23T18:09:07.405Z",
+    "totalOriginalEntries": 5999,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
