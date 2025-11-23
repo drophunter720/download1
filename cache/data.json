@@ -295746,12 +295746,247 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:4743:s7e1",
+      "storedAt": 1763891787421,
+      "meta": {
+        "storedAt": 1763891787,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4743",
+        "imdbId": "tt1024810",
+        "season": 7,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/43347?token=4369b1fdbc67a71c678fa0ff5fc64af3&expires=1769075781&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:71912:s2e4",
+      "storedAt": 1763891468085,
+      "meta": {
+        "storedAt": 1763891468,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "71912",
+        "imdbId": "tt5180504",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The.Witcher.S02E04.Redanian.Intelligence.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-4kHdHub.Com\n3.08 GB",
+            "url": "https://pub-b5ecaffddf2344a0ae2222f5e8913e1b.r2.dev/The.Witcher.S02E04.Redanian.Intelligence.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv?token=1763891464",
+            "quality": "1080p",
+            "size": "3.08 GB",
+            "fileName": "The.Witcher.S02E04.Redanian.Intelligence.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ZUuu199K\n3.08 GB",
+            "url": "https://pixeldrain.net/api/file/ZUuu199K",
+            "quality": "1080p",
+            "size": "3.08 GB",
+            "fileName": "ZUuu199K",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The.Witcher.S02E04.Redanian.Intelligence.2160p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.265-4kHdHub.Com\n5.02 GB",
+            "url": "https://pub-b5ecaffddf2344a0ae2222f5e8913e1b.r2.dev/The.Witcher.S02E04.Redanian.Intelligence.2160p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv?token=1763891464",
+            "quality": "2160p",
+            "size": "5.02 GB",
+            "fileName": "The.Witcher.S02E04.Redanian.Intelligence.2160p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "RMDv4wq6\n5.02 GB",
+            "url": "https://pixeldrain.net/api/file/RMDv4wq6",
+            "quality": "2160p",
+            "size": "5.02 GB",
+            "fileName": "RMDv4wq6",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The.Witcher.S02E04.Redanian.Intelligence.2160p.NF.WEB-DL.DUAL.DDP5.1.Atmos.DV.HDR.H.265-4kHdHub.Com\n7.73 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/The.Witcher.S02E04.Redanian.Intelligence.2160p.NF.WEB-DL.DUAL.DDP5.1.Atmos.DV.HDR.H.265-4kHdHub.Com.mkv?token=1763891465",
+            "quality": "2160p",
+            "size": "7.73 GB",
+            "fileName": "The.Witcher.S02E04.Redanian.Intelligence.2160p.NF.WEB-DL.DUAL.DDP5.1.Atmos.DV.HDR.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "DKw92N1k\n7.73 GB",
+            "url": "https://pixeldrain.net/api/file/DKw92N1k",
+            "quality": "2160p",
+            "size": "7.73 GB",
+            "fileName": "DKw92N1k",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The.Witcher.S02E04.Redanian.Intelligence.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.265-4kHdHub.Com\n1.2 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/The.Witcher.S02E04.Redanian.Intelligence.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv?token=1763891464",
+            "quality": "1080p",
+            "size": "1.2 GB",
+            "fileName": "The.Witcher.S02E04.Redanian.Intelligence.1080p.NF.WEB-DL.DUAL.DDP5.1.Atmos.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "cX69otKf\n1.2 GB",
+            "url": "https://pixeldrain.net/api/file/cX69otKf",
+            "quality": "1080p",
+            "size": "1.2 GB",
+            "fileName": "cX69otKf",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:71912:s2e4",
+      "storedAt": 1763891461447,
+      "meta": {
+        "storedAt": 1763891461,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "71912",
+        "imdbId": "tt5180504",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DV][10bit][HEVC][EAC3 Atmos 5 1]-MZABI",
+            "url": "https://a.111477.xyz/tvs/The%20Witcher/Season 2/tvs%2FThe%20Witcher%2FSeason%202%2FThe%20Witcher%20(2019)%20-%20S02E04%20-%20Redanian%20Intelligence%20%5BWEBDL-2160p%5D%5BDV%5D%5B10bit%5D%5BHEVC%5D%5BEAC3%20Atmos%205.1%5D-MZABI.mkv",
+            "quality": "2160p | DV",
+            "size": "10.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Witcher (2019) - S02E04 - Redanian Intelligence [WEBDL-2160p][DV][10bit][HEVC][EAC3 Atmos 5.1]-MZABI.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Proper][EAC3 Atmos 5 1][h265]-d3g",
+            "url": "https://a.111477.xyz/tvs/The%20Witcher/Season 2/tvs%2FThe%20Witcher%2FSeason%202%2FThe%20Witcher%20(2019)%20-%20S02E04%20-%20Redanian%20Intelligence%20%5BWEBRip-1080p%20Proper%5D%5BEAC3%20Atmos%205.1%5D%5Bh265%5D-d3g.mkv",
+            "quality": "1080p",
+            "size": "1.7 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Witcher (2019) - S02E04 - Redanian Intelligence [WEBRip-1080p Proper][EAC3 Atmos 5.1][h265]-d3g.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:71912:s2e4",
+      "storedAt": 1763891478882,
+      "meta": {
+        "storedAt": 1763891478,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "71912",
+        "imdbId": "tt5180504",
+        "season": 2,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Witcher S2E4 - 4. Redanian Intelligence",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/witcher/s2/The.Witcher.S02.E04.720p.Hindi.English.AAC.5.1.x264.MSubs.mkv",
+            "quality": "1080p",
+            "size": "56min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Witcher S2E4 - 4. Redanian Intelligence",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/witcher/s2/The.Witcher.S02.E04.720p.Hindi.English.AAC.5.1.x264.MSubs.mkv",
+            "quality": "1080p",
+            "size": "56min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-23T09:50:17.954Z",
-    "totalOriginalEntries": 5918,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-23T09:59:28.714Z",
+    "totalOriginalEntries": 5922,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
