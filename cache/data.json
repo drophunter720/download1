@@ -293661,12 +293661,99 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:1126359",
+      "storedAt": 1763868402432,
+      "meta": {
+        "storedAt": 1763868402,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1126359",
+        "imdbId": null,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "147ed82d684265f1f190db5930474501\n6.9 GB",
+            "url": "https://true.boblover.click/147ed82d684265f1f190db5930474501?token=1763864359",
+            "quality": "1080p",
+            "size": "6.9 GB",
+            "fileName": "147ed82d684265f1f190db5930474501",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "AhzRY7E6\n6.9 GB",
+            "url": "https://pixeldrain.net/api/file/AhzRY7E6",
+            "quality": "1080p",
+            "size": "6.9 GB",
+            "fileName": "AhzRY7E6",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n6.9 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=8rMnTgxRGDBB&n=q4ICHbDI&fn=No%20Other%20Choice%202025%201080p%20WEB-DL%20Korean%20AAC2.0%20x264%20-%204kHDHub.com.mkv",
+            "quality": "1080p",
+            "size": "6.9 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:58936:s6e4",
+      "storedAt": 1763868103490,
+      "meta": {
+        "storedAt": 1763868103,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "58936",
+        "imdbId": "tt2147632",
+        "season": 6,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/177662?token=e9bd1e0dfd3e133f19f50569ecc2cb85&expires=1769052100&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-23T03:20:16.111Z",
-    "totalOriginalEntries": 5871,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-23T03:30:15.916Z",
+    "totalOriginalEntries": 5873,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
