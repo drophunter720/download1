@@ -294419,12 +294419,43 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:125935:s5e6",
+      "storedAt": 1763881051022,
+      "meta": {
+        "storedAt": 1763881051,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "125935",
+        "imdbId": "tt14218830",
+        "season": 5,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-BLOOM",
+            "url": "https://a.111477.xyz/tvs/Abbott%20Elementary/Season 5/tvs%2FAbbott%20Elementary%2FSeason%205%2FAbbott%20Elementary%20(2021)%20-%20S05E06%20-%20No%20Phones%20%5BWEBDL-1080p%5D%5BEAC3%205.1%5D%5Bh264%5D-BLOOM.mkv",
+            "quality": "1080p",
+            "size": "945.7 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Abbott Elementary (2021) - S05E06 - No Phones [WEBDL-1080p][EAC3 5.1][h264]-BLOOM.mkv"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-23T06:56:23.196Z",
-    "totalOriginalEntries": 5892,
-    "newItemsInThisBatch": 0,
+    "exportedAt": "2025-11-23T07:04:39.515Z",
+    "totalOriginalEntries": 5893,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
