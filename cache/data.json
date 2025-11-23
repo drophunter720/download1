@@ -298975,12 +298975,111 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:627725",
+      "storedAt": 1763917154022,
+      "meta": {
+        "storedAt": 1763917154,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "627725",
+        "imdbId": "tt6285944",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The.Banker.2020.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR10+.H.265-4kHdHub.Com\n21.4 GB",
+            "url": "https://pub-8665238777bb4575af3be7b624141905.r2.dev/The.Banker.2020.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR10+.H.265-4kHdHub.Com.mkv?token=1763917149",
+            "quality": "2160p",
+            "size": "21.4 GB",
+            "fileName": "The.Banker.2020.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR10+.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "XyNBJNQe\n18.04 GB",
+            "url": "https://pixeldrain.net/api/file/XyNBJNQe",
+            "quality": "2160p",
+            "size": "18.04 GB",
+            "fileName": "XyNBJNQe",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "cRYKHiPJ\n9.06 GB",
+            "url": "https://pixeldrain.net/api/file/cRYKHiPJ",
+            "quality": "1080p",
+            "size": "9.06 GB",
+            "fileName": "cRYKHiPJ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "2SSykymC\n4.82 GB",
+            "url": "https://pixeldrain.net/api/file/2SSykymC",
+            "quality": "1080p",
+            "size": "4.82 GB",
+            "fileName": "2SSykymC",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:66203:s3e16",
+      "storedAt": 1763916802291,
+      "meta": {
+        "storedAt": 1763916802,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "66203",
+        "imdbId": "tt5189554",
+        "season": 3,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/231931?token=c4f712d95008b1a4dbf4978bc9d1bd1c&expires=1769100797&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-23T16:51:06.942Z",
-    "totalOriginalEntries": 5985,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-23T17:02:01.068Z",
+    "totalOriginalEntries": 5987,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
