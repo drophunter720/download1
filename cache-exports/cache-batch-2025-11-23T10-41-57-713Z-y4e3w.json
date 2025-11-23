@@ -1,0 +1,53 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:1539463",
+      "storedAt": 1763894196681,
+      "meta": {
+        "storedAt": 1763894196,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1539463",
+        "imdbId": "tt34986595",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Gazer.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHDHub.com\n8.2 GB",
+            "url": "https://pub-b5ecaffddf2344a0ae2222f5e8913e1b.r2.dev/Gazer.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHDHub.com.mkv?token=1763894193",
+            "quality": "1080p",
+            "size": "8.2 GB",
+            "fileName": "Gazer.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "yPQn5zwt\n8.2 GB",
+            "url": "https://pixeldrain.net/api/file/yPQn5zwt",
+            "quality": "1080p",
+            "size": "8.2 GB",
+            "fileName": "yPQn5zwt",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-23T10:41:57.714Z",
+    "totalOriginalEntries": 1,
+    "newItemsInThisBatch": 1,
+    "format": "compact_v1"
+  }
+}
