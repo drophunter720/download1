@@ -298109,12 +298109,104 @@
         ],
         "count": 3
       }
+    },
+    {
+      "key": "prov:uhdmovies:movie:51876",
+      "storedAt": 1763911149108,
+      "meta": {
+        "storedAt": 1763911149,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "51876",
+        "imdbId": "tt1219289",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Limitless (2011) UNRATED 1080p BluRay 10bit HEVC [Hindi DDP 2 0 + English AAC 5 1] x265 (PSA-UHDMovies)\n2.12GB",
+            "url": "https://worker-falling-fire-cdc5.viteto6348.workers.dev/541abe630caf1b408543e306639b2e6ac688aad0428d173a59e54078665173829b035d771e2ae5a95602f377d69329039780684a5fe3f680f930d8450927d986453d0023104c765b295dda00e55b5c582c0d89dbbb091314b06fe979c09e13134e62ceb2e4227a43f5d327a0c14c686dc917dd17e5d964398e1da7ad24a94bc8d9047f0801766c5f3cd833cb1b1b5c0682e317097f18b144be902bb7586ba67260cbfad79a4533ae4c2346338487b72a::cbd766532edebd6724a9d357db9a6529/Limitless (2011) UNRATED 1080p BluRay 10bit HEVC [Hindi DDP 2.0  English AAC 5.1] x265 (PSA-UHDMovies).mkv",
+            "quality": "1080p | BluRay",
+            "size": "2.12GB",
+            "fileName": "Limitless (2011) UNRATED 1080p BluRay 10bit HEVC [Hindi DDP 2.0 + English AAC 5.1] x265 (PSA-UHDMovies).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2370:s15e1",
+      "storedAt": 1763910935500,
+      "meta": {
+        "storedAt": 1763910934,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2370",
+        "imdbId": "tt0437005",
+        "season": 15,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/525422?token=1f024948722ae202ea8496b0e4be7838&expires=1769094932&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:70748:s1e7",
+      "storedAt": 1763911272421,
+      "meta": {
+        "storedAt": 1763911271,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "70748",
+        "imdbId": "tt5372890",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/521621?token=ad7ef7fc99b9df9e8247b4040e80682a&expires=1769095266&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-23T15:15:49.178Z",
-    "totalOriginalEntries": 5966,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-23T15:24:45.580Z",
+    "totalOriginalEntries": 5969,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
