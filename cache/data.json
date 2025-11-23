@@ -293917,12 +293917,130 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:10222:s8e19",
+      "storedAt": 1763871686986,
+      "meta": {
+        "storedAt": 1763871686,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "10222",
+        "imdbId": "tt0497079",
+        "season": 8,
+        "episode": 19,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/470664?token=3eae0d4570f36b84ddde5ac4a7f7d7cb&expires=1769055683&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1421:s1e12",
+      "storedAt": 1763872002443,
+      "meta": {
+        "storedAt": 1763872002,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1421",
+        "imdbId": "tt1442437",
+        "season": 1,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux Proper][DTS-HD MA 5 1][AVC]-EPSiLON",
+            "url": "https://a.111477.xyz/tvs/Modern%20Family/Season 1/tvs%2FModern%20Family%2FSeason%201%2FModern%20Family%20(2009)%20-%20S01E12%20-%20Not%20in%20My%20House%20%5BBluray-1080p%20Remux%20Proper%5D%5BDTS-HD%20MA%205.1%5D%5BAVC%5D-EPSiLON.mkv",
+            "quality": "1080p | REMUX",
+            "size": "4.5 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Modern Family (2009) - S01E12 - Not in My House [Bluray-1080p Remux Proper][DTS-HD MA 5.1][AVC]-EPSiLON.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS-HD MA 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Modern%20Family/Season 1/tvs%2FModern%20Family%2FSeason%201%2FModern.Family.S01E12.Not.in.My.House.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "4.5 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Modern.Family.S01E12.Not.in.My.House.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1421:s1e12",
+      "storedAt": 1763872022196,
+      "meta": {
+        "storedAt": 1763872021,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1421",
+        "imdbId": "tt1442437",
+        "season": 1,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Modern Family S1E12 - 12. Not In My House",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/modernfamily/s1/Modern.Family.S01E12.720p.BluRay.x264.150MB-Pahe.in.mkv",
+            "quality": "1080p",
+            "size": "25min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Modern Family S1E12 - 12. Not In My House",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/modernfamily/s1/Modern.Family.S01E12.720p.BluRay.x264.150MB-Pahe.in.mkv",
+            "quality": "1080p",
+            "size": "25min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-23T04:19:12.165Z",
-    "totalOriginalEntries": 5877,
-    "newItemsInThisBatch": 0,
+    "exportedAt": "2025-11-23T04:29:55.091Z",
+    "totalOriginalEntries": 5880,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
