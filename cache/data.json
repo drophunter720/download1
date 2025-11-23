@@ -296056,12 +296056,83 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:dahmermovies:movie:950396",
+      "storedAt": 1763894714435,
+      "meta": {
+        "storedAt": 1763894714,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "950396",
+        "imdbId": "tt13654226",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ATVP WEB-DL DDP5 1 Atmos H 264-WADU",
+            "url": "https://a.111477.xyz/movies/The%20Gorge%20(2025)/movies%2FThe%20Gorge%20(2025)%2FThe.Gorge.2025.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-WADU.mkv",
+            "quality": "1080p",
+            "size": "9.5 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Gorge.2025.1080p.ATVP.WEB-DL.DDP5.1.Atmos.H.264-WADU.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEB H264-AMB3R",
+            "url": "https://a.111477.xyz/movies/The%20Gorge%20(2025)/movies%2FThe%20Gorge%20(2025)%2FThe.Gorge.2025.MULTi.1080p.WEB.H264-AMB3R.mkv",
+            "quality": "1080p",
+            "size": "10.2 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Gorge.2025.MULTi.1080p.WEB.H264-AMB3R.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:138971:s3e8",
+      "storedAt": 1763894598755,
+      "meta": {
+        "storedAt": 1763894598,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "138971",
+        "imdbId": "tt14586544",
+        "season": 3,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/525667?token=ce3203cecc792fb1ac3b0b49548f69ee&expires=1769078595&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-23T10:42:34.995Z",
-    "totalOriginalEntries": 5924,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-23T10:52:15.412Z",
+    "totalOriginalEntries": 5926,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
