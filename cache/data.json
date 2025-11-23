@@ -300697,12 +300697,96 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:24929",
+      "storedAt": 1763930550434,
+      "meta": {
+        "storedAt": 1763930550,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "24929",
+        "imdbId": "tt0095990",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "ce69ce7d990da042e44d901bc75f7806\n25.23 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/ce69ce7d990da042e44d901bc75f7806?token=1763930548",
+            "quality": "1080p",
+            "size": "25.23 GB",
+            "fileName": "ce69ce7d990da042e44d901bc75f7806",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "968200f050ee287c8ba02d15d2678b56\n10.78 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/968200f050ee287c8ba02d15d2678b56?token=1763930548",
+            "quality": "1080p",
+            "size": "10.78 GB",
+            "fileName": "968200f050ee287c8ba02d15d2678b56",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "4k44vm3U\n10.78 GB",
+            "url": "https://pixeldrain.net/api/file/4k44vm3U",
+            "quality": "1080p",
+            "size": "10.78 GB",
+            "fileName": "4k44vm3U",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:24929",
+      "storedAt": 1763930541115,
+      "meta": {
+        "storedAt": 1763930541,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "24929",
+        "imdbId": "tt0095990",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay Remux DTS HD MA 2 0",
+            "url": "https://a.111477.xyz/movies/Return%20of%20the%20Living%20Dead%20Part%20II%20(1988)/movies%2FReturn%20of%20the%20Living%20Dead%20Part%20II%20(1988)%2FReturn%20of%20the%20Living%20Dead%20Part%20II%201988%201080p%20BluRay%20Remux%20DTS%20HD%20MA%202%200.mkv",
+            "quality": "1080p | REMUX",
+            "size": "22.5 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Return of the Living Dead Part II 1988 1080p BluRay Remux DTS HD MA 2 0.mkv"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-23T20:19:39.375Z",
-    "totalOriginalEntries": 6027,
-    "newItemsInThisBatch": 4,
+    "exportedAt": "2025-11-23T20:50:42.643Z",
+    "totalOriginalEntries": 6029,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
