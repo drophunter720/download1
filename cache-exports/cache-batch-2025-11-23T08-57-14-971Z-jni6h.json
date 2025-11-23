@@ -1,0 +1,116 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:tv:1911:s10e9",
+      "storedAt": 1763887813282,
+      "meta": {
+        "storedAt": 1763887813,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 10,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Bones/Season 10/tvs%2FBones%2FSeason%2010%2FBones%20(2005)%20-%20S10E09%20-%20The%20Mutilation%20of%20the%20Master%20Manipulator%20%5BWEBRip-1080p%5D%5BEAC3%205.1%5D%5Bx265%5D-iVy.mkv",
+            "quality": "1080p",
+            "size": "1.1 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones (2005) - S10E09 - The Mutilation of the Master Manipulator [WEBRip-1080p][EAC3 5.1][x265]-iVy.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip x265-INFINITY",
+            "url": "https://a.111477.xyz/tvs/Bones/Season 10/tvs%2FBones%2FSeason%2010%2FBones.S10E09.1080p.WEBRip.x265-INFINITY.mp4",
+            "quality": "1080p",
+            "size": "698.3 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bones.S10E09.1080p.WEBRip.x265-INFINITY.mp4"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1911:s10e9",
+      "storedAt": 1763887813215,
+      "meta": {
+        "storedAt": 1763887813,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 10,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Bones and All S10E9 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1684689602/s10/episode9.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:84910:s1e1",
+      "storedAt": 1763887754789,
+      "meta": {
+        "storedAt": 1763887754,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "84910",
+        "imdbId": "tt7670568",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/491256?token=6c0dfc36c4bf01e2b4600e00d2421f28&expires=1769071747&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-23T08:57:14.971Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
