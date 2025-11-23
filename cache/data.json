@@ -295391,12 +295391,111 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:1460188",
+      "storedAt": 1763885049847,
+      "meta": {
+        "storedAt": 1763885049,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1460188",
+        "imdbId": "tt36352318",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "1f16b25bdf24ed5c3b5631fafb97a285\n17.3 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/1f16b25bdf24ed5c3b5631fafb97a285?token=1763885043",
+            "quality": "1080p",
+            "size": "17.3 GB",
+            "fileName": "1f16b25bdf24ed5c3b5631fafb97a285",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "vR4qi9JD\n17.3 GB",
+            "url": "https://pixeldrain.net/api/file/vR4qi9JD",
+            "quality": "1080p",
+            "size": "17.3 GB",
+            "fileName": "vR4qi9JD",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "595f075614efb8e9ff6f50bc1b02f468\n14.47 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/595f075614efb8e9ff6f50bc1b02f468?token=1763885044",
+            "quality": "1080p",
+            "size": "14.47 GB",
+            "fileName": "595f075614efb8e9ff6f50bc1b02f468",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "9Rk15kJH\n14.47 GB",
+            "url": "https://pixeldrain.net/api/file/9Rk15kJH",
+            "quality": "1080p",
+            "size": "14.47 GB",
+            "fileName": "9Rk15kJH",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:69773:s1e1",
+      "storedAt": 1763884613009,
+      "meta": {
+        "storedAt": 1763884612,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "69773",
+        "imdbId": "tt5336698",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/521951?token=fae309a8d07bf905ad178d1832183bf8&expires=1769068610&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-23T07:56:38.667Z",
-    "totalOriginalEntries": 5908,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-23T08:05:24.367Z",
+    "totalOriginalEntries": 5910,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
