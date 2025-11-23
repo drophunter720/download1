@@ -300875,12 +300875,117 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:103913:s3e1",
+      "storedAt": 1763933497394,
+      "meta": {
+        "storedAt": 1763933497,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "103913",
+        "imdbId": "tt10577736",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 2 0][h264]-KAN",
+            "url": "https://a.111477.xyz/tvs/Tehran/Season 3/tvs%2FTehran%2FSeason%203%2FTehran%20(2020)%20-%20S03E01%20-%20Radioactive%20World%20%5BWEBDL-1080p%5D%5BAAC%202.0%5D%5Bh264%5D-KAN.mkv",
+            "quality": "1080p",
+            "size": "743.7 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Tehran (2020) - S03E01 - Radioactive World [WEBDL-1080p][AAC 2.0][h264]-KAN.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 2 0][h264]-NoGRP",
+            "url": "https://a.111477.xyz/tvs/Tehran/Season 3/tvs%2FTehran%2FSeason%203%2FTehran%20(2020)%20-%20S03E01%20-%20Radioactive%20World%20%5BWEBDL-1080p%5D%5BAAC%202.0%5D%5Bh264%5D-NoGRP.mkv",
+            "quality": "1080p",
+            "size": "1.6 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Tehran (2020) - S03E01 - Radioactive World [WEBDL-1080p][AAC 2.0][h264]-NoGRP.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:103913:s3e1",
+      "storedAt": 1763933500764,
+      "meta": {
+        "storedAt": 1763933500,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "103913",
+        "imdbId": "tt10577736",
+        "season": 3,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Tehran S3E1 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1755421839/s3/episode1.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:72750:s2e3",
+      "storedAt": 1763933224295,
+      "meta": {
+        "storedAt": 1763933224,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "72750",
+        "imdbId": "tt7016936",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-NTb",
+            "url": "https://a.111477.xyz/tvs/Killing%20Eve/Season 2/tvs%2FKilling%20Eve%2FSeason%202%2FKilling%20Eve%20(2018)%20-%20S02E03%20-%20The%20Hungry%20Caterpillar%20%5BWEBDL-1080p%5D%5BEAC3%205.1%5D%5Bh264%5D-NTb.mkv",
+            "quality": "1080p",
+            "size": "1.9 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Killing Eve (2018) - S02E03 - The Hungry Caterpillar [WEBDL-1080p][EAC3 5.1][h264]-NTb.mkv"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-23T21:27:35.620Z",
-    "totalOriginalEntries": 6032,
-    "newItemsInThisBatch": 0,
+    "exportedAt": "2025-11-23T21:35:52.167Z",
+    "totalOriginalEntries": 6035,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
