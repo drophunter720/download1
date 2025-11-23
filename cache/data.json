@@ -297803,12 +297803,61 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:movie:10184",
+      "storedAt": 1763909882752,
+      "meta": {
+        "storedAt": 1763909882,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "10184",
+        "imdbId": "tt1001508",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX VC-1 TrueHD 5 1-EPSiLO",
+            "url": "https://a.111477.xyz/movies/He's%20Just%20Not%20That%20Into%20You%20(2009)/movies%2FHe",
+            "quality": "1080p | REMUX",
+            "size": "15.3 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Hes Just Not That Into You 2009 1080p BluRay REMUX VC-1 TrueHD 5.1-EPSiLO.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x264-BestHD",
+            "url": "https://a.111477.xyz/movies/He's%20Just%20Not%20That%20Into%20You%20(2009)/movies%2FHe",
+            "quality": "1080p",
+            "size": "7.9 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Hes.Just.Not.That.Into.You.2009.PROPER.1080p.BluRay.x264-BestHD.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies x265 jeddak-MIRCrew",
+            "url": "https://a.111477.xyz/movies/He's%20Just%20Not%20That%20Into%20You%20(2009)/movies%2FHe",
+            "quality": "1080p",
+            "size": "645.5 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "La.Verita.E.Che.Non.Gli.Piaci.Abbastanza.2009.iTA.ENG.AC3.SUB.iTA.ENG.BluRay.HEVC.1080p.x265.jeddak-MIRCrew.mp4"
+          }
+        ],
+        "count": 3
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-23T14:47:32.886Z",
-    "totalOriginalEntries": 5961,
-    "newItemsInThisBatch": 4,
+    "exportedAt": "2025-11-23T14:58:59.144Z",
+    "totalOriginalEntries": 5962,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
