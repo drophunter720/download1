@@ -301800,12 +301800,149 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:13394",
+      "storedAt": 1763939316833,
+      "meta": {
+        "storedAt": 1763939316,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "13394",
+        "imdbId": "tt0897387",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/175083?token=b3d41e6736569fbed918ff036697bbaa&expires=1769123311&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:1545859",
+      "storedAt": 1763939280705,
+      "meta": {
+        "storedAt": 1763939280,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1545859",
+        "imdbId": "tt38023049",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "595f075614efb8e9ff6f50bc1b02f468\n14.47 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/595f075614efb8e9ff6f50bc1b02f468?token=1763939277",
+            "quality": "1080p",
+            "size": "14.47 GB",
+            "fileName": "595f075614efb8e9ff6f50bc1b02f468",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "9Rk15kJH\n14.47 GB",
+            "url": "https://pixeldrain.net/api/file/9Rk15kJH",
+            "quality": "1080p",
+            "size": "14.47 GB",
+            "fileName": "9Rk15kJH",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:78173:s5e13",
+      "storedAt": 1763939571795,
+      "meta": {
+        "storedAt": 1763939571,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "78173",
+        "imdbId": "tt4816058",
+        "season": 5,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/168195?token=8b9bdba21ca218c652adaa98f0c4a8e5&expires=1769123564&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:78173:s6e13",
+      "storedAt": 1763939716910,
+      "meta": {
+        "storedAt": 1763939716,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "78173",
+        "imdbId": "tt4816058",
+        "season": 6,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/168209?token=225acb5bacf6e3930f2766b3a7171b98&expires=1769123711&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-23T23:08:17.457Z",
-    "totalOriginalEntries": 6054,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-23T23:16:41.130Z",
+    "totalOriginalEntries": 6058,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
