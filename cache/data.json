@@ -4195,12 +4195,111 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:1501226",
+      "storedAt": 1764007319509,
+      "meta": {
+        "storedAt": 1764007319,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1501226",
+        "imdbId": "tt37330944",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "WWE.Royal.Rumble.2025.1080p.NF.WEB-DL.Hindi.AAC2.0-English.AAC2.0.H.264-4kHdHub.Com\n11.92 GB",
+            "url": "https://pub-8665238777bb4575af3be7b624141905.r2.dev/WWE.Royal.Rumble.2025.1080p.NF.WEB-DL.Hindi.AAC2.0-English.AAC2.0.H.264-4kHdHub.Com.mkv?token=1764007317",
+            "quality": "1080p",
+            "size": "11.92 GB",
+            "fileName": "WWE.Royal.Rumble.2025.1080p.NF.WEB-DL.Hindi.AAC2.0-English.AAC2.0.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "oLtGatxw\n11.92 GB",
+            "url": "https://pixeldrain.net/api/file/oLtGatxw",
+            "quality": "1080p",
+            "size": "11.92 GB",
+            "fileName": "oLtGatxw",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "6c7588f4c0c528d43858d84b52c2d70e\n7.47 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/6c7588f4c0c528d43858d84b52c2d70e?token=1764007313",
+            "quality": "1080p",
+            "size": "7.47 GB",
+            "fileName": "6c7588f4c0c528d43858d84b52c2d70e",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ZMvE1ab2\n7.47 GB",
+            "url": "https://pixeldrain.net/api/file/ZMvE1ab2",
+            "quality": "1080p",
+            "size": "7.47 GB",
+            "fileName": "ZMvE1ab2",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1403:s3e21",
+      "storedAt": 1764007458635,
+      "meta": {
+        "storedAt": 1764007458,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1403",
+        "imdbId": "tt2364582",
+        "season": 3,
+        "episode": 21,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/194665?token=86e376aa141d2679001ee6ca44cf092a&expires=1769191454&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-24T17:53:58.538Z",
-    "totalOriginalEntries": 82,
-    "newItemsInThisBatch": 5,
+    "exportedAt": "2025-11-24T18:07:23.123Z",
+    "totalOriginalEntries": 84,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
