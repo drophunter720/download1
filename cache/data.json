@@ -2235,11 +2235,44 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:streamflix:tv:211288:s3e6",
+      "storedAt": 1763997178497,
+      "meta": {
+        "storedAt": 1763997178,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "211288",
+        "imdbId": "tt13875494",
+        "season": 3,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Tracker S3E6 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1743198712/s3/episode6.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-24T15:04:33.406Z",
-    "totalOriginalEntries": 41,
+    "exportedAt": "2025-11-24T15:13:35.744Z",
+    "totalOriginalEntries": 42,
     "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
