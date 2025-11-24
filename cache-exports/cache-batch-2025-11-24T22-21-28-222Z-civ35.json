@@ -1,0 +1,107 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:85739",
+      "storedAt": 1764022408147,
+      "meta": {
+        "storedAt": 1764022408,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "85739",
+        "imdbId": "tt1893195",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Hop (2011) 1080p BluRay REMUX VC-1 [Hindi NF DDP 5.1 640kbps + English DTS-HD MA 5.1] ESub-(EPSiLON-4kHdHub)\n23.82 GB",
+            "url": "https://dl.amazonserver.workers.dev/f40e3c276238138cbfb491c072e6c2d7715ce400dfa0e1d9d966895ce2f4ec9ac488cd05e278a28cfdf1db7423da07b0::eee5740825018bdb83f2ad5099d82f49/1397327556/Hop%20(2011)%201080p%20BluRay%20REMUX%20VC-1%20[Hindi%20NF%20DDP%205.1%20640kbps%20+%20English%20DTS-HD%20MA%205.1]%20ESub-(EPSiLON-4kHdHub).mkv",
+            "quality": "1080p",
+            "size": "23.82 GB",
+            "fileName": "Hop (2011) 1080p BluRay REMUX VC-1 [Hindi NF DDP 5.1 640kbps + English DTS-HD MA 5.1] ESub-(EPSiLON-4kHdHub)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Q23e6HEP\n10.3 GB",
+            "url": "https://pixeldrain.net/api/file/Q23e6HEP",
+            "quality": "1080p",
+            "size": "10.3 GB",
+            "fileName": "Q23e6HEP",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "0ed020a52ce5b0bfd0ecceaae4f27135\n3.35 GB",
+            "url": "https://true.boblover.click/0ed020a52ce5b0bfd0ecceaae4f27135?token=1764022403",
+            "quality": "1080p",
+            "size": "3.35 GB",
+            "fileName": "0ed020a52ce5b0bfd0ecceaae4f27135",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "WNitnfrB\n3.35 GB",
+            "url": "https://pixeldrain.net/api/file/WNitnfrB",
+            "quality": "1080p",
+            "size": "3.35 GB",
+            "fileName": "WNitnfrB",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:85739",
+      "storedAt": 1764022486543,
+      "meta": {
+        "storedAt": 1764022486,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "85739",
+        "imdbId": "tt1893195",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/174670?token=52d92a5990c997bf375afd5da272a6c7&expires=1769206483&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-24T22:21:28.222Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
