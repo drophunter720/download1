@@ -3941,12 +3941,266 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:12786:s10e1",
+      "storedAt": 1764006721892,
+      "meta": {
+        "storedAt": 1764006721,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "12786",
+        "imdbId": "tt1091909",
+        "season": 10,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/464013?token=de71d3eb445fcdb744db48f812a4228d&expires=1769190715&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:205715:s1e2",
+      "storedAt": 1764006707930,
+      "meta": {
+        "storedAt": 1764006707,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "205715",
+        "imdbId": "tt13159924",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Gen.V.S01E02.First.Day.2160p.AMZN.WEB-DL.DDP5.1.H.265-Tyrell\n5.08 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Gen.V.S01E02.First.Day.2160p.AMZN.WEB-DL.DDP5.1.H.265-Tyrell.mkv?token=1764006703",
+            "quality": "2160p",
+            "size": "5.08 GB",
+            "fileName": "Gen.V.S01E02.First.Day.2160p.AMZN.WEB-DL.DDP5.1.H.265-Tyrell",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "PcT7y8U9\n5.08 GB",
+            "url": "https://pixeldrain.net/api/file/PcT7y8U9",
+            "quality": "2160p",
+            "size": "5.08 GB",
+            "fileName": "PcT7y8U9",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Gen.V.S01E02.First.Day.2160p.AMZN.WEB-DL.DDP5.1.HDR.H.265-Tyrell\n5.03 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Gen.V.S01E02.First.Day.2160p.AMZN.WEB-DL.DDP5.1.HDR.H.265-Tyrell.mkv?token=1764006703",
+            "quality": "2160p",
+            "size": "5.03 GB",
+            "fileName": "Gen.V.S01E02.First.Day.2160p.AMZN.WEB-DL.DDP5.1.HDR.H.265-Tyrell",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "PFehRAJK\n5.03 GB",
+            "url": "https://pixeldrain.net/api/file/PFehRAJK",
+            "quality": "2160p",
+            "size": "5.03 GB",
+            "fileName": "PFehRAJK",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Gen.V.S01E02.First.Day.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.com\n3.32 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Gen.V.S01E02.First.Day.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.com.mkv?token=1764006703",
+            "quality": "1080p",
+            "size": "3.32 GB",
+            "fileName": "Gen.V.S01E02.First.Day.1080p.AMZN.WEB-DL.DDP5.1.H.264-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "75vgmnjY\n3.32 GB",
+            "url": "https://pixeldrain.net/api/file/75vgmnjY",
+            "quality": "1080p",
+            "size": "3.32 GB",
+            "fileName": "75vgmnjY",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Gen.V.S01E02.First.Day.1080p.AMZN.WEB-DL.DDP5.1.H.265-4kHdHub.com\n1.34 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Gen.V.S01E02.First.Day.1080p.AMZN.WEB-DL.DDP5.1.H.265-4kHdHub.com.mkv?token=1764006704",
+            "quality": "1080p",
+            "size": "1.34 GB",
+            "fileName": "Gen.V.S01E02.First.Day.1080p.AMZN.WEB-DL.DDP5.1.H.265-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "hxj8QGk1\n1.34 GB",
+            "url": "https://pixeldrain.net/api/file/hxj8QGk1",
+            "quality": "1080p",
+            "size": "1.34 GB",
+            "fileName": "hxj8QGk1",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:205715:s1e2",
+      "storedAt": 1764006696389,
+      "meta": {
+        "storedAt": 1764006696,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "205715",
+        "imdbId": "tt13159924",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Proper][EAC3 5 1][h265]-HONE",
+            "url": "https://a.111477.xyz/tvs/Gen%20V/Season 1/tvs%2FGen%20V%2FSeason%201%2FGen%20V%20(2023)%20-%20S01E02%20-%20First%20Day%20%5BWEBDL-1080p%20Proper%5D%5BEAC3%205.1%5D%5Bh265%5D-HONE.mkv",
+            "quality": "1080p",
+            "size": "1.8 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Gen V (2023) - S01E02 - First Day [WEBDL-1080p Proper][EAC3 5.1][h265]-HONE.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:205715:s1e2",
+      "storedAt": 1764006715738,
+      "meta": {
+        "storedAt": 1764006715,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "205715",
+        "imdbId": "tt13159924",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Agent Elvis S1E2 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1679327054/s1/episode2.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:2734:s2e17",
+      "storedAt": 1764006353623,
+      "meta": {
+        "storedAt": 1764006353,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "2734",
+        "imdbId": "tt0203259",
+        "season": 2,
+        "episode": 17,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 2 0][h264]",
+            "url": "https://a.111477.xyz/tvs/Law%20%26%20Order%20-%20Special%20Victims%20Unit/Season 2/tvs%2FLaw%20%26%20Order%20-%20Special%20Victims%20Unit%2FSeason%202%2FLaw%20%26%20Order%20-%20Special%20Victims%20Unit%20(1999)%20-%20S02E17%20-%20Folly%20%5BWEBDL-1080p%5D%5BAAC%202.0%5D%5Bh264%5D.mkv",
+            "quality": "1080p",
+            "size": "1.5 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Law & Order - Special Victims Unit (1999) - S02E17 - Folly [WEBDL-1080p][AAC 2.0][h264].mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 2 0][x264]-NTb",
+            "url": "https://a.111477.xyz/tvs/Law%20%26%20Order%20-%20Special%20Victims%20Unit/Season 2/tvs%2FLaw%20%26%20Order%20-%20Special%20Victims%20Unit%2FSeason%202%2FLaw%20%26%20Order%20-%20Special%20Victims%20Unit%20(1999)%20-%20S02E17%20-%20Folly%20%5BWEBDL-1080p%5D%5BEAC3%202.0%5D%5Bx264%5D-NTb.mkv",
+            "quality": "1080p",
+            "size": "4.4 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Law & Order - Special Victims Unit (1999) - S02E17 - Folly [WEBDL-1080p][EAC3 2.0][x264]-NTb.mkv"
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-24T17:44:06.050Z",
-    "totalOriginalEntries": 77,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-24T17:53:58.538Z",
+    "totalOriginalEntries": 82,
+    "newItemsInThisBatch": 5,
     "format": "compact_v1"
   }
 }
