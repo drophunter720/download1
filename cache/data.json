@@ -303309,11 +303309,44 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:streamflix:tv:66025:s5e4",
+      "storedAt": 1763953777992,
+      "meta": {
+        "storedAt": 1763953777,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "66025",
+        "imdbId": "tt5574490",
+        "season": 5,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Animal Kingdom S5E4 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1733210019/s5/episode4.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-24T03:08:39.671Z",
-    "totalOriginalEntries": 6092,
+    "exportedAt": "2025-11-24T03:18:13.194Z",
+    "totalOriginalEntries": 6093,
     "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
