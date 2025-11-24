@@ -304586,11 +304586,139 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:movie:530154",
+      "storedAt": 1763969318345,
+      "meta": {
+        "storedAt": 1763969318,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "530154",
+        "imdbId": "tt8439854",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEB-DL x264",
+            "url": "https://a.111477.xyz/movies/Lust%20Stories%20(2018)/movies%2FLust%20Stories%20(2018)%2FLust.Stories.2018.Hindi.1080p.WEB-DL.x264.mp4",
+            "quality": "1080p",
+            "size": "1.8 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Lust.Stories.2018.Hindi.1080p.WEB-DL.x264.mp4"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:530154",
+      "storedAt": 1763969318281,
+      "meta": {
+        "storedAt": 1763969318,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "530154",
+        "imdbId": "tt8439854",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Lust Stories - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2018/luststories.mkv",
+            "quality": "1080p",
+            "size": "2h 01m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Lust Stories - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2018/luststories.mkv",
+            "quality": "1080p",
+            "size": "2h 01m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Lust Stories - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2018/luststories.mkv",
+            "quality": "720p",
+            "size": "2h 01m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Lust Stories - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2018/luststories.mkv",
+            "quality": "720p",
+            "size": "2h 01m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:88005:s2e1",
+      "storedAt": 1763969724916,
+      "meta": {
+        "storedAt": 1763969724,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "88005",
+        "imdbId": "tt9845168",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/481841?token=ee3fbf8c977ac72eaa3378f50f5828e4&expires=1769153721&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-24T07:19:07.342Z",
-    "totalOriginalEntries": 6123,
+    "exportedAt": "2025-11-24T07:37:29.389Z",
+    "totalOriginalEntries": 6126,
     "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
