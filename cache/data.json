@@ -305103,12 +305103,77 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:1432:s3e5",
+      "storedAt": 1763971997641,
+      "meta": {
+        "storedAt": 1763971997,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1432",
+        "imdbId": "tt0412253",
+        "season": 3,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/202474?token=9e1a2236cf5fe5b46f94f4403aaf3e89&expires=1769155995&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:14658:s49e9",
+      "storedAt": 1763971680531,
+      "meta": {
+        "storedAt": 1763971680,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "14658",
+        "imdbId": "tt0239195",
+        "season": 49,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Survivor S49E9 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1641111532/s49/episode9.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-24T07:52:09.596Z",
-    "totalOriginalEntries": 6131,
-    "newItemsInThisBatch": 5,
+    "exportedAt": "2025-11-24T08:16:32.628Z",
+    "totalOriginalEntries": 6133,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
