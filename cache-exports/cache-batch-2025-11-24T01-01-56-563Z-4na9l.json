@@ -1,0 +1,106 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:305470",
+      "storedAt": 1763945635387,
+      "meta": {
+        "storedAt": 1763945635,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "305470",
+        "imdbId": "tt3717490",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/107600?token=2c14b515e3ad1b23ca99a477b4b0da94&expires=1769129631&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:64230:s1e1",
+      "storedAt": 1763945997352,
+      "meta": {
+        "storedAt": 1763945997,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "64230",
+        "imdbId": "tt5016504",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ViKeHWVw\n2.62 GB",
+            "url": "https://pixeldrain.net/api/file/ViKeHWVw",
+            "quality": "1080p",
+            "size": "2.62 GB",
+            "fileName": "ViKeHWVw",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:64230:s1e1",
+      "storedAt": 1763945990582,
+      "meta": {
+        "storedAt": 1763945990,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "64230",
+        "imdbId": "tt5016504",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Machine Gun Preacher S1E1 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1668052024/s1/episode1.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-24T01:01:56.563Z",
+    "totalOriginalEntries": 3,
+    "newItemsInThisBatch": 3,
+    "format": "compact_v1"
+  }
+}
