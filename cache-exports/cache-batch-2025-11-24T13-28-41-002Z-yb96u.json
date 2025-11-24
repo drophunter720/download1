@@ -1,0 +1,100 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:tv:200709:s2e1",
+      "storedAt": 1763990595333,
+      "meta": {
+        "storedAt": 1763990595,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "200709",
+        "imdbId": "tt20234568",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Weak.Hero.S02E01.2160p.NF.WEB-DL.H.265.Multi.DDP5.1.Atmos-Tyrell-4kHdHub.Com\n3.92 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/Weak.Hero.S02E01.2160p.NF.WEB-DL.H.265.Multi.DDP5.1.Atmos-Tyrell-4kHdHub.Com.mkv?token=1763990592",
+            "quality": "2160p",
+            "size": "3.92 GB",
+            "fileName": "Weak.Hero.S02E01.2160p.NF.WEB-DL.H.265.Multi.DDP5.1.Atmos-Tyrell-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "5tLyJvSK\n3.92 GB",
+            "url": "https://pixeldrain.net/api/file/5tLyJvSK",
+            "quality": "2160p",
+            "size": "3.92 GB",
+            "fileName": "5tLyJvSK",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "cUJ6Cxh9\n6.46 GB",
+            "url": "https://pixeldrain.net/api/file/cUJ6Cxh9",
+            "quality": "2160p",
+            "size": "6.46 GB",
+            "fileName": "cUJ6Cxh9",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:200709:s2e1",
+      "storedAt": 1763990603150,
+      "meta": {
+        "storedAt": 1763990602,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "200709",
+        "imdbId": "tt20234568",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Weak Hero Class 1 S2E1 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1693825811/s2/episode1.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-24T13:28:41.004Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
