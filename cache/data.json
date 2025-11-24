@@ -302346,12 +302346,111 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:56194",
+      "storedAt": 1763944737029,
+      "meta": {
+        "storedAt": 1763944737,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "56194",
+        "imdbId": "tt0284123",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Home.Alone.4.2002.1080p.DSNP.WEB-DL.HIN-ENG.DDP.5.1.H.264-PiRaTeS-4KHDHub\n4.79 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Home.Alone.4.2002.1080p.DSNP.WEB-DL.HIN-ENG.DDP.5.1.H.264-PiRaTeS-4KHDHub.mkv?token=1763944733",
+            "quality": "1080p",
+            "size": "4.79 GB",
+            "fileName": "Home.Alone.4.2002.1080p.DSNP.WEB-DL.HIN-ENG.DDP.5.1.H.264-PiRaTeS-4KHDHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "kq8Ju6SR\n4.79 GB",
+            "url": "https://pixeldrain.net/api/file/kq8Ju6SR",
+            "quality": "1080p",
+            "size": "4.79 GB",
+            "fileName": "kq8Ju6SR",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Home Alone 4 - Taking Back the House 2002 1080p 10bit DSNP WEBRip x265 HEVC [Org VCD Hindi DD 2.0 - 224Kbps + English DD 5.1] ESub - TombDoc-4KHDHub\n2.7 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Home%20Alone%204%20-%20Taking%20Back%20the%20House%202002%201080p%2010bit%20DSNP%20WEBRip%20x265%20HEVC%20[Org%20VCD%20Hindi%20DD%202.0%20-%20224Kbps%20+%20English%20DD%205.1]%20ESub%20-%20TombDoc-4KHDHub.mkv?token=1763944734",
+            "quality": "1080p",
+            "size": "2.7 GB",
+            "fileName": "Home Alone 4 - Taking Back the House 2002 1080p 10bit DSNP WEBRip x265 HEVC [Org VCD Hindi DD 2.0 - 224Kbps + English DD 5.1] ESub - TombDoc-4KHDHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "1aMNeidE\n2.7 GB",
+            "url": "https://pixeldrain.net/api/file/1aMNeidE",
+            "quality": "1080p",
+            "size": "2.7 GB",
+            "fileName": "1aMNeidE",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:133748:s1e8",
+      "storedAt": 1763944530250,
+      "meta": {
+        "storedAt": 1763944530,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "133748",
+        "imdbId": "tt14261112",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/301268?token=687a443ee8c2540a36934f4f68755134&expires=1769128527&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-24T00:29:35.329Z",
-    "totalOriginalEntries": 6067,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-24T00:39:46.966Z",
+    "totalOriginalEntries": 6069,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
