@@ -5590,12 +5590,99 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:765752",
+      "storedAt": 1764023928799,
+      "meta": {
+        "storedAt": 1764023928,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "765752",
+        "imdbId": "tt1180744",
+        "streams": [
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "Live and Let Die (1973) 1080p BluRay REMUX AVC [Hindi DDP 2.0 + English DTS-HD.MA 5.1] x264 (TRiToN-wAgen) (4kHdHub.com) (4kHdHub.com)\n28.04 GB",
+            "url": "https://vip.hotstar.workers.dev/312750d1de48a0d2f2829199ebd858d2448abe3ffe5cae95da556ad3b138ed69539bd89ebf54eaf6d34f6ed5ef84309a::88eaea9c8caaec7b29bcbedf6eca8858/1397327556/Live%20and%20Let%20Die%20(1973)%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%202.0%20+%20English%20DTS-HD.MA%205.1]%20x264%20(TRiToN-wAgen)%20(4kHdHub.com)%20(4kHdHub.com).mkv",
+            "quality": "1080p",
+            "size": "28.04 GB",
+            "fileName": "Live and Let Die (1973) 1080p BluRay REMUX AVC [Hindi DDP 2.0 + English DTS-HD.MA 5.1] x264 (TRiToN-wAgen) (4kHdHub.com) (4kHdHub.com)",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "uJGxQ47b\n13.72 GB",
+            "url": "https://pixeldrain.net/api/file/uJGxQ47b",
+            "quality": "1080p",
+            "size": "13.72 GB",
+            "fileName": "uJGxQ47b",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "MRSz64qa\n11.92 GB",
+            "url": "https://pixeldrain.net/api/file/MRSz64qa",
+            "quality": "1080p",
+            "size": "11.92 GB",
+            "fileName": "MRSz64qa",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:69088:s1e1",
+      "storedAt": 1764024280697,
+      "meta": {
+        "storedAt": 1764024280,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "69088",
+        "imdbId": "tt6313900",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/523925?token=e41f7121ca8df1ec2ad217ab7d1fee31&expires=1769208277&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-24T22:38:21.927Z",
-    "totalOriginalEntries": 113,
-    "newItemsInThisBatch": 0,
+    "exportedAt": "2025-11-24T22:46:53.993Z",
+    "totalOriginalEntries": 115,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
