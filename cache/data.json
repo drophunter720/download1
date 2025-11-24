@@ -2485,12 +2485,86 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:34524:s6e3",
+      "storedAt": 1763999704325,
+      "meta": {
+        "storedAt": 1763999704,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "34524",
+        "imdbId": "tt1567432",
+        "season": 6,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-EPSiLON",
+            "url": "https://a.111477.xyz/tvs/Teen%20Wolf/Season 6/tvs%2FTeen%20Wolf%2FSeason%206%2FTeen%20Wolf%20(2011)%20-%20S06E03%20-%20Sundowning%20%5BBluray-1080p%20Remux%5D%5BDTS-HD%20MA%205.1%5D%5BAVC%5D-EPSiLON.mkv",
+            "quality": "1080p | REMUX",
+            "size": "9.5 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Teen Wolf (2011) - S06E03 - Sundowning [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-EPSiLON.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265-RARBG",
+            "url": "https://a.111477.xyz/tvs/Teen%20Wolf/Season 6/tvs%2FTeen%20Wolf%2FSeason%206%2FTeen.Wolf.S06E03.1080p.BluRay.x265-RARBG.mp4",
+            "quality": "1080p",
+            "size": "669.3 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Teen.Wolf.S06E03.1080p.BluRay.x265-RARBG.mp4"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:34524:s6e3",
+      "storedAt": 1763999716954,
+      "meta": {
+        "storedAt": 1763999716,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "34524",
+        "imdbId": "tt1567432",
+        "season": 6,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Teen Wolf S6E3 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1679547177/s6/episode3.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-24T15:53:23.741Z",
-    "totalOriginalEntries": 47,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-24T16:03:09.996Z",
+    "totalOriginalEntries": 49,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
