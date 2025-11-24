@@ -302445,12 +302445,195 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:2370:s4e3",
+      "storedAt": 1763944958107,
+      "meta": {
+        "storedAt": 1763944957,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2370",
+        "imdbId": "tt0437005",
+        "season": 4,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/525030?token=e902aaaa34792185542f24779a68614b&expires=1769128954&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:85937:s4e2",
+      "storedAt": 1763945038951,
+      "meta": {
+        "storedAt": 1763945038,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "85937",
+        "imdbId": "tt9335498",
+        "season": 4,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "d556980df6a8185492e03830a797c5c1\n700.64 MB",
+            "url": "https://true.boblover.click/d556980df6a8185492e03830a797c5c1?token=1763945036",
+            "quality": "1080p",
+            "size": "700.64 MB",
+            "fileName": "d556980df6a8185492e03830a797c5c1",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "14zd5yjY\n700.64 MB",
+            "url": "https://pixeldrain.net/api/file/14zd5yjY",
+            "quality": "1080p",
+            "size": "700.64 MB",
+            "fileName": "14zd5yjY",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:85937:s4e2",
+      "storedAt": 1763945031247,
+      "meta": {
+        "storedAt": 1763945031,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "85937",
+        "imdbId": "tt9335498",
+        "season": 4,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux Proper][FLAC 2 0][x264]-FraMeSToR",
+            "url": "https://a.111477.xyz/tvs/Demon%20Slayer%20-%20Kimetsu%20no%20Yaiba/Season 4/tvs%2FDemon%20Slayer%20-%20Kimetsu%20no%20Yaiba%2FSeason%204%2FDemon%20Slayer%20-%20Kimetsu%20no%20Yaiba%20(2019)%20-%20S04E02%20-%20Yoriichi%20Type%20Zero%20%5BBluray-1080p%20Remux%20Proper%5D%5BFLAC%202.0%5D%5Bx264%5D-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": "6.4 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Demon Slayer - Kimetsu no Yaiba (2019) - S04E02 - Yoriichi Type Zero [Bluray-1080p Remux Proper][FLAC 2.0][x264]-FraMeSToR.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:85937:s4e2",
+      "storedAt": 1763945048563,
+      "meta": {
+        "storedAt": 1763945048,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "85937",
+        "imdbId": "tt9335498",
+        "season": 4,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Demon Slayer: Kimetsu no Yaiba S4E2 - 2. Yoriichi Type Zero",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/demonslayer/s4/Demon Slayer S04E02.mkv",
+            "quality": "1080p",
+            "size": "24min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Demon Slayer: Kimetsu no Yaiba S4E2 - 2. Yoriichi Type Zero",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/demonslayer/s4/Demon Slayer S04E02.mkv",
+            "quality": "1080p",
+            "size": "24min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:85937:s4e2",
+      "storedAt": 1763945052375,
+      "meta": {
+        "storedAt": 1763945052,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "85937",
+        "imdbId": "tt9335498",
+        "season": 4,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Demon Slayer Kimetsu no Yaiba S04E02 1080p BluRay REMUX AVC [Hindi AAC2 0 + English-Japanese FLAC2 0] (Fuse-FraMeSToR)\n6.37GB",
+            "url": "https://worker-falling-fire-cdc5.viteto6348.workers.dev/131809c2c5f145efe093a14fde0135acbbe4541e94c6c70b00976645d50103209add119f6e09b09c577a837e66482115f812b7704a302c0162ef7d7ac539a352b1aa45cae7b61a1acb1aec077b2d130c4da2e10701fa9cb68b88b6b04f756aa4b5061eda8bbb7e0f759ab382259ac558f5decd66db3a4d66aa8395076e81377f77b0450f11e7e20886ce5df69622fedc617981f21478fa78edc1982913adc860f05ea1fb5b0c9276d21bef8f088e1ee0::a4a0074853728bd4ba7b8a4aee347a92/Demon Slayer Kimetsu no Yaiba S04E02 1080p BluRay REMUX AVC [Hindi AAC2.0  English-Japanese FLAC2.0] (Fuse-FraMeSToR).mkv",
+            "quality": "1080p | BluRay",
+            "size": "6.37GB",
+            "fileName": "Demon Slayer Kimetsu no Yaiba S04E02 1080p BluRay REMUX AVC [Hindi AAC2.0 + English-Japanese FLAC2.0] (Fuse-FraMeSToR).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-24T00:39:46.966Z",
-    "totalOriginalEntries": 6069,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-24T00:51:14.981Z",
+    "totalOriginalEntries": 6074,
+    "newItemsInThisBatch": 5,
     "format": "compact_v1"
   }
 }
