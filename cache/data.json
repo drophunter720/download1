@@ -4745,12 +4745,86 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:87508:s2e1",
+      "storedAt": 1764012178903,
+      "meta": {
+        "storedAt": 1764012175,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "87508",
+        "imdbId": "tt9398466",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 2 0][x264]-SKYFiRE",
+            "url": "https://a.111477.xyz/tvs/Delhi%20Crime/Season 2/tvs%2FDelhi%20Crime%2FSeason%202%2FDelhi%20Crime%20(2019)%20-%20S02E01%20-%20Episode%201%20%5BWEBDL-1080p%5D%5BEAC3%202.0%5D%5Bx264%5D-SKYFiRE.mkv",
+            "quality": "1080p",
+            "size": "735.3 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Delhi Crime (2019) - S02E01 - Episode 1 [WEBDL-1080p][EAC3 2.0][x264]-SKYFiRE.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][x264]-ElecTr0n",
+            "url": "https://a.111477.xyz/tvs/Delhi%20Crime/Season 2/tvs%2FDelhi%20Crime%2FSeason%202%2FDelhi%20Crime%20(2019)%20-%20S02E01%20-%20Episode%201%20%5BWEBDL-1080p%5D%5BEAC3%20Atmos%205.1%5D%5Bx264%5D-ElecTr0n.mkv",
+            "quality": "1080p",
+            "size": "1.4 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Delhi Crime (2019) - S02E01 - Episode 1 [WEBDL-1080p][EAC3 Atmos 5.1][x264]-ElecTr0n.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:87508:s2e1",
+      "storedAt": 1764012186476,
+      "meta": {
+        "storedAt": 1764012186,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "87508",
+        "imdbId": "tt9398466",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Delhi Crime S2E1 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1671130811/s2/episode1.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-24T19:18:08.887Z",
-    "totalOriginalEntries": 94,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-24T19:31:04.641Z",
+    "totalOriginalEntries": 96,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
