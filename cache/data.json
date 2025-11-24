@@ -2202,12 +2202,45 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:4khdhub:tv:281011:s1e10",
+      "storedAt": 1763996246330,
+      "meta": {
+        "storedAt": 1763996246,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "281011",
+        "imdbId": "tt38220632",
+        "season": 1,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ja9ev1zZ\n3.58 GB",
+            "url": "https://pixeldrain.net/api/file/ja9ev1zZ",
+            "quality": "1080p",
+            "size": "3.58 GB",
+            "fileName": "ja9ev1zZ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-24T14:56:33.911Z",
-    "totalOriginalEntries": 40,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-24T15:04:33.406Z",
+    "totalOriginalEntries": 41,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
