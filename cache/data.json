@@ -302724,12 +302724,41 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:movie:1468417",
+      "storedAt": 1763946320546,
+      "meta": {
+        "storedAt": 1763946320,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "1468417",
+        "imdbId": "tt26920256",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEB-DL DD 2 0 H 264-playWEB",
+            "url": "https://a.111477.xyz/movies/First%20Moon%20(2025)/movies%2FFirst%20Moon%20(2025)%2FFirst.Moon.2025.1080p.AMZN.WEB-DL.DD.2.0.H.264-playWEB.mkv",
+            "quality": "1080p",
+            "size": "3.2 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "First.Moon.2025.1080p.AMZN.WEB-DL.DD.2.0.H.264-playWEB.mkv"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-24T01:02:35.597Z",
-    "totalOriginalEntries": 6077,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-24T01:13:37.965Z",
+    "totalOriginalEntries": 6078,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
