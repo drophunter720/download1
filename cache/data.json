@@ -1193,12 +1193,120 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:14658:s35e1",
+      "storedAt": 1763986490813,
+      "meta": {
+        "storedAt": 1763986490,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "14658",
+        "imdbId": "tt0239195",
+        "season": 35,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/469990?token=e7d8cc329d82dd0c1c8a1abd536af6ca&expires=1769170488&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:80968:s1e1",
+      "storedAt": 1763986258383,
+      "meta": {
+        "storedAt": 1763986258,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "80968",
+        "imdbId": "tt8714904",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "BvSQqA65\n8.23 GB",
+            "url": "https://pixeldrain.net/api/file/BvSQqA65",
+            "quality": "2160p",
+            "size": "8.23 GB",
+            "fileName": "BvSQqA65",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "VNEbXmby\n2.51 GB",
+            "url": "https://pixeldrain.net/api/file/VNEbXmby",
+            "quality": "1080p",
+            "size": "2.51 GB",
+            "fileName": "VNEbXmby",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:80968:s1e1",
+      "storedAt": 1763986268505,
+      "meta": {
+        "storedAt": 1763986268,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "80968",
+        "imdbId": "tt8714904",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AC3 5 1][h265]-d3g",
+            "url": "https://a.111477.xyz/tvs/Narcos%20-%20Mexico/Season 1/tvs%2FNarcos%20-%20Mexico%2FSeason%201%2FNarcos%20-%20Mexico%20(2018)%20-%20S01E01%20-%20Camelot%20%5BBluray-1080p%5D%5BAC3%205.1%5D%5Bh265%5D-d3g.mkv",
+            "quality": "1080p",
+            "size": "1.6 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Narcos - Mexico (2018) - S01E01 - Camelot [Bluray-1080p][AC3 5.1][h265]-d3g.mkv"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-24T11:54:41.008Z",
-    "totalOriginalEntries": 20,
-    "newItemsInThisBatch": 7,
+    "exportedAt": "2025-11-24T12:15:26.731Z",
+    "totalOriginalEntries": 23,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
