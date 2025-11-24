@@ -1,0 +1,114 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:4khdhub:movie:865",
+      "storedAt": 1763972314697,
+      "meta": {
+        "storedAt": 1763972314,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "865",
+        "imdbId": "tt0093894",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "e4c76a633710eee8a85f7d48c2618032\n25.49 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/e4c76a633710eee8a85f7d48c2618032?token=1763972311",
+            "quality": "1080p",
+            "size": "25.49 GB",
+            "fileName": "e4c76a633710eee8a85f7d48c2618032",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "5f3661ab6b18c14f139d4014d62ea51e\n14.39 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/5f3661ab6b18c14f139d4014d62ea51e?token=1763972312",
+            "quality": "1080p",
+            "size": "14.39 GB",
+            "fileName": "5f3661ab6b18c14f139d4014d62ea51e",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "jqzWPjqd\n14.39 GB",
+            "url": "https://pixeldrain.net/api/file/jqzWPjqd",
+            "quality": "1080p",
+            "size": "14.39 GB",
+            "fileName": "jqzWPjqd",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:865",
+      "storedAt": 1763972305441,
+      "meta": {
+        "storedAt": 1763972301,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "865",
+        "imdbId": "tt0093894",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x264-CiNEFiLE",
+            "url": "https://a.111477.xyz/movies/The%20Running%20Man%20(1987)/movies%2FThe%20Running%20Man%20(1987)%2FThe.Running.Man.1987.1080p.BluRay.x264-CiNEFiLE.mkv",
+            "quality": "1080p",
+            "size": "7.9 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Running.Man.1987.1080p.BluRay.x264-CiNEFiLE.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x265",
+            "url": "https://a.111477.xyz/movies/The%20Running%20Man%20(1987)/movies%2FThe%20Running%20Man%20(1987)%2FThe.Running.Man.1987.1080p.BluRay.x265.mp4",
+            "quality": "1080p",
+            "size": "1.6 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Running.Man.1987.1080p.BluRay.x265.mp4"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS-HD MA 7 1-FGT",
+            "url": "https://a.111477.xyz/movies/The%20Running%20Man%20(1987)/movies%2FThe%20Running%20Man%20(1987)%2FThe.Running.Man.1987.REMASTERED.1080p.BluRay.REMUX.AVC.DTS-HD.MA.7.1-FGT.mkv",
+            "quality": "1080p | REMUX",
+            "size": "28.6 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Running.Man.1987.REMASTERED.1080p.BluRay.REMUX.AVC.DTS-HD.MA.7.1-FGT.mkv"
+          }
+        ],
+        "count": 3
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-24T08:26:26.046Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
