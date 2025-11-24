@@ -1,0 +1,71 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:movie:685274",
+      "storedAt": 1763952570655,
+      "meta": {
+        "storedAt": 1763952570,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "685274",
+        "imdbId": "tt13288678",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x264-KAZETV",
+            "url": "https://a.111477.xyz/movies/Mobile%20Suit%20Gundam%20Hathaway%20(2021)/movies%2FMobile%20Suit%20Gundam%20Hathaway%20(2021)%2FKidou.Senshi.Gundam.Senkou.no.Hathaway.2021.SUBFRENCH.1080p.BluRay.x264-KAZETV.mkv",
+            "quality": "1080p",
+            "size": "6.6 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Kidou.Senshi.Gundam.Senkou.no.Hathaway.2021.SUBFRENCH.1080p.BluRay.x264-KAZETV.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1911:s1e3",
+      "storedAt": 1763952788366,
+      "meta": {
+        "storedAt": 1763952788,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1911",
+        "imdbId": "tt0460627",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/191900?token=3d559a36a487b10517a6d6baccbe22bb&expires=1769136786&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-24T02:55:46.965Z",
+    "totalOriginalEntries": 2,
+    "newItemsInThisBatch": 2,
+    "format": "compact_v1"
+  }
+}
