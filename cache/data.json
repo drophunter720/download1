@@ -13108,12 +13108,223 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:18347:s1e5",
+      "storedAt": 1764104345361,
+      "meta": {
+        "storedAt": 1764104345,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "18347",
+        "imdbId": "tt1439629",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/145669?token=6069e05c5d9ffe1c5d941058b5e80c8c&expires=1769288339&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:2288:s1e2",
+      "storedAt": 1764104004962,
+      "meta": {
+        "storedAt": 1764104004,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "2288",
+        "imdbId": "tt0455275",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "31479faf74fb999db5c0e804a258e549\n10.09 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/31479faf74fb999db5c0e804a258e549?token=1764104003",
+            "quality": "1080p",
+            "size": "10.09 GB",
+            "fileName": "31479faf74fb999db5c0e804a258e549",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "SvPkCPMg\n10.09 GB",
+            "url": "https://pixeldrain.net/api/file/SvPkCPMg",
+            "quality": "1080p",
+            "size": "10.09 GB",
+            "fileName": "SvPkCPMg",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "22ad55a151da80dd9e366a775c1356d6\n4.38 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/22ad55a151da80dd9e366a775c1356d6?token=1764104001",
+            "quality": "1080p",
+            "size": "4.38 GB",
+            "fileName": "22ad55a151da80dd9e366a775c1356d6",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Hu6MZohw\n4.38 GB",
+            "url": "https://pixeldrain.net/api/file/Hu6MZohw",
+            "quality": "1080p",
+            "size": "4.38 GB",
+            "fileName": "Hu6MZohw",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "6a98e7ca847cc877695405b203e95160\n1.54 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/6a98e7ca847cc877695405b203e95160?token=1764104001",
+            "quality": "1080p",
+            "size": "1.54 GB",
+            "fileName": "6a98e7ca847cc877695405b203e95160",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "f2EVaLGr\n1.54 GB",
+            "url": "https://pixeldrain.net/api/file/f2EVaLGr",
+            "quality": "1080p",
+            "size": "1.54 GB",
+            "fileName": "f2EVaLGr",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:2288:s1e2",
+      "storedAt": 1764103996639,
+      "meta": {
+        "storedAt": 1764103996,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "2288",
+        "imdbId": "tt0455275",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-EPSiLON",
+            "url": "https://a.111477.xyz/tvs/Prison%20Break/Season 1/tvs%2FPrison%20Break%2FSeason%201%2FPrison%20Break%20(2005)%20-%20S01E02%20-%20Allen%20%5BBluray-1080p%20Remux%5D%5BDTS-HD%20MA%205.1%5D%5BAVC%5D-EPSiLON.mkv",
+            "quality": "1080p | REMUX",
+            "size": "10.1 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Prison Break (2005) - S01E02 - Allen [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-EPSiLON.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay REMUX AVC DTS-HD MA 5 1-NOGRP",
+            "url": "https://a.111477.xyz/tvs/Prison%20Break/Season 1/tvs%2FPrison%20Break%2FSeason%201%2FPrison.Break.S01E02.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv",
+            "quality": "1080p | REMUX",
+            "size": "10.0 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Prison.Break.S01E02.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-NOGRP.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:2288:s1e2",
+      "storedAt": 1764104012381,
+      "meta": {
+        "storedAt": 1764104012,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "2288",
+        "imdbId": "tt0455275",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Prison Break S1E2 - 2. Allen",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/prisonbreak/s1/Prison Break S01E02 English 720p Bluray [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "45min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Prison Break S1E2 - 2. Allen",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/prisonbreak/s1/Prison Break S01E02 English 720p Bluray [BollyFlix].mkv",
+            "quality": "1080p",
+            "size": "45min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-25T20:48:00.777Z",
-    "totalOriginalEntries": 266,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-25T21:01:14.819Z",
+    "totalOriginalEntries": 270,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
