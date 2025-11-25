@@ -1,0 +1,42 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:tv:1403:s5e12",
+      "storedAt": 1764061376689,
+      "meta": {
+        "storedAt": 1764061376,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1403",
+        "imdbId": "tt2364582",
+        "season": 5,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/194700?token=97d0673d61080767efdffc7dea481009&expires=1769245371&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-25T09:10:56.805Z",
+    "totalOriginalEntries": 1,
+    "newItemsInThisBatch": 1,
+    "format": "compact_v1"
+  }
+}
