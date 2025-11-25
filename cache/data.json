@@ -6954,12 +6954,44 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:62:s33e13",
+      "storedAt": 1764038199943,
+      "meta": {
+        "storedAt": 1764038199,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "62",
+        "imdbId": "tt0176095",
+        "season": 33,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/470361?token=8d658fae64e8262755ffcab3b37f0b95&expires=1769222196&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-25T02:34:26.618Z",
-    "totalOriginalEntries": 140,
-    "newItemsInThisBatch": 6,
+    "exportedAt": "2025-11-25T02:43:52.191Z",
+    "totalOriginalEntries": 141,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
