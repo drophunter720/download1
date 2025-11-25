@@ -9004,12 +9004,261 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:2370:s18e1",
+      "storedAt": 1764073350089,
+      "meta": {
+        "storedAt": 1764073349,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2370",
+        "imdbId": "tt0437005",
+        "season": 18,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/525511?token=b174d14ec1fc75215f9bd444440e30e4&expires=1769257344&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:60574:s1e3",
+      "storedAt": 1764072999439,
+      "meta": {
+        "storedAt": 1764072999,
+        "urlCount": 10,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "60574",
+        "imdbId": "tt2442560",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Peaky Blinders S01E03 1080p BluRay REMUX AVC [Hindi DDP 2.0 + English DTS-HD.MA 2.0] NTb-Ionicboy\n12.41 GB",
+            "url": "https://pub-b5ecaffddf2344a0ae2222f5e8913e1b.r2.dev/Peaky%20Blinders%20S01E03%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%202.0%20+%20English%20DTS-HD.MA%202.0]%20NTb-Ionicboy.mkv?token=1764072996",
+            "quality": "1080p",
+            "size": "12.41 GB",
+            "fileName": "Peaky Blinders S01E03 1080p BluRay REMUX AVC [Hindi DDP 2.0 + English DTS-HD.MA 2.0] NTb-Ionicboy",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "dmA5XXed\n12.41 GB",
+            "url": "https://pixeldrain.net/api/file/dmA5XXed",
+            "quality": "1080p",
+            "size": "12.41 GB",
+            "fileName": "dmA5XXed",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Peaky Blinders S01E03 1080p BluRay [Hindi DDP 2.0 + English FLAC 2.0] x264 DON-Ionicboy\n8.92 GB",
+            "url": "https://pub-b5ecaffddf2344a0ae2222f5e8913e1b.r2.dev/Peaky%20Blinders%20S01E03%201080p%20BluRay%20[Hindi%20DDP%202.0%20+%20English%20FLAC%202.0]%20x264%20DON-Ionicboy.mkv?token=1764072996",
+            "quality": "1080p",
+            "size": "8.92 GB",
+            "fileName": "Peaky Blinders S01E03 1080p BluRay [Hindi DDP 2.0 + English FLAC 2.0] x264 DON-Ionicboy",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "4jXj93a6\n8.92 GB",
+            "url": "https://pixeldrain.net/api/file/4jXj93a6",
+            "quality": "1080p",
+            "size": "8.92 GB",
+            "fileName": "4jXj93a6",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Peaky Blinders S01E03 1080p BluRay 10bit HEVC [Hindi DDP 2.0 + English DDP 2.0] x265 HONE-Ionicboy\n2.05 GB",
+            "url": "https://pub-b5ecaffddf2344a0ae2222f5e8913e1b.r2.dev/Peaky%20Blinders%20S01E03%201080p%20BluRay%2010bit%20HEVC%20[Hindi%20DDP%202.0%20+%20English%20DDP%202.0]%20x265%20HONE-Ionicboy.mkv?token=1764072994",
+            "quality": "1080p",
+            "size": "2.05 GB",
+            "fileName": "Peaky Blinders S01E03 1080p BluRay 10bit HEVC [Hindi DDP 2.0 + English DDP 2.0] x265 HONE-Ionicboy",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "HZzHsEpa\n2.05 GB",
+            "url": "https://pixeldrain.net/api/file/HZzHsEpa",
+            "quality": "1080p",
+            "size": "2.05 GB",
+            "fileName": "HZzHsEpa",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "d3ab1eebff7e30ea1b0addd18b9e2fa6\n2.05 GB",
+            "url": "https://true.boblover.click/d3ab1eebff7e30ea1b0addd18b9e2fa6?token=1764072996",
+            "quality": "1080p",
+            "size": "2.05 GB",
+            "fileName": "d3ab1eebff7e30ea1b0addd18b9e2fa6",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "qPFMjGnu\n2.05 GB",
+            "url": "https://pixeldrain.net/api/file/qPFMjGnu",
+            "quality": "1080p",
+            "size": "2.05 GB",
+            "fileName": "qPFMjGnu",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Peaky Blinders S01 E03 REPACK 2160p BluRay 10bit DoVi HDR [Hindi DDP 2.0 + English DTS-HD.MA 2.0] H.265 R&H-Ionicboy\n16.84 GB",
+            "url": "https://pub-b5ecaffddf2344a0ae2222f5e8913e1b.r2.dev/Peaky%20Blinders%20S01%20E03%20REPACK%202160p%20BluRay%2010bit%20DoVi%20HDR%20[Hindi%20DDP%202.0%20+%20English%20DTS-HD.MA%202.0]%20H.265%20R&H-Ionicboy.mkv?token=1764072994",
+            "quality": "2160p",
+            "size": "16.84 GB",
+            "fileName": "Peaky Blinders S01 E03 REPACK 2160p BluRay 10bit DoVi HDR [Hindi DDP 2.0 + English DTS-HD.MA 2.0] H.265 R&H-Ionicboy",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Ei3vjtia\n16.84 GB",
+            "url": "https://pixeldrain.net/api/file/Ei3vjtia",
+            "quality": "2160p",
+            "size": "16.84 GB",
+            "fileName": "Ei3vjtia",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 10
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:60574:s1e3",
+      "storedAt": 1764072990042,
+      "meta": {
+        "storedAt": 1764072990,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "60574",
+        "imdbId": "tt2442560",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 2 0][AVC]-FraMeSToR",
+            "url": "https://a.111477.xyz/tvs/Peaky%20Blinders/Season 1/tvs%2FPeaky%20Blinders%2FSeason%201%2FPeaky%20Blinders%20(2013)%20-%20S01E03%20-%20Episode%203%20%5BBluray-1080p%20Remux%5D%5BDTS-HD%20MA%202.0%5D%5BAVC%5D-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": "12.3 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Peaky Blinders (2013) - S01E03 - Episode 3 [Bluray-1080p Remux][DTS-HD MA 2.0][AVC]-FraMeSToR.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:60574:s1e3",
+      "storedAt": 1764073012273,
+      "meta": {
+        "storedAt": 1764073011,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "60574",
+        "imdbId": "tt2442560",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Peaky Blinders S1E3 - 3. Episode 3",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/pb/s1/Peaky.Blinders.S01E03.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "55min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Peaky Blinders S1E3 - 3. Episode 3",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/pb/s1/Peaky.Blinders.S01E03.720p.English.Esubs.mkv",
+            "quality": "1080p",
+            "size": "55min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-25T12:14:46.999Z",
-    "totalOriginalEntries": 188,
-    "newItemsInThisBatch": 0,
+    "exportedAt": "2025-11-25T12:24:35.744Z",
+    "totalOriginalEntries": 192,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
