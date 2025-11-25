@@ -7582,12 +7582,44 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:1892:s5e22",
+      "storedAt": 1764047027422,
+      "meta": {
+        "storedAt": 1764047027,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1892",
+        "imdbId": "tt0098800",
+        "season": 5,
+        "episode": 22,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/162864?token=05f6d3cfaa5f05a0cbd2c3e5c09cd587&expires=1769231019&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-25T04:54:40.869Z",
-    "totalOriginalEntries": 159,
-    "newItemsInThisBatch": 0,
+    "exportedAt": "2025-11-25T05:05:20.342Z",
+    "totalOriginalEntries": 160,
+    "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
 }
