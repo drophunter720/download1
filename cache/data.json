@@ -8497,12 +8497,96 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1416:s7e8",
+      "storedAt": 1764059295841,
+      "meta": {
+        "storedAt": 1764059295,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1416",
+        "imdbId": "tt0413573",
+        "season": 7,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEB-DL x265 Garshasp)",
+            "url": "https://a.111477.xyz/tvs/Grey's%20Anatomy/Season 7/tvs%2FGrey",
+            "quality": "1080p",
+            "size": "1.6 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Grey's Anatomy (2005) - S07E08 - Something's Gotta Give (1080p AMZN WEB-DL x265 Garshasp).mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x265]-iVy",
+            "url": "https://a.111477.xyz/tvs/Grey's%20Anatomy/Season 7/tvs%2FGrey",
+            "quality": "1080p",
+            "size": "546.7 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Grey's Anatomy (2005) - S07E08 - Somethings Gotta Give [WEBRip-1080p][EAC3 5.1][x265]-iVy.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEB-DL DD5 1 H265-SiGMA",
+            "url": "https://a.111477.xyz/tvs/Grey's%20Anatomy/Season 7/tvs%2FGrey",
+            "quality": "1080p",
+            "size": "2.4 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Greys.Anatomy.S07E08.Somethings.Gotta.Give.1080p.AMZN.WEB-DL.DD5.1.H265-SiGMA.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1416:s7e8",
+      "storedAt": 1764059315948,
+      "meta": {
+        "storedAt": 1764059315,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1416",
+        "imdbId": "tt0413573",
+        "season": 7,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Grey's Anatomy S7E8 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1693972247/s7/episode8.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-25T08:27:07.869Z",
-    "totalOriginalEntries": 175,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-25T08:36:24.444Z",
+    "totalOriginalEntries": 177,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
