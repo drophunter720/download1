@@ -9883,12 +9883,120 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1412:s4e21",
+      "storedAt": 1764080024726,
+      "meta": {
+        "storedAt": 1764080024,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1412",
+        "imdbId": "tt2193021",
+        "season": 4,
+        "episode": 21,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-DTHD",
+            "url": "https://a.111477.xyz/tvs/Arrow/Season 4/tvs%2FArrow%2FSeason%204%2FArrow%20(2012)%20-%20S04E21%20-%20Monument%20Point%20%5BBluray-1080p%20Remux%5D%5BDTS-HD%20MA%205.1%5D%5BAVC%5D-DTHD.mkv",
+            "quality": "1080p | REMUX",
+            "size": "5.5 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Arrow (2012) - S04E21 - Monument Point [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-DTHD.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1412:s4e21",
+      "storedAt": 1764080096361,
+      "meta": {
+        "storedAt": 1764080096,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1412",
+        "imdbId": "tt2193021",
+        "season": 4,
+        "episode": 21,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Arrow S4E21 - 21. Monument Point",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/arrow/s4/Arrow.S04.E21.BluRay.720p.English.AAC.5.1.x264.ESub.mkv",
+            "quality": "1080p",
+            "size": "41min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Arrow S4E21 - 21. Monument Point",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/arrow/s4/Arrow.S04.E21.BluRay.720p.English.AAC.5.1.x264.ESub.mkv",
+            "quality": "1080p",
+            "size": "41min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:14658:s5e1",
+      "storedAt": 1764079618692,
+      "meta": {
+        "storedAt": 1764079618,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "14658",
+        "imdbId": "tt0239195",
+        "season": 5,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/469539?token=b27cf10dd89c85a1bc706f125a5d0049&expires=1769263614&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-25T14:01:21.407Z",
-    "totalOriginalEntries": 202,
-    "newItemsInThisBatch": 0,
+    "exportedAt": "2025-11-25T14:15:06.257Z",
+    "totalOriginalEntries": 205,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
