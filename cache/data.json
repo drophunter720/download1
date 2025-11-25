@@ -10952,11 +10952,104 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:tv:130392:s1e1",
+      "storedAt": 1764089436374,
+      "meta": {
+        "storedAt": 1764089435,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "130392",
+        "imdbId": "tt13890060",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "75886be25225f35cb72888b955eefe11\n1.39 GB",
+            "url": "https://true.boblover.click/75886be25225f35cb72888b955eefe11?token=1764089433",
+            "quality": "1080p",
+            "size": "1.39 GB",
+            "fileName": "75886be25225f35cb72888b955eefe11",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Wy5xDd7r\n1.39 GB",
+            "url": "https://pixeldrain.net/api/file/Wy5xDd7r",
+            "quality": "1080p",
+            "size": "1.39 GB",
+            "fileName": "Wy5xDd7r",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 720p",
+            "title": "dbdc342d3c87b0eba35c9b39b672edc6\n741.71 MB",
+            "url": "https://true.boblover.click/dbdc342d3c87b0eba35c9b39b672edc6?token=1764089434",
+            "quality": "720p",
+            "size": "741.71 MB",
+            "fileName": "dbdc342d3c87b0eba35c9b39b672edc6",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 720p",
+            "title": "TKCA6fPk\n741.71 MB",
+            "url": "https://pixeldrain.net/api/file/TKCA6fPk",
+            "quality": "720p",
+            "size": "741.71 MB",
+            "fileName": "TKCA6fPk",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "8c6b3bd86c05c6cd8f5f47668fbf5936\n899.55 MB",
+            "url": "https://true.boblover.click/8c6b3bd86c05c6cd8f5f47668fbf5936?token=1764089434",
+            "quality": "1080p",
+            "size": "899.55 MB",
+            "fileName": "8c6b3bd86c05c6cd8f5f47668fbf5936",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "4kkuy8EF\n899.55 MB",
+            "url": "https://pixeldrain.net/api/file/4kkuy8EF",
+            "quality": "1080p",
+            "size": "899.55 MB",
+            "fileName": "4kkuy8EF",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-25T16:48:22.506Z",
-    "totalOriginalEntries": 223,
+    "exportedAt": "2025-11-25T16:58:42.106Z",
+    "totalOriginalEntries": 224,
     "newItemsInThisBatch": 1,
     "format": "compact_v1"
   }
