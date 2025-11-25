@@ -12477,12 +12477,72 @@
         ],
         "count": 8
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:814338",
+      "storedAt": 1764098265248,
+      "meta": {
+        "storedAt": 1764098265,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "814338",
+        "imdbId": "tt14369780",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/142614?token=7a395b11e3c7bcb42d5e5114f5908755&expires=1769282261&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:1396:s5e2",
+      "storedAt": 1764098222257,
+      "meta": {
+        "storedAt": 1764098222,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "1396",
+        "imdbId": "tt0903747",
+        "season": 5,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Breaking Bad S05E02 Madrigal 1080p BluRay x264 [Hindi DD 2 0 + English DTS]-ESubs~(ARROW) NTb\n5.08GB",
+            "url": "https://worker-twilight-mode-e30b.risob94105.workers.dev/bcae0ab199c19a1d57c28d79c62c764b9ceecc7360b1d8d70db1aa50e2a76cdfd4fe5aeabd1d4ad9ef4b80c5fa4c13a2ffa49bbb551915a18963cfab9c33b92f44ef4c0133701edf7c6f9b5113fd103c0e9c2765f1bb802ff20c78b7b6409035c00713eeebae6f19a218696de9c8c19a1eae53fa4e054c43e376dd301b7b68f33b0c271b2a27f1d0b53575d931d5b64b53847f08f9ed7577c15091af0a6666d0db95f29fcf102a32490d5d3ef41000b9::04bc4c00a8af8a19ae76422a4adfce90/Breaking.Bad.S05E02.Madrigal.1080p.BluRay.x264.[Hindi DD 2.0  English DTS]-ESubs(ARROW) NTb.mkv",
+            "quality": "1080p | BluRay",
+            "size": "5.08GB",
+            "fileName": "Breaking.Bad.S05E02.Madrigal.1080p.BluRay.x264.[Hindi DD 2.0 + English DTS]-ESubs~(ARROW) NTb.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-25T19:16:53.732Z",
-    "totalOriginalEntries": 251,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-25T19:25:06.564Z",
+    "totalOriginalEntries": 253,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
