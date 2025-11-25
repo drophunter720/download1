@@ -12102,12 +12102,230 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1639:s1e1",
+      "storedAt": 1764097344994,
+      "meta": {
+        "storedAt": 1764097344,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1639",
+        "imdbId": "tt0813715",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][10bit][h265][DTS 5 1]-KC",
+            "url": "https://a.111477.xyz/tvs/Heroes/Season 1/tvs%2FHeroes%2FSeason%201%2FHeroes%20(2006)%20-%20S01E01%20-%20Genesis%20%5BBluray-2160p%5D%5B10bit%5D%5Bh265%5D%5BDTS%205.1%5D-KC.mkv",
+            "quality": "2160p",
+            "size": "10.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Heroes (2006) - S01E01 - Genesis [Bluray-2160p][10bit][h265][DTS 5.1]-KC.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DTS 5 1][x264]-CLASSiC",
+            "url": "https://a.111477.xyz/tvs/Heroes/Season 1/tvs%2FHeroes%2FSeason%201%2FHeroes%20(2006)%20-%20S01E01%20-%20Genesis%20%5BBluray-1080p%5D%5BDTS%205.1%5D%5Bx264%5D-CLASSiC.mkv",
+            "quality": "1080p",
+            "size": "5.6 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Heroes (2006) - S01E01 - Genesis [Bluray-1080p][DTS 5.1][x264]-CLASSiC.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 2 0][h264]-Z-B",
+            "url": "https://a.111477.xyz/tvs/Heroes/Season 1/tvs%2FHeroes%2FSeason%201%2FHeroes%20(2024)%20-%20S01E01%20-%20Episode%201%20%5BWEBDL-1080p%5D%5BAAC%202.0%5D%5Bh264%5D-Z-B.mkv",
+            "quality": "1080p",
+            "size": "569.9 MB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Heroes (2024) - S01E01 - Episode 1 [WEBDL-1080p][AAC 2.0][h264]-Z-B.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1639:s1e1",
+      "storedAt": 1764097348158,
+      "meta": {
+        "storedAt": 1764097348,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1639",
+        "imdbId": "tt0813715",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Sheroes S1E1 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1702704890/s1/episode1.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:246386:s1e2",
+      "storedAt": 1764097423856,
+      "meta": {
+        "storedAt": 1764097423,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "246386",
+        "imdbId": "tt31314751",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "f788234de8e3638b739c3e9274200ece\n5.5 GB",
+            "url": "https://true.boblover.click/f788234de8e3638b739c3e9274200ece?token=1764097422",
+            "quality": "2160p",
+            "size": "5.5 GB",
+            "fileName": "f788234de8e3638b739c3e9274200ece",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "tzWmTp9i\n5.5 GB",
+            "url": "https://pixeldrain.net/api/file/tzWmTp9i",
+            "quality": "2160p",
+            "size": "5.5 GB",
+            "fileName": "tzWmTp9i",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "g\n5.5 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=e2DR2hhGBKCK&n=6tgCgLQa&fn=All.Her.Fault.S01E02.2160p.AMZN.WEB-DL.English.DDP5.1.H.265-4kHdHub.Com.mkv",
+            "quality": "2160p",
+            "size": "5.5 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "a7c1c2fc8f67e8d412721d3adafe169e\n2.59 GB",
+            "url": "https://true.boblover.click/a7c1c2fc8f67e8d412721d3adafe169e?token=1764097419",
+            "quality": "1080p",
+            "size": "2.59 GB",
+            "fileName": "a7c1c2fc8f67e8d412721d3adafe169e",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "D1Gbu5fw\n2.59 GB",
+            "url": "https://pixeldrain.net/api/file/D1Gbu5fw",
+            "quality": "1080p",
+            "size": "2.59 GB",
+            "fileName": "D1Gbu5fw",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n2.59 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=Sn3ZKhQSlJ5T&n=usBwhRKS&fn=All.Her.Fault.S01E02.1080p.AMZN.WEB-DL.English.DDP5.1.H.264-4kHdHub.Com.mkv",
+            "quality": "1080p",
+            "size": "2.59 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:246386:s1e2",
+      "storedAt": 1764097414490,
+      "meta": {
+        "storedAt": 1764097414,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "246386",
+        "imdbId": "tt31314751",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h265]-playWEB",
+            "url": "https://a.111477.xyz/tvs/All%20Her%20Fault/Season 1/tvs%2FAll%20Her%20Fault%2FSeason%201%2FAll%20Her%20Fault%20(2025)%20-%20S01E02%20-%20Episode%202%20%5BWEBDL-2160p%5D%5BEAC3%205.1%5D%5Bh265%5D-playWEB.mkv",
+            "quality": "2160p",
+            "size": "5.5 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "All Her Fault (2025) - S01E02 - Episode 2 [WEBDL-2160p][EAC3 5.1][h265]-playWEB.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x264]-SYLiX",
+            "url": "https://a.111477.xyz/tvs/All%20Her%20Fault/Season 1/tvs%2FAll%20Her%20Fault%2FSeason%201%2FAll%20Her%20Fault%20(2025)%20-%20S01E02%20-%20Episode%202%20%5BWEBDL-1080p%5D%5BEAC3%205.1%5D%5Bx264%5D-SYLiX.mkv",
+            "quality": "1080p",
+            "size": "2.9 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "All Her Fault (2025) - S01E02 - Episode 2 [WEBDL-1080p][EAC3 5.1][x264]-SYLiX.mkv"
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-25T18:54:36.269Z",
-    "totalOriginalEntries": 244,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-25T19:07:41.536Z",
+    "totalOriginalEntries": 248,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
