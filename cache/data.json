@@ -17375,12 +17375,365 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:768334",
+      "storedAt": 1764144060514,
+      "meta": {
+        "storedAt": 1764144060,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "768334",
+        "imdbId": "tt12877640",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/87318?token=8846ba44be14b763a2d940788e2b0133&expires=1769328053&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:132117:s1e1",
+      "storedAt": 1764144124114,
+      "meta": {
+        "storedAt": 1764144123,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "132117",
+        "imdbId": "tt15477488",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Farzi S1E1 - 1. Artist",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/farzi/s1/Farzi.S01.E01.720p.HEVC.Hindi.WEB-DL5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "quality": "1080p",
+            "size": "60min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Farzi S1E1 - 1. Artist",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/farzi/s1/Farzi.S01.E01.720p.HEVC.Hindi.WEB-DL5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "quality": "1080p",
+            "size": "60min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:132117:s1e2",
+      "storedAt": 1764144174450,
+      "meta": {
+        "storedAt": 1764144174,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "132117",
+        "imdbId": "tt15477488",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Farzi S1E2 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1679427538/s1/episode2.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:132117:s1e3",
+      "storedAt": 1764144212243,
+      "meta": {
+        "storedAt": 1764144211,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "132117",
+        "imdbId": "tt15477488",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Farzi S1E3 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1679427538/s1/episode3.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:132117:s1e4",
+      "storedAt": 1764144258692,
+      "meta": {
+        "storedAt": 1764144258,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "132117",
+        "imdbId": "tt15477488",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Farzi S1E4 - 4. Dhanrakshak",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/farzi/s1/Farzi.S01.E04.720p.HEVC.Hindi.WEB-DL5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "quality": "1080p",
+            "size": "52min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Farzi S1E4 - 4. Dhanrakshak",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/farzi/s1/Farzi.S01.E04.720p.HEVC.Hindi.WEB-DL5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "quality": "1080p",
+            "size": "52min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:132117:s1e5",
+      "storedAt": 1764144298137,
+      "meta": {
+        "storedAt": 1764144298,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "132117",
+        "imdbId": "tt15477488",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Farzi S1E5 - 5. Second Oldest Profession",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/farzi/s1/Farzi.S01.E05.720p.HEVC.Hindi.WEB-DL5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "quality": "1080p",
+            "size": "60min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Farzi S1E5 - 5. Second Oldest Profession",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/farzi/s1/Farzi.S01.E05.720p.HEVC.Hindi.WEB-DL5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "quality": "1080p",
+            "size": "60min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:132117:s1e7",
+      "storedAt": 1764144388997,
+      "meta": {
+        "storedAt": 1764144386,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "132117",
+        "imdbId": "tt15477488",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Farzi S1E7 - 7. Supernote",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/farzi/s1/Farzi.S01.E07.720p.HEVC.Hindi.WEB-DL5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "quality": "1080p",
+            "size": "53min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Farzi S1E7 - 7. Supernote",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/farzi/s1/Farzi.S01.E07.720p.HEVC.Hindi.WEB-DL5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "quality": "1080p",
+            "size": "53min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:132117:s1e8",
+      "storedAt": 1764144502807,
+      "meta": {
+        "storedAt": 1764144502,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "132117",
+        "imdbId": "tt15477488",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Farzi S1E8 - 8. Crash and Burn",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/farzi/s1/Farzi.S01.E08.720p.HEVC.Hindi.WEB-DL5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "quality": "1080p",
+            "size": "66min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Farzi S1E8 - 8. Crash and Burn",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/farzi/s1/Farzi.S01.E08.720p.HEVC.Hindi.WEB-DL5.1.ESub.x265-HDHub4u.Tv.mkv",
+            "quality": "1080p",
+            "size": "66min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:259015:s1e1",
+      "storedAt": 1764144505862,
+      "meta": {
+        "storedAt": 1764144505,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "259015",
+        "imdbId": "tt33320428",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/349873?token=fe9533a3734de5b4833923d757d6f456&expires=1769328500&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-26T08:00:34.754Z",
-    "totalOriginalEntries": 366,
-    "newItemsInThisBatch": 4,
+    "exportedAt": "2025-11-26T08:09:14.255Z",
+    "totalOriginalEntries": 375,
+    "newItemsInThisBatch": 9,
     "format": "compact_v1"
   }
 }
