@@ -14117,12 +14117,139 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:tv:107365:s4e1",
+      "storedAt": 1764115177948,
+      "meta": {
+        "storedAt": 1764115177,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "107365",
+        "imdbId": "tt12878838",
+        "season": 4,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x264]-ETHEL",
+            "url": "https://a.111477.xyz/tvs/Bel-Air/Season 4/tvs%2FBel-Air%2FSeason%204%2FBel-Air%20(2022)%20-%20S04E01%20-%20The%20Maybes%20%5BWEBDL-1080p%5D%5BEAC3%205.1%5D%5Bx264%5D-ETHEL.mkv",
+            "quality": "1080p",
+            "size": "1.6 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Bel-Air (2022) - S04E01 - The Maybes [WEBDL-1080p][EAC3 5.1][x264]-ETHEL.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1908:s1e1",
+      "storedAt": 1764115273473,
+      "meta": {
+        "storedAt": 1764115273,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1908",
+        "imdbId": "tt0086759",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][AAC 2 0][h264]-BTN",
+            "url": "https://a.111477.xyz/tvs/Miami%20Vice/Season 1/tvs%2FMiami%20Vice%2FSeason%201%2FMiami%20Vice%20(1984)%20-%20S01E01%20-%20Brothers%20Keeper%20%5BWEBRip-720p%5D%5BAAC%202.0%5D%5Bh264%5D-BTN.mkv",
+            "quality": "720p",
+            "size": "1.7 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Miami Vice (1984) - S01E01 - Brothers Keeper [WEBRip-720p][AAC 2.0][h264]-BTN.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1908:s1e1",
+      "storedAt": 1764115278456,
+      "meta": {
+        "storedAt": 1764115277,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1908",
+        "imdbId": "tt0086759",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Miami Vice S1E1 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1668364047/s1/episode1.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:71737:s2e12",
+      "storedAt": 1764115290218,
+      "meta": {
+        "storedAt": 1764115289,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "71737",
+        "imdbId": "tt6461726",
+        "season": 2,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/273750?token=abe0bad25a6024bfe710c61b7b675336&expires=1769299286&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-25T23:55:25.731Z",
-    "totalOriginalEntries": 288,
-    "newItemsInThisBatch": 1,
+    "exportedAt": "2025-11-26T00:04:31.386Z",
+    "totalOriginalEntries": 292,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
