@@ -20557,12 +20557,173 @@
         ],
         "count": 9
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:1620:s6e12",
+      "storedAt": 1764154272419,
+      "meta": {
+        "storedAt": 1764154272,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1620",
+        "imdbId": "tt0313043",
+        "season": 6,
+        "episode": 12,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/271429?token=230b1519a5cd6bd89ccd1fd83d24f3df&expires=1769338266&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:95171:s3e3",
+      "storedAt": 1764153875538,
+      "meta": {
+        "storedAt": 1764153874,
+        "urlCount": 9,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "95171",
+        "imdbId": "tt10324164",
+        "season": 3,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "12f7feea1bfbb50e6aa23aae9576c651\n6 GB",
+            "url": "http://love.stranger-things.buzz/12f7feea1bfbb50e6aa23aae9576c651?token=1764153870",
+            "quality": "2160p",
+            "size": "6 GB",
+            "fileName": "12f7feea1bfbb50e6aa23aae9576c651",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "GtsFcaMT\n6 GB",
+            "url": "https://pixeldrain.net/api/file/GtsFcaMT",
+            "quality": "2160p",
+            "size": "6 GB",
+            "fileName": "GtsFcaMT",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "g\n6 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=pQIyOsphSSbS&n=PppxBLrS&fn=Prehistoric.Planet.S03E03.2160p.ATVP.WEB-DL.English.DDP5.1.Atmos.H.265-4kHdHub.Com.mkv",
+            "quality": "2160p",
+            "size": "6 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "7de2adf4d7b45cabda579d3cb489da59\n7.02 GB",
+            "url": "http://love.stranger-things.buzz/7de2adf4d7b45cabda579d3cb489da59?token=1764153872",
+            "quality": "2160p",
+            "size": "7.02 GB",
+            "fileName": "7de2adf4d7b45cabda579d3cb489da59",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "rFUSvzNc\n7.02 GB",
+            "url": "https://pixeldrain.net/api/file/rFUSvzNc",
+            "quality": "2160p",
+            "size": "7.02 GB",
+            "fileName": "rFUSvzNc",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "g\n7.02 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=pd78vsoEBLAY&n=aw5xBDwL&fn=Prehistoric.Planet.S03E03.2160p.ATVP.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-4kHdHub.com.mkv",
+            "quality": "2160p",
+            "size": "7.02 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "21c9c1cf8f52fd7c28de047a95ba9561\n3.04 GB",
+            "url": "http://love.stranger-things.buzz/21c9c1cf8f52fd7c28de047a95ba9561?token=1764153870",
+            "quality": "1080p",
+            "size": "3.04 GB",
+            "fileName": "21c9c1cf8f52fd7c28de047a95ba9561",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "J6rmcZyN\n3.04 GB",
+            "url": "https://pixeldrain.net/api/file/J6rmcZyN",
+            "quality": "1080p",
+            "size": "3.04 GB",
+            "fileName": "J6rmcZyN",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 1080p",
+            "title": "g\n3.04 GB",
+            "url": "https://mega.blockxpiracy.net/cs/g?x=Eze5G9gFQZrC&n=egwlDRIR&fn=Prehistoric.Planet.S03E03.1080p.ATVP.WEB-DL.English.DDP5.1.Atmos.H.264-4kHdHub.Com.mkv",
+            "quality": "1080p",
+            "size": "3.04 GB",
+            "fileName": "g",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 9
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-26T10:43:16.475Z",
-    "totalOriginalEntries": 446,
-    "newItemsInThisBatch": 5,
+    "exportedAt": "2025-11-26T10:51:43.629Z",
+    "totalOriginalEntries": 448,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
