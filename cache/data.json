@@ -43391,12 +43391,357 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:11036",
+      "storedAt": 1764218594315,
+      "meta": {
+        "storedAt": 1764218594,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "11036",
+        "imdbId": "tt0332280",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Notebook 2004 1080p 10bit BluRay HEVC x265 [Hindi DDP 2.0 128kbps + English AAC 5.1] ESub-Tigole-4kHdHub\n4.17 GB",
+            "url": "https://pub-b5ecaffddf2344a0ae2222f5e8913e1b.r2.dev/The%20Notebook%202004%201080p%2010bit%20BluRay%20HEVC%20x265%20[Hindi%20DDP%202.0%20128kbps%20+%20English%20AAC%205.1]%20ESub-Tigole-4kHdHub.mkv?token=1764218588",
+            "quality": "1080p",
+            "size": "4.17 GB",
+            "fileName": "The Notebook 2004 1080p 10bit BluRay HEVC x265 [Hindi DDP 2.0 128kbps + English AAC 5.1] ESub-Tigole-4kHdHub",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "EMUA9JRm\n4.17 GB",
+            "url": "https://pixeldrain.net/api/file/EMUA9JRm",
+            "quality": "1080p",
+            "size": "4.17 GB",
+            "fileName": "EMUA9JRm",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:11036",
+      "storedAt": 1764218578635,
+      "meta": {
+        "storedAt": 1764218578,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "11036",
+        "imdbId": "tt0332280",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Blu-ray Remux VC-1 TrueHD 5 1-KRaLiMaRKo [1o80p ReMuX]",
+            "url": "https://a.111477.xyz/movies/The%20Notebook%20(2004)/movies%2FThe%2520Notebook%2520%25282004%2529%2FThe.Notebook.2004.1080p.Blu-ray.Remux.VC-1.TrueHD.5.1-KRaLiMaRKo%2520%255B1o80p%2520ReMuX%255D.mkv",
+            "quality": "1080p | REMUX",
+            "size": "5.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Notebook.2004.1080p.Blu-ray.Remux.VC-1.TrueHD.5.1-KRaLiMaRKo [1o80p ReMuX].mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x264-CiNEFiLE-xpost",
+            "url": "https://a.111477.xyz/movies/The%20Notebook%20(2004)/movies%2FThe%2520Notebook%2520%25282004%2529%2FThe.Notebook.2004.1080p.BluRay.x264-CiNEFiLE-xpost.mkv",
+            "quality": "1080p",
+            "size": "2.2 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Notebook.2004.1080p.BluRay.x264-CiNEFiLE-xpost.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x264 YIFY",
+            "url": "https://a.111477.xyz/movies/The%20Notebook%20(2004)/movies%2FThe%2520Notebook%2520%25282004%2529%2FThe.Notebook.2004.1080p.BluRay.x264.YIFY.mp4",
+            "quality": "1080p",
+            "size": "1.9 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Notebook.2004.1080p.BluRay.x264.YIFY.mp4"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Bluray EAC3 5 1 x265-iVy",
+            "url": "https://a.111477.xyz/movies/The%20Notebook%20(2004)/movies%2FThe%2520Notebook%2520%25282004%2529%2FThe.Notebook.2004.1080p.Bluray.EAC3.5.1.x265-iVy.mkv",
+            "quality": "1080p",
+            "size": "2.2 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Notebook.2004.1080p.Bluray.EAC3.5.1.x265-iVy.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies VC-1 TrueHD 5 1 REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/The%20Notebook%20(2004)/movies%2FThe%2520Notebook%2520%25282004%2529%2FThe.Notebook.2004.Bluray.1080p.VC-1.TrueHD.5.1.REMUX-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": "20.5 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Notebook.2004.Bluray.1080p.VC-1.TrueHD.5.1.REMUX-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay x264-ENJOY",
+            "url": "https://a.111477.xyz/movies/The%20Notebook%20(2004)/movies%2FThe%2520Notebook%2520%25282004%2529%2FThe.Notebook.2004.NORDiC.1080p.BluRay.x264-ENJOY.mkv",
+            "quality": "1080p",
+            "size": "5.4 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The.Notebook.2004.NORDiC.1080p.BluRay.x264-ENJOY.mkv"
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:11036",
+      "storedAt": 1764218596954,
+      "meta": {
+        "storedAt": 1764218596,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "11036",
+        "imdbId": "tt0332280",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Notebook - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2004/notebook.mkv",
+            "quality": "1080p",
+            "size": "2h 03m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Notebook - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2004/notebook.mkv",
+            "quality": "1080p",
+            "size": "2h 03m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Notebook - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2004/notebook.mkv",
+            "quality": "720p",
+            "size": "2h 03m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Notebook - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2004/notebook.mkv",
+            "quality": "720p",
+            "size": "2h 03m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:11036",
+      "storedAt": 1764218606268,
+      "meta": {
+        "storedAt": 1764218606,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "11036",
+        "imdbId": "tt0332280",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "The Notebook (2004) 1080p BluRay 10bit HEVC [Hindi DDP 2 0 + English AAC 5 1] x265 (Tigole-UHDMovies)\n2.16GB",
+            "url": "https://worker-round-band-2caf.lotigi5232.workers.dev/293b44b56b82520d1e048b96478d73ae2899f845a2bdd76e11391e9f6c3435ea467ebed1a27b39a86e0e5b19bbe6a2d1fab5deabecb5bd2829eea56f223649d94177e05357940ceb5004e6d9eaf43d5cd6f5c4730c8bfe5e55333518cec49d8e719a99118f49e30420f066482bc84b1cb769093f039540aa5d13db02efea5684441546cb838aeda9aa835bd2b48c9090ddb7d5a7574225a4b00c5e8831441aaac86da2e6d39d27ca9827ac1f7d02b066::ca40788d85da0b0471d8c755f1f7af2e/The Notebook (2004) 1080p BluRay 10bit HEVC [Hindi DDP 2.0  English AAC 5.1] x265 (Tigole-UHDMovies).mkv",
+            "quality": "1080p | BluRay",
+            "size": "2.16GB",
+            "fileName": "The Notebook (2004) 1080p BluRay 10bit HEVC [Hindi DDP 2.0 + English AAC 5.1] x265 (Tigole-UHDMovies).mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:109866:s1e15",
+      "storedAt": 1764218395609,
+      "meta": {
+        "storedAt": 1764218395,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "109866",
+        "imdbId": "tt13085996",
+        "season": 1,
+        "episode": 15,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/451320?token=c83d1d10a079a544250453afa3a2defa&expires=1769402393&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:112217:s1e1",
+      "storedAt": 1764218229140,
+      "meta": {
+        "storedAt": 1764218229,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "112217",
+        "imdbId": "tt13364846",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/448790?token=a762636553d815fa7c4abb81ef2c1448&expires=1769402222&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:241454:s1e6",
+      "storedAt": 1764218405370,
+      "meta": {
+        "storedAt": 1764218405,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "241454",
+        "imdbId": "tt30446769",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/258470?token=e352e63b9c99018f868b5da527c73770&expires=1769402400&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:95403:s1e7",
+      "storedAt": 1764218587872,
+      "meta": {
+        "storedAt": 1764218587,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "95403",
+        "imdbId": "tt8291284",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/142034?token=ca6aed6ce695b1a7a6305e86006b3147&expires=1769402581&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-27T04:36:30.662Z",
-    "totalOriginalEntries": 1088,
-    "newItemsInThisBatch": 7,
+    "exportedAt": "2025-11-27T04:45:17.500Z",
+    "totalOriginalEntries": 1096,
+    "newItemsInThisBatch": 8,
     "format": "compact_v1"
   }
 }
