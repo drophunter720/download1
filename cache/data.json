@@ -67873,12 +67873,328 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:583372",
+      "storedAt": 1764278638719,
+      "meta": {
+        "storedAt": 1764278638,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "583372",
+        "imdbId": "tt9876822",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/484037?token=50e06abaaccfb9066ce248e848d8bfc5&expires=1769462636&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1668:s9e13",
+      "storedAt": 1764278763267,
+      "meta": {
+        "storedAt": 1764278763,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1668",
+        "imdbId": "tt0108778",
+        "season": 9,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/176455?token=a0e35445a8059e6f3bac2669c3944c97&expires=1769462760&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:17610:s9e24",
+      "storedAt": 1764278902630,
+      "meta": {
+        "storedAt": 1764278902,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "17610",
+        "imdbId": "tt1378167",
+        "season": 9,
+        "episode": 24,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/197618?token=7b806d5214e50de0bfd9385a3c5eb110&expires=1769462897&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:202555:s1e7",
+      "storedAt": 1764278872783,
+      "meta": {
+        "storedAt": 1764278872,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "202555",
+        "imdbId": "tt18923754",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Daredevil - Born Again S01E07 1080p DSNP WEB-DL [Hindi DDP 5.1 + English DDP 5.1] x264 NTb-LUMiX\n1.63 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Daredevil%20-%20Born%20Again%20S01E07%201080p%20DSNP%20WEB-DL%20[Hindi%20DDP%205.1%20+%20English%20DDP%205.1]%20x264%20NTb-LUMiX.mkv?token=1764278870",
+            "quality": "1080p",
+            "size": "1.63 GB",
+            "fileName": "Daredevil - Born Again S01E07 1080p DSNP WEB-DL [Hindi DDP 5.1 + English DDP 5.1] x264 NTb-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "WyQeFTKi\n1.63 GB",
+            "url": "https://pixeldrain.net/api/file/WyQeFTKi",
+            "quality": "1080p",
+            "size": "1.63 GB",
+            "fileName": "WyQeFTKi",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Daredevil - Born Again S01E07 2160p DSNP WEB-DL DV HDR 10bit HEVC [Hindi DDP 5.1 + English DDP 5.1] x265 NTb-LUMiX\n4.08 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Daredevil%20-%20Born%20Again%20S01E07%202160p%20DSNP%20WEB-DL%20DV%20HDR%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DDP%205.1]%20x265%20NTb-LUMiX.mkv?token=1764278870",
+            "quality": "2160p",
+            "size": "4.08 GB",
+            "fileName": "Daredevil - Born Again S01E07 2160p DSNP WEB-DL DV HDR 10bit HEVC [Hindi DDP 5.1 + English DDP 5.1] x265 NTb-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "QxCebzEn\n4.08 GB",
+            "url": "https://pixeldrain.net/api/file/QxCebzEn",
+            "quality": "2160p",
+            "size": "4.08 GB",
+            "fileName": "QxCebzEn",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Daredevil - Born Again S01E07 1080p DSNP WEB-DL 10bit HEVC [Hindi DDP 5.1 + English DDP 5.1] x265 HONE-LUMiX\n1.51 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Daredevil%20-%20Born%20Again%20S01E07%201080p%20DSNP%20WEB-DL%2010bit%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DDP%205.1]%20x265%20HONE-LUMiX.mkv?token=1764278870",
+            "quality": "1080p",
+            "size": "1.51 GB",
+            "fileName": "Daredevil - Born Again S01E07 1080p DSNP WEB-DL 10bit HEVC [Hindi DDP 5.1 + English DDP 5.1] x265 HONE-LUMiX",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "DaziGpog\n1.51 GB",
+            "url": "https://pixeldrain.net/api/file/DaziGpog",
+            "quality": "1080p",
+            "size": "1.51 GB",
+            "fileName": "DaziGpog",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Daredevil.Born.Again.S01E07.Art.for.Arts.Sake.2160p.JIOHS.WEB-DL.Hindi-English.DDP5.1.ESub.H.265-HDHub4US.Ms\n3.58 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Daredevil.Born.Again.S01E07.Art.for.Arts.Sake.2160p.JIOHS.WEB-DL.Hindi-English.DDP5.1.ESub.H.265-HDHub4US.Ms.mkv?token=1764278870",
+            "quality": "2160p",
+            "size": "3.58 GB",
+            "fileName": "Daredevil.Born.Again.S01E07.Art.for.Arts.Sake.2160p.JIOHS.WEB-DL.Hindi-English.DDP5.1.ESub.H.265-HDHub4US.Ms",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "2ZgM3w96\n3.58 GB",
+            "url": "https://pixeldrain.net/api/file/2ZgM3w96",
+            "quality": "2160p",
+            "size": "3.58 GB",
+            "fileName": "2ZgM3w96",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:202555:s1e7",
+      "storedAt": 1764278864746,
+      "meta": {
+        "storedAt": 1764278864,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "202555",
+        "imdbId": "tt18923754",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][h264]-STC",
+            "url": "https://a.111477.xyz/tvs/Daredevil%20-%20Born%20Again/Season 1/tvs%2FDaredevil%2520-%2520Born%2520Again%2FSeason%25201%2FDaredevil%2520-%2520Born%2520Again%2520%25282025%2529%2520-%2520S01E07%2520-%2520Art%2520for%2520Arts%2520Sake%2520%255BWEBDL-1080p%255D%255BEAC3%2520Atmos%25205.1%255D%255Bh264%255D-STC.mkv",
+            "quality": "1080p",
+            "size": "20.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Daredevil - Born Again (2025) - S01E07 - Art for Arts Sake [WEBDL-1080p][EAC3 Atmos 5.1][h264]-STC.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 Atmos 5 1][h264]-successfulcrab",
+            "url": "https://a.111477.xyz/tvs/Daredevil%20-%20Born%20Again/Season 1/tvs%2FDaredevil%2520-%2520Born%2520Again%2FSeason%25201%2FDaredevil%2520-%2520Born%2520Again%2520%25282025%2529%2520-%2520S01E07%2520-%2520Art%2520for%2520Arts%2520Sake%2520%255BWEBDL-1080p%255D%255BEAC3%2520Atmos%25205.1%255D%255Bh264%255D-successfulcrab.mkv",
+            "quality": "1080p",
+            "size": "20.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Daredevil - Born Again (2025) - S01E07 - Art for Arts Sake [WEBDL-1080p][EAC3 Atmos 5.1][h264]-successfulcrab.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:258771:s1e2",
+      "storedAt": 1764278983005,
+      "meta": {
+        "storedAt": 1764278982,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "258771",
+        "imdbId": "tt33498743",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/358556?token=b1fc9e6f06d5891601948b5b6df64ea5&expires=1769462981&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:92685:s1e5",
+      "storedAt": 1764278805549,
+      "meta": {
+        "storedAt": 1764278805,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "92685",
+        "imdbId": "tt8050756",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/197942?token=09df3023aa86d097926fda1e367b5ac8&expires=1769462803&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-27T21:21:56.621Z",
-    "totalOriginalEntries": 1726,
-    "newItemsInThisBatch": 11,
+    "exportedAt": "2025-11-27T21:31:05.609Z",
+    "totalOriginalEntries": 1733,
+    "newItemsInThisBatch": 7,
     "format": "compact_v1"
   }
 }
