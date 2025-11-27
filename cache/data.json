@@ -61368,12 +61368,143 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:623135",
+      "storedAt": 1764265249202,
+      "meta": {
+        "storedAt": 1764265249,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "623135",
+        "imdbId": "tt12664618",
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "jEWPNQ7z\n15.31 GB",
+            "url": "https://pixeldrain.net/api/file/jEWPNQ7z",
+            "quality": "2160p",
+            "size": "15.31 GB",
+            "fileName": "jEWPNQ7z",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "m3nKYEmG\n13.01 GB",
+            "url": "https://pixeldrain.net/api/file/m3nKYEmG",
+            "quality": "2160p",
+            "size": "13.01 GB",
+            "fileName": "m3nKYEmG",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "nhUNH2Cd\n6.51 GB",
+            "url": "https://pixeldrain.net/api/file/nhUNH2Cd",
+            "quality": "1080p",
+            "size": "6.51 GB",
+            "fileName": "nhUNH2Cd",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "w1UX8TMF\n3.47 GB",
+            "url": "https://pixeldrain.net/api/file/w1UX8TMF",
+            "quality": "1080p",
+            "size": "3.47 GB",
+            "fileName": "w1UX8TMF",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:126027:s2e14",
+      "storedAt": 1764265357662,
+      "meta": {
+        "storedAt": 1764265357,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "126027",
+        "imdbId": "tt11379026",
+        "season": 2,
+        "episode": 14,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/428041?token=eb05868981cc9962517d70f20f3c6de8&expires=1769449355&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:138971:s1e8",
+      "storedAt": 1764265203652,
+      "meta": {
+        "storedAt": 1764265203,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "138971",
+        "imdbId": "tt14586544",
+        "season": 1,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/384068?token=d784a913d8388fef516c8f1eb9c75b45&expires=1769449200&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-27T17:39:44.814Z",
-    "totalOriginalEntries": 1545,
-    "newItemsInThisBatch": 8,
+    "exportedAt": "2025-11-27T17:48:14.825Z",
+    "totalOriginalEntries": 1548,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
