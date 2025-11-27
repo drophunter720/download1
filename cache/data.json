@@ -49785,11 +49785,219 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:1214130",
+      "storedAt": 1764237145668,
+      "meta": {
+        "storedAt": 1764237144,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1214130",
+        "imdbId": "tt26720001",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "7e0f67fe5383172891837e8fda69c415\n5.68 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/7e0f67fe5383172891837e8fda69c415?token=1764237141",
+            "quality": "1080p",
+            "size": "5.68 GB",
+            "fileName": "7e0f67fe5383172891837e8fda69c415",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "6d4AfDzn\n5.68 GB",
+            "url": "https://pixeldrain.net/api/file/6d4AfDzn",
+            "quality": "1080p",
+            "size": "5.68 GB",
+            "fileName": "6d4AfDzn",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:1214130",
+      "storedAt": 1764237134746,
+      "meta": {
+        "storedAt": 1764237134,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "1214130",
+        "imdbId": "tt26720001",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEB-DL DDP5 1 H 264-FLUX",
+            "url": "https://a.111477.xyz/movies/Stitch%20Head%20(2025)/movies%2FStitch%2520Head%2520%25282025%2529%2FStitch.Head.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv",
+            "quality": "1080p",
+            "size": "5.7 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Stitch.Head.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEBRip 10Bit DDP5 1 x265-NeoNoir",
+            "url": "https://a.111477.xyz/movies/Stitch%20Head%20(2025)/movies%2FStitch%2520Head%2520%25282025%2529%2FStitch.Head.2025.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir.mkv",
+            "quality": "1080p",
+            "size": "10.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Stitch.Head.2025.1080p.WEBRip.10Bit.DDP5.1.x265-NeoNoir.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:591121",
+      "storedAt": 1764236997948,
+      "meta": {
+        "storedAt": 1764236997,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "591121",
+        "imdbId": "tt7594584",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/483107?token=d1176343a4b8f886598db729e5c3a586&expires=1769420994&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:108485:s7e4",
+      "storedAt": 1764236837681,
+      "meta": {
+        "storedAt": 1764236837,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "108485",
+        "imdbId": "tt13049144",
+        "season": 7,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/451749?token=41f7b884425c7e155cf8776d67353eb6&expires=1769420834&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:156714:s1e6",
+      "storedAt": 1764236985032,
+      "meta": {
+        "storedAt": 1764236984,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "156714",
+        "imdbId": "tt17524566",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/381364?token=b2f322972d273112bf2ab16c68f8026b&expires=1769420978&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:67133:s1e1",
+      "storedAt": 1764236991521,
+      "meta": {
+        "storedAt": 1764236991,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "67133",
+        "imdbId": "tt1399045",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/48716?token=f505dc322c590e39217bb9894cee2f10&expires=1769420985&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-27T09:47:20.819Z",
-    "totalOriginalEntries": 1250,
+    "exportedAt": "2025-11-27T09:55:24.915Z",
+    "totalOriginalEntries": 1256,
     "newItemsInThisBatch": 6,
     "format": "compact_v1"
   }
