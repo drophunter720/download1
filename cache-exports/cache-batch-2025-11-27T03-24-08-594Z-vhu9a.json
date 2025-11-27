@@ -1,0 +1,292 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:dahmermovies:movie:75674",
+      "storedAt": 1764213475612,
+      "meta": {
+        "storedAt": 1764213475,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "75674",
+        "imdbId": "tt1591479",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies DTS-HD MA 5 1 AVC REMUX-FraMeSToR",
+            "url": "https://a.111477.xyz/movies/Act%20of%20Valor%20(2012)/movies%2FAct%2520of%2520Valor%2520%25282012%2529%2FAct.of.Valor.2012.Open.Matte.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": "25.2 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Act.of.Valor.2012.Open.Matte.BluRay.1080p.DTS-HD.MA.5.1.AVC.REMUX-FraMeSToR.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:210905:s1e1",
+      "storedAt": 1764213368428,
+      "meta": {
+        "storedAt": 1764213368,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "210905",
+        "imdbId": "tt25274446",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/222695?token=de0f6ebc4cfce105d45ab3a100c03a03&expires=1769397366&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:249762:s1e3",
+      "storedAt": 1764213483792,
+      "meta": {
+        "storedAt": 1764213483,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "249762",
+        "imdbId": "tt31924772",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The.Vince.Staples.Show.S01E03.Brown.Family.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.264-4kHdHub.Com\n787.32 MB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/The.Vince.Staples.Show.S01E03.Brown.Family.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.264-4kHdHub.Com.mkv?token=1764213481",
+            "quality": "1080p",
+            "size": "787.32 MB",
+            "fileName": "The.Vince.Staples.Show.S01E03.Brown.Family.1080p.NF.WEB-DL.Hindi.DDP5.1-English.DDP5.1.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "xjvuaoYK\n787.32 MB",
+            "url": "https://pixeldrain.net/api/file/xjvuaoYK",
+            "quality": "1080p",
+            "size": "787.32 MB",
+            "fileName": "xjvuaoYK",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The Vince Staples Show S01E03 2160p NF 10bit WEB-DL DoVi HDR HEVC [Hindi DDP 5.1 + English DDP 5.1] H.265 NOGRP-Ionicboy\n1.65 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/The%20Vince%20Staples%20Show%20S01E03%202160p%20NF%2010bit%20WEB-DL%20DoVi%20HDR%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DDP%205.1]%20H.265%20NOGRP-Ionicboy.mkv?token=1764213481",
+            "quality": "2160p",
+            "size": "1.65 GB",
+            "fileName": "The Vince Staples Show S01E03 2160p NF 10bit WEB-DL DoVi HDR HEVC [Hindi DDP 5.1 + English DDP 5.1] H.265 NOGRP-Ionicboy",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "awgx2HGW\n1.65 GB",
+            "url": "https://pixeldrain.net/api/file/awgx2HGW",
+            "quality": "2160p",
+            "size": "1.65 GB",
+            "fileName": "awgx2HGW",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The Vince Staples Show S01E03 2160p NF 10bit WEB-DL SDR HEVC [Hindi DDP 5.1 + English DDP 5.1] H.265 HHWEB-Ionicboy\n1.62 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/The%20Vince%20Staples%20Show%20S01E03%202160p%20NF%2010bit%20WEB-DL%20SDR%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DDP%205.1]%20H.265%20HHWEB-Ionicboy.mkv?token=1764213481",
+            "quality": "2160p",
+            "size": "1.62 GB",
+            "fileName": "The Vince Staples Show S01E03 2160p NF 10bit WEB-DL SDR HEVC [Hindi DDP 5.1 + English DDP 5.1] H.265 HHWEB-Ionicboy",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "N5D1R6Y4\n1.62 GB",
+            "url": "https://pixeldrain.net/api/file/N5D1R6Y4",
+            "quality": "2160p",
+            "size": "1.62 GB",
+            "fileName": "N5D1R6Y4",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:4614:s15e10",
+      "storedAt": 1764213557761,
+      "meta": {
+        "storedAt": 1764213557,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4614",
+        "imdbId": "tt0364845",
+        "season": 15,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/197218?token=72c60b62f3c8613a33e78a1b604767e2&expires=1769397551&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:4614:s15e11",
+      "storedAt": 1764213641504,
+      "meta": {
+        "storedAt": 1764213640,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4614",
+        "imdbId": "tt0364845",
+        "season": 15,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/197219?token=fffe9ed402de074b5ef972e665a7af28&expires=1769397636&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:65294:s1e2",
+      "storedAt": 1764213401902,
+      "meta": {
+        "storedAt": 1764213401,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "65294",
+        "imdbId": "tt4834206",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/309732?token=109eba747412a32210b661a98bdea333&expires=1769397398&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:65294:s1e3",
+      "storedAt": 1764213570450,
+      "meta": {
+        "storedAt": 1764213570,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "65294",
+        "imdbId": "tt4834206",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/309733?token=470b4ffc6761abf4b02cccebdb9a6df0&expires=1769397564&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-27T03:24:08.594Z",
+    "totalOriginalEntries": 7,
+    "newItemsInThisBatch": 7,
+    "format": "compact_v1"
+  }
+}
