@@ -41336,12 +41336,140 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:128015:s4e8",
+      "storedAt": 1764211380533,
+      "meta": {
+        "storedAt": 1764211380,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "128015",
+        "imdbId": "tt13980362",
+        "season": 4,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/284055?token=0539015d4eb1bd7572071af5e7756681&expires=1769395374&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:1622:s5e1",
+      "storedAt": 1764211025266,
+      "meta": {
+        "storedAt": 1764211025,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "1622",
+        "imdbId": "tt0460681",
+        "season": 5,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Supernatural.S05E01.Sympathy.for.the.Devil.2009-2010.BDRemux.1080p.mkv",
+            "url": "https://a.111477.xyz/tvs/Supernatural/Season 5/tvs%2FSupernatural%2FSeason%25205%2FSupernatural.S05E01.Sympathy.for.the.Devil.2009-2010.BDRemux.1080p.mkv",
+            "quality": "1080p | REMUX",
+            "size": "5.4 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Supernatural.S05E01.Sympathy.for.the.Devil.2009-2010.BDRemux.1080p.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:1622:s5e1",
+      "storedAt": 1764211481535,
+      "meta": {
+        "storedAt": 1764211481,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "1622",
+        "imdbId": "tt0460681",
+        "season": 5,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Supernatural S5E1 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1679551530/s5/episode1.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:95403:s1e5",
+      "storedAt": 1764211392854,
+      "meta": {
+        "storedAt": 1764211392,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "95403",
+        "imdbId": "tt8291284",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/141430?token=0d82bb50e61ce9f0f90a973a8456bfbd&expires=1769395386&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-27T02:36:13.245Z",
-    "totalOriginalEntries": 1025,
-    "newItemsInThisBatch": 7,
+    "exportedAt": "2025-11-27T02:45:14.965Z",
+    "totalOriginalEntries": 1029,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
