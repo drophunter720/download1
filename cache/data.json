@@ -39224,12 +39224,138 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:665886",
+      "storedAt": 1764205283956,
+      "meta": {
+        "storedAt": 1764205283,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "665886",
+        "imdbId": "tt6763778",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/437008?token=2ff718e0a5664c90a420c3e5e3df36ef&expires=1769389279&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:105971:s2e9",
+      "storedAt": 1764205415602,
+      "meta": {
+        "storedAt": 1764205415,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "105971",
+        "imdbId": "tt12708542",
+        "season": 2,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/202498?token=df6a3b2f20d14b6b449d4c0f5b6de45f&expires=1769389411&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:241549:s1e1",
+      "storedAt": 1764205199208,
+      "meta": {
+        "storedAt": 1764205199,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "241549",
+        "imdbId": "tt12408718",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/358284?token=47f9e3eb072ebcbfa7885274c1d557f6&expires=1769389194&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:66025:s4e5",
+      "storedAt": 1764205088731,
+      "meta": {
+        "storedAt": 1764205088,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "66025",
+        "imdbId": "tt5574490",
+        "season": 4,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/280929?token=b53dcb33690af80abcb95b3c6715f96c&expires=1769389085&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-27T00:57:34.007Z",
-    "totalOriginalEntries": 965,
-    "newItemsInThisBatch": 5,
+    "exportedAt": "2025-11-27T01:06:13.770Z",
+    "totalOriginalEntries": 969,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
