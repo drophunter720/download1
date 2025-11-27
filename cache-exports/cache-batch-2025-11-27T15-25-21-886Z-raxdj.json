@@ -1,0 +1,238 @@
+{
+  "originalCacheEntries": [
+    {
+      "key": "prov:vixsrc:movie:961520",
+      "storedAt": 1764257018600,
+      "meta": {
+        "storedAt": 1764257018,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "961520",
+        "imdbId": "tt10369964",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/417809?token=f0aadd1f1f37aac0f319b4a1a490a4d5&expires=1769441012&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:209380:s1e1",
+      "storedAt": 1764256957016,
+      "meta": {
+        "storedAt": 1764256956,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "209380",
+        "imdbId": "tt19785594",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/412543?token=47e7b90cb45a30814004b190ee9510cd&expires=1769440952&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:31631:s4e8",
+      "storedAt": 1764256689845,
+      "meta": {
+        "storedAt": 1764256689,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "31631",
+        "imdbId": "tt1495708",
+        "season": 4,
+        "episode": 8,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/313063?token=16289dae6e5224baf1560aa8520e33e6&expires=1769440684&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:58841:s12e16",
+      "storedAt": 1764256912620,
+      "meta": {
+        "storedAt": 1764256912,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "58841",
+        "imdbId": "tt2805096",
+        "season": 12,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/325113?token=a55253de083c9a9adc88621ab8a5d757&expires=1769440909&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:67744:s2e1",
+      "storedAt": 1764256639781,
+      "meta": {
+        "storedAt": 1764256639,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "67744",
+        "imdbId": "tt5290382",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "BQYja22J\n2.1 GB",
+            "url": "https://pixeldrain.net/api/file/BQYja22J",
+            "quality": "1080p",
+            "size": "2.1 GB",
+            "fileName": "BQYja22J",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "UbUBuuZt\n803.92 MB",
+            "url": "https://pixeldrain.net/api/file/UbUBuuZt",
+            "quality": "1080p",
+            "size": "803.92 MB",
+            "fileName": "UbUBuuZt",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "PhxC7esv\n2.33 GB",
+            "url": "https://pixeldrain.net/api/file/PhxC7esv",
+            "quality": "2160p",
+            "size": "2.33 GB",
+            "fileName": "PhxC7esv",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Mindhunter 2017 S02E01 2160p NF 10bit WEB-DL DoVi HDR HEVC [Hindi DDP 5.1 + English DDP 5.1] H.265 HONE-4kHdHub.com\n2.33 GB",
+            "url": "https://pub-02e6d123e62a40f2941dea0623f4cf9d.r2.dev/Mindhunter%202017%20S02E01%202160p%20NF%2010bit%20WEB-DL%20DoVi%20HDR%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DDP%205.1]%20H.265%20HONE-4kHdHub.com.mkv",
+            "quality": "2160p",
+            "size": "2.33 GB",
+            "fileName": "Mindhunter 2017 S02E01 2160p NF 10bit WEB-DL DoVi HDR HEVC [Hindi DDP 5.1 + English DDP 5.1] H.265 HONE-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:67744:s2e1",
+      "storedAt": 1764256643839,
+      "meta": {
+        "storedAt": 1764256643,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "67744",
+        "imdbId": "tt5290382",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Mindhunters S2E1 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1669086645/s2/episode1.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    }
+  ],
+  "exportInfo": {
+    "exportedAt": "2025-11-27T15:25:21.886Z",
+    "totalOriginalEntries": 6,
+    "newItemsInThisBatch": 6,
+    "format": "compact_v1"
+  }
+}
