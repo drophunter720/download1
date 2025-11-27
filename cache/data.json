@@ -40302,12 +40302,222 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:2668",
+      "storedAt": 1764208410078,
+      "meta": {
+        "storedAt": 1764208410,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "2668",
+        "imdbId": "tt0162661",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "c425fd7e2ee68ae9724ba572be7e5b78\n19.47 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/c425fd7e2ee68ae9724ba572be7e5b78?token=1764208406",
+            "quality": "1080p",
+            "size": "19.47 GB",
+            "fileName": "c425fd7e2ee68ae9724ba572be7e5b78",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "1da9273b623ce600cce5a3e243c5f4c7\n8.45 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/1da9273b623ce600cce5a3e243c5f4c7?token=1764208406",
+            "quality": "1080p",
+            "size": "8.45 GB",
+            "fileName": "1da9273b623ce600cce5a3e243c5f4c7",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ExAwDz8n\n8.45 GB",
+            "url": "https://pixeldrain.net/api/file/ExAwDz8n",
+            "quality": "1080p",
+            "size": "8.45 GB",
+            "fileName": "ExAwDz8n",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "33dd4cc082799e6778b726906ba18ea2\n5.17 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/33dd4cc082799e6778b726906ba18ea2?token=1764208407",
+            "quality": "1080p",
+            "size": "5.17 GB",
+            "fileName": "33dd4cc082799e6778b726906ba18ea2",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ix2nHp33\n5.17 GB",
+            "url": "https://pixeldrain.net/api/file/ix2nHp33",
+            "quality": "1080p",
+            "size": "5.17 GB",
+            "fileName": "ix2nHp33",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:2668",
+      "storedAt": 1764208415457,
+      "meta": {
+        "storedAt": 1764208415,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "2668",
+        "imdbId": "tt0162661",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Sleepy Hollow - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/1999/sleepyhollow.mkv",
+            "quality": "1080p",
+            "size": "1h 45m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Sleepy Hollow - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/1999/sleepyhollow.mkv",
+            "quality": "1080p",
+            "size": "1h 45m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Sleepy Hollow - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/1999/sleepyhollow.mkv",
+            "quality": "720p",
+            "size": "1h 45m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Sleepy Hollow - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/1999/sleepyhollow.mkv",
+            "quality": "720p",
+            "size": "1h 45m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:66732:s5e2",
+      "storedAt": 1764208817243,
+      "meta": {
+        "storedAt": 1764208816,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "66732",
+        "imdbId": "tt4574334",
+        "season": 5,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/529482?token=be02b7f26bca456aa0ea1291e7c2fff7&expires=1769392812&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:79588:s1e7",
+      "storedAt": 1764208481456,
+      "meta": {
+        "storedAt": 1764208481,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "79588",
+        "imdbId": "tt8425532",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/510739?token=be6c0b967fa52735d2dc5dd93aceab9f&expires=1769392474&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-27T01:53:37.941Z",
-    "totalOriginalEntries": 997,
-    "newItemsInThisBatch": 5,
+    "exportedAt": "2025-11-27T02:01:39.624Z",
+    "totalOriginalEntries": 1001,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
