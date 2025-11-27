@@ -50535,12 +50535,135 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:1519347",
+      "storedAt": 1764240300684,
+      "meta": {
+        "storedAt": 1764240299,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1519347",
+        "imdbId": "tt38575798",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "6c00252e0de27a13c5748ee4a19406ca\n4.27 GB",
+            "url": "https://true.boblover.click/6c00252e0de27a13c5748ee4a19406ca?token=1764240295",
+            "quality": "1080p",
+            "size": "4.27 GB",
+            "fileName": "6c00252e0de27a13c5748ee4a19406ca",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "1RyCcTrt\n4.27 GB",
+            "url": "https://pixeldrain.net/api/file/1RyCcTrt",
+            "quality": "1080p",
+            "size": "4.27 GB",
+            "fileName": "1RyCcTrt",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "0cdbb09c50c07f0d8d6a50e0a9abf7de\n1.93 GB",
+            "url": "https://true.boblover.click/0cdbb09c50c07f0d8d6a50e0a9abf7de?token=1764240295",
+            "quality": "1080p",
+            "size": "1.93 GB",
+            "fileName": "0cdbb09c50c07f0d8d6a50e0a9abf7de",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "EP3g4Aq1\n1.93 GB",
+            "url": "https://pixeldrain.net/api/file/EP3g4Aq1",
+            "quality": "1080p",
+            "size": "1.93 GB",
+            "fileName": "EP3g4Aq1",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "56950dd663fa461e92a5f0826b6302df\n987.61 MB",
+            "url": "https://true.boblover.click/56950dd663fa461e92a5f0826b6302df?token=1764240295",
+            "quality": "1080p",
+            "size": "987.61 MB",
+            "fileName": "56950dd663fa461e92a5f0826b6302df",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "C83doXDA\n987.61 MB",
+            "url": "https://pixeldrain.net/api/file/C83doXDA",
+            "quality": "1080p",
+            "size": "987.61 MB",
+            "fileName": "C83doXDA",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:82092:s1e1",
+      "storedAt": 1764240281202,
+      "meta": {
+        "storedAt": 1764240281,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "82092",
+        "imdbId": "tt7671068",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/204207?token=904a059277233863c31b63893bdfae9d&expires=1769424279&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-27T10:33:37.800Z",
-    "totalOriginalEntries": 1273,
-    "newItemsInThisBatch": 4,
+    "exportedAt": "2025-11-27T10:49:37.263Z",
+    "totalOriginalEntries": 1275,
+    "newItemsInThisBatch": 2,
     "format": "compact_v1"
   }
 }
