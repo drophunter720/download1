@@ -90877,12 +90877,394 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1227136",
+      "storedAt": 1764339700240,
+      "meta": {
+        "storedAt": 1764339700,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1227136",
+        "imdbId": "tt27936770",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/370505?token=3689fafdc74bdc5f70a14697699dd88e&expires=1769523695&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:1442778",
+      "storedAt": 1764339861884,
+      "meta": {
+        "storedAt": 1764339861,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1442778",
+        "imdbId": "tt31307640",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/529608?token=992f045ff0a3cfd72d87a32a4037b95a&expires=1769523857&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:62206",
+      "storedAt": 1764339725156,
+      "meta": {
+        "storedAt": 1764339725,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "62206",
+        "imdbId": "tt1622547",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "30 Minutes or Less 2011 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English DTS-HD.MA 5.1] EPSiLON-4kHdHub.com\n18.61 GB",
+            "url": "https://pub-b5ecaffddf2344a0ae2222f5e8913e1b.r2.dev/30%20Minutes%20or%20Less%202011%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%205.1%20+%20English%20DTS-HD.MA%205.1]%20EPSiLON-4kHdHub.com.mkv?token=1764339722",
+            "quality": "1080p",
+            "size": "18.61 GB",
+            "fileName": "30 Minutes or Less 2011 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English DTS-HD.MA 5.1] EPSiLON-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "FfCXEDiT\n18.61 GB",
+            "url": "https://pixeldrain.net/api/file/FfCXEDiT",
+            "quality": "1080p",
+            "size": "18.61 GB",
+            "fileName": "FfCXEDiT",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "30 Minutes or Less 2011 1080p BluRay [Hindi DDP 5.1 + English DD 5.1] x264 DON-4kHdHub.com\n7.7 GB",
+            "url": "https://pub-b5ecaffddf2344a0ae2222f5e8913e1b.r2.dev/30%20Minutes%20or%20Less%202011%201080p%20BluRay%20[Hindi%20DDP%205.1%20+%20English%20DD%205.1]%20x264%20DON-4kHdHub.com.mkv?token=1764339722",
+            "quality": "1080p",
+            "size": "7.7 GB",
+            "fileName": "30 Minutes or Less 2011 1080p BluRay [Hindi DDP 5.1 + English DD 5.1] x264 DON-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "YegzRqAo\n7.7 GB",
+            "url": "https://pixeldrain.net/api/file/YegzRqAo",
+            "quality": "1080p",
+            "size": "7.7 GB",
+            "fileName": "YegzRqAo",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "30 Minutes or Less 2011 1080p 10bit BluRay HEVC [Hindi DDP 5.1 + English DD 5.1] H.265 3xO-4kHdHub.com\n4.23 GB",
+            "url": "https://pub-b5ecaffddf2344a0ae2222f5e8913e1b.r2.dev/30%20Minutes%20or%20Less%202011%201080p%2010bit%20BluRay%20HEVC%20[Hindi%20DDP%205.1%20+%20English%20DD%205.1]%20H.265%203xO-4kHdHub.com.mkv?token=1764339722",
+            "quality": "1080p",
+            "size": "4.23 GB",
+            "fileName": "30 Minutes or Less 2011 1080p 10bit BluRay HEVC [Hindi DDP 5.1 + English DD 5.1] H.265 3xO-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "Licst6Nw\n4.23 GB",
+            "url": "https://pixeldrain.net/api/file/Licst6Nw",
+            "quality": "1080p",
+            "size": "4.23 GB",
+            "fileName": "Licst6Nw",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:62206",
+      "storedAt": 1764339714035,
+      "meta": {
+        "storedAt": 1764339714,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "62206",
+        "imdbId": "tt1622547",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies NF WEB-DL DDP5 1 AV1-Saon",
+            "url": "https://a.111477.xyz/movies/30%20Minutes%20or%20Less%20(2011)/movies%2F30%2520Minutes%2520or%2520Less%2520%25282011%2529%2F30.Minutes.or.Less.2011.1080p.NF.WEB-DL.DDP5.1.AV1-Saon.mkv",
+            "quality": "1080p",
+            "size": "1.4 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "30.Minutes.or.Less.2011.1080p.NF.WEB-DL.DDP5.1.AV1-Saon.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies )",
+            "url": "https://a.111477.xyz/movies/30%20Minutes%20or%20Less%20(2011)/movies%2F30%2520Minutes%2520or%2520Less%2520%25282011%2529%2FUspet.za.30.minut.2011.BluRay-Remux%25281080p%2529.mkv",
+            "quality": "1080p | REMUX",
+            "size": "18.5 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Uspet.za.30.minut.2011.BluRay-Remux(1080p).mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:211747:s1e7",
+      "storedAt": 1764339917805,
+      "meta": {
+        "storedAt": 1764339917,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "211747",
+        "imdbId": "tt14166656",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/174611?token=d43efd85b51eb98fefec0e85756e54bb&expires=1769523913&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:233194:s1e21",
+      "storedAt": 1764339765504,
+      "meta": {
+        "storedAt": 1764339765,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "233194",
+        "imdbId": "tt29366100",
+        "season": 1,
+        "episode": 21,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/377021?token=fbb14200ea5747225f67ec8d619ead81&expires=1769523759&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:456:s14e9",
+      "storedAt": 1764340098931,
+      "meta": {
+        "storedAt": 1764340098,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "456",
+        "imdbId": "tt0096697",
+        "season": 14,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/203418?token=c2bef4359301dab48e5ed2e6557b63c1&expires=1769524091&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:65334:s5e11",
+      "storedAt": 1764339971905,
+      "meta": {
+        "storedAt": 1764339971,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "65334",
+        "imdbId": "tt2580046",
+        "season": 5,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/226264?token=6eb31fdba6934f545483cad95a7cb5a1&expires=1769523964&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:900:s1e9",
+      "storedAt": 1764340122046,
+      "meta": {
+        "storedAt": 1764340122,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "900",
+        "imdbId": "tt0840196",
+        "season": 1,
+        "episode": 9,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/66552?token=56326994821e59cbeb824cff67abbccf&expires=1769524119&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:97428:s1e2",
+      "storedAt": 1764339879425,
+      "meta": {
+        "storedAt": 1764339879,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "97428",
+        "imdbId": "tt11141900",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/462063?token=0e7aab0e40d8d80da276e9c01b678968&expires=1769523872&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-28T14:21:22.567Z",
-    "totalOriginalEntries": 2339,
-    "newItemsInThisBatch": 7,
+    "exportedAt": "2025-11-28T14:29:55.397Z",
+    "totalOriginalEntries": 2349,
+    "newItemsInThisBatch": 10,
     "format": "compact_v1"
   }
 }
