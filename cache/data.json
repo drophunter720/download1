@@ -76591,12 +76591,394 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:473021",
+      "storedAt": 1764301766980,
+      "meta": {
+        "storedAt": 1764301766,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "473021",
+        "imdbId": "tt6992978",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/426735?token=d5e27b6b85c8e4f31db473eaf621ac63&expires=1769485763&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2691:s4e16",
+      "storedAt": 1764301579694,
+      "meta": {
+        "storedAt": 1764301577,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2691",
+        "imdbId": "tt0369179",
+        "season": 4,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/392038?token=6b61cf9778b44e1909a113918cee3d8b&expires=1769485576&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:71789:s3e16",
+      "storedAt": 1764301726476,
+      "meta": {
+        "storedAt": 1764301726,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "71789",
+        "imdbId": "tt6473344",
+        "season": 3,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/160368?token=00f8b137783bf0693e475727e271a63b&expires=1769485719&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:76479:s4e1",
+      "storedAt": 1764301418237,
+      "meta": {
+        "storedAt": 1764301418,
+        "urlCount": 12,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "76479",
+        "imdbId": "tt1190634",
+        "season": 4,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The.Boys.S04E01.Department.of.Dirty.Tricks.2160p.AMZN.WEB-DL.DUAL.DDP5.1.HDR10+.H.265-4kHdHub.Com\n6.82 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/The.Boys.S04E01.Department.of.Dirty.Tricks.2160p.AMZN.WEB-DL.DUAL.DDP5.1.HDR10+.H.265-4kHdHub.Com.mkv?token=1764301414",
+            "quality": "2160p",
+            "size": "6.82 GB",
+            "fileName": "The.Boys.S04E01.Department.of.Dirty.Tricks.2160p.AMZN.WEB-DL.DUAL.DDP5.1.HDR10+.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "VgePA4pa\n6.82 GB",
+            "url": "https://pixeldrain.net/api/file/VgePA4pa",
+            "quality": "2160p",
+            "size": "6.82 GB",
+            "fileName": "VgePA4pa",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "The.Boys.S04E01.Department.of.Dirty.Tricks.2160p.AMZN.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com\n6.91 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/The.Boys.S04E01.Department.of.Dirty.Tricks.2160p.AMZN.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv?token=1764301413",
+            "quality": "2160p",
+            "size": "6.91 GB",
+            "fileName": "The.Boys.S04E01.Department.of.Dirty.Tricks.2160p.AMZN.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "2SMrXJAM\n6.91 GB",
+            "url": "https://pixeldrain.net/api/file/2SMrXJAM",
+            "quality": "2160p",
+            "size": "6.91 GB",
+            "fileName": "2SMrXJAM",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "1ca1efdb1b007d09e1ca52bc9dc4d51b\n4.17 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/1ca1efdb1b007d09e1ca52bc9dc4d51b?token=1764301413",
+            "quality": "1080p",
+            "size": "4.17 GB",
+            "fileName": "1ca1efdb1b007d09e1ca52bc9dc4d51b",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "giZ397R3\n4.17 GB",
+            "url": "https://pixeldrain.net/api/file/giZ397R3",
+            "quality": "1080p",
+            "size": "4.17 GB",
+            "fileName": "giZ397R3",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The.Boys.S04E01.Department.of.Dirty.Tricks.1080p.AMZN.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com\n1.56 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/The.Boys.S04E01.Department.of.Dirty.Tricks.1080p.AMZN.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com.mkv?token=1764301414",
+            "quality": "1080p",
+            "size": "1.56 GB",
+            "fileName": "The.Boys.S04E01.Department.of.Dirty.Tricks.1080p.AMZN.WEB-DL.DUAL.DDP5.1.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "uowPzSxY\n1.56 GB",
+            "url": "https://pixeldrain.net/api/file/uowPzSxY",
+            "quality": "1080p",
+            "size": "1.56 GB",
+            "fileName": "uowPzSxY",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Boys S04E01 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English DTS-HD.MA 5.1] FraMeSToR-4kHdHub.com\n10.45 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/The%20Boys%20S04E01%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%205.1%20+%20English%20DTS-HD.MA%205.1]%20FraMeSToR-4kHdHub.com.mkv?token=1764301414",
+            "quality": "1080p",
+            "size": "10.45 GB",
+            "fileName": "The Boys S04E01 1080p BluRay REMUX AVC [Hindi DDP 5.1 + English DTS-HD.MA 5.1] FraMeSToR-4kHdHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "3jsG26Zx\n10.45 GB",
+            "url": "https://pixeldrain.net/api/file/3jsG26Zx",
+            "quality": "1080p",
+            "size": "10.45 GB",
+            "fileName": "3jsG26Zx",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "08b9051579ca5a4dbd86c1d15aa8b602\n5.4 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/08b9051579ca5a4dbd86c1d15aa8b602?token=1764301414",
+            "quality": "1080p",
+            "size": "5.4 GB",
+            "fileName": "08b9051579ca5a4dbd86c1d15aa8b602",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "e8i6y7qW\n5.4 GB",
+            "url": "https://pixeldrain.net/api/file/e8i6y7qW",
+            "quality": "1080p",
+            "size": "5.4 GB",
+            "fileName": "e8i6y7qW",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 12
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:76479:s4e1",
+      "storedAt": 1764301405334,
+      "meta": {
+        "storedAt": 1764301405,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "76479",
+        "imdbId": "tt1190634",
+        "season": 4,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Proper][EAC3 5 1][h265]-NTb",
+            "url": "https://a.111477.xyz/tvs/The%20Boys/Season 4/tvs%2FThe%2520Boys%2FSeason%25204%2FThe%2520Boys%2520%25282019%2529%2520-%2520S04E01%2520-%2520Department%2520of%2520Dirty%2520Tricks%2520%255BWEBDL-2160p%2520Proper%255D%255BEAC3%25205.1%255D%255Bh265%255D-NTb.mkv",
+            "quality": "2160p",
+            "size": "20.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Boys (2019) - S04E01 - Department of Dirty Tricks [WEBDL-2160p Proper][EAC3 5.1][h265]-NTb.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h265]-HONE",
+            "url": "https://a.111477.xyz/tvs/The%20Boys/Season 4/tvs%2FThe%2520Boys%2FSeason%25204%2FThe%2520Boys%2520%25282019%2529%2520-%2520S04E01%2520-%2520Department%2520of%2520Dirty%2520Tricks%2520%255BWEBDL-1080p%255D%255BEAC3%25205.1%255D%255Bh265%255D-HONE.mkv",
+            "quality": "1080p",
+            "size": "20.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Boys (2019) - S04E01 - Department of Dirty Tricks [WEBDL-1080p][EAC3 5.1][h265]-HONE.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Proper][EAC3 5 1][x265]-xpost",
+            "url": "https://a.111477.xyz/tvs/The%20Boys/Season 4/tvs%2FThe%2520Boys%2FSeason%25204%2FThe%2520Boys%2520%25282019%2529%2520-%2520S04E01%2520-%2520Department%2520of%2520Dirty%2520Tricks%2520%255BWEBRip-1080p%2520Proper%255D%255BEAC3%25205.1%255D%255Bx265%255D-xpost.mkv",
+            "quality": "1080p",
+            "size": "20.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Boys (2019) - S04E01 - Department of Dirty Tricks [WEBRip-1080p Proper][EAC3 5.1][x265]-xpost.mkv"
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:76479:s4e1",
+      "storedAt": 1764301421991,
+      "meta": {
+        "storedAt": 1764301421,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "76479",
+        "imdbId": "tt1190634",
+        "season": 4,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Boys S4E1 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1671129479/s4/episode1.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:76479:s4e1",
+      "storedAt": 1764301426277,
+      "meta": {
+        "storedAt": 1764301426,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "76479",
+        "imdbId": "tt1190634",
+        "season": 4,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "The Boys S04E01 Department of Dirty Tricks 2160p AMZN WEB-DL DUAL DDP5 1 H 265-WADU\n6.91GB",
+            "url": "https://worker-summer-meadow-6cb2.memiwa5008.workers.dev/226351a6b9d20d7d6a3bae3feaa05badff77ec27981a8eedf83932db5e50ac4d159f81dd0f60fa7943211270d8057f8bf942b11fa820dfbecb793eddf1c16cda5cf8e0f1998ce12d66a0a501bb376c96e26d4012a207b64427027ec0e9bdb57588cede8a383c1bf6154e2dfd28a716550cf7218eaf4b1dfa1a9440864870212240ea5183dcb6a1cd717ecb720b2d015aabe224537ea3c3306871669e25cae3dcf2386001ad779581e41a9fc2f4ee7db4::128ef9a02a17f2121ceaab8ebdf3a633/The.Boys.S04E01.Department.of.Dirty.Tricks.2160p.AMZN.WEB-DL.DUAL.DDP5.1.H.265-WADU.mkv",
+            "quality": "4K",
+            "size": "6.91GB",
+            "fileName": "The.Boys.S04E01.Department.of.Dirty.Tricks.2160p.AMZN.WEB-DL.DUAL.DDP5.1.H.265-WADU.mkv",
+            "type": "direct"
+          },
+          {
+            "name": "UHD Movies",
+            "title": "The Boys S04E01 Department of Dirty Tricks 1080p AMZN WEB-DL DDP5 1 H 265-PrimeFix\n2.12GB",
+            "url": "https://worker-little-star-7f02.gecobi8468.workers.dev/d1988c53e388e7ddcdbb8221db7f386aeff8eba7883c9d6f4a24b38902ecd32b2b7179cc28e77ad83ec81e01f0732d65992a98af614863cdae09d04816a4db638f050b45b43067e937c0539638c16ec7eed7f3f89b350e2d87ba313d1143a80ae4aa81f0379b0a0ee5fb635718b040654b462473696d680d7dd53a408746f0bc61e1b25c44142138a087f20e89fa63bb70ddfd1d7d5ac3dee08d7dd2f4e6bbda3a6510e300e6768b28cb457af14f0356::2d62a2be4d7f2347b402ba18e513bf60/The.Boys.S04E01.Department.of.Dirty.Tricks.1080p.AMZN.WEB-DL.DDP5.1.H.265-PrimeFix.mkv",
+            "quality": "1080p",
+            "size": "2.12GB",
+            "fileName": "The.Boys.S04E01.Department.of.Dirty.Tricks.1080p.AMZN.WEB-DL.DDP5.1.H.265-PrimeFix.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-28T03:42:04.922Z",
-    "totalOriginalEntries": 1943,
-    "newItemsInThisBatch": 5,
+    "exportedAt": "2025-11-28T03:51:40.147Z",
+    "totalOriginalEntries": 1950,
+    "newItemsInThisBatch": 7,
     "format": "compact_v1"
   }
 }
