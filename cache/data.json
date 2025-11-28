@@ -79771,11 +79771,190 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:903944",
+      "storedAt": 1764309770181,
+      "meta": {
+        "storedAt": 1764309770,
+        "urlCount": 8,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "903944",
+        "imdbId": "tt16288970",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "10ac21a1da41360f568fd0f575fb0f7f\n32.81 GB",
+            "url": "https://true.boblover.click/10ac21a1da41360f568fd0f575fb0f7f?token=1764309767",
+            "quality": "2160p",
+            "size": "32.81 GB",
+            "fileName": "10ac21a1da41360f568fd0f575fb0f7f",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "766bc94aeb38f9d1ddcf95343d0ae8c7\n27.02 GB",
+            "url": "https://true.boblover.click/766bc94aeb38f9d1ddcf95343d0ae8c7?token=1764309767",
+            "quality": "1080p",
+            "size": "27.02 GB",
+            "fileName": "766bc94aeb38f9d1ddcf95343d0ae8c7",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "15c9512a502c73fedd44b8d7b95f4109\n15.5 GB",
+            "url": "https://true.boblover.click/15c9512a502c73fedd44b8d7b95f4109?token=1764309769",
+            "quality": "2160p",
+            "size": "15.5 GB",
+            "fileName": "15c9512a502c73fedd44b8d7b95f4109",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "FkdtCaof\n15.5 GB",
+            "url": "https://pixeldrain.net/api/file/FkdtCaof",
+            "quality": "2160p",
+            "size": "15.5 GB",
+            "fileName": "FkdtCaof",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "908e769ca543152dd40d75eef7e922fa\n13.31 GB",
+            "url": "https://true.boblover.click/908e769ca543152dd40d75eef7e922fa?token=1764309412",
+            "quality": "1080p",
+            "size": "13.31 GB",
+            "fileName": "908e769ca543152dd40d75eef7e922fa",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "1RSUyQqT\n13.31 GB",
+            "url": "https://pixeldrain.net/api/file/1RSUyQqT",
+            "quality": "1080p",
+            "size": "13.31 GB",
+            "fileName": "1RSUyQqT",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "91b019681f51e0e4a779fd16473c1d24\n3.65 GB",
+            "url": "https://true.boblover.click/91b019681f51e0e4a779fd16473c1d24?token=1764309769",
+            "quality": "1080p",
+            "size": "3.65 GB",
+            "fileName": "91b019681f51e0e4a779fd16473c1d24",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "jwqVdAaj\n3.65 GB",
+            "url": "https://pixeldrain.net/api/file/jwqVdAaj",
+            "quality": "1080p",
+            "size": "3.65 GB",
+            "fileName": "jwqVdAaj",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 8
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:456:s13e7",
+      "storedAt": 1764309665902,
+      "meta": {
+        "storedAt": 1764309665,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "456",
+        "imdbId": "tt0096697",
+        "season": 13,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/203290?token=b4aeb5dae3a6dceb241f93098a202c54&expires=1769493662&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:60573:s4e7",
+      "storedAt": 1764310082771,
+      "meta": {
+        "storedAt": 1764310082,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "60573",
+        "imdbId": "tt2575988",
+        "season": 4,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/130238?token=2c11d255e5013ab136d76da93e9edf4f&expires=1769494077&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-28T06:00:46.768Z",
-    "totalOriginalEntries": 2024,
+    "exportedAt": "2025-11-28T06:09:19.989Z",
+    "totalOriginalEntries": 2027,
     "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
