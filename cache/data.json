@@ -100840,11 +100840,453 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:134411",
+      "storedAt": 1764359268412,
+      "meta": {
+        "storedAt": 1764359268,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "134411",
+        "imdbId": "tt0882977",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "3aac92d8587f199a56cc30805b728761\n29.72 GB",
+            "url": "https://true.boblover.click/3aac92d8587f199a56cc30805b728761?token=1764359264",
+            "quality": "1080p",
+            "size": "29.72 GB",
+            "fileName": "3aac92d8587f199a56cc30805b728761",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "f133a41a4e78c0fdc62a1ab17044c220\n24.87 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/f133a41a4e78c0fdc62a1ab17044c220?token=1764359264",
+            "quality": "2160p",
+            "size": "24.87 GB",
+            "fileName": "f133a41a4e78c0fdc62a1ab17044c220",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "3e133b97fcaa50a1247fa6ca5d56ffa5\n8.15 GB",
+            "url": "https://true.boblover.click/3e133b97fcaa50a1247fa6ca5d56ffa5?token=1764359264",
+            "quality": "1080p",
+            "size": "8.15 GB",
+            "fileName": "3e133b97fcaa50a1247fa6ca5d56ffa5",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "1ucN6ySH\n8.15 GB",
+            "url": "https://pixeldrain.net/api/file/1ucN6ySH",
+            "quality": "1080p",
+            "size": "8.15 GB",
+            "fileName": "1ucN6ySH",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "889d46a953ca4f751a20d9694ead536e\n7.12 GB",
+            "url": "https://true.boblover.click/889d46a953ca4f751a20d9694ead536e?token=1764359264",
+            "quality": "1080p",
+            "size": "7.12 GB",
+            "fileName": "889d46a953ca4f751a20d9694ead536e",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "JNgy7YqU\n7.12 GB",
+            "url": "https://pixeldrain.net/api/file/JNgy7YqU",
+            "quality": "1080p",
+            "size": "7.12 GB",
+            "fileName": "JNgy7YqU",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:dahmermovies:movie:134411",
+      "storedAt": 1764359256862,
+      "meta": {
+        "storedAt": 1764359256,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "134411",
+        "imdbId": "tt0882977",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies BluRay Remux DTS-HD 7 1",
+            "url": "https://a.111477.xyz/movies/Snitch%20(2013)/movies%2FSnitch%2520%25282013%2529%2FSnitch.2013.1080p.BluRay.Remux.DTS-HD.7.1.mkv",
+            "quality": "1080p | REMUX",
+            "size": "31.2 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Snitch.2013.1080p.BluRay.Remux.DTS-HD.7.1.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:movie:134411",
+      "storedAt": 1764359256863,
+      "meta": {
+        "storedAt": 1764359256,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "movie",
+        "tmdbId": "134411",
+        "imdbId": "tt0882977",
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Snitch - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2013/snitch.mkv",
+            "quality": "1080p",
+            "size": "1h 52m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Snitch - Premium Quality",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/movies/2013/snitch.mkv",
+            "quality": "1080p",
+            "size": "1h 52m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Snitch - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix/movies/2013/snitch.mkv",
+            "quality": "720p",
+            "size": "1h 52m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "Snitch - Standard Quality",
+            "url": "https://bb.streamflixserver.site/file/streamflix-sv-2/movies/2013/snitch.mkv",
+            "quality": "720p",
+            "size": "1h 52m",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:uhdmovies:movie:134411",
+      "storedAt": 1764359273112,
+      "meta": {
+        "storedAt": 1764359273,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "movie",
+        "tmdbId": "134411",
+        "imdbId": "tt0882977",
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Yadang The Snitch 2025 1080p AMZN WEB-DL DUAL DDP2 0 H 264-ShiNobi\n7.42GB",
+            "url": "https://worker-silent-shadow-953c.xegol92519.workers.dev/e57b5d850be4db3273d856a5a179bf30d7fe4725cbf63ce57c2b408b9c567e9b7fcf48adfe0486718ef831c532767863ce8fcb11ea191dfa603f7b5c1f9c446e8ccc36da3dade5823f57db43781a9f1ae143fdc2beec9a22944ddd437033212f7e55340146e1a55e7ad47e3ead06edd92d9e785e85b07fd475b2cac3cf4e0a126a1abca1d995221448bc55fb1fa17b7a22b17ed6cadcbe5e893190c5b18457e79537a3988dcec034c58c615af1cd910f::cd273fe874dcd97c524c8c7e8649a106/Yadang.The.Snitch.2025.1080p.AMZN.WEB-DL.DUAL.DDP2.0.H.264-ShiNobi.mkv",
+            "quality": "1080p",
+            "size": "7.42GB",
+            "fileName": "Yadang.The.Snitch.2025.1080p.AMZN.WEB-DL.DUAL.DDP2.0.H.264-ShiNobi.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:1473628",
+      "storedAt": 1764358997404,
+      "meta": {
+        "storedAt": 1764358997,
+        "urlCount": 12,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1473628",
+        "imdbId": "tt33054756",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Love Hurts 2025 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi DDP 2.0 + English TrueHD Atmos 7.1] x265 playBD-LUMiX 4kHDHub.Com\n45.35 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Love%20Hurts%202025%202160p%20UHD%20BluRay%20REMUX%20DV%20HDR%2010bit%20HEVC%20[Hindi%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20x265%20playBD-LUMiX%204kHDHub.Com.mkv?token=1764358994",
+            "quality": "2160p",
+            "size": "45.35 GB",
+            "fileName": "Love Hurts 2025 2160p UHD BluRay REMUX DV HDR 10bit HEVC [Hindi DDP 2.0 + English TrueHD Atmos 7.1] x265 playBD-LUMiX 4kHDHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Love Hurts 2025 1080p BluRay REMUX AVC [Hindi DDP 2.0 + English TrueHD Atmos 7.1] x264 TRiToN-LUMiX 4kHDHub.Com\n19.32 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Love%20Hurts%202025%201080p%20BluRay%20REMUX%20AVC%20[Hindi%20DDP%202.0%20+%20English%20TrueHD%20Atmos%207.1]%20x264%20TRiToN-LUMiX%204kHDHub.Com.mkv?token=1764358994",
+            "quality": "1080p",
+            "size": "19.32 GB",
+            "fileName": "Love Hurts 2025 1080p BluRay REMUX AVC [Hindi DDP 2.0 + English TrueHD Atmos 7.1] x264 TRiToN-LUMiX 4kHDHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "4b0e3be873545d0be6dad35b367c1fae\n16.52 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/4b0e3be873545d0be6dad35b367c1fae?token=1764358993",
+            "quality": "2160p",
+            "size": "16.52 GB",
+            "fileName": "4b0e3be873545d0be6dad35b367c1fae",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "KmYAf2xN\n16.52 GB",
+            "url": "https://pixeldrain.net/api/file/KmYAf2xN",
+            "quality": "2160p",
+            "size": "16.52 GB",
+            "fileName": "KmYAf2xN",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "09ad7202cb1563e0a8d0f0e1bcb587ba\n16.5 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/09ad7202cb1563e0a8d0f0e1bcb587ba?token=1764358995",
+            "quality": "2160p",
+            "size": "16.5 GB",
+            "fileName": "09ad7202cb1563e0a8d0f0e1bcb587ba",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "2C2aUfSM\n16.5 GB",
+            "url": "https://pixeldrain.net/api/file/2C2aUfSM",
+            "quality": "2160p",
+            "size": "16.5 GB",
+            "fileName": "2C2aUfSM",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "2297fbdc39a872cd5569ac1b88242669\n11.65 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/2297fbdc39a872cd5569ac1b88242669?token=1764358993",
+            "quality": "1080p",
+            "size": "11.65 GB",
+            "fileName": "2297fbdc39a872cd5569ac1b88242669",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "FJ5dx9Hi\n11.65 GB",
+            "url": "https://pixeldrain.net/api/file/FJ5dx9Hi",
+            "quality": "1080p",
+            "size": "11.65 GB",
+            "fileName": "FJ5dx9Hi",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "61ea471ac3b4a4904247ef07d6832c02\n4.44 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/61ea471ac3b4a4904247ef07d6832c02?token=1764358994",
+            "quality": "1080p",
+            "size": "4.44 GB",
+            "fileName": "61ea471ac3b4a4904247ef07d6832c02",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "e29w9Kwm\n4.44 GB",
+            "url": "https://pixeldrain.net/api/file/e29w9Kwm",
+            "quality": "1080p",
+            "size": "4.44 GB",
+            "fileName": "e29w9Kwm",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "28d4e1c2c1adda7c53eccfc8bd2ab429\n2.43 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/28d4e1c2c1adda7c53eccfc8bd2ab429?token=1764358994",
+            "quality": "1080p",
+            "size": "2.43 GB",
+            "fileName": "28d4e1c2c1adda7c53eccfc8bd2ab429",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "oCawzcBh\n2.43 GB",
+            "url": "https://pixeldrain.net/api/file/oCawzcBh",
+            "quality": "1080p",
+            "size": "2.43 GB",
+            "fileName": "oCawzcBh",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 12
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:3750:s2e1",
+      "storedAt": 1764359417894,
+      "meta": {
+        "storedAt": 1764359417,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "3750",
+        "imdbId": "tt0361217",
+        "season": 2,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/125132?token=cf8c64818fe3bf2546d12d144d6a485d&expires=1769543412&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:78903:s1e4",
+      "storedAt": 1764359426447,
+      "meta": {
+        "storedAt": 1764359426,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "78903",
+        "imdbId": "tt8303474",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/148603?token=5449b49409a6f1618db336ac3c833090&expires=1769543421&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-28T19:41:43.636Z",
-    "totalOriginalEntries": 2599,
+    "exportedAt": "2025-11-28T19:51:27.573Z",
+    "totalOriginalEntries": 2606,
     "newItemsInThisBatch": 7,
     "format": "compact_v1"
   }
