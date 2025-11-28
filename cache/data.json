@@ -79675,12 +79675,108 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:2316:s9e19",
+      "storedAt": 1764309158713,
+      "meta": {
+        "storedAt": 1764309158,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2316",
+        "imdbId": "tt0386676",
+        "season": 9,
+        "episode": 19,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/269471?token=e0cd21e0fcf562010400b1fb8fdfbc1e&expires=1769493156&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:81144:s2e2",
+      "storedAt": 1764309163040,
+      "meta": {
+        "storedAt": 1764309161,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "81144",
+        "imdbId": "tt7942794",
+        "season": 2,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/270994?token=d819bece19e8355c1a746c4d0501168c&expires=1769493158&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:81144:s6e7",
+      "storedAt": 1764309525683,
+      "meta": {
+        "storedAt": 1764309525,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "81144",
+        "imdbId": "tt7942794",
+        "season": 6,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/462966?token=b7cffb89d3bc788be657332fbadc3416&expires=1769493520&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-28T05:52:23.714Z",
-    "totalOriginalEntries": 2021,
-    "newItemsInThisBatch": 5,
+    "exportedAt": "2025-11-28T06:00:46.768Z",
+    "totalOriginalEntries": 2024,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
