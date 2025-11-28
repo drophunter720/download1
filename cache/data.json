@@ -86086,12 +86086,468 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:dahmermovies:movie:1242501",
+      "storedAt": 1764328213124,
+      "meta": {
+        "storedAt": 1764328213,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "movie",
+        "tmdbId": "1242501",
+        "imdbId": "tt29780866",
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies AMZN WEB-DL DDP5 1 H 264-FLUX",
+            "url": "https://a.111477.xyz/movies/Icefall%20(2025)/movies%2FIcefall%2520%25282025%2529%2FIcefall.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv",
+            "quality": "1080p",
+            "size": "4.8 GB",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Icefall.2025.1080p.AMZN.WEB-DL.DDP5.1.H.264-FLUX.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:9884",
+      "storedAt": 1764328386424,
+      "meta": {
+        "storedAt": 1764328386,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "9884",
+        "imdbId": "tt0233469",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/273042?token=949586c32ba792457b11e859760f2fc7&expires=1769512379&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:15260:s7e6",
+      "storedAt": 1764328411504,
+      "meta": {
+        "storedAt": 1764328411,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "15260",
+        "imdbId": "tt1305826",
+        "season": 7,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/132722?token=1ebd4808838e1cd2dc64dc83426ab9c9&expires=1769512404&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:153312:s2e3",
+      "storedAt": 1764328111903,
+      "meta": {
+        "storedAt": 1764328110,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "153312",
+        "imdbId": "tt16358384",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "aa10ee4cb69f699121b6507a68035c2e\n4.53 GB",
+            "url": "https://true.boblover.click/aa10ee4cb69f699121b6507a68035c2e?token=1764328106",
+            "quality": "2160p",
+            "size": "4.53 GB",
+            "fileName": "aa10ee4cb69f699121b6507a68035c2e",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "nfeSPyLV\n4.53 GB",
+            "url": "https://pixeldrain.net/api/file/nfeSPyLV",
+            "quality": "2160p",
+            "size": "4.53 GB",
+            "fileName": "nfeSPyLV",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "fd24353df2ce845591bcc3e726b50a8d\n2.08 GB",
+            "url": "https://pub-2fe28ab4d73e444bb8b6de678d39a70d.r2.dev/fd24353df2ce845591bcc3e726b50a8d?token=1764328106",
+            "quality": "1080p",
+            "size": "2.08 GB",
+            "fileName": "fd24353df2ce845591bcc3e726b50a8d",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "cHsT8z6U\n2.08 GB",
+            "url": "https://pixeldrain.net/api/file/cHsT8z6U",
+            "quality": "1080p",
+            "size": "2.08 GB",
+            "fileName": "cHsT8z6U",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:153312:s2e3",
+      "storedAt": 1764328391388,
+      "meta": {
+        "storedAt": 1764328390,
+        "urlCount": 5,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "153312",
+        "imdbId": "tt16358384",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][DV][x265]-RANSOM",
+            "url": "https://a.111477.xyz/tvs/Tulsa%20King/Season 2/tvs%2FTulsa%2520King%2FSeason%25202%2FTulsa%2520King%2520%25282022%2529%2520-%2520S02E03%2520-%2520Oklahoma%2520v.%2520Manfredi%2520%255BWEBRip-2160p%255D%255BEAC3%25205.1%255D%255BDV%255D%255Bx265%255D-RANSOM.mkv",
+            "quality": "2160p | DV",
+            "size": "5.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Tulsa King (2022) - S02E03 - Oklahoma v. Manfredi [WEBRip-2160p][EAC3 5.1][DV][x265]-RANSOM.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies WEB-DL SDR[Ben The Men]",
+            "url": "https://a.111477.xyz/tvs/Tulsa%20King/Season 2/tvs%2FTulsa%2520King%2FSeason%25202%2FTulsa.King.S02E03.2160p.WEB-DL.SDR%255BBen%2520The%2520Men%255D.mp4",
+            "quality": "2160p",
+            "size": "5.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Tulsa.King.S02E03.2160p.WEB-DL.SDR[Ben The Men].mp4"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-FLUX",
+            "url": "https://a.111477.xyz/tvs/Tulsa%20King/Season 2/tvs%2FTulsa%2520King%2FSeason%25202%2FTulsa%2520King%2520%25282022%2529%2520-%2520S02E03%2520-%2520Oklahoma%2520v.%2520Manfredi%2520%255BWEBDL-1080p%255D%255BEAC3%25205.1%255D%255Bh264%255D-FLUX.mkv",
+            "quality": "1080p",
+            "size": "5.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Tulsa King (2022) - S02E03 - Oklahoma v. Manfredi [WEBDL-1080p][EAC3 5.1][h264]-FLUX.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-NTb",
+            "url": "https://a.111477.xyz/tvs/Tulsa%20King/Season 2/tvs%2FTulsa%2520King%2FSeason%25202%2FTulsa%2520King%2520%25282022%2529%2520-%2520S02E03%2520-%2520Oklahoma%2520v.%2520Manfredi%2520%255BWEBDL-1080p%255D%255BEAC3%25205.1%255D%255Bh264%255D-NTb.mkv",
+            "quality": "1080p",
+            "size": "5.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Tulsa King (2022) - S02E03 - Oklahoma v. Manfredi [WEBDL-1080p][EAC3 5.1][h264]-NTb.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][x264]-DKV",
+            "url": "https://a.111477.xyz/tvs/Tulsa%20King/Season 2/tvs%2FTulsa%2520King%2FSeason%25202%2FTulsa%2520King%2520%25282022%2529%2520-%2520S02E03%2520-%2520Oklahoma%2520v.%2520Manfredi%2520%255BWEBDL-1080p%255D%255BEAC3%25205.1%255D%255Bx264%255D-DKV.mkv",
+            "quality": "1080p",
+            "size": "5.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Tulsa King (2022) - S02E03 - Oklahoma v. Manfredi [WEBDL-1080p][EAC3 5.1][x264]-DKV.mkv"
+          }
+        ],
+        "count": 5
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:153312:s2e3",
+      "storedAt": 1764328099970,
+      "meta": {
+        "storedAt": 1764328099,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "153312",
+        "imdbId": "tt16358384",
+        "season": 2,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Tulsa King S2E3 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1684758741/s2/episode3.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1622:s11e21",
+      "storedAt": 1764328386395,
+      "meta": {
+        "storedAt": 1764328386,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1622",
+        "imdbId": "tt0460681",
+        "season": 11,
+        "episode": 21,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/179082?token=3185751289c3c6b5d1bbebf6f24fe6d2&expires=1769512383&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:206489:s1e6",
+      "storedAt": 1764328341491,
+      "meta": {
+        "storedAt": 1764328341,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "206489",
+        "imdbId": "tt14792320",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/413856?token=7d88ac10dea4fc6a495917e42c11681e&expires=1769512337&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:281004:s1e4",
+      "storedAt": 1764328502729,
+      "meta": {
+        "storedAt": 1764328502,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "281004",
+        "imdbId": "tt37660730",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/332782?token=dc2ab93ca70543350de51e86851db5bd&expires=1769512499&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:456:s13e22",
+      "storedAt": 1764328162214,
+      "meta": {
+        "storedAt": 1764328162,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "456",
+        "imdbId": "tt0096697",
+        "season": 13,
+        "episode": 22,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/203305?token=dd7006897940c6d4eafe8eb3e83a457b&expires=1769512154&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:4629:s7e3",
+      "storedAt": 1764328052347,
+      "meta": {
+        "storedAt": 1764328052,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "4629",
+        "imdbId": "tt0118480",
+        "season": 7,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/251517?token=6a6fc752f69cc552442b848832825ae8&expires=1769512045&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:71728:s1e15",
+      "storedAt": 1764328024574,
+      "meta": {
+        "storedAt": 1764328024,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "71728",
+        "imdbId": "tt6226232",
+        "season": 1,
+        "episode": 15,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/175106?token=b3ddaaba839dcf806bf92789a9975054&expires=1769512017&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-28T11:06:06.803Z",
-    "totalOriginalEntries": 2198,
-    "newItemsInThisBatch": 6,
+    "exportedAt": "2025-11-28T11:15:18.170Z",
+    "totalOriginalEntries": 2210,
+    "newItemsInThisBatch": 12,
     "format": "compact_v1"
   }
 }
