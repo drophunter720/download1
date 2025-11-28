@@ -94425,12 +94425,474 @@
         ],
         "count": 2
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:1435139",
+      "storedAt": 1764347109895,
+      "meta": {
+        "storedAt": 1764347109,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1435139",
+        "imdbId": "tt32284122",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/529660?token=c6649de479f9fc6c4e68246f8e0a0664&expires=1769531103&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:1443940",
+      "storedAt": 1764346987266,
+      "meta": {
+        "storedAt": 1764346987,
+        "urlCount": 12,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "1443940",
+        "imdbId": "tt21825416",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Ruth & Boaz 2025 2160p NF 10bit WEB-DL DoVi HDR HEVC [Hin-Tam-Tel DDP 5.1 + English DDP.Atmos 5.1] H.265 HHWEB-Ionicboy\n14.2 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Ruth%20&%20Boaz%202025%202160p%20NF%2010bit%20WEB-DL%20DoVi%20HDR%20HEVC%20[Hin-Tam-Tel%20DDP%205.1%20+%20English%20DDP.Atmos%205.1]%20H.265%20HHWEB-Ionicboy.mkv?token=1764346983",
+            "quality": "2160p",
+            "size": "14.2 GB",
+            "fileName": "Ruth & Boaz 2025 2160p NF 10bit WEB-DL DoVi HDR HEVC [Hin-Tam-Tel DDP 5.1 + English DDP.Atmos 5.1] H.265 HHWEB-Ionicboy",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "Wi7nHcMy\n14.2 GB",
+            "url": "https://pixeldrain.net/api/file/Wi7nHcMy",
+            "quality": "2160p",
+            "size": "14.2 GB",
+            "fileName": "Wi7nHcMy",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Ruth & Boaz 2025 2160p NF 10bit WEB-DL SDR HEVC [Hin-Tam-Tel DDP 5.1 + English DDP.Atmos 5.1] H.265 HHWEB-Ionicboy\n9.59 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Ruth%20&%20Boaz%202025%202160p%20NF%2010bit%20WEB-DL%20SDR%20HEVC%20[Hin-Tam-Tel%20DDP%205.1%20+%20English%20DDP.Atmos%205.1]%20H.265%20HHWEB-Ionicboy.mkv?token=1764346983",
+            "quality": "2160p",
+            "size": "9.59 GB",
+            "fileName": "Ruth & Boaz 2025 2160p NF 10bit WEB-DL SDR HEVC [Hin-Tam-Tel DDP 5.1 + English DDP.Atmos 5.1] H.265 HHWEB-Ionicboy",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "94DKnCKi\n9.59 GB",
+            "url": "https://pixeldrain.net/api/file/94DKnCKi",
+            "quality": "2160p",
+            "size": "9.59 GB",
+            "fileName": "94DKnCKi",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Ruth.and.Boaz.2025.1080p.NF.WEB-DL.Multi.DDP5.1.H.264-4kHdHub.Com\n6.09 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Ruth.and.Boaz.2025.1080p.NF.WEB-DL.Multi.DDP5.1.H.264-4kHdHub.Com.mkv?token=1764346983",
+            "quality": "1080p",
+            "size": "6.09 GB",
+            "fileName": "Ruth.and.Boaz.2025.1080p.NF.WEB-DL.Multi.DDP5.1.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ECNginnj\n6.09 GB",
+            "url": "https://pixeldrain.net/api/file/ECNginnj",
+            "quality": "1080p",
+            "size": "6.09 GB",
+            "fileName": "ECNginnj",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Ruth.and.Boaz.2025.1080p.NF.WEB-DL.Multi.DDP5.1.HDR-DV.H.265-4kHdHub.Com\n4.99 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Ruth.and.Boaz.2025.1080p.NF.WEB-DL.Multi.DDP5.1.HDR-DV.H.265-4kHdHub.Com.mkv?token=1764346983",
+            "quality": "1080p",
+            "size": "4.99 GB",
+            "fileName": "Ruth.and.Boaz.2025.1080p.NF.WEB-DL.Multi.DDP5.1.HDR-DV.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "6BaACpJw\n4.99 GB",
+            "url": "https://pixeldrain.net/api/file/6BaACpJw",
+            "quality": "1080p",
+            "size": "4.99 GB",
+            "fileName": "6BaACpJw",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Ruth.and.Boaz.2025.1080p.NF.WEB-DL.Multi.DDP5.1.H.265-4kHdHub.Com\n3.37 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Ruth.and.Boaz.2025.1080p.NF.WEB-DL.Multi.DDP5.1.H.265-4kHdHub.Com.mkv?token=1764346983",
+            "quality": "1080p",
+            "size": "3.37 GB",
+            "fileName": "Ruth.and.Boaz.2025.1080p.NF.WEB-DL.Multi.DDP5.1.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "2ShzBaWZ\n3.37 GB",
+            "url": "https://pixeldrain.net/api/file/2ShzBaWZ",
+            "quality": "1080p",
+            "size": "3.37 GB",
+            "fileName": "2ShzBaWZ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Ruth.and.Boaz.2025.1080p.NF.WEB-DL.Multi.AAC5.1.AV1-4kHdHub.Com\n961.06 MB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Ruth.and.Boaz.2025.1080p.NF.WEB-DL.Multi.AAC5.1.AV1-4kHdHub.Com.mkv?token=1764346983",
+            "quality": "1080p",
+            "size": "961.06 MB",
+            "fileName": "Ruth.and.Boaz.2025.1080p.NF.WEB-DL.Multi.AAC5.1.AV1-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "ow5hHAKZ\n961.06 MB",
+            "url": "https://pixeldrain.net/api/file/ow5hHAKZ",
+            "quality": "1080p",
+            "size": "961.06 MB",
+            "fileName": "ow5hHAKZ",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 12
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:129412:s5e10",
+      "storedAt": 1764347438359,
+      "meta": {
+        "storedAt": 1764347438,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "129412",
+        "imdbId": "tt11011104",
+        "season": 5,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/474231?token=2a653ca014a04165b8216d8ab94c7c2c&expires=1769531435&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:137043:s1e1",
+      "storedAt": 1764347218045,
+      "meta": {
+        "storedAt": 1764347218,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "137043",
+        "imdbId": "tt22002370",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/397840?token=f43b71e18f9d723109b390f2e6b25c08&expires=1769531211&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:1434:s5e11",
+      "storedAt": 1764347062436,
+      "meta": {
+        "storedAt": 1764347062,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "1434",
+        "imdbId": "tt0182576",
+        "season": 5,
+        "episode": 11,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/198126?token=39ae5ef01a8d9c04ea5623ef50573246&expires=1769531052&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:216562:s4e4",
+      "storedAt": 1764347399525,
+      "meta": {
+        "storedAt": 1764347399,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "216562",
+        "imdbId": "tt22003362",
+        "season": 4,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/507961?token=8c0e148931876478d233b38a0f7fccfa&expires=1769531395&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:230034:s1e3",
+      "storedAt": 1764347002067,
+      "meta": {
+        "storedAt": 1764347002,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "230034",
+        "imdbId": "tt27853283",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/385432?token=afbf4ed0e4ec5c24f5a95cc3dc9030eb&expires=1769530999&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:246246:s2e5",
+      "storedAt": 1764347427718,
+      "meta": {
+        "storedAt": 1764347427,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "246246",
+        "imdbId": "tt31260386",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "gaQhDqMx\n2 GB",
+            "url": "https://pixeldrain.net/api/file/gaQhDqMx",
+            "quality": "1080p",
+            "size": "2 GB",
+            "fileName": "gaQhDqMx",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:63333:s1e1",
+      "storedAt": 1764347319504,
+      "meta": {
+        "storedAt": 1764347319,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "63333",
+        "imdbId": "tt4179452",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DTS 5 1][x264]-SHORTBREHD",
+            "url": "https://a.111477.xyz/tvs/The%20Last%20Kingdom/Season 1/tvs%2FThe%2520Last%2520Kingdom%2FSeason%25201%2FThe%2520Last%2520Kingdom%2520%25282015%2529%2520-%2520S01E01%2520-%2520Episode%25201%2520%255BBluray-1080p%255D%255BDTS%25205.1%255D%255Bx264%255D-SHORTBREHD.mkv",
+            "quality": "1080p",
+            "size": "5.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "The Last Kingdom (2015) - S01E01 - Episode 1 [Bluray-1080p][DTS 5.1][x264]-SHORTBREHD.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:63333:s1e1",
+      "storedAt": 1764347313646,
+      "meta": {
+        "storedAt": 1764347313,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "63333",
+        "imdbId": "tt4179452",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "The Last Kingdom S1E1 - 1. Episode 1",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/thelostkingdom/s1/The.Last.Kingdom.S01.E01.BluRay.720p.English.AAC.5.1.x264.ESub.mkv",
+            "quality": "1080p",
+            "size": "59min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          },
+          {
+            "name": "StreamFlix",
+            "title": "The Last Kingdom S1E1 - 1. Episode 1",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/thelostkingdom/s1/The.Last.Kingdom.S01.E01.BluRay.720p.English.AAC.5.1.x264.ESub.mkv",
+            "quality": "1080p",
+            "size": "59min",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 2
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-28T16:21:18.610Z",
-    "totalOriginalEntries": 2438,
-    "newItemsInThisBatch": 8,
+    "exportedAt": "2025-11-28T16:31:20.125Z",
+    "totalOriginalEntries": 2448,
+    "newItemsInThisBatch": 10,
     "format": "compact_v1"
   }
 }
