@@ -81019,12 +81019,319 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:13460",
+      "storedAt": 1764313264009,
+      "meta": {
+        "storedAt": 1764313264,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "13460",
+        "imdbId": "tt0483607",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/234325?token=83559870cdbd1fb7adeddef381e5eef9&expires=1769497253&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:216082:s1e4",
+      "storedAt": 1764313272247,
+      "meta": {
+        "storedAt": 1764313272,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "216082",
+        "imdbId": "tt23872886",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/289405?token=ffa9cc5630ab2db9b210652bab315759&expires=1769497266&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:227191:s1e6",
+      "storedAt": 1764313070898,
+      "meta": {
+        "storedAt": 1764313070,
+        "urlCount": 3,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "227191",
+        "imdbId": "tt29927351",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "R7eooFC3\n3.62 GB",
+            "url": "https://pixeldrain.net/api/file/R7eooFC3",
+            "quality": "2160p",
+            "size": "3.62 GB",
+            "fileName": "R7eooFC3",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - HubCloud - 2160p",
+            "title": "Nine.Puzzles.S01E06.2160p.HULU.WEB-DL.H.265.DDP5.1-Tyrell\n3.62 GB",
+            "url": "https://pub-d058c6f5fdc14b0caf5d7723adb8026f.r2.dev/Nine.Puzzles.S01E06.2160p.HULU.WEB-DL.H.265.DDP5.1-Tyrell.mkv",
+            "quality": "2160p",
+            "size": "3.62 GB",
+            "fileName": "Nine.Puzzles.S01E06.2160p.HULU.WEB-DL.H.265.DDP5.1-Tyrell",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "hnQVVCYV\n3.62 GB",
+            "url": "https://pixeldrain.net/api/file/hnQVVCYV",
+            "quality": "2160p",
+            "size": "3.62 GB",
+            "fileName": "hnQVVCYV",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 3
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:227191:s1e6",
+      "storedAt": 1764313057025,
+      "meta": {
+        "storedAt": 1764313057,
+        "urlCount": 7,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "227191",
+        "imdbId": "tt29927351",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DV][10bit][h265][EAC3 5 1][DE+EN+ES+FR+KO]-DUSKLiGHT",
+            "url": "https://a.111477.xyz/tvs/Nine%20Puzzles/Season 1/tvs%2FNine%2520Puzzles%2FSeason%25201%2FNine%2520Puzzles%2520%25282025%2529%2520-%2520S01E06%2520-%2520Episode%25206%2520%255BWEBDL-2160p%255D%255BDV%255D%255B10bit%255D%255Bh265%255D%255BEAC3%25205.1%255D%255BDE%2BEN%2BES%2BFR%2BKO%255D-DUSKLiGHT.mkv",
+            "quality": "2160p | DV",
+            "size": "5.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Nine Puzzles (2025) - S01E06 - Episode 6 [WEBDL-2160p][DV][10bit][h265][EAC3 5.1][DE+EN+ES+FR+KO]-DUSKLiGHT.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DV][EAC3 5 1][h265]-DUSKLiGHT",
+            "url": "https://a.111477.xyz/tvs/Nine%20Puzzles/Season 1/tvs%2FNine%2520Puzzles%2FSeason%25201%2FNine%2520Puzzles%2520%25282025%2529%2520-%2520S01E06%2520-%2520Episode%25206%2520%255BWEBDL-2160p%255D%255BDV%255D%255BEAC3%25205.1%255D%255Bh265%255D-DUSKLiGHT.mkv",
+            "quality": "2160p | DV",
+            "size": "5.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Nine Puzzles (2025) - S01E06 - Episode 6 [WEBDL-2160p][DV][EAC3 5.1][h265]-DUSKLiGHT.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h265]-Tyrell",
+            "url": "https://a.111477.xyz/tvs/Nine%20Puzzles/Season 1/tvs%2FNine%2520Puzzles%2FSeason%25201%2FNine%2520Puzzles%2520%25282025%2529%2520-%2520S01E06%2520-%2520Episode%25206%2520%255BWEBDL-2160p%255D%255BEAC3%25205.1%255D%255Bh265%255D-Tyrell.mkv",
+            "quality": "2160p",
+            "size": "5.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Nine Puzzles (2025) - S01E06 - Episode 6 [WEBDL-2160p][EAC3 5.1][h265]-Tyrell.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DV][EAC3 5 1][h265]-DUSKLiGHT",
+            "url": "https://a.111477.xyz/tvs/Nine%20Puzzles/Season 1/tvs%2FNine%2520Puzzles%2FSeason%25201%2FNine%2520Puzzles%2520%25282025%2529%2520-%2520S01E06%2520-%2520Episode%25206%2520%255BWEBDL-1080p%255D%255BDV%255D%255BEAC3%25205.1%255D%255Bh265%255D-DUSKLiGHT.mkv",
+            "quality": "1080p | DV",
+            "size": "5.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Nine Puzzles (2025) - S01E06 - Episode 6 [WEBDL-1080p][DV][EAC3 5.1][h265]-DUSKLiGHT.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-DUSKLiGHT",
+            "url": "https://a.111477.xyz/tvs/Nine%20Puzzles/Season 1/tvs%2FNine%2520Puzzles%2FSeason%25201%2FNine%2520Puzzles%2520%25282025%2529%2520-%2520S01E06%2520-%2520Episode%25206%2520%255BWEBDL-1080p%255D%255BEAC3%25205.1%255D%255Bh264%255D-DUSKLiGHT.mkv",
+            "quality": "1080p",
+            "size": "5.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Nine Puzzles (2025) - S01E06 - Episode 6 [WEBDL-1080p][EAC3 5.1][h264]-DUSKLiGHT.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-FW",
+            "url": "https://a.111477.xyz/tvs/Nine%20Puzzles/Season 1/tvs%2FNine%2520Puzzles%2FSeason%25201%2FNine%2520Puzzles%2520%25282025%2529%2520-%2520S01E06%2520-%2520Episode%25206%2520%255BWEBDL-1080p%255D%255BEAC3%25205.1%255D%255Bh264%255D-FW.mkv",
+            "quality": "1080p",
+            "size": "5.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Nine Puzzles (2025) - S01E06 - Episode 6 [WEBDL-1080p][EAC3 5.1][h264]-FW.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][HDR10][EAC3 5 1][h265]-DUSKLiGHT",
+            "url": "https://a.111477.xyz/tvs/Nine%20Puzzles/Season 1/tvs%2FNine%2520Puzzles%2FSeason%25201%2FNine%2520Puzzles%2520%25282025%2529%2520-%2520S01E06%2520-%2520Episode%25206%2520%255BWEBDL-1080p%255D%255BHDR10%255D%255BEAC3%25205.1%255D%255Bh265%255D-DUSKLiGHT.mkv",
+            "quality": "1080p | HDR",
+            "size": "5.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Nine Puzzles (2025) - S01E06 - Episode 6 [WEBDL-1080p][HDR10][EAC3 5.1][h265]-DUSKLiGHT.mkv"
+          }
+        ],
+        "count": 7
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:37606:s1e16",
+      "storedAt": 1764313192179,
+      "meta": {
+        "storedAt": 1764313190,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "37606",
+        "imdbId": "tt1942683",
+        "season": 1,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/125489?token=a972dfa88e2f30a790aff3028006b180&expires=1769497186&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:62:s1e3",
+      "storedAt": 1764313076595,
+      "meta": {
+        "storedAt": 1764313076,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "62",
+        "imdbId": "tt0176095",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Squid Game: The Challenge S1E3 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1702210692/s1/episode3.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:81144:s6e10",
+      "storedAt": 1764313533676,
+      "meta": {
+        "storedAt": 1764313532,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "81144",
+        "imdbId": "tt7942794",
+        "season": 6,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/462969?token=508562d46e86d2383244bd1159460fd8&expires=1769497528&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-28T06:56:16.835Z",
-    "totalOriginalEntries": 2058,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-28T07:05:50.839Z",
+    "totalOriginalEntries": 2065,
+    "newItemsInThisBatch": 7,
     "format": "compact_v1"
   }
 }
