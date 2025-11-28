@@ -73250,12 +73250,703 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:tv:114841:s1e1",
+      "storedAt": 1764294005612,
+      "meta": {
+        "storedAt": 1764294005,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "114841",
+        "imdbId": "tt13200640",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/77667?token=e07159770338eee60d1e2af7c963e246&expires=1769478001&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:128015:s4e2",
+      "storedAt": 1764293826341,
+      "meta": {
+        "storedAt": 1764293826,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "128015",
+        "imdbId": "tt13980362",
+        "season": 4,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/284049?token=cae42b90e9d103d4114c126a0e594894&expires=1769477823&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:40008:s1e4",
+      "storedAt": 1764293605722,
+      "meta": {
+        "storedAt": 1764293605,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "40008",
+        "imdbId": "tt2243973",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Hannibal S01E04 1080p BluRay DTS x264-NTb\n6.05GB",
+            "url": "https://worker-super-grass-d760.tedisex254.workers.dev/d423bf4630f04cc4b58be5282726066e1900f9693ee18f3141fdc4af0b12d75798e538b4e98962e41fdd05a23257d903e86f33d8ccd56523c6166616e6f5452a9683c2b8d552be6a72f4006f0edac6eb42ca31269a4002a6670bad0875af68fb16a216df86c41e2bd2fcc7f97ebe176f359c5fe3ea1cd3d909112b99dfaec4a1881f209c77fc8a989859c41997dc2568204fa0e177ee8b08b27b164e840d0746d4da092c82e880ba6cd4887faf86c6c2::307cdb1c933a504882fd6ba8b8eee7ce/Hannibal.S01E04.1080p.BluRay.DTS.x264-NTb.mkv",
+            "quality": "1080p | BluRay",
+            "size": "6.05GB",
+            "fileName": "Hannibal.S01E04.1080p.BluRay.DTS.x264-NTb.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:40008:s1e5",
+      "storedAt": 1764293845377,
+      "meta": {
+        "storedAt": 1764293845,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "40008",
+        "imdbId": "tt2243973",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "3b0fe180b6230eb009b29287a7cb88c0\n12.26 GB",
+            "url": "https://love.stranger-things.buzz/3b0fe180b6230eb009b29287a7cb88c0?token=1764293842",
+            "quality": "1080p",
+            "size": "12.26 GB",
+            "fileName": "3b0fe180b6230eb009b29287a7cb88c0",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "2MG2r18x\n12.26 GB",
+            "url": "https://pixeldrain.net/api/file/2MG2r18x",
+            "quality": "1080p",
+            "size": "12.26 GB",
+            "fileName": "2MG2r18x",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "f3fe84f44e437bbe142d932ba611921a\n6.64 GB",
+            "url": "https://love.stranger-things.buzz/f3fe84f44e437bbe142d932ba611921a?token=1764293842",
+            "quality": "1080p",
+            "size": "6.64 GB",
+            "fileName": "f3fe84f44e437bbe142d932ba611921a",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "LCyPFgRU\n6.64 GB",
+            "url": "https://pixeldrain.net/api/file/LCyPFgRU",
+            "quality": "1080p",
+            "size": "6.64 GB",
+            "fileName": "LCyPFgRU",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Hannibal.S01E05.1080p.BluRay.x265-KONTRAST\n990.57 MB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Hannibal.S01E05.1080p.BluRay.x265-KONTRAST.mkv?token=1764293842",
+            "quality": "1080p",
+            "size": "990.57 MB",
+            "fileName": "Hannibal.S01E05.1080p.BluRay.x265-KONTRAST",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "UYCRe2Hw\n990.57 MB",
+            "url": "https://pixeldrain.net/api/file/UYCRe2Hw",
+            "quality": "1080p",
+            "size": "990.57 MB",
+            "fileName": "UYCRe2Hw",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:40008:s1e5",
+      "storedAt": 1764293832206,
+      "meta": {
+        "storedAt": 1764293832,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "40008",
+        "imdbId": "tt2243973",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-FraMeSToR",
+            "url": "https://a.111477.xyz/tvs/Hannibal/Season 1/tvs%2FHannibal%2FSeason%25201%2FHannibal%2520%25282013%2529%2520-%2520S01E05%2520-%2520Coquilles%2520%255BBluray-1080p%2520Remux%255D%255BDTS-HD%2520MA%25205.1%255D%255BAVC%255D-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": "5.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Hannibal (2013) - S01E05 - Coquilles [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-FraMeSToR.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:40008:s1e5",
+      "storedAt": 1764293851356,
+      "meta": {
+        "storedAt": 1764293851,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "40008",
+        "imdbId": "tt2243973",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Hannibal S1E5 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1669721675/s1/episode5.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:40008:s1e6",
+      "storedAt": 1764293983322,
+      "meta": {
+        "storedAt": 1764293983,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "40008",
+        "imdbId": "tt2243973",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "674116fc11cfba490332910a08dbc255\n12.35 GB",
+            "url": "https://love.stranger-things.buzz/674116fc11cfba490332910a08dbc255?token=1764293980",
+            "quality": "1080p",
+            "size": "12.35 GB",
+            "fileName": "674116fc11cfba490332910a08dbc255",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "FrBpfbmt\n12.35 GB",
+            "url": "https://pixeldrain.net/api/file/FrBpfbmt",
+            "quality": "1080p",
+            "size": "12.35 GB",
+            "fileName": "FrBpfbmt",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "5b7df670b360e8e0dca5d299f89d971e\n7.72 GB",
+            "url": "https://true.boblover.click/5b7df670b360e8e0dca5d299f89d971e?token=1764293980",
+            "quality": "1080p",
+            "size": "7.72 GB",
+            "fileName": "5b7df670b360e8e0dca5d299f89d971e",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "pJMDfkp8\n7.72 GB",
+            "url": "https://pixeldrain.net/api/file/pJMDfkp8",
+            "quality": "1080p",
+            "size": "7.72 GB",
+            "fileName": "pJMDfkp8",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "d4362193d2601a55200a163cb1f1562a\n987.75 MB",
+            "url": "https://true.boblover.click/d4362193d2601a55200a163cb1f1562a?token=1764293981",
+            "quality": "1080p",
+            "size": "987.75 MB",
+            "fileName": "d4362193d2601a55200a163cb1f1562a",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "zeQVUz93\n987.75 MB",
+            "url": "https://pixeldrain.net/api/file/zeQVUz93",
+            "quality": "1080p",
+            "size": "987.75 MB",
+            "fileName": "zeQVUz93",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:40008:s1e6",
+      "storedAt": 1764293973911,
+      "meta": {
+        "storedAt": 1764293973,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "40008",
+        "imdbId": "tt2243973",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-FraMeSToR",
+            "url": "https://a.111477.xyz/tvs/Hannibal/Season 1/tvs%2FHannibal%2FSeason%25201%2FHannibal%2520%25282013%2529%2520-%2520S01E06%2520-%2520Entr%25C3%25A9e%2520%255BBluray-1080p%2520Remux%255D%255BDTS-HD%2520MA%25205.1%255D%255BAVC%255D-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": "5.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Hannibal (2013) - S01E06 - Entrée [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DTS 5 1][x264]-rovers",
+            "url": "https://a.111477.xyz/tvs/Hannibal/Season 1/tvs%2FHannibal%2FSeason%25201%2FHannibal%2520%25282013%2529%2520-%2520S01E06%2520-%2520Entr%25C3%25A9e%2520%255BBluray-1080p%255D%255BDTS%25205.1%255D%255Bx264%255D-rovers.mkv",
+            "quality": "1080p",
+            "size": "5.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Hannibal (2013) - S01E06 - Entrée [Bluray-1080p][DTS 5.1][x264]-rovers.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:40008:s1e6",
+      "storedAt": 1764293973806,
+      "meta": {
+        "storedAt": 1764293973,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "40008",
+        "imdbId": "tt2243973",
+        "season": 1,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Hannibal S1E6 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1669721675/s1/episode6.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:40008:s1e7",
+      "storedAt": 1764294080276,
+      "meta": {
+        "storedAt": 1764294079,
+        "urlCount": 7,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "40008",
+        "imdbId": "tt2243973",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "b39fa40c5ad3a4666c7cf3cbd3b637b3\n12.35 GB",
+            "url": "https://love.stranger-things.buzz/b39fa40c5ad3a4666c7cf3cbd3b637b3?token=1764294077",
+            "quality": "1080p",
+            "size": "12.35 GB",
+            "fileName": "b39fa40c5ad3a4666c7cf3cbd3b637b3",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "yhhP5S7T\n12.35 GB",
+            "url": "https://pixeldrain.net/api/file/yhhP5S7T",
+            "quality": "1080p",
+            "size": "12.35 GB",
+            "fileName": "yhhP5S7T",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "b39fa40c5ad3a4666c7cf3cbd3b637b3\n12.35 GB",
+            "url": "https://love.stranger-things.buzz/b39fa40c5ad3a4666c7cf3cbd3b637b3?token=1764294078",
+            "quality": "1080p",
+            "size": "12.35 GB",
+            "fileName": "b39fa40c5ad3a4666c7cf3cbd3b637b3",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "ac069535fc7cb89e3a12dbb7752ef9dc\n4.48 GB",
+            "url": "https://love.stranger-things.buzz/ac069535fc7cb89e3a12dbb7752ef9dc?token=1764294077",
+            "quality": "1080p",
+            "size": "4.48 GB",
+            "fileName": "ac069535fc7cb89e3a12dbb7752ef9dc",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "tmstNaVB\n4.48 GB",
+            "url": "https://pixeldrain.net/api/file/tmstNaVB",
+            "quality": "1080p",
+            "size": "4.48 GB",
+            "fileName": "tmstNaVB",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "e04e9b1c94eeeb69f33bf40140af6beb\n995.94 MB",
+            "url": "https://love.stranger-things.buzz/e04e9b1c94eeeb69f33bf40140af6beb?token=1764294078",
+            "quality": "1080p",
+            "size": "995.94 MB",
+            "fileName": "e04e9b1c94eeeb69f33bf40140af6beb",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "iFvNaonz\n995.94 MB",
+            "url": "https://pixeldrain.net/api/file/iFvNaonz",
+            "quality": "1080p",
+            "size": "995.94 MB",
+            "fileName": "iFvNaonz",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 7
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:40008:s1e7",
+      "storedAt": 1764294070375,
+      "meta": {
+        "storedAt": 1764294070,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "40008",
+        "imdbId": "tt2243973",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies Remux][DTS-HD MA 5 1][AVC]-FraMeSToR",
+            "url": "https://a.111477.xyz/tvs/Hannibal/Season 1/tvs%2FHannibal%2FSeason%25201%2FHannibal%2520%25282013%2529%2520-%2520S01E07%2520-%2520Sorbet%2520%255BBluray-1080p%2520Remux%255D%255BDTS-HD%2520MA%25205.1%255D%255BAVC%255D-FraMeSToR.mkv",
+            "quality": "1080p | REMUX",
+            "size": "5.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Hannibal (2013) - S01E07 - Sorbet [Bluray-1080p Remux][DTS-HD MA 5.1][AVC]-FraMeSToR.mkv"
+          },
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][DTS 5 1][x264]-rovers",
+            "url": "https://a.111477.xyz/tvs/Hannibal/Season 1/tvs%2FHannibal%2FSeason%25201%2FHannibal%2520%25282013%2529%2520-%2520S01E07%2520-%2520Sorbet%2520%255BBluray-1080p%255D%255BDTS%25205.1%255D%255Bx264%255D-rovers.mkv",
+            "quality": "1080p",
+            "size": "5.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Hannibal (2013) - S01E07 - Sorbet [Bluray-1080p][DTS 5.1][x264]-rovers.mkv"
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:streamflix:tv:40008:s1e7",
+      "storedAt": 1764294068401,
+      "meta": {
+        "storedAt": 1764294068,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "streamflix",
+        "type": "tv",
+        "tmdbId": "40008",
+        "imdbId": "tt2243973",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "StreamFlix",
+            "title": "Hannibal S1E7 (Fallback)",
+            "url": "https://s3.ap-southeast-1.wasabisys.com/streamflix/tv/chilflix-1669721675/s1/episode7.mkv",
+            "quality": "720p",
+            "size": "Unknown",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://api.streamflix.app",
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:uhdmovies:tv:40008:s1e7",
+      "storedAt": 1764294084551,
+      "meta": {
+        "storedAt": 1764294084,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "40008",
+        "imdbId": "tt2243973",
+        "season": 1,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "Hannibal S01E07 BluRay 1080p AVC DTS-HD MA 5 1 REMUX-FraMeSToR\n12.36GB",
+            "url": "https://worker-fancy-bar-b7be.konoya5752.workers.dev/95fc5ac324f6e536adbc406e1151acc5a74dd8e1f159bb6eeb83b332e02c4745814c2ea89fbfd1bb8acf21f22d7d74b24134c3a5eac08404a74c720114abc5471079bb9f4c1a884f740125bb048809520d33c24fff6932076b4de48fcabe3f4e473b897c66beff46ff4882dbee0349662595fa1895343742bd5266f52d51c96cd6006335ef724ef207ae6c00de1f780433239134b552529bae3048f8e2a255c22126e91b62236ab8f59ce5784b9de15e::55531fa9a6da9069141a75ec6f232961/Hannibal.S01E07.BluRay.1080p.AVC.DTS-HD.MA.5.1.REMUX-FraMeSToR.mkv",
+            "quality": "1080p | BluRay",
+            "size": "12.36GB",
+            "fileName": "Hannibal.S01E07.BluRay.1080p.AVC.DTS-HD.MA.5.1.REMUX-FraMeSToR.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:44217:s3e10",
+      "storedAt": 1764293863186,
+      "meta": {
+        "storedAt": 1764293863,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "44217",
+        "imdbId": "tt2306299",
+        "season": 3,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/309374?token=88da4ad997d7a4eb891d85f948639a67&expires=1769477860&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:61888:s4e17",
+      "storedAt": 1764293764411,
+      "meta": {
+        "storedAt": 1764293764,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "61888",
+        "imdbId": "tt3230454",
+        "season": 4,
+        "episode": 17,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/197380?token=e44e36a7fca0d9f5f3dd96155de775fa&expires=1769477761&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-28T01:32:32.661Z",
-    "totalOriginalEntries": 1870,
-    "newItemsInThisBatch": 2,
+    "exportedAt": "2025-11-28T01:41:35.301Z",
+    "totalOriginalEntries": 1885,
+    "newItemsInThisBatch": 15,
     "format": "compact_v1"
   }
 }
