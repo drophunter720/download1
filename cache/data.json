@@ -81866,12 +81866,149 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:movie:143760",
+      "storedAt": 1764316119146,
+      "meta": {
+        "storedAt": 1764316119,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "143760",
+        "imdbId": "tt0222396",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "The Professionals 1966 1080p BluRay x265 10bit HEVC [Org NF Hindi DDP 5.1 ~ 640Kbps + English DD 5.1] ESub d3g-4kHDHub.com\n2.8 GB",
+            "url": "https://pub-8665238777bb4575af3be7b624141905.r2.dev/The%20Professionals%201966%201080p%20BluRay%20x265%2010bit%20HEVC%20[Org%20NF%20Hindi%20DDP%205.1%20~%20640Kbps%20+%20English%20DD%205.1]%20ESub%20d3g-4kHDHub.com.mkv?token=1764316118",
+            "quality": "1080p",
+            "size": "2.8 GB",
+            "fileName": "The Professionals 1966 1080p BluRay x265 10bit HEVC [Org NF Hindi DDP 5.1 ~ 640Kbps + English DD 5.1] ESub d3g-4kHDHub.com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "1YUc1s8k\n2.8 GB",
+            "url": "https://pixeldrain.net/api/file/1YUc1s8k",
+            "quality": "1080p",
+            "size": "2.8 GB",
+            "fileName": "1YUc1s8k",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:movie:1488234",
+      "storedAt": 1764316204886,
+      "meta": {
+        "storedAt": 1764316204,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "1488234",
+        "imdbId": "tt37321850",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/529662?token=571fdfafcc1f9b77c423c28c25e96f3b&expires=1769500202&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:37606:s1e18",
+      "storedAt": 1764315824285,
+      "meta": {
+        "storedAt": 1764315824,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "37606",
+        "imdbId": "tt1942683",
+        "season": 1,
+        "episode": 18,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/125491?token=78217d4d874831877dbaea0c6d368e50&expires=1769499821&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:80741:s1e1",
+      "storedAt": 1764316174088,
+      "meta": {
+        "storedAt": 1764316174,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "80741",
+        "imdbId": "tt8487786",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/499021?token=e83625003f821a67460918b2305e2cde&expires=1769500171&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-28T07:42:49.830Z",
-    "totalOriginalEntries": 2082,
-    "newItemsInThisBatch": 3,
+    "exportedAt": "2025-11-28T07:51:52.496Z",
+    "totalOriginalEntries": 2086,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
