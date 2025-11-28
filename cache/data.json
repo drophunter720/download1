@@ -97439,12 +97439,417 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:814340",
+      "storedAt": 1764352263848,
+      "meta": {
+        "storedAt": 1764352263,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "814340",
+        "imdbId": "tt14376344",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/415260?token=3338788fcb4d6294072cb1f9e3fe0bd1&expires=1769536260&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:109866:s1e16",
+      "storedAt": 1764352446349,
+      "meta": {
+        "storedAt": 1764352445,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "109866",
+        "imdbId": "tt13085996",
+        "season": 1,
+        "episode": 16,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/451321?token=4ca1204b0c9116ab16ee6c1c0a7e2c02&expires=1769536442&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:126027:s5e5",
+      "storedAt": 1764352151839,
+      "meta": {
+        "storedAt": 1764352151,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "126027",
+        "imdbId": "tt11379026",
+        "season": 5,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/507993?token=2f8c177937b3dc25bec567b142d745c4&expires=1769536144&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:138971:s1e1",
+      "storedAt": 1764352328433,
+      "meta": {
+        "storedAt": 1764352328,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "138971",
+        "imdbId": "tt14586544",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "574d9ef8f3c8543ae9403c511d32fd1b\n3.17 GB",
+            "url": "https://true.boblover.click/574d9ef8f3c8543ae9403c511d32fd1b?token=1764352325",
+            "quality": "1080p",
+            "size": "3.17 GB",
+            "fileName": "574d9ef8f3c8543ae9403c511d32fd1b",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "vy6yNa5c\n3.17 GB",
+            "url": "https://pixeldrain.net/api/file/vy6yNa5c",
+            "quality": "1080p",
+            "size": "3.17 GB",
+            "fileName": "vy6yNa5c",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:138971:s1e2",
+      "storedAt": 1764352341163,
+      "meta": {
+        "storedAt": 1764352341,
+        "urlCount": 2,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "138971",
+        "imdbId": "tt14586544",
+        "season": 1,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "e1b01a7ab8cefa755de0e6a94c4a5ffd\n3.56 GB",
+            "url": "https://true.boblover.click/e1b01a7ab8cefa755de0e6a94c4a5ffd?token=1764352337",
+            "quality": "1080p",
+            "size": "3.56 GB",
+            "fileName": "e1b01a7ab8cefa755de0e6a94c4a5ffd",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "2CCEoHNY\n3.56 GB",
+            "url": "https://pixeldrain.net/api/file/2CCEoHNY",
+            "quality": "1080p",
+            "size": "3.56 GB",
+            "fileName": "2CCEoHNY",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 2
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:229160:s1e1",
+      "storedAt": 1764352301372,
+      "meta": {
+        "storedAt": 1764352300,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "229160",
+        "imdbId": null,
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/266492?token=9d11a8c7f6a0d39c8260edfcebc29541&expires=1769536299&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:tv:301653:s1e1",
+      "storedAt": 1764352159486,
+      "meta": {
+        "storedAt": 1764352159,
+        "urlCount": 6,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "301653",
+        "imdbId": null,
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Billionaires.Bunker.S01E01.Return.from.Hell.1080p.NF.WEB-DL.Multi.DDP5.1.H.264-4kHdHub.Com\n3.58 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Billionaires.Bunker.S01E01.Return.from.Hell.1080p.NF.WEB-DL.Multi.DDP5.1.H.264-4kHdHub.Com.mkv?token=1764352155",
+            "quality": "1080p",
+            "size": "3.58 GB",
+            "fileName": "Billionaires.Bunker.S01E01.Return.from.Hell.1080p.NF.WEB-DL.Multi.DDP5.1.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "qtk9ogW6\n3.58 GB",
+            "url": "https://pixeldrain.net/api/file/qtk9ogW6",
+            "quality": "1080p",
+            "size": "3.58 GB",
+            "fileName": "qtk9ogW6",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Billionaires Bunker S01E01 2160p NF 10bit WEB-DL SDR HEVC [Hin-Tam-Tel DDP 5.1 + English-Spanish DDPA 5.1] H.265 HHWEB-Ionicboy\n5.94 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Billionaires%20Bunker%20S01E01%202160p%20NF%2010bit%20WEB-DL%20SDR%20HEVC%20[Hin-Tam-Tel%20DDP%205.1%20+%20English-Spanish%20DDPA%205.1]%20H.265%20HHWEB-Ionicboy.mkv?token=1764352155",
+            "quality": "2160p",
+            "size": "5.94 GB",
+            "fileName": "Billionaires Bunker S01E01 2160p NF 10bit WEB-DL SDR HEVC [Hin-Tam-Tel DDP 5.1 + English-Spanish DDPA 5.1] H.265 HHWEB-Ionicboy",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "GLUcDDJK\n5.94 GB",
+            "url": "https://pixeldrain.net/api/file/GLUcDDJK",
+            "quality": "2160p",
+            "size": "5.94 GB",
+            "fileName": "GLUcDDJK",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 2160p",
+            "title": "Billionaires Bunker S01E01 2160p NF 10bit WEB-DL DoVi HDR HEVC [Hin-Tam-Tel DDP 5.1 + English-Spanish DDPA 5.1] H.265 NOGRP-Ionicboy\n8.86 GB",
+            "url": "https://pub-58c37aacc5ca4f78ba86b47195edec29.r2.dev/Billionaires%20Bunker%20S01E01%202160p%20NF%2010bit%20WEB-DL%20DoVi%20HDR%20HEVC%20[Hin-Tam-Tel%20DDP%205.1%20+%20English-Spanish%20DDPA%205.1]%20H.265%20NOGRP-Ionicboy.mkv?token=1764352156",
+            "quality": "2160p",
+            "size": "8.86 GB",
+            "fileName": "Billionaires Bunker S01E01 2160p NF 10bit WEB-DL DoVi HDR HEVC [Hin-Tam-Tel DDP 5.1 + English-Spanish DDPA 5.1] H.265 NOGRP-Ionicboy",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 2160p",
+            "title": "FHfSHov8\n8.86 GB",
+            "url": "https://pixeldrain.net/api/file/FHfSHov8",
+            "quality": "2160p",
+            "size": "8.86 GB",
+            "fileName": "FHfSHov8",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 6
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:615:s4e7",
+      "storedAt": 1764352331926,
+      "meta": {
+        "storedAt": 1764352331,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "615",
+        "imdbId": "tt0149460",
+        "season": 4,
+        "episode": 7,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/192572?token=4b6c99469d4853c4dd96a2e359be5fcd&expires=1769536325&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:92983:s1e5",
+      "storedAt": 1764352441881,
+      "meta": {
+        "storedAt": 1764352441,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "92983",
+        "imdbId": "tt8523042",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/250474?token=b704506cebfdb516586a471af81e3fdd&expires=1769536437&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:95212:s1e10",
+      "storedAt": 1764352444107,
+      "meta": {
+        "storedAt": 1764352442,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "95212",
+        "imdbId": "tt11227980",
+        "season": 1,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/466257?token=6e41df14e25c29708a134d1ee2e6ceec&expires=1769536441&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-28T17:49:43.493Z",
-    "totalOriginalEntries": 2510,
-    "newItemsInThisBatch": 6,
+    "exportedAt": "2025-11-28T17:57:25.577Z",
+    "totalOriginalEntries": 2520,
+    "newItemsInThisBatch": 10,
     "format": "compact_v1"
   }
 }
