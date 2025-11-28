@@ -99325,12 +99325,392 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:vixsrc:movie:783305",
+      "storedAt": 1764355624722,
+      "meta": {
+        "storedAt": 1764355624,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "movie",
+        "tmdbId": "783305",
+        "imdbId": "tt13246824",
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/442614?token=1fb8fb1ecf5ca30bac0d2144a47d9d8a&expires=1769539619&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:4khdhub:movie:9622",
+      "storedAt": 1764355669411,
+      "meta": {
+        "storedAt": 1764355669,
+        "urlCount": 9,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "movie",
+        "tmdbId": "9622",
+        "imdbId": "tt0118708",
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "c2ca7498229efee57ace5b4131eb376e\n19.21 GB",
+            "url": "https://love.stranger-things.buzz/c2ca7498229efee57ace5b4131eb376e?token=1764355661",
+            "quality": "1080p",
+            "size": "19.21 GB",
+            "fileName": "c2ca7498229efee57ace5b4131eb376e",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "54270d11aa2b0691171ab7ec092076db\n14.04 GB",
+            "url": "https://love.stranger-things.buzz/54270d11aa2b0691171ab7ec092076db?token=1764355661",
+            "quality": "1080p",
+            "size": "14.04 GB",
+            "fileName": "54270d11aa2b0691171ab7ec092076db",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "LgEJGoh7\n14.04 GB",
+            "url": "https://pixeldrain.net/api/file/LgEJGoh7",
+            "quality": "1080p",
+            "size": "14.04 GB",
+            "fileName": "LgEJGoh7",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "ba861366988aeff0afb6cbb39c5a48e4\n9.51 GB",
+            "url": "https://love.stranger-things.buzz/ba861366988aeff0afb6cbb39c5a48e4?token=1764355662",
+            "quality": "1080p",
+            "size": "9.51 GB",
+            "fileName": "ba861366988aeff0afb6cbb39c5a48e4",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "85dPp2aU\n9.51 GB",
+            "url": "https://pixeldrain.net/api/file/85dPp2aU",
+            "quality": "1080p",
+            "size": "9.51 GB",
+            "fileName": "85dPp2aU",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "db9de1a9607f799b117115d6c60b984e\n5.54 GB",
+            "url": "https://love.stranger-things.buzz/db9de1a9607f799b117115d6c60b984e?token=1764355663",
+            "quality": "1080p",
+            "size": "5.54 GB",
+            "fileName": "db9de1a9607f799b117115d6c60b984e",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "RnntGARF\n5.54 GB",
+            "url": "https://pixeldrain.net/api/file/RnntGARF",
+            "quality": "1080p",
+            "size": "5.54 GB",
+            "fileName": "RnntGARF",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "c26a28cd6f38739a47ae20e79658e390\n4.46 GB",
+            "url": "https://love.stranger-things.buzz/c26a28cd6f38739a47ae20e79658e390?token=1764355663",
+            "quality": "1080p",
+            "size": "4.46 GB",
+            "fileName": "c26a28cd6f38739a47ae20e79658e390",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "S8PKmSs6\n4.46 GB",
+            "url": "https://pixeldrain.net/api/file/S8PKmSs6",
+            "quality": "1080p",
+            "size": "4.46 GB",
+            "fileName": "S8PKmSs6",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 9
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:109866:s1e18",
+      "storedAt": 1764355517640,
+      "meta": {
+        "storedAt": 1764355517,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "109866",
+        "imdbId": "tt13085996",
+        "season": 1,
+        "episode": 18,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/451323?token=26db7a9d0dd65713051a0fa99776d64f&expires=1769539514&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:132117:s1e5",
+      "storedAt": 1764355646224,
+      "meta": {
+        "storedAt": 1764355646,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "132117",
+        "imdbId": "tt15477488",
+        "season": 1,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/150903?token=94edb88f1ee00af374d8ac8fe10b526e&expires=1769539643&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:137043:s1e4",
+      "storedAt": 1764355590756,
+      "meta": {
+        "storedAt": 1764355590,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "137043",
+        "imdbId": "tt22002370",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/397844?token=5f2c56dfa1ca68d31837031ae383e057&expires=1769539585&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:231280:s1e13",
+      "storedAt": 1764355925407,
+      "meta": {
+        "storedAt": 1764355925,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "231280",
+        "imdbId": "tt32361930",
+        "season": 1,
+        "episode": 13,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/328055?token=4e5ca4678bdda19b844c847dcf7ece5c&expires=1769539920&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:dahmermovies:tv:250670:s2e6",
+      "storedAt": 1764355875724,
+      "meta": {
+        "storedAt": 1764355875,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "dahmermovies",
+        "type": "tv",
+        "tmdbId": "250670",
+        "imdbId": "tt27792190",
+        "season": 2,
+        "episode": 6,
+        "streams": [
+          {
+            "name": "DahmerMovies",
+            "title": "DahmerMovies ][EAC3 5 1][h264]-EDITH",
+            "url": "https://a.111477.xyz/tvs/Maxton%20Hall%20-%20The%20World%20Between%20Us/Season 2/tvs%2FMaxton%2520Hall%2520-%2520The%2520World%2520Between%2520Us%2FSeason%25202%2FMaxton%2520Hall%2520-%2520The%2520World%2520Between%2520Us%2520%25282024%2529%2520-%2520S02E06%2520-%2520Reaching%2520for%2520the%2520Stars%2520%255BWEBDL-1080p%255D%255BEAC3%25205.1%255D%255Bh264%255D-EDITH.mkv",
+            "quality": "1080p",
+            "size": "20.00 Bytes",
+            "headers": {},
+            "provider": "dahmermovies",
+            "filename": "Maxton Hall - The World Between Us (2024) - S02E06 - Reaching for the Stars [WEBDL-1080p][EAC3 5.1][h264]-EDITH.mkv"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:580:s1e3",
+      "storedAt": 1764355699994,
+      "meta": {
+        "storedAt": 1764355699,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "580",
+        "imdbId": "tt0106145",
+        "season": 1,
+        "episode": 3,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/256592?token=9e723dbbc716ce458bc75498cb3447a1&expires=1769539694&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:79788:s1e4",
+      "storedAt": 1764355499923,
+      "meta": {
+        "storedAt": 1764355499,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "79788",
+        "imdbId": "tt7049682",
+        "season": 1,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/206961?token=7ccfe48656c9e53651110dbd1e220146&expires=1769539495&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-28T18:42:03.455Z",
-    "totalOriginalEntries": 2558,
-    "newItemsInThisBatch": 5,
+    "exportedAt": "2025-11-28T18:53:13.681Z",
+    "totalOriginalEntries": 2567,
+    "newItemsInThisBatch": 9,
     "format": "compact_v1"
   }
 }
