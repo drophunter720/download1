@@ -96742,12 +96742,145 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:4khdhub:tv:103386:s1e1",
+      "storedAt": 1764350637661,
+      "meta": {
+        "storedAt": 1764350637,
+        "urlCount": 4,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "4khdhub",
+        "type": "tv",
+        "tmdbId": "103386",
+        "imdbId": "tt6069250",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Castlevania.S01E01.Witchbottle.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-4kHdHub.Com\n1.08 GB",
+            "url": "https://love.stranger-things.buzz/Castlevania.S01E01.Witchbottle.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-4kHdHub.Com.mkv?token=1764350633",
+            "quality": "1080p",
+            "size": "1.08 GB",
+            "fileName": "Castlevania.S01E01.Witchbottle.1080p.NF.WEB-DL.DUAL.DDP5.1.H.264-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "in2RcgGo\n1.08 GB",
+            "url": "https://pixeldrain.net/api/file/in2RcgGo",
+            "quality": "1080p",
+            "size": "1.08 GB",
+            "fileName": "in2RcgGo",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - FSL Server - 1080p",
+            "title": "Castlevania.S01E01.Witchbottle.1080p.NF.WEB-DL.DUAL.AAC5.1.H.265-4kHdHub.Com\n804.78 MB",
+            "url": "https://love.stranger-things.buzz/Castlevania.S01E01.Witchbottle.1080p.NF.WEB-DL.DUAL.AAC5.1.H.265-4kHdHub.Com.mkv?token=1764350633",
+            "quality": "1080p",
+            "size": "804.78 MB",
+            "fileName": "Castlevania.S01E01.Witchbottle.1080p.NF.WEB-DL.DUAL.AAC5.1.H.265-4kHdHub.Com",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          },
+          {
+            "name": "4KHDHub - Pixeldrain - 1080p",
+            "title": "3guS9GHF\n804.78 MB",
+            "url": "https://pixeldrain.net/api/file/3guS9GHF",
+            "quality": "1080p",
+            "size": "804.78 MB",
+            "fileName": "3guS9GHF",
+            "type": "direct",
+            "behaviorHints": {
+              "bingeGroup": "4khdhub-streams"
+            }
+          }
+        ],
+        "count": 4
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:126027:s5e4",
+      "storedAt": 1764350710716,
+      "meta": {
+        "storedAt": 1764350710,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "126027",
+        "imdbId": "tt11379026",
+        "season": 5,
+        "episode": 4,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/507989?token=50ee2dc0abe992f2df62187272437bba&expires=1769534707&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2710:s10e2",
+      "storedAt": 1764350908125,
+      "meta": {
+        "storedAt": 1764350908,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2710",
+        "imdbId": "tt0472954",
+        "season": 10,
+        "episode": 2,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/251695?token=a693635e73358b6562dc7734f07527e5&expires=1769534906&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-28T17:22:45.903Z",
-    "totalOriginalEntries": 2497,
-    "newItemsInThisBatch": 4,
+    "exportedAt": "2025-11-28T17:30:57.632Z",
+    "totalOriginalEntries": 2500,
+    "newItemsInThisBatch": 3,
     "format": "compact_v1"
   }
 }
