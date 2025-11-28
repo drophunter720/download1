@@ -81326,12 +81326,138 @@
         ],
         "count": 1
       }
+    },
+    {
+      "key": "prov:uhdmovies:tv:18165:s3e22",
+      "storedAt": 1764313935879,
+      "meta": {
+        "storedAt": 1764313935,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "uhdmovies",
+        "type": "tv",
+        "tmdbId": "18165",
+        "imdbId": "tt1405406",
+        "season": 3,
+        "episode": 22,
+        "streams": [
+          {
+            "name": "UHD Movies",
+            "title": "The Vampire Diaries S03E22 1080p BluRay x264-SHORTBREHD\n3.28GB",
+            "url": "https://worker-silent-hat-f8ed.mihogoj343.workers.dev/de927fee4590c7ae61caeaa09ff70986c932cd05a5bc968cdc5f3ac66bb4ca3e1793d0e7f0e73065514f9fb0d359818e835802f74c9bf622a69e269b761e52cf7994a4ba5bbdda563a044af0c0cf972ed1d484de5418f64058b685a78b2e2ea5f7e24bffa33b3f3f6cfdf266ec8182f3805b3789d4a3da7dd6483bedc7300f393d4a5b2fba65cb2104760a7b42be077d325cb9da6d8dd6dafa8fdc2e2aa821f4eed56a6947120ec70b76fc2ec9981b89::096a114a88a435dbb872c4d5acc3f719/The.Vampire.Diaries.S03E22.1080p.BluRay.x264-SHORTBREHD.mkv",
+            "quality": "1080p",
+            "size": "3.28GB",
+            "fileName": "The.Vampire.Diaries.S03E22.1080p.BluRay.x264-SHORTBREHD.mkv",
+            "type": "direct"
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:2085:s1e1",
+      "storedAt": 1764313941773,
+      "meta": {
+        "storedAt": 1764313941,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "2085",
+        "imdbId": "tt0220880",
+        "season": 1,
+        "episode": 1,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/336350?token=375c875b01f2496b7700a2de05f0eb99&expires=1769497938&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:456:s13e10",
+      "storedAt": 1764313747665,
+      "meta": {
+        "storedAt": 1764313747,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "456",
+        "imdbId": "tt0096697",
+        "season": 13,
+        "episode": 10,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/203293?token=de5e02de2f392bf7bf30db16a6777cfb&expires=1769497744&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
+    },
+    {
+      "key": "prov:vixsrc:tv:84105:s2e5",
+      "storedAt": 1764313604655,
+      "meta": {
+        "storedAt": 1764313604,
+        "urlCount": 1,
+        "ttlSeconds": 0
+      },
+      "data": {
+        "success": true,
+        "provider": "vixsrc",
+        "type": "tv",
+        "tmdbId": "84105",
+        "imdbId": "tt6473300",
+        "season": 2,
+        "episode": 5,
+        "streams": [
+          {
+            "name": "Vixsrc",
+            "title": "Auto Quality Stream",
+            "url": "https://vixsrc.to/playlist/493417?token=7148f129c220398ffdf557df4de426ca&expires=1769497598&h=1&lang=en",
+            "quality": "Auto",
+            "type": "direct",
+            "headers": {
+              "Referer": "https://vixsrc.to",
+              "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
+            }
+          }
+        ],
+        "count": 1
+      }
     }
   ],
   "exportInfo": {
-    "exportedAt": "2025-11-28T07:05:50.839Z",
-    "totalOriginalEntries": 2065,
-    "newItemsInThisBatch": 7,
+    "exportedAt": "2025-11-28T07:14:05.472Z",
+    "totalOriginalEntries": 2069,
+    "newItemsInThisBatch": 4,
     "format": "compact_v1"
   }
 }
